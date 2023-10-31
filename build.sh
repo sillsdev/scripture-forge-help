@@ -2,11 +2,6 @@
 
 set -euxo pipefail
 
-# Copy branding assets
-mkdir -p static/img
-cp ../src/SIL.XForge.Scripture/ClientApp/src/favicon.ico static/img/favicon.ico
-cp ../src/SIL.XForge.Scripture/ClientApp/src/assets/icons/sf.svg static/img/sf.svg
-
 # Download the help files from Notion
 npm install
 npx docu-notion -n $SF_HELP_NOTION_TOKEN -r $SF_HELP_NOTION_ROOT_PAGE_ID
