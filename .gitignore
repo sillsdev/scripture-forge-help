@@ -1,1 +1,4 @@
 node_modules
+.docusaurus
+s3
+build
