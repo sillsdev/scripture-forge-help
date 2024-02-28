@@ -1,0 +1,4 @@
+(function() {
+var toc =  [{"type":"item","name":"Traducir el resumen de tareas","url":"Tasks/Translate_tasks/Translate_tasks_overview.htm"},{"type":"item","name":"Configurar sugerencias de traducción","url":"Tasks/Translate_tasks/Configure_translation_suggestions.htm"},{"type":"item","name":"Habilitar o deshabilitar las sugerencias","url":"Tasks/Translate_tasks/Enable_or_disable_suggestions.htm"},{"type":"item","name":"Intercambio de origen y destino","url":"Tasks/Translate_tasks/Swap_source_and_target.htm"},{"type":"item","name":"Traducir","url":"Tasks/Translate_tasks/Translate.htm"}];
+window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });
+})();
