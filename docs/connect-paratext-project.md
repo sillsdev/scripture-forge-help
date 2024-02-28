@@ -29,54 +29,54 @@ To be able to open a project in Scripture Forge, a user just needs to [login to 
 1. If you have **never connected** a project to Scripture Forge:
 	1. Click the Connect project button:
 
-		![](./1018206524.png)
+		![](./268421786.png)
 
-1. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
+2. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
 	1. Click on the Scripture Forge navigation pane:
 
-		![](./2047383099.png)
+		![](./1134901564.png)
 
 	2. The navigation page may also look like this:
 
-		![](./1907136141.png)
+		![](./1119102368.png)
 
 	3. Click Connect project:
 
-		![](./1835033831.png)
+		![](./1570973360.png)
 
-1. Click in the Paratext Project drop-down:
+3. Click in the Paratext Project drop-down:
 
-	![](./1713384110.png)
+	![](./1530454029.png)
 
-1. Choose the project that you want to connect:
+4. Choose the project that you want to connect:
 
-	![](./1850533714.png)
+	![](./1567792993.png)
 
-1. Optional: If you want to use Translation suggestions or view another project/resource beside your project:
+5. Optional: If you want to use Translation suggestions or view another project/resource beside your project:
 	1. Click the Source text area:
 
-		![](./2025046252.png)
+		![](./231017319.png)
 
 	2. Select the source project:
 
-		![](./635850712.png)
+		![](./1628956354.png)
 
-1. Optional: Enable translation suggestions (#1 below)
+6. Optional: Enable translation suggestions (#1 below)
 
-	![](./1721673901.png)
+	![](./440460267.png)
 
-1. Optional: Enable Community Checking (#2 above)
-1. Click Connect:
+7. Optional: Enable Community Checking (#2 above)
+8. Click Connect:
 
-	![](./248008106.png)
+	![](./210173750.png)
 
-1. Wait for Scripture Forge to connect the Paratext project:
+9. Wait for Scripture Forge to connect the Paratext project:
 
-	![](./1438398026.png)
+	![](./1421415415.png)
 
-1. Scripture Forge may take a while to connect your project, the green progress bar will stop moving when your project is fully connected:
+10. Scripture Forge may take a while to connect your project, the green progress bar will stop moving when your project is fully connected:
 
-	![](./881669327.png)
+	![](./672841105.png)
 
 
 Note: You may be able to work in Scripture Forge before it is fully connected.

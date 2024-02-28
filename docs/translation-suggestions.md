@@ -41,65 +41,65 @@ First you need to **select your project** from the navigation page, if you haven
 
 1. Click on the Scripture Forge navigation pane:
 
-	![](./896560220.png)
+	![](./1423231981.png)
 
-1. Select your project:
+2. Select your project:
 
-	![](./1086270712.png)
+	![](./1186041765.png)
 
 
 **OR**
 
 1. Click on the Scripture Forge menu icon:
 
-	![](./1797911749.png)
+	![](./3354254.png)
 
-1. Click on the project drop-down:
+2. Click on the project drop-down:
 
-	![](./639248358.png)
+	![](./856251925.png)
 
-1. Click on your project:
+3. Click on your project:
 
-	![](./484400220.png)
+	![](./2063843017.png)
 
 
 ### Setup the Translation Suggestions Window {#8798a078b0464f5190de5d6dd7e4d132}
 
 1. In the navigation pane, click the Translate section:
 
-	![](./551683194.png)
+	![](./857083822.png)
 
-1. Click the book that you want to work on:
+2. Click the book that you want to work on:
 
-	![](./1210385196.png)
+	![](./302107401.png)
 
-1. The source text will display in the left-hand section, and the target text project will display in the right-hand section:
+3. The source text will display in the left-hand section, and the target text project will display in the right-hand section:
 
-	![](./1754724222.png)
+	![](./975823187.png)
 
 	1. **Note:** The name of the project/resource you are using is in the upper-left corner of each window:
 
-		![](./1492776890.png)
+		![](./1968772209.png)
 
-1. To switch between books:
+4. To switch between books:
 	1. Go to the navigation pane > Translate section.
 	2. Click on the book name:
 
-	![](./752993010.png)
+	![](./1196737413.png)
 
-1. To switch between chapters:
+5. To switch between chapters:
 	1. Click the right and left arrows at the top of the window:
 
-	![](./936505170.png)
+	![](./645869862.png)
 
-1. To switch source and target project sides:
+6. To switch source and target project sides:
 	1. Click the “swap source and target” button:
 
-	![](./1132662370.png)
+	![](./835896389.png)
 
 	1. This will move the target project to the left side, and the source project/resource to the right-side:
 
-	![](./1788932340.png)
+	![](./1570173027.png)
 
 
 ## What is a Segment? {#3931f83c77104d27bfa1bcd797303914}
@@ -120,13 +120,13 @@ In Scripture Forge, a segment is a section of Scripture to be translated. This c
 For example, the following passage has 6 segments (Title, Section Heading, Verse 1, etc): 
 
 
-![](./2040717794.png)
+![](./1428080140.png)
 
 
 In this next passage, there are 8 total segments (note: verse 23 has 6 segments):
 
 
-![](./895772781.png)
+![](./423179002.png)
 
 
 ## How to Use Translation Suggestions {#007fd10ab17d498ea44ffb913d92663f}
@@ -135,35 +135,35 @@ In this next passage, there are 8 total segments (note: verse 23 has 6 segments)
 Now that you understand how to navigate in Scripture Forge, it’s time to learn how to use **translation suggestions**. Remember, translation suggestions are when Scripture Forge analyzes your translation work and automatically suggests words/phrases to use in the translation process.
 
 1. In your project, go to the book and chapter that you want to translate.
-1. Click in the segment that you want to translate.
-1. Start typing your translation (right-hand side):
+2. Click in the segment that you want to translate.
+3. Start typing your translation (right-hand side):
 
-	![](./459991151.png)
+	![](./1424953068.png)
 
 	1. Note: Scripture Forge will save edits as you type.
-1. As you type, suggestions may appear in a box below where you are typing:
+4. As you type, suggestions may appear in a box below where you are typing:
 
-	![](./607243211.png)
+	![](./1961667036.png)
 
-1. Next to the suggestions are a percentage:
+5. Next to the suggestions are a percentage:
 
-	![](./1867382019.png)
+	![](./1763848216.png)
 
 	1. This indicates how confident the system is that this suggestion is correct. A higher percentage suggestion is more likely to be a higher quality suggestion.
-1. If you want to use a suggestion, click on it or press **Enter** when that suggestion is highlighted.
+6. If you want to use a suggestion, click on it or press **Enter** when that suggestion is highlighted.
 
-	![](./1432167112.png)
+	![](./808542620.png)
 
-1. This will insert that suggestion into the text:
+7. This will insert that suggestion into the text:
 
-	![](./153698692.png)
+	![](./1567144065.png)
 
-1. If you do not like a suggestion that was inserted into the text:
+8. If you do not like a suggestion that was inserted into the text:
 	1. Just delete or edit whatever words need to be changed.
 
-		![](./788279187.png)
+		![](./574669922.png)
 
-1. If none of the suggestions are good enough, you can ignore the suggestions and keep on translating.
+9. If none of the suggestions are good enough, you can ignore the suggestions and keep on translating.
 
 ### Continue Translating {#9e130c3ad9c048a4822e37e0d0ba0750}
 
@@ -183,13 +183,13 @@ To adjust the _**translation suggestion settings**_ for your user, see the [step
 
 1. When Scripture Forge shows you translation suggestions, you can use the **Up** and **Down arrow keys** to highlight the suggestion that you want.
 
-	![](./2095968269.png)
+	![](./719603901.png)
 
 	1. Then press **Enter** to use the suggestion.
-1. You can also press **CTRL + &lt;a number key&gt;** to insert that number of words for the highlighted suggestion.
+2. You can also press **CTRL + &lt;a number key&gt;** to insert that number of words for the highlighted suggestion.
 	1. For example, if “Capernaum and they say” was highlighted:
 
-		![](./907549995.png)
+		![](./1823947882.png)
 
 	2. Here is what the shortcut keys would insert:
 
@@ -213,36 +213,36 @@ You can configure the translation suggestion settings for your individual user.
 
 
 1. Select your project from the Navigation pane.
-1. Click the Translate section.
-1. Click the book you want to work on:
+2. Click the Translate section.
+3. Click the book you want to work on:
 	1. **Note:** You can actually select any book for this part, the settings are the same for all books.
-1. Click the Translation suggestions settings button:
+4. Click the Translation suggestions settings button:
 
-	![](./1377014130.png)
+	![](./1683222559.png)
 
-1. The Translation suggestions settings dialog box appears:
+5. The Translation suggestions settings dialog box appears:
 
-	![](./1228178345.png)
+	![](./1691480150.png)
 
-1. **Translation suggestions**: This only shows or hides suggestions in the **current project** for **your user**.
+6. **Translation suggestions**: This only shows or hides suggestions in the **current project** for **your user**.
 	1. Click the Translation suggestions switch to show or hide translation suggestions while you type:
 
-	![](./506299312.png)
+	![](./864457660.png)
 
-1. **Number of suggestions**: This changes the number of suggestions you will see at one time.
+7. **Number of suggestions**: This changes the number of suggestions you will see at one time.
 	1. Click the number of suggestions area:
 
-		![](./1677153349.png)
+		![](./1214030672.png)
 
 	2. Then click the maximum number of suggestions you want to see at once:
 
-		![](./910352104.png)
+		![](./1716924334.png)
 
-1. **Suggestion confidence:** The percentage value that appears above the slider shows the minimum confidence level of the suggestions that will be offered.
+8. **Suggestion confidence:** The percentage value that appears above the slider shows the minimum confidence level of the suggestions that will be offered.
 	1. Click and drag the slider control to adjust the confidence level:
 
-		![](./1335058379.png)
+		![](./64478797.png)
 
 	2. **More** _increases_ the number of suggestions by including _more_ suggestions that have a low confidence level.
 	3. **Better** _decreases_ the number of suggestions by including _better_ suggestions that have a higher confidence level.
-1. Click Close when you are done.
+9. Click Close when you are done.

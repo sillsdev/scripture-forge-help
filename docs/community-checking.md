@@ -9,22 +9,22 @@ slug: /community-checking
 This guide describes how to use [Scripture Forge](https://scriptureforge.org/) for community checking. The basic steps are as follows:
 
 1. Connect a [Paratext](https://paratext.org/) project to Scripture Forge
-1. Create or import questions for checkers to answer
-1. Invite people to check your project
-1. Receive and interact with responses to the questions
-1. Sync the project so answers show up as notes in Paratext
+2. Create or import questions for checkers to answer
+3. Invite people to check your project
+4. Receive and interact with responses to the questions
+5. Sync the project so answers show up as notes in Paratext
 
 ## Connect a Paratext project to Scripture Forge {#a49ffad707ee4ff69860080e6e805c3b}
 
 1. Go to [scriptureforge.org](https://scriptureforge.org/) and click **Log in**.
-1. On the log in page, click **Log in with Paratext**.
-1. Log in through Paratext and authorize Scripture Forge to access your Paratext account.
-1. When you’re redirected back to Scripture Forge, go to the [connect project page](https://scriptureforge.org/connect-project). If you don’t have any projects yet you’ll be sent there automatically. If you already have projects in Scripture Forge, click the project selector in the top left corner, and click **Connect project**.
-1. The connect project page shows a list of projects you have access to in Paratext. Select the project you want to connect from the list.
-1. Make sure the **Enable Community Checking** checkbox is selected. Don’t worry about the source text right now. That setting can be changed later on the project settings page.
-1. Click **Connect**. Within less than a minute you should be taken to the project in Scripture Forge.
+2. On the log in page, click **Log in with Paratext**.
+3. Log in through Paratext and authorize Scripture Forge to access your Paratext account.
+4. When you’re redirected back to Scripture Forge, go to the [connect project page](https://scriptureforge.org/connect-project). If you don’t have any projects yet you’ll be sent there automatically. If you already have projects in Scripture Forge, click the project selector in the top left corner, and click **Connect project**.
+5. The connect project page shows a list of projects you have access to in Paratext. Select the project you want to connect from the list.
+6. Make sure the **Enable Community Checking** checkbox is selected. Don’t worry about the source text right now. That setting can be changed later on the project settings page.
+7. Click **Connect**. Within less than a minute you should be taken to the project in Scripture Forge.
 
-![](./1124035760.png)
+![](./1028160355.png)
 
 
 ## Add Questions to the Project {#47b7c1e2e8a74a3489b167849470745e}
@@ -57,7 +57,7 @@ Type your question into the **Question** box. If you want to add an audio versio
 Click **Save** and your question will be added to the list of community checking questions.
 
 
-![](./501526957.png)
+![](./1916935940.png)
 
 
 ### Importing questions from a spreadsheet {#42107c9def434bf396442d0004577710}
@@ -91,9 +91,9 @@ The reference needs to have the book name abbreviated the same way Paratext abbr
 If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [scriptureforgeissues@sil.org](mailto:scriptureforgeissues@sil.org).
 
 1. Save your spreadsheet as a CSV file.
-1. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
-1. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
-1. Click on **Import from CSV file** and select the file.
+2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
+3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
+4. Click on **Import from CSV file** and select the file.
 	1. If you have some rows in your file that don’t have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
 	2. Otherwise you will be shown a list of questions.
 
@@ -103,7 +103,7 @@ If you need help getting your spreadsheet into the right format to import to Scr
 To import all of the questions in the CSV file, follow these steps:
 
 1. Click the checkbox at the top of the list. This will select all the questions.
-1. Click **Import Selected Questions**.
+2. Click **Import Selected Questions**.
 
 ### Import a subset of questions {#f8f6b299154e4caca7aa04661a820efd}
 
@@ -111,11 +111,11 @@ To import all of the questions in the CSV file, follow these steps:
 You can also filter for a subset of the questions:
 
 1. Use the **Reference from** and **Reference to** boxes to specify the verses that you want the questions to start and end at.
-1. For example, if you only want to import questions for Mark 5:
+2. For example, if you only want to import questions for Mark 5:
 	1. Put **MRK 5:1** in the **Reference from** box.
 	2. Put **MRK 5:43** in the **Reference to** box.
-1. Click the checkbox at the top of the list to select all questions. Only the questions that are shown will be selected.
-1. Click **Import Selected Questions**.
+3. Click the checkbox at the top of the list to select all questions. Only the questions that are shown will be selected.
+4. Click **Import Selected Questions**.
 
 :::note
 
@@ -135,15 +135,15 @@ You don’t have to remember that there are 43 verses in Mark 5 in order to filt
 To import questions from Transcelerator:
 
 1. Download and install Transcelerator from [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-1. From within Paratext, launch Transcelerator.
-1. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
-1. Type the translations of the English questions you want to use in the **Translation** column. For each question that’s ready, select the **Confirmed** check box for the questions.
-1. Close Transcelerator, and do a send and receive with Paratext.
-1. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
-1. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
-1. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
-1. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
-1. Click **Import Selected Questions** and your questions will be added to the project.
+2. From within Paratext, launch Transcelerator.
+3. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
+4. Type the translations of the English questions you want to use in the **Translation** column. For each question that’s ready, select the **Confirmed** check box for the questions.
+5. Close Transcelerator, and do a send and receive with Paratext.
+6. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
+7. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
+8. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
+9. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
+10. Click **Import Selected Questions** and your questions will be added to the project.
 
 ## Invite people to check your project {#678dca00aaa54fd79319ecf815049301}
 
@@ -154,7 +154,7 @@ Once you have the questions on your project, it’s time to invite community che
 In the side bar, click **Settings**, and scroll down to **Community Checking Settings**.
 
 
-![](./380927738.png)
+![](./998098765.png)
 
 
 ### User interaction settings {#84a006f1fbaa4c50a8ce8bac248c0e1d}
@@ -178,7 +178,7 @@ If you turn this setting on, there are two sharing modes to choose from. If you 
 In the side bar, click **Users**, and you will be presented with sharing options.
 
 
-![](./1896234073.png)
+![](./1688833473.png)
 
 
 If you enabled link sharing in the previous step, there will be a link that you can copy to share the project. To copy the link, click the copy icon on the right side of the link.
@@ -202,25 +202,25 @@ Community checkers need to sign up to answer questions. Some projects have found
 To monitor community checking responses, click on **Overview** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
 
 
-![](./1862472441.png)
+![](./685721.png)
 
 
 To view the answers from community checkers, click on one of the books under the **Community Checking** section in the navigation sidebar. Then click on a question to see the answers that have been given. If you want an answer to be exported to Paratext, click **Mark for export** on that answer. If you don’t want to do anything further with the answer, click **Resolve**. This does not remove the answer, but it marks it as not needing any further action. 
 
 
-![](./1097840200.png)
+![](./1417670916.png)
 
 
 If you want to find answers that have not been marked for export, or marked resolved, use the filter above the list of questions to find **Unreviewed answers**.
 
 
-![](./2130551519.png)
+![](./2739440.png)
 
 
 If you would prefer to have all answers exported to Paratext without individually marking them for export, go to the project settings and find the **Exporting Answers** section. The default option is to only export **Answers marked for export**, but this setting can be changed to **All answers** or **No answers**.
 
 
-![](./1303377650.png)
+![](./1265120461.png)
 
 
 ## Sync the project so answers show up as notes in Paratext {#1502b9d293ff4c3aacbe91834fd02bb2}
@@ -232,7 +232,7 @@ In the navigation sidebar, click **Synchronize**. On the page that opens, click 
 The note will show the original question, the name of the community checker who answered, and the answer itself, as shown below.
 
 
-![](./1325320018.png)
+![](./673009763.png)
 
 
 Notes generated from community checking answers will have a unique note tag, with an icon that is different from other notes in your Paratext project. You can change the icon by editing the note tag. For details, see [the Paratext help article on custom note tags](https://paratext.org/paratext-training/tutorials/custom-project-note-tags-tutorial/). You can also [filter notes by their note tag](https://paratext.org/2022/08/15/custom-note-tags/#Filter_for_Custom_Note_Tags), allowing you to show only community checking responses, or hide them from view altogether.

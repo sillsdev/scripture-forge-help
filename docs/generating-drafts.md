@@ -1,279 +1,388 @@
 ---
 title: Generating drafts
-sidebar_position: 3
+sidebar_position: 5
 slug: /generating-drafts
 ---
 
-## Introduction
-SIL International’s Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. As of January 1st, 2024, this tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/). 
 
-All of the drafts that are created contain errors that need to be corrected by the translation team. For some projects, the quality will be too low to be useful. However, extensive field testing has shown that a significant number of teams find the drafts to be very helpful in their work, and of sufficient quality to use as a starting point for the team to edit.
 
-Ultimately, the measure of success for the drafts is in their usefulness as a tool to assist the translation team in their work, not their ability to stand alone as a finished product.
+## Introduction {#ad165caedac347798432de75e4305252}
 
-## How it works
 
-In order to use the tool effectively, it's important to understand how it works. The drafts are created using a two-step process:
+SIL International’s Natural Language Processing team has developed a
+tool that can assist in Bible translation by creating a rough first
+draft for translators to edit and refine. As of January 1st, 2024, this
+tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture
+editing platform that is closely integrated with [Paratext](https://paratext.org/).
+
+
+All of the drafts that are created contain errors that need to be
+corrected by the translation team. For some projects, the quality will
+be too low to be useful. However, extensive field testing has shown that
+a significant number of teams find the drafts to be very helpful in
+their work, and of sufficient quality to use as a starting point for the
+team to edit.
+
+
+Ultimately, the measure of success for the drafts is in their
+usefulness as a tool to assist the translation team in their work, not
+their ability to stand alone as a finished product.
+
+
+## How it works {#bd8a69c7ed904125897b4ee26dcae489}
+
+
+In order to use the tool effectively, it’s important to understand
+how it works. The drafts are created using a two-step process: 
+
 1. Learn the language.
 2. Translate the text.
 
-The most important step is the first one, the learning of the language. The quality of the draft that is created depends almost entirely on how well this step goes.
+The most important step is the first one, the learning of the
+language. The quality of the draft that is created depends almost
+entirely on how well this step goes.
 
-The system learns by seeing the same sentence written in multiple languages, one in a language that it already understands, and one in the language you are translating into. 
 
-The most important point to remember is that these sentences need to say the same thing in both languages. This is the same principle that allowed scholars to learn hieroglyphics from the Rosetta Stone: the same text was written in three different languages, allowing comparison between a language that was already understood and one that was not.
+The system learns by seeing the same sentence written in multiple
+languages, one in a language that it already understands, and one in the
+language you are translating into.
 
-Text that is available in both the language you are translating from, and the language you are translating to, is known as "parallel text". In general, the more parallel text you have, the better the system will learn the language. For most projects, this parallel text will be your reference text, and the translation work you have already completed. At this time, we recommend that you have at least the New Testament translated.
 
-## Example use cases
+The most important point to remember is that these sentences need to
+say the same thing in both languages. This is the same principle that
+allowed scholars to learn hieroglyphics from the Rosetta Stone: the same
+text was written in three different languages, allowing comparison
+between a language that was already understood and one that was not.
 
-### A basic example
 
-Suppose a translation team is translating the Bible into a local language, using the English NIV as a reference text. The team has completed the entire New Testament, and is beginning work on Genesis. The system would generate a draft as follows:
+Text that is available in both the language you are translating from,
+and the language you are translating to, is known as “parallel text”. In
+general, the more parallel text you have, the better the system will
+learn the language. For most projects, this parallel text will be your
+reference text, and the translation work you have already completed. At
+this time, we recommend that you have at least the New Testament
+translated.
 
-1. Compare the English NIV New Testament with the local language New Testament, in order to learn the language..
-2. Having learned the language, translate Genesis from the English NIV into the local language.
 
-After generating the book of Genesis, the team would edit the draft to correct any errors. Afterwards, they would be able to generate a draft of the next book they plan to work on, and the system would use the translation of Genesis to improve the quality of the next draft.
+## Example use cases {#937c1db4b24d4e85bfc2acc489bf456b}
 
-### A more complex example
 
-In the first example, the team was using the English NIV as a reference text, and the system learned the language by comparing the English NIV with the local language New Testament. However, in many cases a better quality draft can be generated by using a different text than the one the team is translating from.
+### A basic example {#9165ff8c10564a7fa67c3375f62de85e}
 
-For example, it is often possible to improve the quality of the draft by using a back translation of the local language into the source language. If the team has back translated the project into English, it could be used as the reference text instead of the English NIV. A back translation is usually much more literal than a normal translation, and therefore makes it easier for the system to understand how the local language maps to English. In this example, the system would generate a draft as follows:
 
-1. Compare the English back translation with the local language New Testament, in order to learn the language..
-2. Having learned the language, translate Genesis from the English NIV into the local language.
+Suppose a translation team is translating the Bible into a local
+language, using the English NIV as a reference text. The team has
+completed the entire New Testament, and is beginning work on Genesis.
+The system would generate a draft as follows:
 
-Determining the ideal setup for a project is a complex process, and it's not something you will need to learn. The SIL Natural Language Processing team is developing tools to determine the ideal setup, and can assist teams during the onboarding process.
+1. Compare the English NIV New Testament with the local language New
+Testament, in order to learn the language..
+2. Having learned the language, translate Genesis from the English NIV
+into the local language.
 
-### Generating back translations
+After generating the book of Genesis, the team would edit the draft
+to correct any errors. Afterwards, they would be able to generate a
+draft of the next book they plan to work on, and the system would use
+the translation of Genesis to improve the quality of the next draft.
 
-In addition to creating drafts into the vernacular language, the system can also generate back translations into [supported source languages](#supported-languages-for-back-translation-drafting). In order to generate a back translation draft, the team needs to already have back translated at least a few books from the vernacular language into the source language.
 
-In this example, suppose a team has translated the four gospels into the vernacular language, and has back translated Matthew, Mark, and Luke into English. To generate a back translation draft of John, the system would do the following:
+### A more complex example {#e6ec52fc004a41c195617bbcc3bb7f84}
 
-1. Compare the English back translations of Matthew, Mark, and Luke with the vernacular language versions of Matthew, Mark, and Luke, in order to learn the language.
-2. Having learned the language, translate John from the vernacular language into English.
 
-Back translation drafts will also contain errors and need to be edited, but the quality is usually substantially higher than for the vernacular drafts.
+In the first example, the team was using the English NIV as a
+reference text, and the system learned the language by comparing the
+English NIV with the local language New Testament. However, in many
+cases a better quality draft can be generated by using a different text
+than the one the team is translating from.
 
-## Getting started
 
-Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be onboarded by the SIL Natural Language Processing team. Please fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), and a member of the team will assess whether your project is a good candidate for generating drafts.
+For example, it is often possible to improve the quality of the draft
+by using a back translation of the local language into the source
+language. If the team has back translated the project into English, it
+could be used as the reference text instead of the English NIV. A back
+translation is usually much more literal than a normal translation, and
+therefore makes it easier for the system to understand how the local
+language maps to English. In this example, the system would generate a
+draft as follows:
 
-Regardless of whether you are generating back translation drafts or vernacular drafts, you can begin by connecting your Paratext project to Scripture Forge by following these steps:
+1. Compare the English back translation with the local language New
+Testament, in order to learn the language..
+2. Having learned the language, translate Genesis from the English NIV
+into the local language.
+
+Determining the ideal setup for a project is a complex process, and
+it’s not something you will need to learn. The SIL Natural Language
+Processing team is developing tools to determine the ideal setup, and
+can assist teams during the onboarding process.
+
+
+### Generating back translations {#8a64fbb8c7e741938cf5007358570d3d}
+
+
+In addition to creating drafts into the vernacular language, the
+system can also generate back translations into [supported
+source languages](about:blank#supported-languages-for-back-translation-drafting). In order to generate a back translation draft, the
+team needs to already have back translated at least a few books from the
+vernacular language into the source language.
+
+
+In this example, suppose a team has translated the four gospels into
+the vernacular language, and has back translated Matthew, Mark, and Luke
+into English. To generate a back translation draft of John, the system
+would do the following:
+
+1. Compare the English back translations of Matthew, Mark, and Luke
+with the vernacular language versions of Matthew, Mark, and Luke, in
+order to learn the language.
+2. Having learned the language, translate John from the vernacular
+language into English.
+
+Back translation drafts will also contain errors and need to be
+edited, but the quality is usually substantially higher than for the
+vernacular drafts.
+
+
+## Getting started {#1ba56b4f36584ecb91b9f2208efec047}
+
+
+Generating back translation drafts is currently open and available to
+all Paratext users. Generating drafts into the vernacular, due to the
+complexity involved in setup, requires a team to be onboarded by the SIL
+Natural Language Processing team. Please fill out the [translation
+drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), and a member of the team will assess
+whether your project is a good candidate for generating drafts.
+
+
+Regardless of whether you are generating back translation drafts or
+vernacular drafts, you can begin by connecting your Paratext project to
+Scripture Forge by following these steps:
 
 1. Log in to [Scripture Forge](https://scriptureforge.org/), using your Paratext credentials.
-2. Connect your Paratext project by following the [Connect a Paratext Project guide](https://help.scriptureforge.org/connect-paratext-project). When you connect the project, select your reference text as the source. For a back translation, the source text should be the vernacular.
-3. After connecting your project, click "Generate draft" in the sidebar.
-4. If you are generating a draft into the vernacular, this is as far as you can on your own, and you will need to fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc). If your project has already been onboarded, or you are working with a back translation, click "Generate draft" to start the process.
-5. Select the books you want to translate, and then select the books you want to use as training data.
-6. Click "Generate draft" to start the process.
+2. Connect your Paratext project by following the [Connect
+a Paratext Project guide](https://help.scriptureforge.org/connect-paratext-project). When you connect the project, select your
+reference text as the source. For a back translation, the source text
+should be the vernacular.
+3. After connecting your project, click “Generate draft” in the
+sidebar.
+4. If you are generating a draft into the vernacular, this is as far as
+you can on your own, and you will need to fill out the [translation
+drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc). If your project has already been
+onboarded, or you are working with a back translation, click “Generate
+draft” to start the process.
+5. Select the books you want to translate, and then select the books
+you want to use as training data.
+6. Click “Generate draft” to start the process.
 
-The draft generating process can take anywhere from several hours to several days.
+The draft generating process can take anywhere from several hours to
+several days.
 
-Once you have a draft generated, you can preview the draft and import individual chapters into your project.
+
+Once you have a draft generated, you can preview the draft and import
+individual chapters into your project.
 
 
-## Supported languages for back translation drafting
+## Supported languages for back translation drafting {#70c8aaa17b6f4b5783ff0f464f59700e}
 
-Back translation drafts can be generated from any language, but must be back translated into one of the following languages.
 
-Language name | ISO 639-2 (T) code
---------------|-------------------
-Achinese | ace
-Mesopotamian Arabic | acm
-Ta'izzi-Adeni Arabic | acq
-Tunisian Arabic | aeb
-Afrikaans | afr
-South Levantine Arabic | ajp
-Akan | aka
-Amharic | amh
-North Levantine Arabic | apc
-Arabic | arb
-Najdi Arabic | ars
-Moroccan Arabic | ary
-Egyptian Arabic | arz
-Assamese | asm
-Asturian | ast
-Awadhi | awa
-Aymara | ayr
-South Azerbaijani | azb
-Azerbaijani | azj
-Bashkir | bak
-Bambara | bam
-Balinese | ban
-Belarusian | bel
-Bemba | bem
-Bangla | ben
-Bhojpuri | bho
-Banjar | bjn
-Tibetan | bod
-Bosnian | bos
-Buginese | bug
-Bulgarian | bul
-Catalan | cat
-Cebuano | ceb
-Czech | ces
-Chokwe | cjk
-Central Kurdish | ckb
-Crimean Turkish | crh
-Welsh | cym
-Danish | dan
-German | deu
-din | dik
-Dyula | dyu
-Dzongkha | dzo
-Greek | ell
-English | eng
-Esperanto | epo
-Estonian | est
-Basque | eus
-Ewe | ewe
-Faroese | fao
-Fijian | fij
-Finnish | fin
-Fon | fon
-French | fra
-Friulian | fur
-Nigerian Fulfulde | fuv
-Scottish Gaelic | gla
-Irish | gle
-Galician | glg
-Guarani | grn
-Gujarati | guj
-Haitian Creole | hat
-Hausa | hau
-Hebrew | heb
-Hindi | hin
-Chhattisgarhi | hne
-Croatian | hrv
-Hungarian | hun
-Armenian | hye
-Igbo | ibo
-Iloko | ilo
-Indonesian | ind
-Icelandic | isl
-Italian | ita
-Javanese | jav
-Japanese | jpn
-Kabyle | kab
-Kachin | kac
-Kamba | kam
-Kannada | kan
-Kashmiri | kas
-Georgian | kat
-kr | knc
-Kazakh | kaz
-Kabiye | kbp
-Kabuverdianu | kea
-Khmer | khm
-Kikuyu | kik
-Kinyarwanda | kin
-Kyrgyz | kir
-Kimbundu | kmb
-Kurdish | kmr
-Kongo | kon
-Korean | kor
-Lao | lao
-Ligurian | lij
-Limburgish | lim
-Lingala | lin
-Lithuanian | lit
-Lombard | lmo
-Latgalian | ltg
-Luxembourgish | ltz
-Luba-Lulua | lua
-Ganda | lug
-Luo | luo
-Mizo | lus
-Latvian | lvs
-Magahi | mag
-Maithili | mai
-Malayalam | mal
-Marathi | mar
-Minangkabau | min
-Macedonian | mkd
-Malagasy | plt
-Maltese | mlt
-Manipuri | mni
-Mongolian | khk
-Mossi | mos
-Māori | mri
-Burmese | mya
-Dutch | nld
-Norwegian Nynorsk | nno
-Norwegian Bokmål | nob
-Nepali | npi
-Northern Sotho | nso
-Nuer | nus
-Nyanja | nya
-Occitan | oci
-Oromo | gaz
-Odia | ory
-Pangasinan | pag
-Punjabi | pan
-Papiamento | pap
-Persian | pes
-Polish | pol
-Portuguese | por
-Dari | prs
-Southern Pashto | pbt
-Quechua | quy
-Romanian | ron
-Rundi | run
-Russian | rus
-Sango | sag
-Sanskrit | san
-Santali | sat
-Sicilian | scn
-Shan | shn
-Sinhala | sin
-Slovak | slk
-Slovenian | slv
-Samoan | smo
-Shona | sna
-Sindhi | snd
-Somali | som
-Southern Sotho | sot
-Spanish | spa
-Albanian | als
-Sardinian | srd
-Serbian | srp
-Swazi | ssw
-Sundanese | sun
-Swedish | swe
-Swahili | swh
-Silesian | szl
-Tamil | tam
-Tatar | tat
-Telugu | tel
-Tajik | tgk
-Filipino | tgl
-Thai | tha
-Tigrinya | tir
-Tamashek | taq
-Tok Pisin | tpi
-Tswana | tsn
-Tsonga | tso
-Turkmen | tuk
-Tumbuka | tum
-Turkish | tur
-Akan | twi
-Tamazight | tzm
-Uyghur | uig
-Ukrainian | ukr
-Umbundu | umb
-Urdu | urd
-Uzbek | uzn
-Venetian | vec
-Vietnamese | vie
-Waray | war
-Wolof | wol
-Xhosa | xho
-Yiddish | ydd
-Yoruba | yor
-Cantonese | yue
-Chinese | zho
-Malay | zsm
+Back translation drafts can be generated from any language, but must
+be back translated into one of the following languages.
+
+
+| Language name          | ISO 639-2 (T) code |
+| ---------------------- | ------------------ |
+| Achinese               | ace                |
+| Mesopotamian Arabic    | acm                |
+| Ta’izzi-Adeni Arabic   | acq                |
+| Tunisian Arabic        | aeb                |
+| Afrikaans              | afr                |
+| South Levantine Arabic | ajp                |
+| Akan                   | aka                |
+| Amharic                | amh                |
+| North Levantine Arabic | apc                |
+| Arabic                 | arb                |
+| Najdi Arabic           | ars                |
+| Moroccan Arabic        | ary                |
+| Egyptian Arabic        | arz                |
+| Assamese               | asm                |
+| Asturian               | ast                |
+| Awadhi                 | awa                |
+| Aymara                 | ayr                |
+| South Azerbaijani      | azb                |
+| Azerbaijani            | azj                |
+| Bashkir                | bak                |
+| Bambara                | bam                |
+| Balinese               | ban                |
+| Belarusian             | bel                |
+| Bemba                  | bem                |
+| Bangla                 | ben                |
+| Bhojpuri               | bho                |
+| Banjar                 | bjn                |
+| Tibetan                | bod                |
+| Bosnian                | bos                |
+| Buginese               | bug                |
+| Bulgarian              | bul                |
+| Catalan                | cat                |
+| Cebuano                | ceb                |
+| Czech                  | ces                |
+| Chokwe                 | cjk                |
+| Central Kurdish        | ckb                |
+| Crimean Turkish        | crh                |
+| Welsh                  | cym                |
+| Danish                 | dan                |
+| German                 | deu                |
+| din                    | dik                |
+| Dyula                  | dyu                |
+| Dzongkha               | dzo                |
+| Greek                  | ell                |
+| English                | eng                |
+| Esperanto              | epo                |
+| Estonian               | est                |
+| Basque                 | eus                |
+| Ewe                    | ewe                |
+| Faroese                | fao                |
+| Fijian                 | fij                |
+| Finnish                | fin                |
+| Fon                    | fon                |
+| French                 | fra                |
+| Friulian               | fur                |
+| Nigerian Fulfulde      | fuv                |
+| Scottish Gaelic        | gla                |
+| Irish                  | gle                |
+| Galician               | glg                |
+| Guarani                | grn                |
+| Gujarati               | guj                |
+| Haitian Creole         | hat                |
+| Hausa                  | hau                |
+| Hebrew                 | heb                |
+| Hindi                  | hin                |
+| Chhattisgarhi          | hne                |
+| Croatian               | hrv                |
+| Hungarian              | hun                |
+| Armenian               | hye                |
+| Igbo                   | ibo                |
+| Iloko                  | ilo                |
+| Indonesian             | ind                |
+| Icelandic              | isl                |
+| Italian                | ita                |
+| Javanese               | jav                |
+| Japanese               | jpn                |
+| Kabyle                 | kab                |
+| Kachin                 | kac                |
+| Kamba                  | kam                |
+| Kannada                | kan                |
+| Kashmiri               | kas                |
+| Georgian               | kat                |
+| kr                     | knc                |
+| Kazakh                 | kaz                |
+| Kabiye                 | kbp                |
+| Kabuverdianu           | kea                |
+| Khmer                  | khm                |
+| Kikuyu                 | kik                |
+| Kinyarwanda            | kin                |
+| Kyrgyz                 | kir                |
+| Kimbundu               | kmb                |
+| Kurdish                | kmr                |
+| Kongo                  | kon                |
+| Korean                 | kor                |
+| Lao                    | lao                |
+| Ligurian               | lij                |
+| Limburgish             | lim                |
+| Lingala                | lin                |
+| Lithuanian             | lit                |
+| Lombard                | lmo                |
+| Latgalian              | ltg                |
+| Luxembourgish          | ltz                |
+| Luba-Lulua             | lua                |
+| Ganda                  | lug                |
+| Luo                    | luo                |
+| Mizo                   | lus                |
+| Latvian                | lvs                |
+| Magahi                 | mag                |
+| Maithili               | mai                |
+| Malayalam              | mal                |
+| Marathi                | mar                |
+| Minangkabau            | min                |
+| Macedonian             | mkd                |
+| Malagasy               | plt                |
+| Maltese                | mlt                |
+| Manipuri               | mni                |
+| Mongolian              | khk                |
+| Mossi                  | mos                |
+| Māori                  | mri                |
+| Burmese                | mya                |
+| Dutch                  | nld                |
+| Norwegian Nynorsk      | nno                |
+| Norwegian Bokmål       | nob                |
+| Nepali                 | npi                |
+| Northern Sotho         | nso                |
+| Nuer                   | nus                |
+| Nyanja                 | nya                |
+| Occitan                | oci                |
+| Oromo                  | gaz                |
+| Odia                   | ory                |
+| Pangasinan             | pag                |
+| Punjabi                | pan                |
+| Papiamento             | pap                |
+| Persian                | pes                |
+| Polish                 | pol                |
+| Portuguese             | por                |
+| Dari                   | prs                |
+| Southern Pashto        | pbt                |
+| Quechua                | quy                |
+| Romanian               | ron                |
+| Rundi                  | run                |
+| Russian                | rus                |
+| Sango                  | sag                |
+| Sanskrit               | san                |
+| Santali                | sat                |
+| Sicilian               | scn                |
+| Shan                   | shn                |
+| Sinhala                | sin                |
+| Slovak                 | slk                |
+| Slovenian              | slv                |
+| Samoan                 | smo                |
+| Shona                  | sna                |
+| Sindhi                 | snd                |
+| Somali                 | som                |
+| Southern Sotho         | sot                |
+| Spanish                | spa                |
+| Albanian               | als                |
+| Sardinian              | srd                |
+| Serbian                | srp                |
+| Swazi                  | ssw                |
+| Sundanese              | sun                |
+| Swedish                | swe                |
+| Swahili                | swh                |
+| Silesian               | szl                |
+| Tamil                  | tam                |
+| Tatar                  | tat                |
+| Telugu                 | tel                |
+| Tajik                  | tgk                |
+| Filipino               | tgl                |
+| Thai                   | tha                |
+| Tigrinya               | tir                |
+| Tamashek               | taq                |
+| Tok Pisin              | tpi                |
+| Tswana                 | tsn                |
+| Tsonga                 | tso                |
+| Turkmen                | tuk                |
+| Tumbuka                | tum                |
+| Turkish                | tur                |
+| Akan                   | twi                |
+| Tamazight              | tzm                |
+| Uyghur                 | uig                |
+| Ukrainian              | ukr                |
+| Umbundu                | umb                |
+| Urdu                   | urd                |
+| Uzbek                  | uzn                |
+| Venetian               | vec                |
+| Vietnamese             | vie                |
+| Waray                  | war                |
+| Wolof                  | wol                |
+| Xhosa                  | xho                |
+| Yiddish                | ydd                |
+| Yoruba                 | yor                |
+| Cantonese              | yue                |
+| Chinese                | zho                |
+| Malay                  | zsm                |
+
