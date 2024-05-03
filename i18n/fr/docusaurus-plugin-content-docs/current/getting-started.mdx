@@ -1,35 +1,46 @@
 ---
+title: Prise en main
 slug: /
 sidebar_position: -1
 ---
 
 import DocCardList from "@theme/DocCardList";
-
-# Prise en main
+import i18n from "./getting-started.json";
 
 <DocCardList
   items={[
-    { type: "link", href: "/connect-paratext-project", label: "Connect a project" },
-    { type: "link", href: "/community-checking", label: "Community checking" },
-    { type: "link", href: "/translation-suggestions", label: "Translation suggestions" }
+    {
+      type: "link",
+      href: "/connect-paratext-project",
+      label: i18n.connect_project,
+    },
+    {
+      type: "link",
+      href: "/community-checking",
+      label: i18n.community_checking,
+    },
+    {
+      type: "link",
+      href: "/translation-suggestions",
+      label: i18n.translation_suggestions,
+    },
   ]}
 />
 
-## Plus de ressources
+<h2>{i18n.more_resources}</h2>
 
 <DocCardList
   items={[
-    { type: "link", href: "pathname:///manual", label: "Read the manual" },
+    { type: "link", href: "pathname:///manual", label: i18n.read_manual },
     {
       type: "link",
       href: "https://community.scripture.software.sil.org/c/scripture-forge/19",
-      label: "Community support site"
+      label: i18n.community_site,
     },
-    { type: "link", href: "mailto:help@scriptureforge.org", label: "Email support" },
     {
       type: "link",
-      href: "https://community.scripture.software.sil.org/t/scripture-forge-announcements/1776",
-      label: "Change log"
-    }
+      href: "mailto:help@scriptureforge.org",
+      label: i18n.email_support,
+    },
   ]}
 />
