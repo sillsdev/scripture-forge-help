@@ -64,7 +64,7 @@ const config = {
             title: 'Support',
             items: [
               { label: 'Community site', href: 'https://community.scripture.software.sil.org/c/scripture-forge/19' },
-              { label: 'Email support', href: 'mailto:scriptureforgeissues@sil.org' }
+              { label: 'Email support', href: 'mailto:help@scriptureforge.org' }
             ]
           },
           {

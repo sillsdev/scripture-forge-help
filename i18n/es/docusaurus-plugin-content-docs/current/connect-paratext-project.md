@@ -29,54 +29,54 @@ Para poder abrir un proyecto en [Scripture](/log-in) Forge, el usuario sólo tie
 1. Si **nunca has conectado** un proyecto a Scripture Forge:
     1. Haz clic en el botón Conectar proyecto:
 
-        ![](./1018206524.png)
+        ![](./268421786.png)
 
-1. Si ya has conectado un proyecto a Scripture Forge, sigue estas instrucciones para conectar cualquier proyecto adicional:
+2. Si ya has conectado un proyecto a Scripture Forge, sigue estas instrucciones para conectar cualquier proyecto adicional:
     1. Haga clic en el panel de navegación de Scripture Forge:
 
-        ![](./2047383099.png)
+        ![](./1134901564.png)
 
     2. La página de navegación también puede tener este aspecto:
 
-        ![](./1907136141.png)
+        ![](./1119102368.png)
 
     3. Haz clic en Conectar proyecto:
 
-        ![](./1835033831.png)
+        ![](./1570973360.png)
 
-1. Haga clic en el desplegable Proyecto Paratexto:
+3. Haga clic en el desplegable Proyecto Paratexto:
 
-    ![](./1713384110.png)
+    ![](./1530454029.png)
 
-1. Elija el proyecto que desea conectar:
+4. Elija el proyecto que desea conectar:
 
-    ![](./1850533714.png)
+    ![](./1567792993.png)
 
-1. Opcional: Si desea utilizar las Sugerencias de traducción o ver otro proyecto/recurso junto a su proyecto:
+5. Opcional: Si desea utilizar las Sugerencias de traducción o ver otro proyecto/recurso junto a su proyecto:
     1. Haga clic en el área de texto Fuente:
 
-        ![](./2025046252.png)
+        ![](./231017319.png)
 
     2. Seleccione el proyecto de origen:
 
-        ![](./635850712.png)
+        ![](./1628956354.png)
 
-1. Opcional: Activar las sugerencias de traducción (nº 1 más abajo)
+6. Opcional: Activar las sugerencias de traducción (nº 1 más abajo)
 
-    ![](./1721673901.png)
+    ![](./440460267.png)
 
-1. Opcional: Activar la comprobación comunitaria (nº 2 arriba)
-1. Haz clic en Conectar:
+7. Opcional: Activar la comprobación comunitaria (nº 2 arriba)
+8. Haz clic en Conectar:
 
-    ![](./248008106.png)
+    ![](./210173750.png)
 
-1. Espera a que Scripture Forge conecte el proyecto Paratext:
+9. Espera a que Scripture Forge conecte el proyecto Paratext:
 
-    ![](./1438398026.png)
+    ![](./1421415415.png)
 
-1. Scripture Forge puede tardar un poco en conectar tu proyecto, la barra verde de progreso dejará de moverse cuando tu proyecto esté completamente conectado:
+10. Scripture Forge puede tardar un poco en conectar tu proyecto, la barra verde de progreso dejará de moverse cuando tu proyecto esté completamente conectado:
 
-    ![](./881669327.png)
+    ![](./672841105.png)
 
 
 Nota: Es posible que pueda trabajar en Scripture Forge antes de que esté totalmente conectado.

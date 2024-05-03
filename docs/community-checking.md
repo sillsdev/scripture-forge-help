@@ -88,7 +88,7 @@ The reference needs to have the book name abbreviated the same way Paratext abbr
 
 
 
-If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [scriptureforgeissues@sil.org](mailto:scriptureforgeissues@sil.org).
+If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Save your spreadsheet as a CSV file.
 2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
@@ -185,15 +185,6 @@ If you enabled link sharing in the previous step, there will be a link that you 
 
 
 If link sharing is turned off, or if you want to send email invitations to users, type the email of the user you want to invite, select the **Community Checker** role, and choose an invitation language. Then click **Send**. An email with a link will be sent to the person, who will need to click the link and sign up to join the project.
-
-
-:::note
-
-Community checkers need to sign up to answer questions. Some projects have found that this is too difficult of a challenge for people in some regions of the world. We’re working on making the sign up process easier.
-
-:::
-
-
 
 
 ## Receive and interact with responses to the questions {#d09b7e47859e451783e6dcca8a80f40a}

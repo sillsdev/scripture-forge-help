@@ -29,54 +29,54 @@ Pour pouvoir ouvrir un projet dans Scripture Forge, un utilisateur doit simpleme
 1. Si vous n'avez **jamais connecté** un projet à Scripture Forge :
     1. Cliquez sur le bouton Connecter un projet :
 
-        ![](./1018206524.png)
+        ![](./268421786.png)
 
-1. Si vous avez déjà connecté un projet à Scripture Forge, suivez ces instructions pour connecter d'autres projets :
+2. Si vous avez déjà connecté un projet à Scripture Forge, suivez ces instructions pour connecter d'autres projets :
     1. Cliquez sur le volet de navigation Scripture Forge :
 
-        ![](./2047383099.png)
+        ![](./1134901564.png)
 
     2. La page de navigation peut aussi ressembler à ceci:
 
-        ![](./1907136141.png)
+        ![](./1119102368.png)
 
     3. Cliquez sur Connecter un projet :
 
-        ![](./1835033831.png)
+        ![](./1570973360.png)
 
-1. Cliquez sur le menu déroulant Projet Paratext :
+3. Cliquez sur le menu déroulant Projet Paratext :
 
-    ![](./1713384110.png)
+    ![](./1530454029.png)
 
-1. Choisissez le projet que vous souhaitez connecter :
+4. Choisissez le projet que vous souhaitez connecter :
 
-    ![](./1850533714.png)
+    ![](./1567792993.png)
 
-1. Facultatif : Si vous souhaitez utiliser les suggestions de traduction ou afficher un autre projet/ressource à côté de votre projet :
+5. Facultatif : Si vous souhaitez utiliser les suggestions de traduction ou afficher un autre projet/ressource à côté de votre projet :
     1. Cliquez sur la zone Texte source :
 
-        ![](./2025046252.png)
+        ![](./231017319.png)
 
     2. Sélectionnez le projet source :
 
-        ![](./635850712.png)
+        ![](./1628956354.png)
 
-1. Facultatif : Activer les suggestions de traduction (#1 ci-dessous)
+6. Facultatif : Activer les suggestions de traduction (#1 ci-dessous)
 
-    ![](./1721673901.png)
+    ![](./440460267.png)
 
-1. Facultatif : Activer la Vérification par la communauté (#2 ci-dessus)
-1. Cliquez sur Connecter :
+7. Facultatif : Activer la Vérification par la communauté (#2 ci-dessus)
+8. Cliquez sur Connecter :
 
-    ![](./248008106.png)
+    ![](./210173750.png)
 
-1. Attendez que Scripture Forge connecte le projet Paratext :
+9. Attendez que Scripture Forge connecte le projet Paratext :
 
-    ![](./1438398026.png)
+    ![](./1421415415.png)
 
-1. Scripture Forge peut prendre un certain temps pour connecter votre projet, la barre de progression verte cessera de bouger lorsque votre projet sera complètement connecté :
+10. Scripture Forge peut prendre un certain temps pour connecter votre projet, la barre de progression verte cessera de bouger lorsque votre projet sera complètement connecté :
 
-    ![](./881669327.png)
+    ![](./672841105.png)
 
 
 Remarque : il se peut que vous puissiez travailler dans Scripture Forge avant qu'il ne soit complètement connecté.

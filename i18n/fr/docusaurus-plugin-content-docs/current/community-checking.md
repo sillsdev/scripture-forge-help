@@ -9,22 +9,22 @@ slug: /community-checking
 Ce guide décrit comment utiliser [Scripture Forge](https://scriptureforge.org/) pour la Vérification communautaire. Les étapes de base sont les suivantes :
 
 1. Connectez un projet [Paratext](https://paratext.org/) à Scripture Forge
-1. Créez ou importez des questions auxquelles les vérificateurs répondront
-1. Invitez des personnes à vérifier votre projet
-1. Recevez les réponses aux questions et interagissez avec elles
-1. Synchronisez le projet pour que les réponses apparaissent sous forme de remarques dans Paratext
+2. Créez ou importez des questions auxquelles les vérificateurs répondront
+3. Invitez des personnes à vérifier votre projet
+4. Recevez les réponses aux questions et interagissez avec elles
+5. Synchronisez le projet pour que les réponses apparaissent sous forme de remarques dans Paratext
 
 ## Connectez un projet Paratext à Scripture Forge {#a49ffad707ee4ff69860080e6e805c3b}
 
 1. Allez sur [scriptureforge.org](https://scriptureforge.org/) et cliquez sur **Se connecter**.
-1. Sur la page de connexion, cliquez sur **Connectez-vous avec Paratext**.
-1. Connectez-vous sur Paratext et autorisez Scripture Forge à accéder à votre compte Paratext.
-1. Lorsque vous êtes redirigé vers Scripture Forge, allez sur la [page Connecter un projet](https://scriptureforge.org/connect-project). Si vous n'avez pas encore de projet, vous y serez automatiquement envoyé. Si vous avez déjà des projets dans Scripture Forge, cliquez sur le sélecteur de projet dans le coin supérieur gauche, puis sur **Connecter un projet**.
-1. La page Connecter un projet affiche une liste des projets auxquels vous avez accès dans Paratext. Sélectionnez le projet que vous souhaitez connecter dans la liste.
-1. Assurez-vous que la case **Activer la vérification par la communauté** est cochée. Ne vous préoccupez pas du texte source pour l'instant. Ce paramètre peut être modifié ultérieurement sur la page des paramètres du projet.
-1. Cliquez sur **Connecter**. En moins d'une minute, vous devriez être dirigé vers le projet dans Scripture Forge.
+2. Sur la page de connexion, cliquez sur **Connectez-vous avec Paratext**.
+3. Connectez-vous sur Paratext et autorisez Scripture Forge à accéder à votre compte Paratext.
+4. Lorsque vous êtes redirigé vers Scripture Forge, allez sur la [page Connecter un projet](https://scriptureforge.org/connect-project). Si vous n'avez pas encore de projet, vous y serez automatiquement envoyé. Si vous avez déjà des projets dans Scripture Forge, cliquez sur le sélecteur de projet dans le coin supérieur gauche, puis sur **Connecter un projet**.
+5. La page Connecter un projet affiche une liste des projets auxquels vous avez accès dans Paratext. Sélectionnez le projet que vous souhaitez connecter dans la liste.
+6. Assurez-vous que la case **Activer la vérification par la communauté** est cochée. Ne vous préoccupez pas du texte source pour l'instant. Ce paramètre peut être modifié ultérieurement sur la page des paramètres du projet.
+7. Cliquez sur **Connecter**. En moins d'une minute, vous devriez être dirigé vers le projet dans Scripture Forge.
 
-![](./1124035760.png)
+![](./1028160355.png)
 
 
 ## Ajouter des Questions au projet {#47b7c1e2e8a74a3489b167849470745e}
@@ -57,7 +57,7 @@ Saisissez votre question dans la case **Question** . Si vous souhaitez ajouter u
 Cliquez sur **Sauver** et votre question sera ajoutée à la liste des questions de vérification par la communauté.
 
 
-![](./501526957.png)
+![](./1916935940.png)
 
 
 ### Importer des questions à partir d'une feuille de calcul {#42107c9def434bf396442d0004577710}
@@ -88,12 +88,12 @@ La référence doit comporter le nom du livre abrégé de la même manière que 
 
 
 
-Si vous avez besoin d'aide pour formater votre feuille de calcul correctement afin de pouvoir l'importer dans Scripture Forge, nous serons heureux de vous aider. Envoyez simplement un e-mail à [scriptureforgeissues@sil.org](mailto:scriptureforgeissues@sil.org).
+Si vous avez besoin d'aide pour formater votre feuille de calcul correctement afin de pouvoir l'importer dans Scripture Forge, nous serons heureux de vous aider. Envoyez simplement un e-mail à [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Enregistrez votre feuille de calcul en tant que fichier CSV.
-1. Ensuite, dans Scripture Forge, cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre latérale de navigation.
-1. Cliquez ensuite sur le bouton **Importation en lots** . Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions.
-1. Cliquez sur **Importer à partir du fichier CSV** et sélectionnez le fichier.
+2. Ensuite, dans Scripture Forge, cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre latérale de navigation.
+3. Cliquez ensuite sur le bouton **Importation en lots** . Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions.
+4. Cliquez sur **Importer à partir du fichier CSV** et sélectionnez le fichier.
     1. Si certaines lignes de votre fichier n'ont pas de référence et de question valides, un avertissement s'affichera pour vous indiquer que ces lignes seront ignorées.
     2. Dans le cas contraire, une liste de questions s'affichera.
 
@@ -103,7 +103,7 @@ Si vous avez besoin d'aide pour formater votre feuille de calcul correctement af
 Pour importer toutes les questions du fichier CSV, procédez comme suit :
 
 1. Cliquez sur la case à cocher en haut de la liste. Ceci sélectionnera toutes les questions.
-1. Cliquez sur **Importer les questions sélectionnées**.
+2. Cliquez sur **Importer les questions sélectionnées**.
 
 ### Importer un sous-ensemble de questions {#f8f6b299154e4caca7aa04661a820efd}
 
@@ -111,11 +111,11 @@ Pour importer toutes les questions du fichier CSV, procédez comme suit :
 Vous pouvez également filtrer pour avoir un sous-ensemble de questions :
 
 1. Utilisez les cases **Référence de début** et **Référence de fin** pour spécifier les versets sur lesquels vous souhaitez que les questions commencent et se terminent.
-1. Par exemple, si vous voulez seulement importer des questions pour Marc 5 :
+2. Par exemple, si vous voulez seulement importer des questions pour Marc 5 :
     1. Indiquez **MRK 5:1** dans la case **Référence de début** .
     2. Indiquez **MRK 5:43** dans la case **Référence de fin** .
-1. Cliquez sur la case à cocher en haut de la liste pour sélectionner toutes les questions. Seules les questions affichées seront sélectionnées.
-1. Cliquez sur **Importer les questions sélectionnées**.
+3. Cliquez sur la case à cocher en haut de la liste pour sélectionner toutes les questions. Seules les questions affichées seront sélectionnées.
+4. Cliquez sur **Importer les questions sélectionnées**.
 
 :::note
 
@@ -135,15 +135,15 @@ Il n'est pas nécessaire de se rappeler qu'il y a 43 versets dans Marc 5 pour fi
 Pour importer des questions depuis Transcelerator:
 
 1. Téléchargez et installez Transcelerator à partir de [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-1. Depuis Paratext, lancez Transcelerator.
-1. Dans Transcelerator, ouvrez le menu **Fichier** et cliquez sur **Produire des fichiers Scripture Forge**.
-1. Saisissez dans la colonne **Traduction** les traductions des questions en anglais que vous voulez utiliser. Pour chaque question qui est prête, cochez la case **Confirmée** pour ces questions.
-1. Fermez Transcelerator et effectuez un envoyer recevoir avec Paratext.
-1. Dans Scripture Forge, dans la barre latérale de navigation, cliquez sur **Synchroniser**. Sur la page qui s'ouvre, cliquez sur **Synchroniser** pour envoyer et recevoir les questions Transcelerator depuis Paratext.
-1. Cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre de navigation latérale. Cliquez ensuite sur le bouton **Importation en lots** .
-1. Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions. Cliquez sur **Importer depuis Transcelerator**.
-1. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
-1. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
+2. Depuis Paratext, lancez Transcelerator.
+3. Dans Transcelerator, ouvrez le menu **Fichier** et cliquez sur **Produire des fichiers Scripture Forge**.
+4. Saisissez dans la colonne **Traduction** les traductions des questions en anglais que vous voulez utiliser. Pour chaque question qui est prête, cochez la case **Confirmée** pour ces questions.
+5. Fermez Transcelerator et effectuez un envoyer recevoir avec Paratext.
+6. Dans Scripture Forge, dans la barre latérale de navigation, cliquez sur **Synchroniser**. Sur la page qui s'ouvre, cliquez sur **Synchroniser** pour envoyer et recevoir les questions Transcelerator depuis Paratext.
+7. Cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre de navigation latérale. Cliquez ensuite sur le bouton **Importation en lots** .
+8. Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions. Cliquez sur **Importer depuis Transcelerator**.
+9. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
+10. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
 
 ## Invitez des personnes à vérifier votre projet {#678dca00aaa54fd79319ecf815049301}
 
@@ -154,7 +154,7 @@ Une fois que vous avez les questions pour votre projet, il est temps d'inviter l
 Dans la barre latérale, cliquez sur **Paramètres**, et défilez vers le bas jusqu'à **Paramètres de Vérification par la communauté**.
 
 
-![](./380927738.png)
+![](./998098765.png)
 
 
 ### Paramètres d'interaction utilisateur {#84a006f1fbaa4c50a8ce8bac248c0e1d}
@@ -178,7 +178,7 @@ Si vous activez ce paramètre, vous avez le choix entre deux modes de partage. S
 Dans la barre latérale, cliquez sur **Utilisateurs**, et vous verrez apparaître les options de partage.
 
 
-![](./1896234073.png)
+![](./1688833473.png)
 
 
 Si vous avez activé le partage de lien à l'étape précédente, vous trouverez un lien que vous pouvez copier pour partager le projet. Pour copier le lien, cliquez sur l'icône de copie à droite du lien.
@@ -187,40 +187,31 @@ Si vous avez activé le partage de lien à l'étape précédente, vous trouverez
 Si le partage de lien est désactivé ou si vous souhaitez envoyer des invitations par e-mail aux utilisateurs, saisissez l'e-mail de l'utilisateur que vous souhaitez inviter, sélectionnez le rôle **Vérificateur de la communauté** et choisissez une langue d'invitation. Puis cliquez sur **Envoyer**. Un e-mail contenant un lien sera envoyé à la personne, qui devra cliquer sur le lien et s'inscrire pour participer au projet.
 
 
-:::note
-
-Les vérificateurs de la communauté doivent s'inscrire pour répondre aux questions. Certains projets ont constaté que c'est un défi trop difficile à relever pour les personnes dans certaines régions du monde. Nous nous efforçons de faciliter le processus d'inscription.
-
-:::
-
-
-
-
 ## Recevez les réponses aux questions et interagissez avec elles {#d09b7e47859e451783e6dcca8a80f40a}
 
 
 Pour surveiller les réponses à la vérification par la communauté, cliquez sur **Vue d'ensemble** dans la section **Vérification par la communauté** dans la barre latérale de navigation. Outre une liste de questions, des statistiques de base concernant les réponses seront affichées.
 
 
-![](./1862472441.png)
+![](./685721.png)
 
 
 Pour afficher les réponses des vérificateurs de la communauté, cliquez sur l'un des livres dans la section **Vérification par la communauté** dans la barre latérale de navigation. Cliquez ensuite sur une question pour voir les réponses qui ont été données. Si vous souhaitez qu'une réponse soit exportée vers Paratext, cliquez sur **Marquer pour l'exportation** sur cette réponse. Si vous ne voulez rien faire d'autre avec la réponse, cliquez sur **Résoudre**. Cela ne supprime pas la réponse, mais la marque comme ne nécessitant pas d'autre action.
 
 
-![](./1097840200.png)
+![](./1417670916.png)
 
 
 Si vous souhaitez trouver des réponses qui n'ont pas été marquées pour l'exportation ou qui ont été marquées comme résolues, utilisez le filtre au-dessus de la liste des questions pour trouver **Réponses non examinées**.
 
 
-![](./2130551519.png)
+![](./2739440.png)
 
 
 Si vous préférez que toutes les réponses soient exportées vers Paratext sans les marquer individuellement pour l'exportation, allez dans les paramètres du projet et trouvez la section **Exportation des réponses** . L'option par défaut est de n'exporter que **les réponses marquées pour exportation**, mais ce paramètre peut être modifié en**toutes les réponses** ou **aucune réponse**.
 
 
-![](./1303377650.png)
+![](./1265120461.png)
 
 
 ## Synchronisez le projet pour que les réponses apparaissent sous forme de remarques dans Paratext {#1502b9d293ff4c3aacbe91834fd02bb2}
@@ -232,7 +223,7 @@ Dans la barre latérale de navigation, cliquez sur **Synchroniser**. Sur la page
 La remarque indiquera la question originale, le nom du vérificateur de la communauté qui a répondu, et la réponse elle-même, comme indiqué ci-dessous.
 
 
-![](./1325320018.png)
+![](./673009763.png)
 
 
 Les remarques générées à partir des réponses de vérification par la communauté auront une étiquette de remarque unique, avec une icône différente des autres remarques de votre projet Paratext. Vous pouvez modifier l'icône en éditant la balise de la remarque. Pour plus de détails, voir [la rubrique d'aide de Paratext sur les balises de remarques personnalisées](https://paratext.org/paratext-training/tutorials/custom-project-note-tags-tutorial/). Vous pouvez également [filtrer les remarques par leur étiquette de remarque](https://paratext.org/2022/08/15/custom-note-tags/#Filter_for_Custom_Note_Tags), ce qui vous permet d'afficher uniquement les réponses de vérification par la communauté ou de les masquer complètement.
