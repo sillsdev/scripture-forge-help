@@ -10,4 +10,4 @@ npx @sillsdev/docu-notion@latest -n $SF_HELP_NOTION_TOKEN -r $SF_HELP_NOTION_ROO
 sed -i s/:::📝/:::note/g docs/*.md
 
 mkdir -p s3
-aws s3 sync s3://help.scriptureforge.org s3
+aws s3 sync --delete s3://help.scriptureforge.org s3
