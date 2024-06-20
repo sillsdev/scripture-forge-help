@@ -10,9 +10,10 @@ This guide describes how to use [Scripture Forge](https://scriptureforge.org/) f
 
 1. Connect a [Paratext](https://paratext.org/) project to Scripture Forge
 2. Create or import questions for checkers to answer
-3. Invite people to check your project
-4. Receive and interact with responses to the questions
-5. Sync the project so answers show up as notes in Paratext
+3. Attach audio recording of the text (optional)
+4. Invite people to check your project
+5. Receive and interact with responses to the questions
+6. Sync the project so answers show up as notes in Paratext
 
 ## Connect a Paratext project to Scripture Forge {#a49ffad707ee4ff69860080e6e805c3b}
 
@@ -97,7 +98,7 @@ If you need help getting your spreadsheet into the right format to import to Scr
 	1. If you have some rows in your file that don’t have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
 	2. Otherwise you will be shown a list of questions.
 
-### Import all of questions {#3f10139da5904f1883acafad811b422c}
+### Import all questions {#3f10139da5904f1883acafad811b422c}
 
 
 To import all of the questions in the CSV file, follow these steps:
@@ -144,6 +145,45 @@ To import questions from Transcelerator:
 8. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
 9. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
 10. Click **Import Selected Questions** and your questions will be added to the project.
+
+## Attach audio recording of the text {#fd31ef9b6d74417099996e7dadb5068e}
+
+
+Scripture Forge can play an audio recording of each passage for community checkers. To do this, you will need to upload an audio file and a timing file for each chapter. Timing files allow Scripture Forge to highlight each verse as it is being spoken.
+
+
+### Recording the text {#1926abf6118c46bba16353d2ef85169f}
+
+
+Scripture Forge supports audio in .mp3 and .wav file formats. Timing files are supported from HearThis, aeneas, Audacity, and Adobe Audition.
+
+
+One of the simplest options is to use [HearThis](http://software.sil.org/hearthis) to record the translation. [This guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) will walk you through the process of recording scripture and producing audio and timing files. Skip the steps at the end about using Scripture App Builder.
+
+
+The [resources](https://software.sil.org/scriptureappbuilder/resources/) for Scripture App Builder discuss more advanced approaches, such as using Glyssen for a dramatized audio recording.
+
+
+### Creating timing files {#066182aa22c64dc7a74ad0556619c4b9}
+
+
+If you already have audio recorded, there are several options for creating timing data.
+
+
+You can automatically generate timing files using aeneas by following [these instructions](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
+
+
+Alternatively, you can manually create timing files using Audacity by following [this guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Another option is Adobe Audition. Timing data from Adobe Audition is supported in decimal or FPS time formats. We don’t support the “samples” format.
+
+
+### Attaching audio {#a4d3ee4a4d8b4e1d9bca42b837e57f77}
+
+
+To upload audio and timing files, in the sidebar click **Questions & answers**, navigate to the chapter you want to attach audio to, and then click the **Manage Audio** icon in the top right corner. Click **Browse Files** and select the audio recording and associated timing file for that chapter, then click **Save**.
+
+
+![](./645317227.png)
+
 
 ## Invite people to check your project {#678dca00aaa54fd79319ecf815049301}
 

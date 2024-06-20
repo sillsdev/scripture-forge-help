@@ -1,6 +1,6 @@
 ---
 title: Preparing for AI Drafting
-sidebar_position: 8
+sidebar_position: 7
 slug: /preparing-for-ai-drafting
 ---
 

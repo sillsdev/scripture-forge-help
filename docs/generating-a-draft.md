@@ -1,6 +1,6 @@
 ---
 title: Generating a Draft
-sidebar_position: 7
+sidebar_position: 8
 slug: /generating-a-draft
 ---
 
