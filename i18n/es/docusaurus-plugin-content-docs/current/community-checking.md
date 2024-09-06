@@ -1,6 +1,6 @@
 ---
 title: Utilización de la verificación comunitaria
-sidebar_position: 3
+sidebar_position: 4
 slug: /community-checking
 ---
 
@@ -10,9 +10,10 @@ Esta guía describe cómo utilizar [la Fragua de las Escrituras](https://scriptu
 
 1. Conectar un proyecto [Paratext](https://paratext.org/) a Scripture Forge
 2. Crea o importa preguntas para que las respondan los verificadores
-3. Invita a la gente a comprobar tu proyecto
-4. Recibe las respuestas a las preguntas e interactúa con ellas
-5. Sincroniza el proyecto para que las respuestas aparezcan como notas en Paratext
+3. Adjuntar grabación de audio del texto (opcional)
+4. Invita a la gente a comprobar tu proyecto
+5. Recibe las respuestas a las preguntas e interactúa con ellas
+6. Sincroniza el proyecto para que las respuestas aparezcan como notas en Paratext
 
 ## Conectar un proyecto Paratext a Scripture Forge {#a49ffad707ee4ff69860080e6e805c3b}
 
@@ -145,6 +146,45 @@ Para importar preguntas desde Transcelerator:
 9. Selecciona las preguntas que quieres importar. Los pasos para hacerlo son exactamente los mismos que en la sección anterior titulada **Importar preguntas desde una hoja de cálculo**. Consulta esa sección para obtener instrucciones sobre cómo filtrar las preguntas que desees.
 10. Haz clic en **Importar preguntas seleccionadas** y tus preguntas se añadirán al proyecto.
 
+## Adjuntar grabación de audio del texto {#fd31ef9b6d74417099996e7dadb5068e}
+
+
+Scripture Forge puede reproducir una grabación de audio de cada pasaje para las comprobaciones comunitarias. Para ello, deberá cargar un archivo de audio y un archivo de tiempo para cada capítulo. Los archivos de tiempo permiten a Scripture Forge resaltar cada versículo a medida que se pronuncia.
+
+
+### Grabación del texto {#1926abf6118c46bba16353d2ef85169f}
+
+
+Scripture Forge admite audio en formatos de archivo .mp3 y .wav. Los archivos de tiempo son compatibles con HearThis, aeneas, Audacity y Adobe Audition.
+
+
+Una de las opciones más sencillas es utilizar [HearThis](http://software.sil.org/hearthis) para grabar la traducción. [Esta guía](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) le guiará a través del proceso de grabación de las escrituras y la producción de archivos de audio y tiempo. Sáltese los pasos del final sobre el uso de Scripture App Builder.
+
+
+Los [recursos](https://software.sil.org/scriptureappbuilder/resources/) para Scripture App Builder tratan enfoques más avanzados, como el uso de Glyssen para una grabación de audio dramatizada.
+
+
+### Creación de archivos de temporización {#066182aa22c64dc7a74ad0556619c4b9}
+
+
+Si ya tiene audio grabado, existen varias opciones para crear datos de temporización.
+
+
+Puede generar automáticamente archivos de temporización utilizando aeneas siguiendo [estas instrucciones](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
+
+
+Alternativamente, puede crear manualmente archivos de sincronización utilizando Audacity siguiendo [esta guía](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Otra opción es Adobe Audition. Los datos de tiempo de Adobe Audition se admiten en formatos de tiempo decimal o FPS. No admitimos el formato "muestras".
+
+
+### Adjuntar audio {#a4d3ee4a4d8b4e1d9bca42b837e57f77}
+
+
+Para cargar archivos de audio y cronometraje, en la barra lateral haga clic en **Preguntas y respuestas**, navegue hasta el capítulo al que desee adjuntar audio y, a continuación, haga clic en el icono **Gestionar audio** de la esquina superior derecha. Haga clic en **Examinar archivos** y seleccione la grabación de audio y el archivo de sincronización asociado para ese capítulo, después haga clic en **Guardar**.
+
+
+![](./645317227.png)
+
+
 ## Invita a la gente a comprobar tu proyecto {#678dca00aaa54fd79319ecf815049301}
 
 
@@ -196,7 +236,7 @@ Para supervisar las respuestas de la comprobación comunitaria, haz clic en **Re
 ![](./685721.png)
 
 
-Para ver las respuestas de los **verificadores** comunitarios, haz clic en uno de los libros de la sección **Verificación comunitaria** de la barra lateral de navegación. A continuación, haz clic en una pregunta para ver las respuestas que se han dado. Si quieres que una respuesta se exporte a Paratext, haz clic en **Marcar para exportar** en esa respuesta. Si no quieres hacer nada más con la respuesta, haz clic en **Resolver**. Esto no elimina la respuesta, sino que la marca como que no necesita ninguna otra acción.
+Para ver las respuestas de los verificadores comunitarios, haz clic en uno de los libros de la sección **Verificación comunitaria** de la barra lateral de navegación. A continuación, haz clic en una pregunta para ver las respuestas que se han dado. Si quieres que una respuesta se exporte a Paratext, haz clic en **Marcar para exportar** en esa respuesta. Si no quieres hacer nada más con la respuesta, haz clic en **Resolver**. Esto no elimina la respuesta, sino que la marca como que no necesita ninguna otra acción.
 
 
 ![](./1417670916.png)

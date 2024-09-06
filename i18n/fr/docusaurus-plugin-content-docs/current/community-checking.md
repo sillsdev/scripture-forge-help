@@ -1,6 +1,6 @@
 ---
 title: Utilisation de la Vérification par la communauté
-sidebar_position: 3
+sidebar_position: 4
 slug: /community-checking
 ---
 
@@ -10,9 +10,10 @@ Ce guide décrit comment utiliser [Scripture Forge](https://scriptureforge.org/)
 
 1. Connectez un projet [Paratext](https://paratext.org/) à Scripture Forge
 2. Créez ou importez des questions auxquelles les vérificateurs répondront
-3. Invitez des personnes à vérifier votre projet
-4. Recevez les réponses aux questions et interagissez avec elles
-5. Synchronisez le projet pour que les réponses apparaissent sous forme de remarques dans Paratext
+3. Attacher un enregistrement audio du texte (facultatif)
+4. Invitez des personnes à vérifier votre projet
+5. Recevez les réponses aux questions et interagissez avec elles
+6. Synchronisez le projet pour que les réponses apparaissent sous forme de remarques dans Paratext
 
 ## Connectez un projet Paratext à Scripture Forge {#a49ffad707ee4ff69860080e6e805c3b}
 
@@ -51,7 +52,7 @@ Pour ajouter des questions à votre projet, cliquez sur **Vue d'ensemble** dans 
 Une question peut s'appliquer à un seul verset, ou à plusieurs versets. Tapez une référence dans la boîte de dialogue**Référence biblique**, ou cliquez sur la flèche du menu déroulant pour sélectionner un livre, un chapitre et un verset. Si vous souhaitez que la question s'étende sur plusieurs versets, saisissez une référence de fin dans la deuxième case. Une fois que vous avez saisi une référence, le texte s'affiche, avec, en surbrillance, les versets que vous avez choisis.
 
 
-Saisissez votre question dans la case **Question** . Si vous souhaitez ajouter une version audio de la question, cliquez sur le bouton **Enregistrer** . Il se peut que vous soyez invité à donner l'autorisation d'accéder à votre microphone. Lorsque vous avez terminé l'enregistrement, cliquez sur **Arrêter l'enregistrement**. Vous pouvez ensuite lancer l'enregistrement pour voir comment il rend. Cliquez sur le bouton **Essayer à nouveau** si vous n'êtes pas satisfait. Vous pouvez également télétransmettre un fichier audio au lieu d'enregistrer, si vous préférez.
+Saisissez votre question dans la case **Question** . Si vous souhaitez ajouter une version audio de la question, cliquez sur le bouton **Enregistrer** . Il se peut que vous soyez invité à donner l'autorisation d'accéder à votre microphone. Lorsque vous avez terminé l'enregistrement, cliquez sur **Arrêter l'enregistrement**. Vous pouvez ensuite écouter l'enregistrement pour voir comment il sonne. Cliquez sur le bouton **Essayer à nouveau** si vous n'êtes pas satisfait. Vous pouvez également télétransmettre un fichier audio au lieu d'enregistrer, si vous préférez.
 
 
 Cliquez sur **Sauver** et votre question sera ajoutée à la liste des questions de vérification par la communauté.
@@ -144,6 +145,45 @@ Pour importer des questions depuis Transcelerator:
 8. Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions. Cliquez sur **Importer depuis Transcelerator**.
 9. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
 10. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
+
+## Attacher un enregistrement audio du texte {#fd31ef9b6d74417099996e7dadb5068e}
+
+
+Scripture Forge peut jouer un enregistrement audio de chaque passage pour les vérificateurs de la communauté. Pour ce faire, vous devrez téléverser un fichier audio et un fichier de synchronisation pour chaque chapitre. Les fichiers de synchronisation permettent à Scripture Forge de mettre en surbrillance chaque verset au fur et à mesure qu'il est prononcé.
+
+
+### Enregistrement du texte {#1926abf6118c46bba16353d2ef85169f}
+
+
+Scripture Forge prend en charge les fichiers audio aux formats .mp3 et .wav. Les fichiers de synchronisation sont pris en charge par HearThis, aeneas, Audacity et Adobe Audition.
+
+
+L'une des options les plus simples est d'utiliser [HearThis](http://software.sil.org/hearthis) pour enregistrer la traduction. [Ce guide ](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) vous expliquera le processus d'enregistrement des écritures et de production des fichiers audio et de synchronisation. Ignorez les étapes à la fin concernant l'utilisation de Scripture App Builder.
+
+
+Les [ressources](https://software.sil.org/scriptureappbuilder/resources/) de Scripture App Builder abordent des approches plus avancées, telles que l'utilisation de Glyssen pour un enregistrement audio dramatisé.
+
+
+### Création de fichiers de synchronisation {#066182aa22c64dc7a74ad0556619c4b9}
+
+
+Si vous avez déjà enregistré des données audio, plusieurs options s'offrent à vous pour créer des données de synchronisation.
+
+
+Vous pouvez générer automatiquement des fichiers de synchronisation à l'aide d'aeneas en suivant [ces instructions](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
+
+
+Alternativement, vous pouvez créer manuellement des fichiers de minutage en utilisant Audacity en suivant [this guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Une autre option est Adobe Audition. Les données de synchronisation provenant d'Adobe Audition sont prises en charge dans les formats de temps décimal ou FPS. Nous ne prenons pas en charge le format « échantillons ».
+
+
+### Joindre un fichier audio {#a4d3ee4a4d8b4e1d9bca42b837e57f77}
+
+
+Pour télécharger des fichiers audio et synchronisation, cliquez sur **Questions & réponses**, accédez au chapitre auquel vous voulez attacher de l'audio, puis cliquez sur l'icône **Gérer l'audio** dans le coin supérieur droit. Cliquez sur **Parcourir les fichiers** et sélectionnez l'enregistrement audio et le fichier de synchronisation associé pour ce chapitre, puis cliquez sur **Enregistrer**.
+
+
+![](./645317227.png)
+
 
 ## Invitez des personnes à vérifier votre projet {#678dca00aaa54fd79319ecf815049301}
 

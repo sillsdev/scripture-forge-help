@@ -281,5 +281,5 @@ Currently audio answers show up in Paratext but the audio cannot be played. In o
 ## Feedback {#f7d132ecbb04437e9d5a81440f84b6df}
 
 
-If you have questions, problems, or suggestions, please reach out to the Scripture Forge team at [community support site](https://community.scripture.software.sil.org/c/scripture-forge/19), which allows others to participate in the conversation. We value your feedback and frequently make changes or fix problems at the request of our users.
+If you have questions, problems, or suggestions, please reach out to the Scripture Forge team at [help@scriptureforge.org](mailto:help@scriptureforge.org). You can also post on the [community support site](https://community.scripture.software.sil.org/c/scripture-forge/19), which allows others to participate in the conversation. We value your feedback and frequently make changes or fix problems at the request of our users.
 
