@@ -92,7 +92,7 @@ Regardless of whether you are generating back translation drafts or vernacular d
 1. Log in to [Scripture Forge](https://scriptureforge.org/), using your Paratext credentials.
 2. Connect your Paratext project by following the [Connect a Paratext Project guide](https://help.scriptureforge.org/connect-paratext-project). When you connect the project, select your reference text as the source. For a back translation, the source text should be the vernacular.
 3. After connecting your project, click “Generate draft” in the sidebar.
-4. If you are generating a draft into the vernacular, this is as far as you can on your own, and you will need to fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc). If your project has already been onboarded, or you are working with a back translation, click “Generate draft” to start the process.
+4. If you are generating a draft into the vernacular, this is as far as you can on your own, and you will need to fill out the translation drafting registration form by clicking on “Sign up for drafting”. If your project has already been onboarded, or you are working with a back translation, click “Generate draft” to start the process.
 5. Select the books you want to translate, and then select the books you want to use as training data.
 6. Click “Generate draft” to start the process.
 
