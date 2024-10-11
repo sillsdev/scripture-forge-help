@@ -1,0 +1,25 @@
+name: Push preview to master and deploy to live
+on: workflow_dispatch
+
+jobs:
+  deploy-preview:
+    name: Push preview to master and deploy to live
+    runs-on: ubuntu-latest
+    environment: deploy
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: preview
+
+      - name: Build the site
+        run: ./build.sh
+
+      - name: Push preview to master
+        run: git push origin preview:master
+
+      - name: Deploy to Netlify
+        run: ./deploy.sh --live
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

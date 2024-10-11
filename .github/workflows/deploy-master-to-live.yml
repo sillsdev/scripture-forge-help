@@ -1,0 +1,22 @@
+name: Deploy master to live
+on: workflow_dispatch
+
+jobs:
+  deploy-live:
+    name: Deploy master to live
+    runs-on: ubuntu-latest
+    environment: deploy
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Build the site
+        run: ./build.sh
+
+      - name: Deploy to Netlify
+        run: ./deploy.sh --live
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
