@@ -4,7 +4,7 @@ sidebar_position: 4
 slug: /community-checking
 ---
 
-
+import ReactPlayer from "react-player";
 
 This guide describes how to use [Scripture Forge](https://scriptureforge.org/) for community checking. The basic steps are as follows:
 
@@ -41,6 +41,9 @@ Currently the only way to get feedback from community checkers is to ask checkin
 :::
 
 
+
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
 
 ### Creating questions individually in Scripture Forge {#0c67e74b02944b61a33b3ea2d101effd}
@@ -186,6 +189,9 @@ To upload audio and timing files, in the sidebar click **Questions & answers**, 
 
 
 ## Invite people to check your project {#678dca00aaa54fd79319ecf815049301}
+
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
 
 
 Once you have the questions on your project, it’s time to invite community checkers.

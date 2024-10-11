@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /connect-paratext-project
 ---
 
-
+import ReactPlayer from "react-player";
 
 ## Introduction {#6222bdf3db3a44b4bf01a9cc6ffdaa80}
 
@@ -22,6 +22,9 @@ After a Paratext project is connected to Scripture Forge, every user that is a m
 
 
 To be able to open a project in Scripture Forge, a user just needs to [login to Scripture Forge with their Paratext account information](/log-in).
+
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/exEJxc19Zm4" /></div>
 
 
 ## How to Connect a Paratext Project to Scripture Forge {#a71dfc268ebb43a0b19c0ab7018f92b4}

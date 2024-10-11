@@ -8,6 +8,8 @@ npx @sillsdev/docu-notion@latest -n $SF_HELP_NOTION_TOKEN -r $SF_HELP_NOTION_ROO
 
 # Needed for the current version of docu-notion; this can be removed once it publishes a new release
 sed -i s/:::📝/:::note/g docs/*.md
-
+# Add a div around the ReactPlayer component to make it responsive
+sed -i -e '/<ReactPlayer/ s/^/<div class="player-wrapper">/' -e '/<ReactPlayer/ s/$/<\/div>/' docs/*.md
+ 
 mkdir -p s3
 aws s3 sync --delete s3://help.scriptureforge.org s3
