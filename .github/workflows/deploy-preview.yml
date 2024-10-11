@@ -1,0 +1,22 @@
+name: Deploy preview branch
+on: workflow_dispatch
+
+jobs:
+  deploy-preview:
+    name: Deploy preview branch
+    runs-on: ubuntu-latest
+    environment: deploy
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: preview
+
+      - name: Build the site
+        run: ./build.sh
+
+      - name: Deploy preview to Netlify
+        run: ./deploy.sh --github-action-preview-subdomain
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
