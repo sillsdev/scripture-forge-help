@@ -1,0 +1,26 @@
+name: Update and Preview
+on: workflow_dispatch
+
+jobs:
+  deploy-preview:
+    name: Deploy Preview
+    runs-on: ubuntu-latest
+    environment: deploy
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull documents from Notion
+        run: ./pull_docs.sh --skip-pulling-from-s3
+        env:
+          SF_HELP_NOTION_TOKEN: ${{ secrets.SF_HELP_NOTION_TOKEN }}
+          SF_HELP_NOTION_ROOT_PAGE_ID: ${{ secrets.SF_HELP_NOTION_ROOT_PAGE_ID }}
+
+      - name: Build the site
+        run: ./build.sh
+
+      - name: Deploy preview to Netlify
+        run: ./deploy.sh --github-action-preview-subdomain
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
