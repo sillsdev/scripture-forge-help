@@ -11,5 +11,9 @@ sed -i s/:::📝/:::note/g docs/*.md
 # Add a div around the ReactPlayer component to make it responsive
 sed -i -e '/<ReactPlayer/ s/^/<div class="player-wrapper">/' -e '/<ReactPlayer/ s/$/<\/div>/' docs/*.md
  
-mkdir -p s3
-aws s3 sync --delete s3://help.scriptureforge.org s3
+if [ "$#" -ge 1 ] && [ "$1" == "--skip-pulling-from-s3" ]; then
+    echo "Skipping pulling from S3."
+else
+    mkdir -p s3
+    aws s3 sync --delete s3://help.scriptureforge.org s3
+fi
