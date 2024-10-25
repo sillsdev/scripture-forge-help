@@ -4,6 +4,9 @@ sidebar_position: 8
 slug: /generating-a-draft
 ---
 
+import ReactPlayer from "react-player";
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
 
 Once you have signed-up for Drafting and configured the required settings, you can access Scripture Forge AI Drafting by clicking the “Generate Draft” button in the main menu. You shall now have access to the "Generate New Draft” button.
