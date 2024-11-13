@@ -5,20 +5,16 @@ set -euxo pipefail
 npm install
 npm run build
 
-# Copy the help files to their respective locales in the build directory
+# Locales and their destination directories
+declare -A directory_for_locale=(
+    ["en"]="manual"
+    ["es"]="es/manual"
+    ["fr"]="fr/manual"
+    ["pt_BR"]="pt-BR/manual"
+)
 
-# English
-mkdir -p build/manual
-cp -r s3/en/* build/manual
-
-# Spanish
-mkdir -p build/es/manual
-cp -r s3/es/* build/es/manual
-
-# French
-mkdir -p build/fr/manual
-cp -r s3/fr/* build/fr/manual
-
-# Portuguese
-mkdir -p build/pt-BR/manual
-cp -r s3/pt_BR/* build/pt-BR/manual
+locales=("${!directory_for_locale[@]}")
+for locale in "${locales[@]}"; do
+    mkdir --parents "build/${directory_for_locale[$locale]}"
+    cp -r s3/$locale/* "build/${directory_for_locale[$locale]}"
+done

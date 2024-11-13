@@ -2,13 +2,31 @@
 
 set -euxo pipefail
 
-# NETLIFY_AUTH_TOKEN must be set in the environment
+if [[ -z "${NETLIFY_AUTH_TOKEN-}" ]]; then
+    echo "Error: NETLIFY_AUTH_TOKEN is not set."
+    exit 1
+fi
+
 export NETLIFY_SITE_ID=aba3890d-2b7b-4144-883f-7c600965db82
 
-if (( "$#" == 1 )) && [[ "$1" == "--github-action-preview-subdomain" ]]; then
-    npx netlify deploy --dir build --alias github-action-preview
-elif (( "$#" == 1 )) && [[ "$1" == "--prod" ]]; then
-    npx netlify deploy --dir build --prod
-else
-    npx netlify deploy --dir build
-fi
+deploy() {
+    local deploy_args=("--dir" "build")
+    while (("$#")); do
+        case "$1" in
+        --github-action-preview-subdomain)
+            deploy_args+=("--alias" "github-action-preview")
+            ;;
+        --prod)
+            deploy_args+=("--prod")
+            ;;
+        *)
+            echo "Error: Unknown argument: $1"
+            exit 1
+            ;;
+        esac
+        shift
+    done
+    npx netlify deploy "${deploy_args[@]}"
+}
+
+deploy "$@"

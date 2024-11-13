@@ -11,6 +11,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
       - name: Pull documents from Notion
         run: ./pull_docs.sh --skip-pulling-from-s3
         env:
@@ -19,8 +24,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github"
+          git config user.email ""
           git add .
           git commit -m "Update files from Notion"
 
@@ -30,7 +35,7 @@ jobs:
       - name: Push changes to preview branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: git push -f origin HEAD:preview
+        run: git push --force origin HEAD:preview
 
       - name: Deploy preview to Netlify
         run: ./deploy.sh --github-action-preview-subdomain

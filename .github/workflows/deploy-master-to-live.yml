@@ -13,6 +13,11 @@ jobs:
         with:
           ref: master
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
       - name: Build the site
         run: ./build.sh
 
