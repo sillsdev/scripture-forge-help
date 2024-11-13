@@ -84,7 +84,7 @@ Back translation drafts will also contain errors and need to be edited, but the 
 ## Getting started {#1ba56b4f36584ecb91b9f2208efec047}
 
 
-Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be onboarded by the SIL Natural Language Processing team. Please fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), and a member of the team will assess whether your project is a good candidate for generating drafts.
+Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be on-boarded by the SIL Natural Language Processing team. Please fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), and a member of the team will assess whether your project is a good candidate for generating drafts.
 
 
 Regardless of whether you are generating back translation drafts or vernacular drafts, you can begin by connecting your Paratext project to Scripture Forge by following these steps:
