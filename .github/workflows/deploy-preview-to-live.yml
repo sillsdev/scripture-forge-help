@@ -12,6 +12,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: preview
+          fetch-depth: 0
+
 
       - name: Build the site
         run: ./build.sh
