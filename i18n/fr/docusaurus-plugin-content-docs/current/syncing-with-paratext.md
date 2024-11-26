@@ -8,7 +8,7 @@ Synchroniser votre projet Scripture Forge avec Paratext est très important car 
 
 Il est similaire à la fonction Envoyer/Recevoir dans Paratext.
 
-_Notez que la synchronisation d'un projet dans Scripture Forge s'applique à_ _ _ **TOUS LES UTILISATEURs** _ du projet SF. Il sera également appliqué au serveur Paratext comme une fonction Envoyer/Recevoir._
+_Notez que la synchronisation d'un projet dans Scripture Forge s'applique à **TOUS LES UTILISATEURs** du projet SF. Il sera également appliqué au serveur Paratext comme une fonction Envoyer/Recevoir._
 
 ## **Comment synchroniser votre projet** {#d0af3ae0f98640c6a88fe4132a015be0}
 
