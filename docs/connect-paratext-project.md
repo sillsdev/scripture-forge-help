@@ -35,51 +35,56 @@ To be able to open a project in Scripture Forge, a user just needs to [login to 
 		![](./268421786.png)
 
 2. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
-	1. Click on the Scripture Forge navigation pane:
 
-		![](./1134901564.png)
+	To view the list of projects you have access to in Paratext, click on the Scripture Forge icon on the top left of the screen. 
 
-	2. The navigation page may also look like this:
 
-		![](./1119102368.png)
+![](./2112594915.png)
 
-	3. Click Connect project:
 
-		![](./1570973360.png)
+Alternatively, you can also click on your profile icon on the top right of the screen and from the drop-down menu click “My Projects.”
 
-3. Click in the Paratext Project drop-down:
 
-	![](./1530454029.png)
+![](./1201536679.png)
 
-4. Choose the project that you want to connect:
 
-	![](./1567792993.png)
+From the displayed list, you shall be able to Open projects if they are already connected. You can also join a project or click on “Connect” to connect a project for the first time in Scripture Forge.
 
-5. Optional: If you want to use Translation suggestions or view another project/resource beside your project:
-	1. Click the Source text area:
 
-		![](./231017319.png)
+![](./1783795116.png)
 
-	2. Select the source project:
 
-		![](./1628956354.png)
+After clicking on “Connect” you will be asked to select your Project Source. From the available drop-down list, select the source you wish to use for your project.
 
-6. Optional: Enable translation suggestions (#1 below)
 
-	![](./440460267.png)
+![](./1628956354.png)
 
-7. Optional: Enable Community Checking (#2 above)
-8. Click Connect:
 
-	![](./210173750.png)
+Optional: Enable translation suggestions (#1 below)
 
-9. Wait for Scripture Forge to connect the Paratext project:
 
-	![](./1421415415.png)
+![](./440460267.png)
 
-10. Scripture Forge may take a while to connect your project, the green progress bar will stop moving when your project is fully connected:
 
-	![](./672841105.png)
+Optional: Enable Community Checking (#2 above)
+
+
+When you are ready, Click Connect:
+
+
+![](./210173750.png)
+
+
+Wait for Scripture Forge to connect the Paratext project:
+
+
+![](./1421415415.png)
+
+
+Scripture Forge may take a while to connect your project, the green progress bar will stop moving when your project is fully connected:
+
+
+![](./672841105.png)
 
 
 Note: You may be able to work in Scripture Forge before it is fully connected.

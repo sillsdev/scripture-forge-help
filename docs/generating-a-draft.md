@@ -1,6 +1,6 @@
 ---
 title: Generating a Draft
-sidebar_position: 8
+sidebar_position: 3
 slug: /generating-a-draft
 ---
 
@@ -27,5 +27,11 @@ Once you click it, you will be taken to a **2-Step Process** to generate your dr
 
 - Step 3 (optional): Next, you can also upload any additional files for training the language model. These need to be in .csv format. This step is optional.
 
-After you complete these steps, you shall see the “Generate Draft” button available. Once you click it, please give Scripture Forge time to generate the drafts. This may take roughly 8 hours or longer depending on how busy our servers are.
+After you complete these steps, you shall see the “Generate Draft” button available. Once you click it, please give Scripture Forge time to generate the drafts. This may take roughly 3 hours or longer depending on how busy our servers are.
+
+
+Once the Draft is ready you should see a notification as shown in the below screenshot.
+
+
+![](./2097960595.png)
 

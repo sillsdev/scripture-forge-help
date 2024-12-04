@@ -1,6 +1,6 @@
 ---
 title: Using Community Checking
-sidebar_position: 4
+sidebar_position: 7
 slug: /community-checking
 ---
 
