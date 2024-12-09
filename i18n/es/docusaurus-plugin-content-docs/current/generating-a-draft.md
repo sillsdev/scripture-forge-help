@@ -1,8 +1,12 @@
 ---
 title: Generar un borrador
-sidebar_position: 8
+sidebar_position: 4
 slug: /generating-a-draft
 ---
+
+import ReactPlayer from "react-player";
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
 Una vez que se haya dado de alta en Drafting y haya configurado los ajustes necesarios, podrá acceder a Scripture Forge AI Drafting haciendo clic en el botón "Generar borrador" del menú principal. Ahora tendrá acceso al botón "Generar nuevo borrador".
 
@@ -20,4 +24,8 @@ Una vez que haga clic en él, accederá a un **proceso de 2 pasos** para generar
 
 - Paso 3 (opcional): A continuación, también puede cargar cualquier archivo adicional para el entrenamiento del modelo lingüístico. Deben estar en formato .csv. Este paso es opcional.
 
-Una vez completados estos pasos, verá disponible el botón "Generar borrador". Una vez que haga clic en él, dé tiempo a la Fragua de las Escrituras para generar los borradores. Esto puede tardar unas 8 horas o más dependiendo de lo ocupados que estén nuestros servidores.
+Una vez completados estos pasos, verá disponible el botón "Generar borrador". Una vez que haga clic en él, dé tiempo a la Fragua de las Escrituras para generar los borradores. This may take roughly 3 hours or longer depending on how busy our servers are.
+
+Once the Draft is ready you should see a notification as shown in the below screenshot.
+
+![](./2097960595.png)

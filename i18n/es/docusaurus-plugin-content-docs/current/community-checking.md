@@ -1,10 +1,10 @@
 ---
 title: Utilización de la verificación comunitaria
-sidebar_position: 4
+sidebar_position: 7
 slug: /community-checking
 ---
 
-
+import ReactPlayer from "react-player";
 
 Esta guía describe cómo utilizar [la Fragua de las Escrituras](https://scriptureforge.org/) para la verificación comunitaria. Los pasos básicos son los siguientes:
 
@@ -42,6 +42,8 @@ Actualmente, la única forma de obtener opiniones de los verificadores de la com
 
 
 
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
 ### Crear preguntas individualmente en la Fragua de las Escrituras {#0c67e74b02944b61a33b3ea2d101effd}
 
@@ -188,6 +190,8 @@ Para cargar archivos de audio y cronometraje, en la barra lateral haga clic en *
 ## Invita a la gente a comprobar tu proyecto {#678dca00aaa54fd79319ecf815049301}
 
 
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
+
 Una vez que tengas las preguntas sobre tu proyecto, es hora de invitar a los verificadores de la comunidad.
 
 
@@ -218,7 +222,7 @@ Si activas este ajuste, puedes elegir entre dos modos de compartir. Si seleccion
 En la barra lateral, haz clic en **Usuarios**, y se te presentarán las opciones para compartir.
 
 
-![](./1688833473.png)
+![](./998098765.png)
 
 
 Si activaste la opción de compartir enlaces en el paso anterior, habrá un enlace que podrás copiar para compartir el proyecto. Para copiar el enlace, haz clic en el icono de copia situado a la derecha del enlace.
@@ -245,13 +249,13 @@ Para ver las respuestas de los verificadores comunitarios, haz clic en uno de lo
 Si quieres encontrar respuestas que no han sido marcadas para exportar, o marcadas como resueltas, utiliza el filtro situado encima de la lista de preguntas para encontrar **Respuestas no revisadas**.
 
 
-![](./2739440.png)
+![](./1417670916.png)
 
 
 Si prefieres que todas las respuestas se exporten a Paratext sin marcarlas individualmente para su exportación, ve a la configuración del proyecto y busca la sección **Exportar respuestas**. La opción por defecto es exportar sólo **las Respuestas marcadas para exportar**, pero este ajuste puede cambiarse a **Todas las respuestas** o **Sin respuestas**.
 
 
-![](./1265120461.png)
+![](./2739440.png)
 
 
 ## Sincroniza el proyecto para que las respuestas aparezcan como notas en Paratext {#1502b9d293ff4c3aacbe91834fd02bb2}
@@ -269,7 +273,7 @@ La nota mostrará la pregunta original, el nombre del verificador de la comunida
 Las notas generadas a partir de las respuestas de comprobación comunitaria tendrán una etiqueta de nota única, con un icono diferente al de otras notas de tu proyecto Paratext. Puedes cambiar el icono editando la etiqueta de la nota. Para más detalles, consulta [el artículo de ayuda de Paratext sobre etiquetas de notas personalizadas](https://paratext.org/paratext-training/tutorials/custom-project-note-tags-tutorial/). También puedes [filtrar las notas por su etiqueta de nota](https://paratext.org/2022/08/15/custom-note-tags/#Filter_for_Custom_Note_Tags), lo que te permite mostrar sólo las respuestas de comprobación de la comunidad, u ocultarlas por completo de la vista.
 
 
-:::note
+./673009763.png
 
 Actualmente las respuestas de audio aparecen en Paratext pero no se puede reproducir el audio. Para reproducir el audio de una respuesta hay que abrirla en Scripture Forge. Esto puede mejorarse en el futuro.
 
@@ -281,5 +285,5 @@ Actualmente las respuestas de audio aparecen en Paratext pero no se puede reprod
 ## Comentarios {#f7d132ecbb04437e9d5a81440f84b6df}
 
 
-Si tienes preguntas, problemas o sugerencias, ponte en contacto con el equipo de Scripture Forge en [el sitio de apoyo a la comunidad](https://community.scripture.software.sil.org/c/scripture-forge/19), que permite a otras personas participar en la conversación. Valoramos tus comentarios y con frecuencia hacemos cambios o solucionamos problemas a petición de nuestros usuarios.
+Si tiene preguntas, problemas o sugerencias, póngase en contacto con el equipo de Scripture Forge en [help@scriptureforge.org](mailto:help@scriptureforge.org). También puede publicar en el [sitio de apoyo a la comunidad](https://community.scripture.software.sil.org/c/scripture-forge/19), que permite a otros participar en la conversación. Valoramos tus comentarios y con frecuencia hacemos cambios o solucionamos problemas a petición de nuestros usuarios.
 

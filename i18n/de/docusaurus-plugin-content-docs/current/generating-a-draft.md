@@ -1,8 +1,12 @@
 ---
 title: Einen Entwurf erstellen
-sidebar_position: 8
+sidebar_position: 4
 slug: /generating-a-draft
 ---
+
+import ReactPlayer from "react-player";
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
 Nachdem Du Dich für das Entwerfen angemeldet und die erforderlichen Einstellungen konfiguriert hast, kannst Du auf <i>Scripture Forge AI Drafting</i> zugreifen, indem Du im Hauptmenü auf die Schaltfläche "Entwurf generieren" klicken. Du solltest nun Zugriff auf die Schaltfläche "Neuen Entwurf generieren" haben.
 
@@ -20,4 +24,8 @@ Sobald Du darauf klickst, wirst Du zu einem **2-stufigen Verfahren** weitergelei
 
 - Schritt 3 (optional): Als Nächstes kannst Du auch zusätzliche Dateien für die Schulung des Sprachmodells hochladen. Diese müssen im .csv-Format vorhanden sein. Dieser Schritt ist optional.
 
-Nachdem Du diese Schritte ausgeführt hast, wird die Schaltfläche "Entwurf generieren" angezeigt. Sobald Du darauf klickst, gib Scripture Forge bitte Zeit, die Entwürfe zu generieren. Dies kann etwa 8 Stunden oder länger dauern, je nachdem, wie ausgelastet unsere Server sind.
+Nachdem Du diese Schritte ausgeführt hast, wird die Schaltfläche "Entwurf generieren" angezeigt. Sobald Du darauf klickst, gib Scripture Forge bitte Zeit, die Entwürfe zu generieren. This may take roughly 3 hours or longer depending on how busy our servers are.
+
+Once the Draft is ready you should see a notification as shown in the below screenshot.
+
+![](./2097960595.png)

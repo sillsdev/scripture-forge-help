@@ -1,6 +1,6 @@
 ---
 title: Für KI-Entwürfe vorbereiten
-sidebar_position: 7
+sidebar_position: 3
 slug: /preparing-for-ai-drafting
 ---
 

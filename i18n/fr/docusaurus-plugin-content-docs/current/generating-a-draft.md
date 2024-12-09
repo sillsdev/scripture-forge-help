@@ -1,8 +1,12 @@
 ---
 title: Générer un brouillon
-sidebar_position: 8
+sidebar_position: 4
 slug: /generating-a-draft
 ---
+
+import ReactPlayer from "react-player";
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
 Une fois que vous êtes inscrit au brouillon et que vous avez configuré les paramètres requis, vous pouvez accéder au brouillon de l'Ecriture de Forge AI en cliquant sur le bouton « Générer un brouillon » dans le menu principal. Vous aurez maintenant accès au bouton "Générer un nouveau brouillon".
 
@@ -20,4 +24,8 @@ Une fois que vous aurez cliqué, vous serez dirigé vers un **processus en deux 
 
 - Étape 3 (optionnel) : Ensuite, vous pouvez également télécharger des fichiers supplémentaires pour former le modèle de langue. Celles-ci doivent être au format .csv. Cette étape est facultative.
 
-Une fois ces étapes terminées, vous verrez le bouton « Générer un brouillon ». Une fois que vous avez cliqué, donnez du temps à la Forge biblique pour générer les brouillons. Cela peut prendre environ 8 heures ou plus selon l'occupation de nos serveurs.
+Une fois ces étapes terminées, vous verrez le bouton « Générer un brouillon ». Une fois que vous avez cliqué, donnez du temps à la Forge biblique pour générer les brouillons. This may take roughly 3 hours or longer depending on how busy our servers are.
+
+Once the Draft is ready you should see a notification as shown in the below screenshot.
+
+![](./2097960595.png)

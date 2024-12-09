@@ -1,6 +1,6 @@
 ---
 title: Uso de las sugerencias de traducción
-sidebar_position: 3
+sidebar_position: 8
 slug: /translation-suggestions
 ---
 
@@ -19,7 +19,7 @@ Las sugerencias de traducción permiten a Scripture Forge analizar conjuntamente
 ## Configure su ventana de sugerencias de traducción {#055dfd61aa9442e3b6c787613c8085d6}
 
 
-:::note
+/translation-suggestions
 
 Esto debe hacerlo cada usuario que desee utilizar las sugerencias de traducción.
 
@@ -52,7 +52,7 @@ Primero debe **seleccionar su proyecto** en la página de navegación, si aún n
 
 1. Haga clic en el icono del menú Scripture Forge:
 
-    ![](./3354254.png)
+    ![](./1186041765.png)
 
 2. Haga clic en el desplegable del proyecto:
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /connect-paratext-project
 ---
 
-
+import ReactPlayer from "react-player";
 
 ## Introduction {#6222bdf3db3a44b4bf01a9cc6ffdaa80}
 
@@ -24,6 +24,8 @@ Une fois qu'un projet Paratext a été connecté à Scripture Forge, tous les ut
 Pour pouvoir ouvrir un projet dans Scripture Forge, un utilisateur doit simplement [se connecter à Scripture Forge avec ses informations de compte Paratext](/log-in).
 
 
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/exEJxc19Zm4" /></div>
+
 ## Comment connecter un projet Paratext à Scripture Forge {#a71dfc268ebb43a0b19c0ab7018f92b4}
 
 1. Si vous n'avez **jamais connecté** un projet à Scripture Forge :
@@ -31,52 +33,57 @@ Pour pouvoir ouvrir un projet dans Scripture Forge, un utilisateur doit simpleme
 
         ![](./268421786.png)
 
-2. Si vous avez déjà connecté un projet à Scripture Forge, suivez ces instructions pour connecter d'autres projets :
-    1. Cliquez sur le volet de navigation Scripture Forge :
+2. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
 
-        ![](./1134901564.png)
+    To view the list of projects you have access to in Paratext, click on the Scripture Forge icon on the top left of the screen.
 
-    2. La page de navigation peut aussi ressembler à ceci:
 
-        ![](./1119102368.png)
+![](./2112594915.png)
 
-    3. Cliquez sur Connecter un projet :
 
-        ![](./1570973360.png)
+Alternatively, you can also click on your profile icon on the top right of the screen and from the drop-down menu click “My Projects.”
 
-3. Cliquez sur le menu déroulant Projet Paratext :
 
-    ![](./1530454029.png)
+![](./1201536679.png)
 
-4. Choisissez le projet que vous souhaitez connecter :
 
-    ![](./1567792993.png)
+From the displayed list, you shall be able to Open projects if they are already connected. You can also join a project or click on “Connect” to connect a project for the first time in Scripture Forge.
 
-5. Facultatif : Si vous souhaitez utiliser les suggestions de traduction ou afficher un autre projet/ressource à côté de votre projet :
-    1. Cliquez sur la zone Texte source :
 
-        ![](./231017319.png)
+![](./1783795116.png)
 
-    2. Sélectionnez le projet source :
 
-        ![](./1628956354.png)
+After clicking on “Connect” you will be asked to select your Project Source. From the available drop-down list, select the source you wish to use for your project.
 
-6. Facultatif : Activer les suggestions de traduction (#1 ci-dessous)
 
-    ![](./440460267.png)
+![](./1628956354.png)
 
-7. Facultatif : Activer la Vérification par la communauté (#2 ci-dessus)
-8. Cliquez sur Connecter :
 
-    ![](./210173750.png)
+Facultatif : Activer les suggestions de traduction (#1 ci-dessous)
 
-9. Attendez que Scripture Forge connecte le projet Paratext :
 
-    ![](./1421415415.png)
+![](./440460267.png)
 
-10. Scripture Forge peut prendre un certain temps pour connecter votre projet, la barre de progression verte cessera de bouger lorsque votre projet sera complètement connecté :
 
-    ![](./672841105.png)
+Facultatif : Activer la Vérification par la communauté (#2 ci-dessus)
+
+
+When you are ready, Click Connect:
+
+
+![](./210173750.png)
+
+
+Attendez que Scripture Forge connecte le projet Paratext :
+
+
+![](./1421415415.png)
+
+
+Scripture Forge peut prendre un certain temps pour connecter votre projet, la barre de progression verte cessera de bouger lorsque votre projet sera complètement connecté :
+
+
+![](./672841105.png)
 
 
 Remarque : il se peut que vous puissiez travailler dans Scripture Forge avant qu'il ne soit complètement connecté.

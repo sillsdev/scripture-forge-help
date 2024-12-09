@@ -1,10 +1,10 @@
 ---
-title: Überprüfung mit Zielgruppe
-sidebar_position: 4
+title: Überprüfung mit Zielgruppe verwenden
+sidebar_position: 7
 slug: /community-checking
 ---
 
-
+import ReactPlayer from "react-player";
 
 Diese Anleitung beschreibt, wie [Scripture Forge](https://scriptureforge.org/) für die Überprüfung mit der Zielgruppe verwendet werden kann. Die grundlegenden Schritte sind wie folgt:
 
@@ -42,6 +42,8 @@ Im Moment ist die einzige Möglichkeit, Rückmeldungen von Überprüfern aus der
 
 
 
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
 ### Fragen individuell in Scripture Forge erstellen {#0c67e74b02944b61a33b3ea2d101effd}
 
@@ -188,6 +190,8 @@ Um Audio- und Zeitdateien hochzuladen, klicke in der Seitenleiste auf **Fragen &
 ## Leute einladen, Dein Projekt zu überprüfen {#678dca00aaa54fd79319ecf815049301}
 
 
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
+
 Sobald Du die Fragen zu Deinem Projekt hast, wird es Zeit, Überprüfer aus der Zielgruppe einzuladen.
 
 
@@ -281,5 +285,5 @@ Im Moment werden Audioantworten in Paratext angezeigt, aber der Ton kann nicht a
 ## Rückmeldungen {#f7d132ecbb04437e9d5a81440f84b6df}
 
 
-Wenn Du Fragen, Probleme oder Vorschläge hast, wende Dich bitte an das Scripture Forge Team auf der [Community-Support-Seite](https://community.scripture.software.sil.org/c/scripture-forge/19), was anderen erlaubt, an der Unterhaltung teilzunehmen. Wir freuen uns über Deine Rückmeldung und machen häufig Änderungen oder beheben Probleme auf Wunsch unserer Nutzer.
+Wenn Du Fragen, Probleme oder Anregungen hast, wende Dich bitte an das Scripture Forge-Team unter [help@scriptureforge.org.](mailto:help@scriptureforge.org). Du kannst auch auf der [Community-Support-Seite](https://community.scripture.software.sil.org/c/scripture-forge/19)posten, was es anderen erlaubt, an der Unterhaltung teilzunehmen. Wir freuen uns über Deine Rückmeldung und machen häufig Änderungen oder beheben Probleme auf Wunsch unserer Nutzer.
 

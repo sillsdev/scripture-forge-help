@@ -1,6 +1,6 @@
 ---
 title: Préparation pour la rédaction assistée par l'IA
-sidebar_position: 7
+sidebar_position: 3
 slug: /préparation Pour la rédaction assistée par l'IA
 ---
 

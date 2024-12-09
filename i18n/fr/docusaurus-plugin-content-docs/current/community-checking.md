@@ -1,10 +1,10 @@
 ---
 title: Utilisation de la Vérification par la communauté
-sidebar_position: 4
+sidebar_position: 7
 slug: /community-checking
 ---
 
-
+import ReactPlayer from "react-player";
 
 Ce guide décrit comment utiliser [Scripture Forge](https://scriptureforge.org/) pour la Vérification communautaire. Les étapes de base sont les suivantes :
 
@@ -42,6 +42,8 @@ Actuellement, le seul moyen d'obtenir des commentaires de la part des vérificat
 
 
 
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
 ### Créer des questions individuellement dans Scripture Forge {#0c67e74b02944b61a33b3ea2d101effd}
 
@@ -188,6 +190,8 @@ Pour télécharger des fichiers audio et synchronisation, cliquez sur **Question
 ## Invitez des personnes à vérifier votre projet {#678dca00aaa54fd79319ecf815049301}
 
 
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
+
 Une fois que vous avez les questions pour votre projet, il est temps d'inviter les vérificateurs de la communauté.
 
 
@@ -281,5 +285,5 @@ Actuellement, les réponses audio apparaissent dans le Paratext mais l'audio ne 
 ## Vos commentaires {#f7d132ecbb04437e9d5a81440f84b6df}
 
 
-Si vous avez des questions, des problèmes ou des suggestions, veuillez contacter l'équipe de Scripture Forge sur [le site de support de la communauté](https://community.scripture.software.sil.org/c/scripture-forge/19)qui permet à d'autres personnes de participer à la conversation. Nous apprécions vos commentaires et nous apportons fréquemment des modifications ou corrigeons des problèmes à la demande de nos utilisateurs.
+If you have questions, problems, or suggestions, please reach out to the Scripture Forge team at [help@scriptureforge.org](mailto:help@scriptureforge.org). Vous pouvez également publier des messages sur le [site de soutien communautaire](https://community.scripture.software.sil.org/c/scripture-forge/19), ce qui permet à d'autres personnes de participer à la conversation. Nous apprécions vos commentaires et nous apportons fréquemment des modifications ou corrigeons des problèmes à la demande de nos utilisateurs.
 

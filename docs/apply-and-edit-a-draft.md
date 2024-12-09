@@ -1,6 +1,6 @@
 ---
 title: Apply and Edit a Draft
-sidebar_position: 4
+sidebar_position: 5
 slug: /apply-and-edit-a-draft
 ---
 
