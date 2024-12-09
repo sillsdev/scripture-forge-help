@@ -1,87 +1,87 @@
 ---
-title: Apply and Edit a Draft
+title: Appliquer et modifier un brouillon
 sidebar_position: 5
 slug: /apply-and-edit-a-draft
 ---
 
 import ReactPlayer from "react-player";
 
-# Apply and Edit a Draft {#2a0f75e3f955442e9b4f4b375f8cc58f}
+# Appliquer et modifier un projet {#2a0f75e3f955442e9b4f4b375f8cc58f}
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/S4yvGDlcZ9o" /></div>
 
-# How to Apply a Draft {#1430d745ac9e80878a51d2b8e2be7d05}
+# Comment appliquer un projet {#1430d745ac9e80878a51d2b8e2be7d05}
 
-After a draft has been generated, it is ready to be reviewed and edited by a translator and must go through the next translation steps.
+Après la génération d'un brouillon, il est prêt à être révisé et édité par un traducteur et doit passer par les étapes suivantes de traduction.
 
-To begin editing, the draft needs to first be added to your project. There are 3 options to do this:
+Pour commencer à éditer, le brouillon doit d'abord être ajouté à votre projet. Il y a deux manières de procéder:
 
-### **1) Chapter by chapter** {#1430d745ac9e80a29085eecf41dc2997}
+### **1) Chapitre par chapitre** {#1430d745ac9e80a29085eecf41dc2997}
 
-Click the Book name of the draft that was generated. This shall take you to the “Edit and Review” interface. The image below shows the draft of Deuteronomy.
+Cliquez sur le nom du livre du brouillon qui a été généré. Ceci vous mènera à l’interface « Édition et Révision ». L'image ci-dessous montre la ébauche de Deuteronomy.
 
 ![](./476959662.png)
 
-Here you will see the draft of the first available chapter on one side. On the other side you will see your project, which shall be empty and have no data in it for the selected chapter. To add the draft to your project, click on “Add to Project.” This will add only the current chapter to your project and you can begin to review and edit it.
+Vous trouverez ici la ébauche du premier chapitre disponible d'un côté. De l'autre côté, vous verrez votre projet, qui sera vide et n'a aucune donnée pour le chapitre sélectionné. Pour ajouter le brouillon à votre projet, cliquez sur « Ajouter au projet». Cela n'ajoutera que le chapitre en cours à votre projet et vous pourrez commencer à le réviser et le modifier.
 
-### 2. Add the entire book {#1430d745ac9e803183c8d916bc54de64}
+### 2. Ajouter tout le livre {#1430d745ac9e803183c8d916bc54de64}
 
-Once your drafts are generated, click the 3-dot menu by the name of the book you wish to add to your project. Then, click on “Add to project” to add the entire book to your project.
+Une fois vos brouillons générés, cliquez sur le menu à 3 points situé à côté du nom du livre que vous souhaitez ajouter à votre projet. Ensuite, cliquez sur « Ajouter au projet » pour ajouter le livre entier à votre projet.
 
 ![](./739210120.png)
 
-### 3. Download the Draft and add it through Paratext {#1430d745ac9e80cdb498cad97099687e}
+### 3. Téléchargez le brouillon et ajoutez-le via Paratext {#1430d745ac9e80cdb498cad97099687e}
 
-Click “Download Draft” which will download the draft in a .usfm file. This file can then be added to your project through Paratext. After it has been added through Paratext, please make sure to run a send/receive in Paratext and then a synchronize in Scripture Forge to reflect this in your project in Scripture Forge.
+Cliquez sur « Télécharger le brouillon » qui téléchargera le brouillon dans un fichier .usfm. Ce fichier peut ensuite être ajouté à votre projet via Paratext. Après avoir été ajouté via Paratext, assurez-vous de lancer un Envoyer/Recevoir dans Paratext et ensuite une synchronisation dans Scripture Forge pour refléter cela dans votre projet dans Scripture Forge.
 
 ![](./470740927.png)
 
-# **How to Edit a Draft** {#1430d745ac9e80cb8debce126560e7b5}
+# **Comment modifier un brouillon** {#1430d745ac9e80cb8debce126560e7b5}
 
-This can be done in Scripture Forge by clicking on “Edit and Review” which will take you to the screen shown below. The image below shows the book of Mark.
+Vous pouvez le faire dans Scripture Forge en cliquant sur "Edit and Review", ce qui vous amènera à l'écran ci-dessous. L'image ci-dessous montre le livre de Marque.
 
 ![](./1670090022.png)
 
-The interface will provide you with two sections; one will show the primary reference translation (known as source), and the other will have the newly generated draft (known as target). Here you can review the draft and make any changes if necessary, just like in Paratext.
+L'interface vous fournira deux sections ; l'un montrera la traduction de référence principale (connue sous le nom de source), et l'autre aura le nouveau brouillon généré (appelé cible). Ici, vous pouvez examiner le brouillon et apporter des modifications si nécessaire, comme dans Paratext.
 
-### **Navigating the Draft** {#1430d745ac9e803187c2ff37b7ee519c}
+### **Naviguer dans le brouillon** {#1430d745ac9e803187c2ff37b7ee519c}
 
-If you generated a draft for more than one book, you can navigate through books from the dropdown list available in the top left section of the screen as show below.
+Si vous avez généré un projet pour plus d'un livre, vous pouvez naviguer entre les livres à partir de la liste déroulante disponible dans la partie supérieure gauche de l'écran, comme indiqué ci-dessous.
 
 ![](./1640308464.png)
 
-You can also navigate to a specific chapter using the dropdown list right next to it. Alternatively, you can also navigate to the previous or next chapter by using the arrows next to the dropdown.
+Vous pouvez également naviguer vers un chapitre spécifique en utilisant la liste déroulante juste à côté. Vous pouvez également naviguer vers le chapitre précédent ou suivant en utilisant les flèches situées à côté de la liste déroulante.
 
-If you wish to swap the placement of the source and target (left and right panes), you may do so by clicking the swap button as shown below.
+Si vous souhaitez changer le placement de la source et de la cible (panneaux de gauche et de droite), vous pouvez le faire en cliquant sur le bouton de swap comme indiqué ci-dessous.
 
 ![](./1749660801.png)
 
-Note that selecting a verse in the draft will highlight the corresponding Primary Reference Translation verse in yellow.
+Notez que la sélection d'un verset dans le brouillon mettra en surbrillance le verset correspondant de la traduction de référence principale en jaune.
 
-As you select a verse and begin working on it, the corresponding primary reference translation will auto-navigate and will display the same verse in the source language, making it easier to keep track and follow the draft.
+Lorsque vous sélectionnez un verset et commencez à travailler dessus, la traduction de référence principale correspondante naviguera automatiquement et affichera le même verset dans la langue source, en facilitant le suivi et le suivi du brouillon.
 
-### **Adding Comments** {#1430d745ac9e8038aee0f2290df4172b}
+### **Ajout de commentaires** {#1430d745ac9e8038aee0f2290df4172b}
 
-Scripture Forge allows users to add additional comments as they are working on the drafts.
+Scripture Forge permet aux utilisateurs d'ajouter des commentaires supplémentaires lorsqu'ils travaillent sur les brouillons.
 
-This can be done by selecting the verse where the comment needs to be added and then clicking on the “Add Comment” button.
+Cela peut être fait en sélectionnant le verset où le commentaire doit être ajouté, puis en cliquant sur le bouton « Ajouter un commentaire ».
 
 ![](./1078796203.png)
 
-Once a comment is added it will be marked by a star as shown below. To update or edit the comment, simply click the star and you will be prompted to make the desired changes.
+Une fois qu'un commentaire est ajouté, il sera marqué par une étoile comme indiqué ci-dessous. Pour mettre à jour ou modifier le commentaire, cliquez simplement sur l'étoile et vous serez invité à apporter les modifications souhaitées.
 
 ![](./632219727.png)
 
-When the draft is applied to your Paratext project, comments will be exported to your Paratext project as notes.
+Lorsque le brouillon est appliqué à votre projet Paratext, les commentaires seront exportés vers votre projet Paratext sous forme de notes.
 
-### **Viewing History** {#1430d745ac9e809d90bbf0371c2d6c6d}
+### **Visualisation de l'historique** {#1430d745ac9e809d90bbf0371c2d6c6d}
 
-Scripture Forge saves a history of the drafts whenever a sync is run. If you ever need to go back to an older version of the draft, you can do so by checking its history.
+Scripture Forge enregistre un historique des brouillons à chaque fois qu'une synchronisation est effectuée. Si vous avez besoin de revenir à une version plus ancienne du projet, vous pouvez le faire en consultant son historique.
 
-To do this, click on the New Tab button as shown below and select “History.”
+Pour cela, cliquez sur le bouton Nouvel onglet comme indiqué ci-dessous et sélectionnez « Historique ».
 
 ![](./1273285247.png)
 
-Now, using the dropdown list, select the date to open the desired version of your draft.
+Maintenant, en utilisant la liste déroulante, sélectionnez la date pour ouvrir la version désirée de votre brouillon.
 
-**Please note that when a new draft is generated, any older drafts that have not been saved will be lost. Remember to download the draft or apply it to your Paratext project and run a sync before generating a new draft.**
+**Veuillez noter que lorsqu'un nouveau brouillon est généré, tous les anciens brouillons qui n'ont pas été sauvegardés seront perdus. N'oubliez pas de télécharger le brouillon ou de l'appliquer à votre projet Paratext et d'exécuter une synchronisation avant de générer un nouveau brouillon.**

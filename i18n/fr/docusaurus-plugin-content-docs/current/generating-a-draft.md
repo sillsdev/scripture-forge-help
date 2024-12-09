@@ -24,8 +24,8 @@ Une fois que vous aurez cliqué, vous serez dirigé vers un **processus en deux 
 
 - Étape 3 (optionnel) : Ensuite, vous pouvez également télécharger des fichiers supplémentaires pour former le modèle de langue. Celles-ci doivent être au format .csv. Cette étape est facultative.
 
-Une fois ces étapes terminées, vous verrez le bouton « Générer un brouillon ». Une fois que vous avez cliqué, donnez du temps à la Forge biblique pour générer les brouillons. This may take roughly 3 hours or longer depending on how busy our servers are.
+Une fois ces étapes terminées, vous verrez le bouton « Générer un brouillon ». Une fois que vous avez cliqué, donnez du temps à la Forge biblique pour générer les brouillons. Cela peut prendre environ 3 heures ou plus en fonction de l'activité de nos serveurs.
 
-Once the Draft is ready you should see a notification as shown in the below screenshot.
+Une fois que le brouillon est prêt, vous devriez voir une notification comme indiqué dans la capture d'écran ci-dessous.
 
 ![](./2097960595.png)

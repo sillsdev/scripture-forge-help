@@ -33,27 +33,27 @@ Pour pouvoir ouvrir un projet dans Scripture Forge, un utilisateur doit simpleme
 
         ![](./268421786.png)
 
-2. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
+2. Si vous avez déjà connecté un projet à Scripture Forge, suivez ces instructions pour connecter d'autres projets :
 
-    To view the list of projects you have access to in Paratext, click on the Scripture Forge icon on the top left of the screen.
+    Pour afficher la liste des projets auxquels vous avez accès dans Paratext, cliquez sur l'icône de la Forge biblique en haut à gauche de l'écran.
 
 
 ![](./2112594915.png)
 
 
-Alternatively, you can also click on your profile icon on the top right of the screen and from the drop-down menu click “My Projects.”
+Vous pouvez également cliquer sur l’icône de votre profil en haut à droite de l’écran et dans le menu déroulant cliquer sur « Mes projets ».
 
 
 ![](./1201536679.png)
 
 
-From the displayed list, you shall be able to Open projects if they are already connected. You can also join a project or click on “Connect” to connect a project for the first time in Scripture Forge.
+À partir de la liste affichée, vous pourrez ouvrir des projets s'ils sont déjà connectés. Vous pouvez également rejoindre un projet ou cliquer sur "Connect" pour connecter un projet pour la première fois dans Scripture Forge.
 
 
 ![](./1783795116.png)
 
 
-After clicking on “Connect” you will be asked to select your Project Source. From the available drop-down list, select the source you wish to use for your project.
+Après avoir cliqué sur « Connecter », il vous sera demandé de sélectionner votre source de projet. Dans la liste déroulante disponible, sélectionnez la source que vous souhaitez utiliser pour votre projet.
 
 
 ![](./1628956354.png)
@@ -68,7 +68,7 @@ Facultatif : Activer les suggestions de traduction (#1 ci-dessous)
 Facultatif : Activer la Vérification par la communauté (#2 ci-dessus)
 
 
-When you are ready, Click Connect:
+Lorsque vous êtes prêt, cliquez sur Connecter :
 
 
 ![](./210173750.png)
