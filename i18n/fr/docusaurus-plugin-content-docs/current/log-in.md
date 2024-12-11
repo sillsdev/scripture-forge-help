@@ -20,7 +20,7 @@ Puis cliquez sur Se connecter avec Paratext :
 ![](./1624359167.png)
 
 
-Ensuite, autorisez la Forge biblique pour vous connecter à votre compte Paratext. Lorsque vous y êtes invité, tapez l'adresse e-mail associée à votre compte de registre [Paratext](https://registry.paratext.org/users/me) puis cliquez sur la flèche de connexion (ou appuyez sur la touche Entrée)
+Ensuite, autorisez Scripture Forge à se connecter à votre compte Paratext. Lorsque vous y êtes invité, tapez l'adresse e-mail associée à votre compte de registre [Paratext](https://registry.paratext.org/users/me) puis cliquez sur la flèche de connexion (ou appuyez sur la touche Entrée)
 
 
 ![](./448045579.png)

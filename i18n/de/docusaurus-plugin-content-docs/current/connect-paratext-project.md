@@ -33,27 +33,27 @@ Um ein Projekt in Scripture Forge öffnen zu können, muss ein Benutzer sich nur
 
         ![](./268421786.png)
 
-2. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
+2. Falls Du bereits ein Projekt mit dem Scripture Forge verbunden hast, folge diesen Anweisungen, um weitere Projekte zu verbinden:
 
-    To view the list of projects you have access to in Paratext, click on the Scripture Forge icon on the top left of the screen.
+    Um die Liste der Projekte anzuzeigen, auf die Du in Paratext Zugriff hast, klicke auf das Scripture Forge-Symbol oben links auf dem Bildschirm.
 
 
 ![](./2112594915.png)
 
 
-Alternatively, you can also click on your profile icon on the top right of the screen and from the drop-down menu click “My Projects.”
+Alternativ kannst Du auch auf Dein Profilsymbol oben rechts auf dem Bildschirm und im Dropdown-Menü auf "Meine Projekte" klicken.
 
 
 ![](./1201536679.png)
 
 
-From the displayed list, you shall be able to Open projects if they are already connected. You can also join a project or click on “Connect” to connect a project for the first time in Scripture Forge.
+In der angezeigten Liste kannst Du Projekte öffnen, wenn diese bereits verbunden sind. Du kannst auch einem Projekt beitreten oder auf "Verbinden" klicken, um ein Projekt zum ersten Mal in Scripture Forge zu verbinden.
 
 
 ![](./1783795116.png)
 
 
-After clicking on “Connect” you will be asked to select your Project Source. From the available drop-down list, select the source you wish to use for your project.
+Nach dem Klicken auf "Verbinden" wirst Du aufgefordert, Deine Projektquelle auszuwählen. Wähle aus der verfügbaren Dropdown-Liste die Quelle aus, die Du für Dein Projekt verwenden möchtest.
 
 
 ![](./1628956354.png)
@@ -68,7 +68,7 @@ Optional: Übersetzungsvorschläge aktivieren (#1 unten)
 Optional: Überprüfgung mit Zielgruppe aktivieren (#2 oben)
 
 
-When you are ready, Click Connect:
+Wenn Du bereit bist, klicke auf Verbinden:
 
 
 ![](./210173750.png)

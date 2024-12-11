@@ -6,11 +6,11 @@ slug: /apply-and-edit-a-draft
 
 import ReactPlayer from "react-player";
 
-# Appliquer et modifier un projet {#2a0f75e3f955442e9b4f4b375f8cc58f}
+# Appliquer et modifier un brouillon {#2a0f75e3f955442e9b4f4b375f8cc58f}
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/S4yvGDlcZ9o" /></div>
 
-# Comment appliquer un projet {#1430d745ac9e80878a51d2b8e2be7d05}
+# Comment appliquer un brouillon {#1430d745ac9e80878a51d2b8e2be7d05}
 
 Après la génération d'un brouillon, il est prêt à être révisé et édité par un traducteur et doit passer par les étapes suivantes de traduction.
 
@@ -46,13 +46,13 @@ L'interface vous fournira deux sections ; l'un montrera la traduction de référ
 
 ### **Naviguer dans le brouillon** {#1430d745ac9e803187c2ff37b7ee519c}
 
-Si vous avez généré un projet pour plus d'un livre, vous pouvez naviguer entre les livres à partir de la liste déroulante disponible dans la partie supérieure gauche de l'écran, comme indiqué ci-dessous.
+Si vous avez généré un brouillon pour plus d'un livre, vous pouvez naviguer à travers les livres à partir de la liste déroulante disponible en haut à gauche de l'écran comme montré ci-dessous.
 
 ![](./1640308464.png)
 
 Vous pouvez également naviguer vers un chapitre spécifique en utilisant la liste déroulante juste à côté. Vous pouvez également naviguer vers le chapitre précédent ou suivant en utilisant les flèches situées à côté de la liste déroulante.
 
-Si vous souhaitez changer le placement de la source et de la cible (panneaux de gauche et de droite), vous pouvez le faire en cliquant sur le bouton de swap comme indiqué ci-dessous.
+Si vous souhaitez intervertir l'emplacement de la source et de la cible (volets gauche et droit), vous pouvez le faire en cliquant sur le bouton "intervertir" comme indiqué ci-dessous.
 
 ![](./1749660801.png)
 

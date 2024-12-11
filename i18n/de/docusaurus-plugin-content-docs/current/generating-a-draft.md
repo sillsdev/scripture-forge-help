@@ -24,8 +24,8 @@ Sobald Du darauf klickst, wirst Du zu einem **2-stufigen Verfahren** weitergelei
 
 - Schritt 3 (optional): Als Nächstes kannst Du auch zusätzliche Dateien für die Schulung des Sprachmodells hochladen. Diese müssen im .csv-Format vorhanden sein. Dieser Schritt ist optional.
 
-Nachdem Du diese Schritte ausgeführt hast, wird die Schaltfläche "Entwurf generieren" angezeigt. Sobald Du darauf klickst, gib Scripture Forge bitte Zeit, die Entwürfe zu generieren. This may take roughly 3 hours or longer depending on how busy our servers are.
+Nachdem Du diese Schritte ausgeführt hast, wird die Schaltfläche "Entwurf generieren" angezeigt. Sobald Du darauf klickst, gib Scripture Forge bitte Zeit, die Entwürfe zu generieren. Dies kann etwa 3 Stunden oder länger dauern, je nachdem, wie ausgelastet unsere Server sind.
 
-Once the Draft is ready you should see a notification as shown in the below screenshot.
+Sobald der Entwurf fertig ist, solltest Du eine Benachrichtigung erhalten, wie in der folgenden Abbildung dargestellt.
 
 ![](./2097960595.png)
