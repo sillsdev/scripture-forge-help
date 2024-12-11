@@ -19,7 +19,7 @@ Las sugerencias de traducción permiten a Scripture Forge analizar conjuntamente
 ## Configure su ventana de sugerencias de traducción {#055dfd61aa9442e3b6c787613c8085d6}
 
 
-/translation-suggestions
+:::note
 
 Esto debe hacerlo cada usuario que desee utilizar las sugerencias de traducción.
 
