@@ -285,5 +285,5 @@ Actuellement, les réponses audio apparaissent dans le Paratext mais l'audio ne 
 ## Vos commentaires {#f7d132ecbb04437e9d5a81440f84b6df}
 
 
-If you have questions, problems, or suggestions, please reach out to the Scripture Forge team at [help@scriptureforge.org](mailto:help@scriptureforge.org). Vous pouvez également publier des messages sur le [site de soutien communautaire](https://community.scripture.software.sil.org/c/scripture-forge/19), ce qui permet à d'autres personnes de participer à la conversation. Nous apprécions vos commentaires et nous apportons fréquemment des modifications ou corrigeons des problèmes à la demande de nos utilisateurs.
+Si vous avez des questions, des problèmes ou des suggestions, veuillez contacter l'équipe de Scripture Forge à [help@scriptureforge.org](mailto:help@scriptureforge.org). Vous pouvez également publier des messages sur le [site de soutien communautaire](https://community.scripture.software.sil.org/c/scripture-forge/19), ce qui permet à d'autres personnes de participer à la conversation. Nous apprécions vos commentaires et nous apportons fréquemment des modifications ou corrigeons des problèmes à la demande de nos utilisateurs.
 
