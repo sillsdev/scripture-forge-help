@@ -1,12 +1,12 @@
 ---
-title: Préparation pour la rédaction assistée par l'IA
+title: Préparation pour l'ébauche assistée par l'IA
 sidebar_position: 3
-slug: /préparation Pour la rédaction assistée par l'IA
+slug: /preparing-for-ai-drafting
 ---
 
-## **Inscrivez-vous pour la rédaction automatique.** {#c01e77600a3b440ead3f1b816837d614}
+## **Inscrivez-vous pour l'ébauche automatique.** {#c01e77600a3b440ead3f1b816837d614}
 
-Pour accéder à la rédaction automatique de Scripture Forge, vous devrez cliquer sur le bouton « Générer un brouillon » dans le menu principal. Si c'est la première fois que vous générez un brouillon dans votre projet, vous serez invité à vous inscrire au projet de traduction et à remplir le formulaire d'ébauche de traduction. Vous verrez le bouton "S'inscrire à la rédaction" comme indiqué dans l'image ci-dessous.
+Pour accéder à la rédaction automatique de Scripture Forge, vous devrez cliquer sur le bouton « Générer une ébauche » dans le menu principal. Si c'est la première fois que vous générez une ébauche dans votre projet, vous serez invité à vous inscrire au projet de traduction et à remplir le formulaire d'ébauche de traduction. Vous verrez le bouton "S'inscrire à la rédaction" comme indiqué dans l'image ci-dessous.
 
 ![](./2066867633.png)
 
@@ -26,7 +26,7 @@ Vous avez également la possibilité de cocher la case "Activer les suggestions 
 
 Nous recommandons de désactiver les suggestions de traduction si vous prévoyez d'utiliser la Rédaction Automatique.
 
-## **Paramètres de génération du brouillon de traduction** {#4e17f4ac70274b9d8d615ad3d2679a82}
+## **Paramètres de génération d'une ébauche de traduction** {#4e17f4ac70274b9d8d615ad3d2679a82}
 
 Une fois que l'équipe d'intégration de Scripture Forge vous a notifié que votre projet est prêt pour la rédaction automatique, cette section apparaîtra dans les paramètres. L'équipe de Scripture Forge vous aidera à obtenir des instructions sur ces paramètres dans le cadre du processus d'intégration.
 
@@ -36,9 +36,9 @@ Comme indiqué dans l'image ci-dessus, vous aurez quelques options présentées.
 
 **1) Utilisez une source différente pour ébaucher une case à cocher**
 
-- Cela vous permettra de sélectionner une traduction qui sera utilisée **à la place de** la traduction de référence principale pour générer un brouillon.
+- Cela vous permettra de sélectionner une traduction qui sera utilisée **à la place de** la traduction de référence principale pour générer une ébauche.
 - La traduction alternative sélectionnée ici doit être la **même langue** que la traduction de référence principale.
-- Cette traduction influencera le style ainsi que le contenu lexical et exégétique du brouillon.
+- Cette traduction influencera le style ainsi que le contenu lexical et exégétique d'une ébauche.
 
 **2) Utilisez une source différente pour la case à cocher Formation**
 
