@@ -30,10 +30,10 @@ npm install
 npx @sillsdev/docu-notion@latest -n "${SF_HELP_NOTION_TOKEN}" -r "${SF_HELP_NOTION_ROOT_PAGE_ID}" --image-file-name-format legacy
 
 # Needed for the current version of docu-notion; this can be removed once it publishes a new release
-sed -i 's/:::📝/:::note/g' docs/*.md
+sed -i 's/:::📝/:::note/g' docs/**/*.md docs/*.md
 
 # Add a div around the ReactPlayer component to make it responsive
-sed -i -e '/<ReactPlayer/ s/^/<div class="player-wrapper">/' -e '/<ReactPlayer/ s/$/<\/div>/' docs/*.md
+sed -i -e '/<ReactPlayer/ s/^/<div class="player-wrapper">/' -e '/<ReactPlayer/ s/$/<\/div>/' docs/**/*.md docs/*.md
 
 if [[ "${skip_pulling_from_s3}" = true ]]; then
     echo "Skipping pulling from S3."
