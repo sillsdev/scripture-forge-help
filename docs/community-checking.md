@@ -1,6 +1,6 @@
 ---
 title: Using Community Checking
-sidebar_position: 7
+sidebar_position: 3
 slug: /community-checking
 ---
 
@@ -234,6 +234,9 @@ If link sharing is turned off, or if you want to send email invitations to users
 
 
 ## Receive and interact with responses to the questions {#d09b7e47859e451783e6dcca8a80f40a}
+
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 
 To monitor community checking responses, click on **Overview** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
