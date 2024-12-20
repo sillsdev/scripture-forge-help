@@ -1,6 +1,6 @@
 ---
 title: Générer une ébauche
-sidebar_position: 4
+sidebar_position: 2
 slug: /generating-a-draft
 ---
 

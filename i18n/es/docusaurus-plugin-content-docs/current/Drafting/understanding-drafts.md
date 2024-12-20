@@ -1,7 +1,7 @@
 ---
 title: Comprender la redacción
-sidebar_position: 2
-slug: /generating-drafts
+sidebar_position: 0
+slug: /understanding-drafts
 ---
 
 ## Introducción {#ad165caedac347798432de75e4305252}

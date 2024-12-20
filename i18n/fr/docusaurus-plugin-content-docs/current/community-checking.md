@@ -1,6 +1,6 @@
 ---
 title: Utilisation de la Vérification par la communauté
-sidebar_position: 7
+sidebar_position: 3
 slug: /community-checking
 ---
 
@@ -233,6 +233,8 @@ Si le partage de lien est désactivé ou si vous souhaitez envoyer des invitatio
 
 ## Recevez les réponses aux questions et interagissez avec elles {#d09b7e47859e451783e6dcca8a80f40a}
 
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Pour surveiller les réponses à la vérification par la communauté, cliquez sur **Vue d'ensemble** dans la section **Vérification par la communauté** dans la barre latérale de navigation. Outre une liste de questions, des statistiques de base concernant les réponses seront affichées.
 

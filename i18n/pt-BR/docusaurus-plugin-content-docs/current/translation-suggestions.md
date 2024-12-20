@@ -1,6 +1,6 @@
 ---
 title: Using Translation Suggestions
-sidebar_position: 8
+sidebar_position: 4
 slug: /translation-suggestions
 ---
 

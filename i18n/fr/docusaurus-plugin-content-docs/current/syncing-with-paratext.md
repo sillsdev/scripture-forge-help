@@ -1,6 +1,6 @@
 ---
 title: Synchroniser Scripture Forge avec Paratext
-sidebar_position: 6
+sidebar_position: 2
 slug: /syncing-with-paratext
 ---
 

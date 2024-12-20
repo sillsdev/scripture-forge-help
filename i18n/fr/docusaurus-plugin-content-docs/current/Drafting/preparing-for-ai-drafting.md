@@ -1,6 +1,6 @@
 ---
 title: Préparation pour l'ébauche assistée par l'IA
-sidebar_position: 3
+sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 

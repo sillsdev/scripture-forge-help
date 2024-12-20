@@ -1,7 +1,7 @@
 ---
 title: Comprendre l'ébauche
-sidebar_position: 2
-slug: /generating-drafts
+sidebar_position: 0
+slug: /understanding-drafts
 ---
 
 ## Introduction {#ad165caedac347798432de75e4305252}
@@ -87,13 +87,13 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Chinois                                 |           | ace       |           |
 | Arabe mésopotamien                      |           | acm       |           |
 | Ta'izzi-Adeni Arabic                    |           | acq       |           |
-| Tunisian Arabic                         |           | aeb       |           |
+| Arabe tunisien                          |           | aeb       |           |
 | Africain (Afrikaans) | af        | afr       | afr       |
 | Arabe Levantin du Sud                   |           | ajp       |           |
 | Akan                                    | ak        | aka       |           |
-| Amharic                                 | am        | amh       | amh       |
+| Amharique                               | am        | amh       | amh       |
 | Arabe du Nord Levantin                  |           | apc       |           |
-| Standard Arabic                         | ar        | arb       | ara       |
+| Arabe standard                          | ar        | arb       | ara       |
 | Arabe najdi                             |           | ars       |           |
 | Arabe marocain                          |           | ary       |           |
 | Arabe égyptien                          |           | arz       |           |
@@ -101,8 +101,8 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Asturian                                |           | ast       |           |
 | Awadhi                                  |           | awa       |           |
 | Aymara                                  |           | ayr       |           |
-| South Azerbaijani                       |           | azb       |           |
-| North Azerbaijani                       |           | azj       |           |
+| Azerbaïdjanais du Sud                   |           | azb       |           |
+| Azerbaïdjanais du Nord                  |           | azj       |           |
 | Bashkir                                 | ba        | bak       | bak       |
 | Bambara                                 | bm        | bam       | bam       |
 | Balinese                                |           | ban       |           |
@@ -112,34 +112,34 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Bhojpuri                                |           | bho       |           |
 | Banjar                                  |           | bjn       |           |
 | Tibetan                                 | bo        | bod       | tib       |
-| Bosnian                                 | bs        | bos       | bos       |
+| Bosnien                                 | bs        | bos       | bos       |
 | Buginese                                |           | bug       |           |
-| Bulgarian                               | bg        | bul       | bul       |
-| Catalan                                 | ca        | cat       | cat       |
+| Bulgare                                 | bg        | bul       | bul       |
+| catalan                                 | ca        | cat       | cat       |
 | Cebuano                                 |           | ceb       |           |
 | Czech                                   | cs        | ces       | cze       |
 | Chokwe                                  |           | cjk       |           |
 | Central Kurdish                         |           | ckb       |           |
 | Crimean Turkish                         |           | crh       |           |
 | Welsh                                   | cy        | cym       | wel       |
-| Danish                                  | da        | dan       | dan       |
-| German                                  | de        | deu       | ger       |
+| Danois                                  | da        | dan       | dan       |
+| Allemand                                | de        | deu       | ger       |
 | Dinka                                   |           | dik       |           |
 | Dyula                                   |           | dyu       |           |
 | Dzongkha                                | dz        | dzo       | dzo       |
 | Greek                                   | el        | ell       | gre       |
-| English                                 | en        | eng       | eng       |
+| Anglais                                 | en        | eng       | eng       |
 | Esperanto                               | eo        | epo       | epo       |
-| Estonian                                | et        | est       | est       |
+| Estonien                                | et        | est       | est       |
 | Basque                                  | eu        | eus       | baq       |
 | Ewe                                     | ee        | ewe       | ewe       |
 | Faroese                                 | fo        | fao       | fao       |
 | Fijian                                  | fj        | fij       | fij       |
 | Finnish                                 | fi        | fin       | fin       |
 | Fon                                     |           | fon       |           |
-| French                                  | fr        | fra       | fre       |
+| Français                                | fr        | fra       | fre       |
 | Friulian                                |           | fur       |           |
-| Nigerian Fulfulde                       |           | fuv       |           |
+| Fulfulde nigérian                       |           | fuv       |           |
 | Scottish Gaelic                         | gd        | gla       | gla       |
 | Irish                                   | ga        | gle       | gle       |
 | Galicien                                | gl        | glg       | glg       |
@@ -152,20 +152,20 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Chhattisgarhi                           |           | hne       |           |
 | Croate                                  | hr        | hrv       | hrv       |
 | Hungarian                               | hu        | hun       | hun       |
-| Armenian                                | hy        | hye       | arm       |
+| Arménien                                | hy        | hye       | arm       |
 | Igbo                                    | ig        | ibo       | ibo       |
 | Iloko                                   |           | ilo       |           |
 | Indonésien                              | id        | ind       | ind       |
 | Icelandic                               | is        | isl       | ice       |
 | Les Italiens                            | it        | ita       | ita       |
 | Javanese                                | jv        | jav       | jav       |
-| Japanese                                | ja        | jpn       | jpn       |
+| japonaises                              | ja        | jpn       | jpn       |
 | Kabyle                                  |           | kab       |           |
 | Kachin                                  |           | kac       |           |
 | Kamba                                   |           | kam       |           |
 | Kannada                                 | kn        | kan       | kan       |
 | Kashmiri                                | ks        | kas       | kas       |
-| Georgian                                | ka        | kat       | geo       |
+| Georgien                                | ka        | kat       | geo       |
 | Central Kanuri                          |           | knc       |           |
 | Kazakh                                  | kk        | kaz       | kaz       |
 | Kabiye                                  |           | kbp       |           |
@@ -177,7 +177,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Kimbundu                                |           | kmb       |           |
 | Northern Kurdish                        |           | kmr       |           |
 | Kongo                                   | kg        | kon       | kon       |
-| Korean                                  | ko        | kor       | kor       |
+| Coréen                                  | ko        | kor       | kor       |
 | Lao                                     | lo        | lao       | lao       |
 | Ligurian                                |           | lij       |           |
 | Limburgish                              | li        | lim       | lim       |
@@ -196,7 +196,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Malayalam                               | ml        | mal       | mal       |
 | Marathi                                 | mr        | mar       | mar       |
 | Minangkabau                             |           | min       | min       |
-| Macedonian                              | mk        | mkd       | mac       |
+| Macédonien                              | mk        | mkd       | mac       |
 | Plateau Malagasy                        |           | plt       | plt       |
 | Maltese                                 | mt        | mlt       | mlt       |
 | Manipuri                                |           | mni       | mni       |
@@ -208,7 +208,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Norwegian Nynorsk                       | nn        | nno       | nno       |
 | Norwegian Bokmål                        | nb        | nob       | nob       |
 | Nepali                                  |           | npi       | npi       |
-| Northern Sotho                          |           | nso       | nso       |
+| Sotho du Nord                           |           | nso       | nso       |
 | Nuer                                    |           | nus       | nus       |
 | Chichewa                                | ny        | nya       | nya       |
 | Occitan                                 | oc        | oci       | oci       |
@@ -219,27 +219,27 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Papiamento                              |           | pap       | pap       |
 | Persian                                 | fa        | pes       | per       |
 | Polish                                  | pl        | pol       | pol       |
-| Portuguese                              | pt        | por       | por       |
+| Portugais                               | pt        | por       | por       |
 | Dari                                    |           | prs       | prs       |
-| Southern Pashto                         |           | pbt       | pbt       |
+| Pachto du Sud                           |           | pbt       | pbt       |
 | Quechua                                 |           | quy       | quy       |
-| Romanian                                | ro        | ron       | rum       |
+| Roumain                                 | ro        | ron       | rum       |
 | Rundi                                   | rn        | run       | run       |
-| Russian                                 | ru        | rus       | rus       |
+| Russe                                   | ru        | rus       | rus       |
 | Sango                                   | sg        | sag       | sag       |
 | Sanskrit                                | sa        | san       | san       |
 | Santali                                 |           | sat       | sat       |
 | Sicilian                                |           | scn       | scn       |
 | Shan                                    |           | shn       | shn       |
-| Sinhala                                 | si        | sin       | sin       |
+| Sinhala                                 | si        | péché     | péché     |
 | Slovak                                  | sk        | slk       | slo       |
-| Slovenian                               | sl        | slv       | slv       |
+| Slovénien                               | sl        | slv       | slv       |
 | Samoan                                  | sm        | smo       | smo       |
 | Shona                                   | sn        | sna       | sna       |
 | Sindhi                                  | sd        | snd       | snd       |
 | Somali                                  | so        | som       | som       |
-| Sotho, Southern                         | st        | sot       | sot       |
-| Spanish                                 | es        | spa       | spa       |
+| Sotho, Sud                              | st        | sot       | sot       |
+| Espagnol                                | es        | spa       | spa       |
 | Tosk Albanian                           | sq        | als       | als       |
 | Sardinian                               | sc        | srd       | srd       |
 | Serbian                                 | sr        | srp       | srp       |
@@ -265,17 +265,17 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Twi                                     | tw        | twi       | twi       |
 | Tamazight                               | tzm       | tzm       | tzm       |
 | Uighur                                  | ug        | uig       | uig       |
-| Ukrainian                               | uk        | ukr       | ukr       |
+| Ukrainien                               | uk        | ukr       | ukr       |
 | Umbundu                                 | umb       | umb       | umb       |
 | Urdu                                    | ur        | urd       | urd       |
 | Uzbek                                   | uz        | uzn       | uzn       |
-| Venetian                                | vec       | vec       | vec       |
+| Vénitien                                | vec       | vec       | vec       |
 | Vietnamienne                            | vi        | vie       | vie       |
 | Waray                                   | war       | war       | war       |
 | Wolof                                   | wo        | wol       | wol       |
 | Xhosa                                   | xh        | xho       | xho       |
 | Yiddish                                 | yi        | ydd       | yid       |
-| Yoruba                                  | yo        | yor       | yor       |
+| Yorouba                                 | yo        | yor       | yor       |
 | Cantonais                               | zh        | yue       | yue       |
 | Chinois                                 | zh        | zho       | chi       |
 | Malay                                   | ms        | zsm       | zsm       |

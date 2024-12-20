@@ -1,6 +1,6 @@
 ---
 title: Utilización de la verificación comunitaria
-sidebar_position: 7
+sidebar_position: 3
 slug: /community-checking
 ---
 
@@ -233,6 +233,8 @@ Si el uso compartido de enlaces está desactivado, o si quieres enviar invitacio
 
 ## Recibe las respuestas a las preguntas e interactúa con ellas {#d09b7e47859e451783e6dcca8a80f40a}
 
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Para supervisar las respuestas de la comprobación comunitaria, haz clic en **Resumen** en la sección **Comprobación comunitaria** de la barra lateral de navegación. Junto con una lista de preguntas, se mostrarán estadísticas básicas sobre las respuestas.
 

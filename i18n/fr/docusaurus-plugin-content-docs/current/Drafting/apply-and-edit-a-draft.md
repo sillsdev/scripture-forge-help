@@ -1,6 +1,6 @@
 ---
 title: Appliquer et modifier une ébauche
-sidebar_position: 5
+sidebar_position: 3
 slug: /apply-and-edit-a-draft
 ---
 

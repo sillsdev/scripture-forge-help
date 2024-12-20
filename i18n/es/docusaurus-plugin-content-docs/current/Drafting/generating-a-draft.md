@@ -1,6 +1,6 @@
 ---
 title: Generar un borrador
-sidebar_position: 4
+sidebar_position: 2
 slug: /generating-a-draft
 ---
 
@@ -24,8 +24,8 @@ Una vez que haga clic en él, accederá a un **proceso de 2 pasos** para generar
 
 - Paso 3 (opcional): A continuación, también puede cargar cualquier archivo adicional para el entrenamiento del modelo lingüístico. Deben estar en formato .csv. Este paso es opcional.
 
-Una vez completados estos pasos, verá disponible el botón "Generar borrador". Una vez que haga clic en él, dé tiempo a la Fragua de las Escrituras para generar los borradores. This may take roughly 3 hours or longer depending on how busy our servers are.
+Una vez completados estos pasos, verá disponible el botón "Generar borrador". Una vez que haga clic en él, dé tiempo a la Fragua de las Escrituras para generar los borradores. Esto puede tardar unas 3 horas o más dependiendo de lo ocupados que estén nuestros servidores.
 
-Once the Draft is ready you should see a notification as shown in the below screenshot.
+Una vez que el borrador esté listo, debería ver una notificación como la que se muestra en la siguiente captura de pantalla.
 
 ![](./2097960595.png)

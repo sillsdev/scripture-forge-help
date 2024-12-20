@@ -1,6 +1,6 @@
 ---
 title: Überprüfung mit Zielgruppe verwenden
-sidebar_position: 7
+sidebar_position: 3
 slug: /community-checking
 ---
 
@@ -233,6 +233,8 @@ Wenn die Linkfreigabe deaktiviert ist, oder wenn Du E-Mail-Einladungen an Benutz
 
 ## Antworten auf die Fragen erhalten und damit austauschen {#d09b7e47859e451783e6dcca8a80f40a}
 
+
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Um Antworten bei der Überprüfung mit der Zielgruppe zu überwachen, klicke auf **Übersicht** unter dem Abschnitt **Überprüfung mit der Zielgruppe** in der Navigationsleiste. Neben einer Liste von Fragen werden grundlegende Statistiken über die Antworten angezeigt.
 

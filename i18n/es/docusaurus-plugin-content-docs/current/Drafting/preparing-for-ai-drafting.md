@@ -1,6 +1,6 @@
 ---
 title: Preparación para la redacción de IA
-sidebar_position: 3
+sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 

@@ -33,27 +33,27 @@ Para poder abrir un proyecto en [Scripture](/log-in) Forge, el usuario sólo tie
 
         ![](./268421786.png)
 
-2. If you have already connected a project to Scripture Forge, follow these instructions to connect any additional projects:
+2. Si ya has conectado un proyecto a Scripture Forge, sigue estas instrucciones para conectar cualquier proyecto adicional:
 
-    To view the list of projects you have access to in Paratext, click on the Scripture Forge icon on the top left of the screen.
+    Para ver la lista de proyectos a los que tiene acceso en Paratext, haga clic en el icono de Scripture Forge, en la parte superior izquierda de la pantalla.
 
 
 ![](./2112594915.png)
 
 
-Alternatively, you can also click on your profile icon on the top right of the screen and from the drop-down menu click “My Projects.”
+También puede hacer clic en el icono de su perfil en la parte superior derecha de la pantalla y, en el menú desplegable, hacer clic en "Mis proyectos".
 
 
 ![](./1201536679.png)
 
 
-From the displayed list, you shall be able to Open projects if they are already connected. You can also join a project or click on “Connect” to connect a project for the first time in Scripture Forge.
+En la lista mostrada, podrá abrir proyectos si ya están conectados. También puede unirse a un proyecto o hacer clic en "Conectar" para conectar un proyecto por primera vez en Scripture Forge.
 
 
 ![](./1783795116.png)
 
 
-After clicking on “Connect” you will be asked to select your Project Source. From the available drop-down list, select the source you wish to use for your project.
+Tras hacer clic en "Conectar", se le pedirá que seleccione la fuente del proyecto. En la lista desplegable disponible, seleccione la fuente que desea utilizar para su proyecto.
 
 
 ![](./1628956354.png)
@@ -68,7 +68,7 @@ Opcional: Activar las sugerencias de traducción (nº 1 más abajo)
 Opcional: Activar la comprobación comunitaria (nº 2 arriba)
 
 
-When you are ready, Click Connect:
+Cuando esté listo, haga clic en Conectar:
 
 
 ![](./440460267.png)

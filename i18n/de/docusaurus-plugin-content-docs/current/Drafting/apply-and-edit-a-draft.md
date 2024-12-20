@@ -1,6 +1,6 @@
 ---
 title: Eines Entwurfs übernehmen und bearbeiten
-sidebar_position: 5
+sidebar_position: 3
 slug: /apply-and-edit-a-draft
 ---
 
