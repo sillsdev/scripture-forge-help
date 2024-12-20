@@ -130,30 +130,36 @@ const helpLocales = [
   },
 ] as const;
 
+async function copyDirContentsRecursive(
+  source: string,
+  dest: string
+): Promise<void> {
+  for await (const dirEntry of Deno.readDir(source)) {
+    if (dirEntry.isFile) {
+      const oldFile = `${source}/${dirEntry.name}`;
+      const newFile = `${dest}/${dirEntry.name}`;
+      await Deno.copyFile(oldFile, newFile);
+    } else if (dirEntry.isDirectory) {
+      const newDir = `${dest}/${dirEntry.name}`;
+      await Deno.mkdir(newDir, { recursive: true });
+      await copyDirContentsRecursive(`${source}/${dirEntry.name}`, newDir);
+    }
+  }
+}
+
 async function copyFiles() {
   for (const locale of helpLocales) {
-    const source = `${projectRoot}/translations/${locale.crowdin}/Guides`;
+    const sourceDocsDir = `${projectRoot}/docs`;
+    const localizedGuidesDir = `${projectRoot}/translations/${locale.crowdin}/Guides`;
     const dest = `${projectRoot}/i18n/${locale.docusaurus}/docusaurus-plugin-content-docs/current/`;
-
-    console.log(`Copying files from ${source} to ${dest}`);
 
     await Deno.mkdir(dest, { recursive: true });
 
-    for await (const dirEntry of Deno.readDir(source)) {
-      if (dirEntry.isFile) {
-        const oldFile = `${source}/${dirEntry.name}`;
-        const newFile = `${dest}/${dirEntry.name}`;
-        await Deno.copyFile(oldFile, newFile);
-      }
-    }
+    console.log(`Copying files from ${sourceDocsDir} to ${dest}`);
+    await copyDirContentsRecursive(sourceDocsDir, dest);
 
-    for await (const dirEntry of Deno.readDir(`${projectRoot}/docs`)) {
-      if (dirEntry.isFile && dirEntry.name.endsWith(".png")) {
-        const oldFile = `${projectRoot}/docs/${dirEntry.name}`;
-        const newFile = `${dest}/${dirEntry.name}`;
-        await Deno.copyFile(oldFile, newFile);
-      }
-    }
+    console.log(`Copying files from ${localizedGuidesDir} to ${dest}`);
+    await copyDirContentsRecursive(localizedGuidesDir, dest);
   }
 }
 
