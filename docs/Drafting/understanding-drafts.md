@@ -1,7 +1,7 @@
 ---
 title: Understanding Drafting
 sidebar_position: 0
-slug: /generating-drafts
+slug: /understanding-drafts
 ---
 
 
