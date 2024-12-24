@@ -8,6 +8,7 @@
 // This doesn't fully solve the problem though, because metadata in the translated files may be different from the English files.
 
 import { copy, readerFromStreamReader } from "jsr:@std/io";
+import { walk } from "jsr:@std/fs/walk";
 
 const projectId = Deno.env.get("CROWDIN_PROJECT_ID");
 const apiKey = Deno.env.get("CROWDIN_API_KEY");
@@ -211,6 +212,129 @@ async function fetchNotionDocs() {
   }
 }
 
+async function runChecks() {
+  // Check for malformed links in the i18n files
+
+  for await (const dirEntry of walk(`${projectRoot}/i18n`)) {
+    if (dirEntry.isFile && dirEntry.name.endsWith(".md")) {
+      const file = await Deno.readTextFile(dirEntry.path);
+      for (const [index, line] of file.split("\n").entries()) {
+        // Look for Markdown links that had a space added between the closing parenthesis and the opening bracket
+        if (/\]\s+\(/.test(line)) {
+          console.log(
+            `%cFound malformed link in ${dirEntry.path} at line ${index + 1}`,
+            "color: red"
+          );
+          console.log(line);
+          console.log(
+            " ".repeat(line.indexOf("]") + 1) + "%c^ Erroneous space",
+            "color: blue"
+          );
+        }
+      }
+    }
+  }
+
+  // Check that all original docs have a corresponding translation, and vice versa
+  const originalDocs = new Map<string, string>();
+  const docsDir = `${projectRoot}/docs`;
+  for await (const dirEntry of walk(docsDir)) {
+    if (dirEntry.isFile && dirEntry.name.endsWith(".md")) {
+      if (dirEntry.path.indexOf(docsDir) !== 0)
+        throw new Error("Unexpected path");
+      const relativePath = dirEntry.path.slice(docsDir.length + 1);
+      originalDocs.set(relativePath, await Deno.readTextFile(dirEntry.path));
+    }
+  }
+
+  for (const locale of helpLocales) {
+    const i18nDir = `${projectRoot}/i18n/${locale.docusaurus}/docusaurus-plugin-content-docs/current`;
+
+    const foundLocalizations = new Set<string>();
+
+    for await (const dirEntry of walk(i18nDir)) {
+      if (dirEntry.isFile && dirEntry.name.endsWith(".md")) {
+        if (dirEntry.path.indexOf(i18nDir) !== 0)
+          throw new Error("Unexpected path");
+
+        const relativePath = dirEntry.path.slice(i18nDir.length + 1);
+
+        foundLocalizations.add(relativePath);
+
+        if (!originalDocs.has(relativePath)) {
+          console.log(
+            `%cNo original document found for i18n file ${dirEntry.path}`,
+            "color: red"
+          );
+        }
+      }
+    }
+    for (const [relativePath, content] of originalDocs) {
+      if (!foundLocalizations.has(relativePath)) {
+        console.log(
+          `%cNo translation file found for ${relativePath} in ${i18nDir}`,
+          "color: red"
+        );
+      } else {
+        // Check that the front matter matches
+        const translation = await Deno.readTextFile(
+          `${i18nDir}/${relativePath}`
+        );
+        const frontMatterRegex = /^---\n(.*?)\n---/s;
+        const originalFrontMatterMatch = content.match(frontMatterRegex);
+        const translationFrontMatterMatch = translation.match(frontMatterRegex);
+        if (originalFrontMatterMatch == null) {
+          console.log(
+            `%cNo front matter found in original document ${relativePath}`,
+            "color: red"
+          );
+        }
+        if (translationFrontMatterMatch == null) {
+          console.log(
+            `%cNo front matter found in translation ${relativePath}`,
+            "color: red"
+          );
+        }
+
+        if (
+          originalFrontMatterMatch == null ||
+          translationFrontMatterMatch == null
+        )
+          continue;
+
+        const originalFrontMatter = originalFrontMatterMatch[1].split("\n");
+        const translationFrontMatter =
+          translationFrontMatterMatch[1].split("\n");
+
+        if (originalFrontMatter.length !== translationFrontMatter.length) {
+          console.log(
+            `%cFront matter length mismatch in ${relativePath} for locale ${locale.docusaurus}`,
+            "color: red"
+          );
+        }
+
+        for (const [index, line] of originalFrontMatter.entries()) {
+          // the title can change; everything else should match
+          if (line.indexOf("title: ") === 0) continue;
+          if (line !== translationFrontMatter[index]) {
+            console.log(
+              `%cFront matter mismatch in ${relativePath} for locale ${
+                locale.docusaurus
+              } at line ${index + 1}`,
+              "color: red"
+            );
+            console.log(`%cOriginal:    ${line}`, "color: blue");
+            console.log(
+              `%cTranslation: ${translationFrontMatter[index]}`,
+              "color: blue"
+            );
+          }
+        }
+      }
+    }
+  }
+}
+
 try {
   console.log("--- Deleting existing files ---");
   await deleteExistingFiles();
@@ -226,6 +350,10 @@ try {
 
   console.log("--- Copying files to i18n directory ---");
   await copyFiles();
+  console.log();
+
+  console.log("--- Running checks ---");
+  await runChecks();
   console.log();
 
   console.log("--- Completed successfully ---");
