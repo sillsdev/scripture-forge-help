@@ -2,17 +2,28 @@
   "version": "4",
   "specifiers": {
     "jsr:@std/bytes@^1.0.2": "1.0.4",
-    "jsr:@std/io@*": "0.225.0"
+    "jsr:@std/fs@*": "1.0.5",
+    "jsr:@std/io@*": "0.225.0",
+    "jsr:@std/path@^1.0.7": "1.0.7"
   },
   "jsr": {
     "@std/bytes@1.0.4": {
       "integrity": "11a0debe522707c95c7b7ef89b478c13fb1583a7cfb9a85674cd2cc2e3a28abc"
+    },
+    "@std/fs@1.0.5": {
+      "integrity": "41806ad6823d0b5f275f9849a2640d87e4ef67c51ee1b8fb02426f55e02fd44e",
+      "dependencies": [
+        "jsr:@std/path"
+      ]
     },
     "@std/io@0.225.0": {
       "integrity": "c1db7c5e5a231629b32d64b9a53139445b2ca640d828c26bf23e1c55f8c079b3",
       "dependencies": [
         "jsr:@std/bytes"
       ]
+    },
+    "@std/path@1.0.7": {
+      "integrity": "76a689e07f0e15dcc6002ec39d0866797e7156629212b28f27179b8a5c3b33a1"
     }
   },
   "workspace": {
