@@ -1,87 +1,87 @@
 ---
-title: Apply and Edit a Draft
+title: Aplicar y editar un borrador
 sidebar_position: 3
 slug: /apply-and-edit-a-draft
 ---
 
 import ReactPlayer from "react-player";
 
-# Apply and Edit a Draft {#2a0f75e3f955442e9b4f4b375f8cc58f}
+# Aplicar y editar un borrador {#2a0f75e3f955442e9b4f4b375f8cc58f}
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/S4yvGDlcZ9o" /></div>
 
-# How to Apply a Draft {#1430d745ac9e80878a51d2b8e2be7d05}
+# Cómo aplicar un borrador {#1430d745ac9e80878a51d2b8e2be7d05}
 
-After a draft has been generated, it is ready to be reviewed and edited by a translator and must go through the next translation steps.
+Una vez generado el borrador, está listo para ser revisado y editado por un traductor y debe pasar por los siguientes pasos de traducción.
 
-To begin editing, the draft needs to first be added to your project. There are 3 options to do this:
+Para empezar a editar, primero hay que añadir el borrador al proyecto. Hay 3 opciones para hacerlo:
 
-### **1) Chapter by chapter** {#1430d745ac9e80a29085eecf41dc2997}
+### **1) Capítulo por capítulo** {#1430d745ac9e80a29085eecf41dc2997}
 
-Click the Book name of the draft that was generated. This shall take you to the “Edit and Review” interface. The image below shows the draft of Deuteronomy.
+Haga clic en el nombre del Libro del borrador que se ha generado. Accederá a la interfaz "Editar y revisar". La imagen inferior muestra el borrador del Deuteronomio.
 
 ![](./476959662.png)
 
-Here you will see the draft of the first available chapter on one side. On the other side you will see your project, which shall be empty and have no data in it for the selected chapter. To add the draft to your project, click on “Add to Project.” This will add only the current chapter to your project and you can begin to review and edit it.
+Aquí verá, por un lado, el borrador del primer capítulo disponible. En el otro lado verá su proyecto, que estará vacío y no tendrá datos para el capítulo seleccionado. Para añadir el borrador a su proyecto, haga clic en "Añadir al proyecto" Esto añadirá sólo el capítulo actual a su proyecto y podrá empezar a revisarlo y editarlo.
 
-### 2. Add the entire book {#1430d745ac9e803183c8d916bc54de64}
+### 2. Añadir todo el libro {#1430d745ac9e803183c8d916bc54de64}
 
-Once your drafts are generated, click the 3-dot menu by the name of the book you wish to add to your project. Then, click on “Add to project” to add the entire book to your project.
+Una vez generados los borradores, haga clic en el menú de 3 puntos situado junto al nombre del libro que desea añadir a su proyecto. A continuación, haga clic en "Añadir al proyecto" para añadir todo el libro a su proyecto.
 
 ![](./739210120.png)
 
-### 3. Download the Draft and add it through Paratext {#1430d745ac9e80cdb498cad97099687e}
+### 3. Descarga el Borrador y añádelo a través de Paratext {#1430d745ac9e80cdb498cad97099687e}
 
-Click “Download Draft” which will download the draft in a .usfm file. This file can then be added to your project through Paratext. After it has been added through Paratext, please make sure to run a send/receive in Paratext and then a synchronize in Scripture Forge to reflect this in your project in Scripture Forge.
+Haga clic en "Descargar borrador", que descargará el borrador en un archivo .usfm. Este archivo puede añadirse a su proyecto a través de Paratext. Después de que se haya añadido a través de Paratext, por favor asegúrese de ejecutar un envío/recepción en Paratext y luego una sincronización en Scripture Forge para reflejar esto en su proyecto en Scripture Forge.
 
 ![](./470740927.png)
 
-# **How to Edit a Draft** {#1430d745ac9e80cb8debce126560e7b5}
+# **Cómo editar un borrador** {#1430d745ac9e80cb8debce126560e7b5}
 
-This can be done in Scripture Forge by clicking on “Edit and Review” which will take you to the screen shown below. The image below shows the book of Mark.
+Esto puede hacerse en Scripture Forge haciendo clic en "Editar y revisar", lo que le llevará a la pantalla que se muestra a continuación. La imagen inferior muestra el libro de Marcos.
 
 ![](./1670090022.png)
 
-The interface will provide you with two sections; one will show the primary reference translation (known as source), and the other will have the newly generated draft (known as target). Here you can review the draft and make any changes if necessary, just like in Paratext.
+La interfaz le proporcionará dos secciones; una mostrará la traducción de referencia primaria (conocida como fuente), y la otra tendrá el borrador recién generado (conocido como destino). Aquí puedes revisar el borrador y hacer cambios si es necesario, igual que en Paratext.
 
-### **Navigating the Draft** {#1430d745ac9e803187c2ff37b7ee519c}
+### **Navegar por el borrador** {#1430d745ac9e803187c2ff37b7ee519c}
 
-If you generated a draft for more than one book, you can navigate through books from the dropdown list available in the top left section of the screen as show below.
+Si ha generado un borrador para más de un libro, puede navegar por los libros desde la lista desplegable disponible en la parte superior izquierda de la pantalla, como se muestra a continuación.
 
 ![](./1640308464.png)
 
-You can also navigate to a specific chapter using the dropdown list right next to it. Alternatively, you can also navigate to the previous or next chapter by using the arrows next to the dropdown.
+También puede navegar hasta un capítulo concreto utilizando la lista desplegable que aparece justo al lado. También puede navegar hasta el capítulo anterior o siguiente utilizando las flechas situadas junto al menú desplegable.
 
-If you wish to swap the placement of the source and target (left and right panes), you may do so by clicking the swap button as shown below.
+Si desea intercambiar la ubicación del origen y el destino (paneles izquierdo y derecho), puede hacerlo pulsando el botón de intercambio, como se muestra a continuación.
 
 ![](./1749660801.png)
 
-Note that selecting a verse in the draft will highlight the corresponding Primary Reference Translation verse in yellow.
+Observe que al seleccionar un versículo en el borrador se resaltará en amarillo el versículo correspondiente de la Traducción Primaria de Referencia.
 
-As you select a verse and begin working on it, the corresponding primary reference translation will auto-navigate and will display the same verse in the source language, making it easier to keep track and follow the draft.
+Cuando seleccione un versículo y empiece a trabajar en él, la traducción de referencia primaria correspondiente navegará automáticamente y mostrará el mismo versículo en la lengua de origen, lo que facilitará el seguimiento del borrador.
 
-### **Adding Comments** {#1430d745ac9e8038aee0f2290df4172b}
+### **Añadir comentarios** {#1430d745ac9e8038aee0f2290df4172b}
 
-Scripture Forge allows users to add additional comments as they are working on the drafts.
+Scripture Forge permite a los usuarios añadir comentarios adicionales a medida que trabajan en los borradores.
 
-This can be done by selecting the verse where the comment needs to be added and then clicking on the “Add Comment” button.
+Para ello, seleccione el versículo en el que desea añadir el comentario y pulse el botón "Añadir comentario".
 
 ![](./1078796203.png)
 
-Once a comment is added it will be marked by a star as shown below. To update or edit the comment, simply click the star and you will be prompted to make the desired changes.
+Una vez añadido un comentario, se marcará con una estrella, como se muestra a continuación. Para actualizar o editar el comentario, simplemente haga clic en la estrella y se le pedirá que realice los cambios deseados.
 
 ![](./632219727.png)
 
-When the draft is applied to your Paratext project, comments will be exported to your Paratext project as notes.
+Cuando el borrador se aplique a tu proyecto Paratext, los comentarios se exportarán a tu proyecto Paratext como notas.
 
-### **Viewing History** {#1430d745ac9e809d90bbf0371c2d6c6d}
+### **Visualización del historial** {#1430d745ac9e809d90bbf0371c2d6c6d}
 
-Scripture Forge saves a history of the drafts whenever a sync is run. If you ever need to go back to an older version of the draft, you can do so by checking its history.
+Scripture Forge guarda un historial de los borradores cada vez que se ejecuta una sincronización. Si alguna vez necesitas volver a una versión anterior del borrador, puedes hacerlo consultando su historial.
 
-To do this, click on the New Tab button as shown below and select “History.”
+Para ello, haga clic en el botón Nueva pestaña, como se muestra a continuación, y seleccione "Historial"
 
 ![](./1273285247.png)
 
-Now, using the dropdown list, select the date to open the desired version of your draft.
+Ahora, utilizando la lista desplegable, seleccione la fecha para abrir la versión deseada de su borrador.
 
-**Please note that when a new draft is generated, any older drafts that have not been saved will be lost. Remember to download the draft or apply it to your Paratext project and run a sync before generating a new draft.**
+**Tenga en cuenta que cuando se genere un nuevo borrador, se perderán los borradores anteriores que no se hayan guardado. Recuerda descargar el borrador o aplicarlo a tu proyecto Paratext y ejecutar una sincronización antes de generar un nuevo borrador.**

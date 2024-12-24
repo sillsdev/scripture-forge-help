@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Einführung {#ad165caedac347798432de75e4305252}
 
-Das Natural Language Processing Team von SIL International hat ein Werkzeug entwickelt, das bei der Bibelübersetzung helfen kann, indem es einen groben ersten Entwurf erstellt, den die Übersetzer dann bearbeiten und verfeinern können. Ab dem 1. Januar 2024 ist dieses Werkzeug nun für die Verwendung in [Scripture Forge](https://scriptureforge.org/), einer Plattform zur Bearbeitung von Bibeltexten, die in [Paratext] (https://paratext.org/) integriert ist, verfügbar.
+Das Natural Language Processing Team von SIL International hat ein Werkzeug entwickelt, das bei der Bibelübersetzung helfen kann, indem es einen groben ersten Entwurf erstellt, den die Übersetzer dann bearbeiten und verfeinern können. Ab dem 1. Januar 2024 ist dieses Werkzeug nun für die Verwendung in [Scripture Forge](https://scriptureforge.org/), einer Plattform zur Bearbeitung von Bibeltexten, die in [Paratext](https://paratext.org/) integriert ist, verfügbar.
 
 Alle Entwürfe, die erstellt werden, enthalten Fehler, die vom Übersetzungsteam korrigiert werden müssen. Bei einigen Projekten wird die Qualität zu gering sein, um nützlich zu sein. Ausführliche Praxistests haben jedoch gezeigt, dass eine beträchtliche Anzahl von Teams die Entwürfe als sehr hilfreich für ihre Arbeit empfindet und dass sie von ausreichender Qualität sind, um sie als Ausgangspunkt für die Bearbeitung durch das Team zu verwenden.
 
@@ -63,12 +63,12 @@ Rückübersetzungsentwürfe enthalten ebenfalls Fehler und müssen bearbeitet we
 
 ## Erste Schritte {#1ba56b4f36584ecb91b9f2208efec047}
 
-Das Generieren von Rückübersetzungsentwürfen ist derzeit offen und steht allen Paratext-Benutzer zu Verfügung. Das Generieren von Entwürfen in die Lokalsprache, erfordert aufgrund der Komplexität beim Einrichten, dass ein Übersetzungsteam vom SIL Natural Language Processing Team unterstützt wird. Bitte fülle das [Registrierungsformular für das Erstellen von Übersetzungsentwürfen] (https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc) aus, und ein Mitglied des SIL Natural Language Processing Teams wird prüfen, ob Dein Projekt für das Generieren von Entwürfen in Frage kommt.
+Das Generieren von Rückübersetzungsentwürfen ist derzeit offen und steht allen Paratext-Benutzer zu Verfügung. Das Generieren von Entwürfen in die Lokalsprache, erfordert aufgrund der Komplexität beim Einrichten, dass ein Übersetzungsteam vom SIL Natural Language Processing Team unterstützt wird. Bitte fülle das [Registrierungsformular für das Erstellen von Übersetzungsentwürfen](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc) aus, und ein Mitglied des SIL Natural Language Processing Teams wird prüfen, ob Dein Projekt für das Generieren von Entwürfen in Frage kommt.
 
 Unabhängig davon, ob Du Rückübersetzungsentwürfe oder Entwürfe in der Lokalsprache generierst, kannst Du beginnen, indem Du Dein Paratext-Projekt mit Scripture Forge verbindest, indem Du die folgenden Schritte ausführst:
 
-1. Mit Deinen Paratext-Anmeldedaten bei [Scripture Forge] (https://scriptureforge.org/) einloggen.
-2. Dein Paratext-Projekt mit Hilfe der [Anleitung zum Verbinden eines Paratext-Projekts] (https://help.scriptureforge.org/connect-paratext-project) verbinden. Beim Verbinden des Projekts, Deinen Referenztext als Quelle auswählen. Für eine Rückübersetzung sollte der Ausgangstext in die Lokaslsprache übersetzt werden.
+1. Mit Deinen Paratext-Anmeldedaten bei [Scripture Forge](https://scriptureforge.org/) einloggen.
+2. Dein Paratext-Projekt mit Hilfe der [Anleitung zum Verbinden eines Paratext-Projekts](https://help.scriptureforge.org/connect-paratext-project) verbinden. Beim Verbinden des Projekts, Deinen Referenztext als Quelle auswählen. Für eine Rückübersetzung sollte der Ausgangstext in die Lokaslsprache übersetzt werden.
 3. Nach dem Verbinden Deines Projekts, in der Seitenleiste auf "Entwurf generieren" klicken.
 4. Falls Du einen Entwurf in der Lokalsprache generierst, ist dies die einzige Möglichkeit, die Du hast, und Du müsst das Anmeldeformular für die Erstellung von Übersetzungen ausfüllen, indem Du auf "Für die Erstellung von Entwürfen anmelden" klickst. Falls Dein Projekt bereits freigeschaltet wurde oder Du mit einer Rückübersetzung arbeitest, klicke auf "Entwurf generieren", um den Prozess zu starten.
 5. Wähle die Bücher aus, die Du übersetzen möchtest, und wähle dann die Bücher, die Du als Trainingsdaten verwenden möchtest.

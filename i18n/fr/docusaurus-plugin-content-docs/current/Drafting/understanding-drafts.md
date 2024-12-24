@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Introduction {#ad165caedac347798432de75e4305252}
 
-L'équipe de SIL International spécialisée dans le traitement du langage naturel a mis au point un outil qui peut aider à la traduction de la Bible en créant une première ébauche que les traducteurs peuvent éditer et affiner. Depuis le 1er janvier 2024, cet outil peut être utilisé dans [Scripture Forge] (https://scriptureforge.org/), une plateforme d'édition des Écritures étroitement intégrée à [Paratext] (https://paratext.org/).
+L'équipe de SIL International spécialisée dans le traitement du langage naturel a mis au point un outil qui peut aider à la traduction de la Bible en créant une première ébauche que les traducteurs peuvent éditer et affiner. Depuis le 1er janvier 2024, cet outil peut être utilisé dans [Scripture Forge](https://scriptureforge.org/), une plateforme d'édition des Écritures étroitement intégrée à [Paratext](https://paratext.org/).
 
 Toutes les ébauches qui ont été créés contiennent des erreurs qui doivent être corrigées par l'équipe de traduction. Pour certains projets, la qualité sera trop faible pour être utile. Cependant, des tests de terrain approfondis ont montré qu'un nombre significatif d'équipes trouvent que les ébauches sont très utiles dans leur travail, et de qualité suffisante pour servir de point de départ pour que l'équipe puisse le modifier.
 
@@ -45,32 +45,32 @@ Dans le premier exemple, l'équipe utilisait le NIV anglais comme texte de réf�
 
 Par exemple, il est souvent possible d'améliorer la qualité du projet en utilisant une rétro-traduction de la langue locale dans la langue source.  Une rétro-traduction est généralement beaucoup plus littérale qu'une traduction normale, et permet donc au système de comprendre plus facilement comment la langue locale carte à l'anglais. Dans cet exemple, le système génère une ébauche comme suit :
 
-1. Comparez la rétro-traduction en anglais avec la langue locale New Testament, afin d'apprendre la langue.
+1. Comparez la retraduction en anglais avec la langue locale New Testament, afin d'apprendre la langue.
 2. Ayant appris la langue, traduire la Genèse de l'anglais NIV dans la langue locale.
 
 Déterminer la configuration idéale pour un projet est un processus complexe, et ce n’est pas quelque chose que vous devrez apprendre. L’équipe de traitement du langage naturel de SIL développe des outils pour déterminer la configuration idéale et peut assister les équipes pendant le processus d’intégration.
 
-### Générer des rétro-traductions {#8a64fbb8c7e741938cf5007358570d3d}
+### Générer des retraductions {#8a64fbb8c7e741938cf5007358570d3d}
 
-En plus de créer des ébauches dans la langue vernaculaire, le système peut également générer des rétro-traductions dans les langues source supportées. Afin de générer une ébauche de rétro-traducteur, l'équipe doit déjà avoir retraduit au moins quelques livres de la langue vernaculaire dans la langue source.
+En plus de créer des ébauches dans la langue vernaculaire, le système peut également générer des rétro-traductions dans les langues source supportées. Afin de générer une ébauche de retraduction, l'équipe doit déjà avoir retraduit au moins quelques livres de la langue vernaculaire dans la langue source.
 
-Dans cet exemple, supposons qu'une équipe a traduit les quatre évangiles dans la langue vernaculaire et a de retour traduit Matthew, Mark et Luc en anglais. Pour générer une ébauche de rétro-traduction de John, le système ferait ce qui suit :
+Dans cet exemple, supposons qu'une équipe a traduit les quatre évangiles dans la langue vernaculaire et a de retour traduit Matthew, Mark et Luc en anglais. Pour générer une ébauche de retraduction de John, le système ferait ce qui suit :
 
-1. Comparer les rétro-traductions en anglais de Matthew, Mark, et Luc avec les versions en langue vernaculaire de Matthew, Mark, et Luc pour apprendre la langue.
+1. Comparer les retraductions en anglais de Matthew, Mark, et Luc avec les versions en langue vernaculaire de Matthew, Mark, et Luc pour apprendre la langue.
 2. Ayant appris la langue, traduire John de la langue vernaculaire en anglais.
 
-Les ébauches de rétro-traduction contiennent également des erreurs et doivent être modifiés, mais la qualité est généralement nettement plus élevée que pour les ébauches vernaculaires.
+Les ébauches de retraduction contiennent également des erreurs et doivent être modifiés, mais la qualité est généralement nettement plus élevée que pour les ébauches vernaculaires.
 
 ## Démarrage {#1ba56b4f36584ecb91b9f2208efec047}
 
-La génération de l'ébauche du rétro-traduction est actuellement ouverte et disponible pour tous les utilisateurs de Paratext. La génération de l'ébauche dans le vernaculaire, en raison de la complexité de l'installation, nécessite qu'une équipe soit embarquée par l'équipe de traitement du langage naturel de la SIL. Veuillez remplir le [formulaire d'inscription de rédaction de traduction](https://app.smartsheet. om/b/form/305798a45a664d8585ac74e72241d8cc), et un membre de l'équipe évaluera si votre projet est un bon candidat pour la génération des ébauches.
+La génération de l'ébauche de retraduction est actuellement ouverte et disponible pour tous les utilisateurs de Paratext. La génération de l'ébauche dans le vernaculaire, en raison de la complexité de l'installation, nécessite qu'une équipe soit embarquée par l'équipe de traitement du langage naturel de la SIL. Veuillez remplir le [formulaire d'inscription de rédaction de traduction](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), et un membre de l'équipe évaluera si votre projet est un bon candidat pour la génération des ébauches.
 
-Peu importe si vous générez des ébauches de rétro-traduction ou des ébauches vernaculaires, vous pouvez commencer par connecter votre projet Paratext à Scripture Forge en suivant ces étapes :
+Peu importe si vous générez des ébauches de retraduction ou des ébauches vernaculaires, vous pouvez commencer par connecter votre projet Paratext à Scripture Forge en suivant ces étapes :
 
-1. Connectez-vous à [Scripture Forge] (https://scriptureforge.org/), en utilisant vos identifiants Paratext.
-2. Connectez votre projet Paratext en suivant le [Guide du projet Paratext](https://help.scriptureforge.org/connect-paratext-project). Lorsque vous connectez le projet, sélectionnez votre texte de référence comme source. Pour une rétro-traduction, le texte source doit être la langue vernaculaire.
+1. Connectez-vous à [Scripture Forge](https://scriptureforge.org/), en utilisant vos identifiants Paratext.
+2. Connectez votre projet Paratext en suivant le [Guide du projet Paratext](https://help.scriptureforge.org/connect-paratext-project). Lorsque vous connectez le projet, sélectionnez votre texte de référence comme source. Pour une retraduction, le texte source doit être la langue vernaculaire.
 3. Après avoir connecté votre projet, cliquez sur "Générer un e ébauche" dans la barre latérale.
-4. Si vous produisez un projet en langue vernaculaire, vous ne pourrez pas aller plus loin par vous-même et vous devrez remplir le formulaire d'inscription à la rédaction de traduction en cliquant sur "S'inscrire à la rédaction". Si votre projet a déjà été intégré, ou si vous travaillez avec une rétro-traduction, cliquez sur "Générer une ébauche" pour lancer le processus.
+4. Si vous produisez un projet en langue vernaculaire, vous ne pourrez pas aller plus loin par vous-même et vous devrez remplir le formulaire d'inscription à la rédaction de traduction en cliquant sur "S'inscrire à la rédaction". Si votre projet a déjà été intégré, ou si vous travaillez avec une retraduction, cliquez sur "Générer une ébauche" pour lancer le processus.
 5. Sélectionnez les livres que vous souhaitez traduire, puis les livres que vous souhaitez utiliser comme données d'entraînement.
 6. Cliquez sur « Générer une ébauche » pour démarrer le processus.
 
@@ -78,7 +78,7 @@ Le processus de génération des ébauches peut prendre de plusieurs heures à p
 
 Une fois que vous avez une ébauche générée, vous pouvez prévisualiser l'ébauche et importer des chapitres individuels dans votre projet.
 
-## Langues supportées pour la rédaction du rétro-traduction {#70c8aaa17b6f4b5783ff0f464f59700e}
+## Langues supportées pour la rédaction de retraduction {#70c8aaa17b6f4b5783ff0f464f59700e}
 
 Les ébauches de rétro-traduction peuvent être générés à partir de n'importe quelle langue, mais doivent être de retour traduits dans l'une des langues suivantes.
 
@@ -117,7 +117,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Bulgare                                 | bg        | bul       | bul       |
 | catalan                                 | ca        | cat       | cat       |
 | Cebuano                                 |           | ceb       |           |
-| Czech                                   | cs        | ces       | cze       |
+| Tchèque                                 | cs        | ces       | cze       |
 | Chokwe                                  |           | cjk       |           |
 | Central Kurdish                         |           | ckb       |           |
 | Crimean Turkish                         |           | crh       |           |
@@ -158,7 +158,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Indonésien                              | id        | ind       | ind       |
 | Icelandic                               | is        | isl       | ice       |
 | Les Italiens                            | it        | ita       | ita       |
-| Javanese                                | jv        | jav       | jav       |
+| Javanais                                | jv        | jav       | jav       |
 | japonaises                              | ja        | jpn       | jpn       |
 | Kabyle                                  |           | kab       |           |
 | Kachin                                  |           | kac       |           |
@@ -175,7 +175,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Kinyarwanda                             | rw        | kin       | kin       |
 | Kyrgyz                                  | ky        | kir       | kir       |
 | Kimbundu                                |           | kmb       |           |
-| Northern Kurdish                        |           | kmr       |           |
+| Kurde du Nord                           |           | kmr       |           |
 | Kongo                                   | kg        | kon       | kon       |
 | Coréen                                  | ko        | kor       | kor       |
 | Lao                                     | lo        | lao       | lao       |
@@ -237,12 +237,12 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Samoan                                  | sm        | smo       | smo       |
 | Shona                                   | sn        | sna       | sna       |
 | Sindhi                                  | sd        | snd       | snd       |
-| Somali                                  | so        | som       | som       |
+| Somalie                                 | so        | som       | som       |
 | Sotho, Sud                              | st        | sot       | sot       |
 | Espagnol                                | es        | spa       | spa       |
 | Tosk Albanian                           | sq        | als       | als       |
 | Sardinian                               | sc        | srd       | srd       |
-| Serbian                                 | sr        | srp       | srp       |
+| Serbe                                   | sr        | srp       | srp       |
 | Swazi                                   | ss        | ssw       | ssw       |
 | Sundanese                               | su        | sun       | sun       |
 | Swedish                                 | sv        | swe       | swe       |
