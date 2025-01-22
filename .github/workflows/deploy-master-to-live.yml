@@ -4,7 +4,7 @@ on: workflow_dispatch
 jobs:
   deploy-live:
     name: Deploy master to live
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment: deploy
 
     steps:
