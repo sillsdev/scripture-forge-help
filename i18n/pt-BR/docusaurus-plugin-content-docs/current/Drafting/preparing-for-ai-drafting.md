@@ -49,3 +49,4 @@ As shown in the image above, you will have a few options presented. You may choo
 **3) Pre-translate headings and non-verse material checkbox** – We recommend you leave this box unchecked. Section headings will still be translated.
 
 **4) Allow additional training data checkbox** – Selecting this checkbox will allow you to upload any further documents that can be used to train the language model. These files must contain parallel sentences in the same source and target languages as the Primary Reference Translation and the target project. Please note that you can **only upload .csv** files for this purpose.
+

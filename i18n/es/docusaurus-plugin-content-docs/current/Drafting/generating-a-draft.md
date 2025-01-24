@@ -29,3 +29,4 @@ Una vez completados estos pasos, verá disponible el botón "Generar borrador". 
 Una vez que el borrador esté listo, debería ver una notificación como la que se muestra en la siguiente captura de pantalla.
 
 ![](./2097960595.png)
+

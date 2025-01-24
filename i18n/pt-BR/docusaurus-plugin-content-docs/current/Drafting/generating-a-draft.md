@@ -29,3 +29,4 @@ After you complete these steps, you shall see the “Generate Draft” button av
 Once the Draft is ready you should see a notification as shown in the below screenshot.
 
 ![](./2097960595.png)
+
