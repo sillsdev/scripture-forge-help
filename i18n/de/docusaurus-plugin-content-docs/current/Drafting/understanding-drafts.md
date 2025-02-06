@@ -1,5 +1,5 @@
 ---
-title: Erstellung eines Entwurf verstehen
+title: Erstellung eines Entwurfs verstehen
 sidebar_position: 0
 slug: /understanding-drafts
 ---
