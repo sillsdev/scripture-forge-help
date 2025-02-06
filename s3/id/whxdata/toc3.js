@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Tasks\"><item name=\"Tasks overview\" url=\"Tasks/Tasks_overview.htm\" /><book name=\"Administrator tasks\" src=\"toc4.js\" /><book name=\"Basic tasks\" src=\"toc5.js\" /><book name=\"Community Checking tasks\" src=\"toc6.js\" /><book name=\"Translate tasks\" src=\"toc7.js\" /></data>";

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Scripture Forge V2 Help" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Overview\Getting_Started.htm">
+    
+    <topic>
+      Overview\Copyright_and_license.htm
+    </topic>
+    
+    <topic>
+      Overview\Frequently_Asked_Questions.htm
+    </topic>
+    
+    <topic>
+      Overview\Get_More_Help.htm
+    </topic>
+    
+    <topic>
+      Overview\Getting_Started.htm
+    </topic>
+    
+    <topic>
+      Overview\Scripture_Forge_overview.htm
+    </topic>
+    
+    <topic>
+      Concepts\Concepts_overview.htm
+    </topic>
+    
+    <topic>
+      Concepts\Avatar.htm
+    </topic>
+    
+    <topic>
+      Concepts\Book.htm
+    </topic>
+    
+    <topic>
+      Concepts\Comment.htm
+    </topic>
+    
+    <topic>
+      Concepts\Community_Checking.htm
+    </topic>
+    
+    <topic>
+      Concepts\Input_System.htm
+    </topic>
+    
+    <topic>
+      Concepts\Likes.htm
+    </topic>
+    
+    <topic>
+      Concepts\Question_and_Answer.htm
+    </topic>
+    
+    <topic>
+      Concepts\Roles.htm
+    </topic>
+    
+    <topic>
+      Concepts\Save.htm
+    </topic>
+    
+    <topic>
+      Concepts\Segment.htm
+    </topic>
+    
+    <topic>
+      Concepts\Send_Receive.htm
+    </topic>
+    
+    <topic>
+      Concepts\Suggestions.htm
+    </topic>
+    
+    <topic>
+      Concepts\Translation.htm
+    </topic>
+    
+    <topic>
+      Tasks\Tasks_overview.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Administrator_tasks_overview.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Start_from_the_beginning.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Add_a_question.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Archive_republish_a_question.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Configure_project_settings.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Connect_project.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Delete_a_project.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Delete_a_question.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Edit_a_question.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Import_questions_from_spreadsheet.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Import_questions_from_Transcelerator.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Record_or_upload_a_question.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Review_translation_progress.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Users_overview.htm
+    </topic>
+    
+    <topic>
+      Tasks\Administrator_tasks\Work_with_answers.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Basic_tasks_overview.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Change_font_size.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Choose_a_book.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Choose_a_project.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Choose_a_User_Interface_language.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Install_remove_SF_desktop_icon.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Log_in_Log_out.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Open_Scripture_Forge_Help.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Open_SF_with_the_desktop_icon.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Read_or_hear_an_answer.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Receive_text_updates.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Sign_Up.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Share_with_others.htm
+    </topic>
+    
+    <topic>
+      Tasks\Basic_tasks\Update_your_name.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Community_Checking_tasks_overview.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Add_a_comment.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Add_an_answer.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Delete_an_answer_or_comment.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Edit_an_answer_or_comment.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Like_an_answer.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Record_or_upload_an_answer.htm
+    </topic>
+    
+    <topic>
+      Tasks\Community_Checking_tasks\Select_answer_text.htm
+    </topic>
+    
+    <topic>
+      Tasks\Translate_tasks\Translate_tasks_overview.htm
+    </topic>
+    
+    <topic>
+      Tasks\Translate_tasks\Add_a_comment_Translate.htm
+    </topic>
+    
+    <topic>
+      Tasks\Translate_tasks\Retrain_the_suggestion_engine.htm
+    </topic>
+    
+    <topic>
+      Tasks\Translate_tasks\Swap_source_and_target.htm
+    </topic>
+    
+    <topic>
+      Tasks\Translate_tasks\Synchronize.htm
+    </topic>
+    
+    <topic>
+      Tasks\Translate_tasks\Translate.htm
+    </topic>
+    
+    <topic>
+      User_Interface\User_Interface_overview.htm
+    </topic>
+    
+    <topic>
+      User_Interface\Dialog_boxes.htm
+    </topic>
+    
+    <topic>
+      User_Interface\Keyboard_shortcuts.htm
+    </topic>
+    
+    <topic>
+      User_Interface\Navigation_pane.htm
+    </topic>
+    
+    <topic>
+      User_Interface\Toolbar.htm
+    </topic>
+    
+    <topic>
+      User_Interface\Top_App_Bar.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        C:/ProgramData/Adobe/Scripture Forge V2 Help_rhpj/contents/assets/images/favicon.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>
