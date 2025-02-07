@@ -10,6 +10,8 @@ declare -A directory_for_locale=(
     ["en"]="manual"
     ["es"]="es/manual"
     ["fr"]="fr/manual"
+    ["de"]="de/manual"
+    ["id"]="id/manual"
     ["pt_BR"]="pt-BR/manual"
 )
 

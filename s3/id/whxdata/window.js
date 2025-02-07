@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><windowlist><window name=\"Responsive HTML5\" usedefault=\"true\" x=\"\" y=\"\" width=\"\" height=\"\" workspacestyle=\"DEFAULT\" caption=\"Scripture Forge V2 Help\" options=\"0\" /></windowlist>";

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin>
+  <layout>single_page_dark</layout>
+  <name>Azure_Blue</name>
+  <variables>
+    <css>
+      <filter_reset_image>filter_clearall.png</filter_reset_image>
+      <filter_active_checkbox_image>filter_mark.png</filter_active_checkbox_image>
+      <filter_inactive_checkbox_image>filter_nomark.png</filter_inactive_checkbox_image>
+      <filter_radio_image>filter_mark_radio.png</filter_radio_image>
+      <filter_incative_radio_image>filter_nomark_radio.png</filter_incative_radio_image>
+      <filter_title_mobtab_color>#3f4344</filter_title_mobtab_color>
+      <filter_group_mobtab_bgcolor>#eeeeee</filter_group_mobtab_bgcolor>
+      <filter_entry_mobtab_color>#575555</filter_entry_mobtab_color>
+      <filter_group_mobtab_color>#e1e1e1</filter_group_mobtab_color>
+      <index_text_mobtab_color>#e6e6e6</index_text_mobtab_color>
+      <index_search_text_mobtab_color>#000000</index_search_text_mobtab_color>
+      <index_search_background_mobtab_color>#fafafa</index_search_background_mobtab_color>
+      <index_search_border_mobtab_color>#e6e6e6</index_search_border_mobtab_color>
+      <index_separator_mobtab_color>#e1e1e1</index_separator_mobtab_color>
+      <index_text_color>#e1e1e1</index_text_color>
+      <index_search_text_color>#ffffff</index_search_text_color>
+      <index_search_background_color>#232323</index_search_background_color>
+      <index_topic_image>idx_topic.png</index_topic_image>
+      <glossary_search_border_mobtab_color>#e6e6e6</glossary_search_border_mobtab_color>
+      <glossary_term_mobtab_color>#e6e6e6</glossary_term_mobtab_color>
+      <glossary_definition_mobtab_color>#e6e6e6</glossary_definition_mobtab_color>
+      <glossary_search_text_mobtab_color>#000000</glossary_search_text_mobtab_color>
+      <glossary_search_mobtab_bgcolor>#fafafa</glossary_search_mobtab_bgcolor>
+      <glossary_separator_mobtab_bgcolor>#e1e1e1</glossary_separator_mobtab_bgcolor>
+      <glossary_term_color>#e1e1e1</glossary_term_color>
+      <glossary_definition_color>#e1e1e1</glossary_definition_color>
+      <glossary_search_text_color>#ffffff</glossary_search_text_color>
+      <glossary_search_bgcolor>#232323</glossary_search_bgcolor>
+      <glossary_search_border_color>#232323</glossary_search_border_color>
+      <toc_mobtab_text_color>#575555</toc_mobtab_text_color>
+      <toc_mobtab_touch_indication_text_color>#f6f6f6</toc_mobtab_touch_indication_text_color>
+      <toc_mobtab_separator_color>#e6e6e6</toc_mobtab_separator_color>
+      <toc_open_book_mobile_image>toc_book_open_mobile.png</toc_open_book_mobile_image>
+      <toc_close_book_mobile_image>toc_book_closed_mobile_ltr.png</toc_close_book_mobile_image>
+      <toc_topic_mobile_image>toc_topic_mobile.png</toc_topic_mobile_image>
+      <toc_link_mobile_image>toc_link_mobile_ltr.png</toc_link_mobile_image>
+      <toc_up_one_level_mobile_image>toc_book_open_drildown.png</toc_up_one_level_mobile_image>
+      <toc_text_color>#e1e1e1</toc_text_color>
+      <toc_selected_text_color>#e1e1e1</toc_selected_text_color>
+      <toc_selected_indicator_color>#232323</toc_selected_indicator_color>
+      <toc_open_book_image>toc_book_open_desktop.png</toc_open_book_image>
+      <toc_close_book_image>toc_book_closed_desktop_ltr.png</toc_close_book_image>
+      <toc_topic_image>toc_topic_desktop.png</toc_topic_image>
+      <toc_link_image>toc_link_desktop_ltr.png</toc_link_image>
+      <back_to_topic>back_to_topic.png</back_to_topic>
+      <title_mobile_font_color>#3f4344</title_mobile_font_color>
+      <title_mobile_font_family></title_mobile_font_family>
+      <search_results_desktop_title_color>#e1e1e1</search_results_desktop_title_color>
+      <search_results_desktop_field_bgcolor>#232323</search_results_desktop_field_bgcolor>
+      <search_results_desktop_field_text_color>#ffffff</search_results_desktop_field_text_color>
+      <search_result_desktop_preview_color>#e1e1e1</search_result_desktop_preview_color>
+      <search_results_desktop_message_color>#e1e1e1</search_results_desktop_message_color>
+      <search_results_desktop_breadcrumb_color>#e1e1e1</search_results_desktop_breadcrumb_color>
+      <sidebar_search_tab_active_mobile_image>search_mobile_navigation_active.png</sidebar_search_tab_active_mobile_image>
+      <sidebar_search_tab_mobile_image>search_mobile_navigation.png</sidebar_search_tab_mobile_image>
+      <sidebar_filter_tab_active_aplied_mobile_image>filter_mobile_applied_active.png</sidebar_filter_tab_active_aplied_mobile_image>
+      <sidebar_filter_tab_aplied_mobile_image>filter_mobile_applied.png</sidebar_filter_tab_aplied_mobile_image>
+      <sidebar_filter_tab_active_mobile_image>filter_mobile_active.png</sidebar_filter_tab_active_mobile_image>
+      <sidebar_filter_tab_mobile_image>filter_mobile.png</sidebar_filter_tab_mobile_image>
+      <sidebar_mobile_bgcolor>#ffffff</sidebar_mobile_bgcolor>
+      <sidebar_search_tab_active_tablet_image>search_tab.png</sidebar_search_tab_active_tablet_image>
+      <sidebar_filter_tab_active_aplied_tablet_image>filter_tab_applied_active.png</sidebar_filter_tab_active_aplied_tablet_image>
+      <sidebar_filter_tab_active_tablet_image>filter_tab_active.png</sidebar_filter_tab_active_tablet_image>
+      <sidebar_glossary_tab_active_tablet_image>glossary_tab_active.png</sidebar_glossary_tab_active_tablet_image>
+      <sidebar_index_tab_active_tablet_image>index_tab_active.png</sidebar_index_tab_active_tablet_image>
+      <sidebar_toc_tab_active_tablet_image>toc_tab_active.png</sidebar_toc_tab_active_tablet_image>
+      <sidebar_tablet_background_color>#ffffff</sidebar_tablet_background_color>
+      <glossary_search_background_color></glossary_search_background_color>
+      <title_font_family></title_font_family>
+      <logo_height>70px</logo_height>
+      <logo_width>70px</logo_width>
+      <index_tab_image>index_desktop.png</index_tab_image>
+      <glossary_tab_image>glossary_desktop.png</glossary_tab_image>
+      <filter_tab_image>filter_desktop.png</filter_tab_image>
+      <filter_applied_tab_image>filter_desktop_applied.png</filter_applied_tab_image>
+      <page_font_family>&quot;Trebuchet MS&quot;, Arial, sans-serif</page_font_family>
+      <close_sidebar_image>slider_ltr.png</close_sidebar_image>
+      <functionbar_bgcolor>#777777</functionbar_bgcolor>
+      <functionbar_border_color>#232323</functionbar_border_color>
+      <goto_top_image>top.png</goto_top_image>
+      <header_bgcolor>#232323</header_bgcolor>
+      <header_font_color>#dddddd</header_font_color>
+      <loading_image>loading.gif</loading_image>
+      <logo>logo.png</logo>
+      <next_button_active_image>next_active.png</next_button_active_image>
+      <next_button_active_mobile_image>next_mobile_active.png</next_button_active_mobile_image>
+      <next_button_active_tablet_image>next_tab_active.png</next_button_active_tablet_image>
+      <next_button_image>next.png</next_button_image>
+      <next_button_mobile_image>next_mobile.png</next_button_mobile_image>
+      <next_button_tablet_image>next_tab.png</next_button_tablet_image>
+      <open_sidebar_image>slider_open_ltr.png</open_sidebar_image>
+      <previous_button_active_image>previous_active.png</previous_button_active_image>
+      <previous_button_active_mobile_image>previous_mobile_active.png</previous_button_active_mobile_image>
+      <previous_button_active_tablet_image>previous_tab_active.png</previous_button_active_tablet_image>
+      <previous_button_image>previous.png</previous_button_image>
+      <previous_button_mobile_image>previous_mobile.png</previous_button_mobile_image>
+      <previous_button_tablet_image>previous_tab.png</previous_button_tablet_image>
+      <search_box_bgcolor>#232323</search_box_bgcolor>
+      <search_box_color>#ffffff</search_box_color>
+      <search_box_field_bgcolor>#232323</search_box_field_bgcolor>
+      <search_box_field_border_color>#4b4a4a</search_box_field_border_color>
+      <search_box_field_shadow_color>#4b4a4a</search_box_field_shadow_color>
+      <search_box_mobile_color>#FFFFFF</search_box_mobile_color>
+      <search_box_mobile_field_bgcolor>#232323</search_box_mobile_field_bgcolor>
+      <search_box_mobile_field_border_color>#232323</search_box_mobile_field_border_color>
+      <search_button_active_image>search_desktop_active.png</search_button_active_image>
+      <search_button_image>search_desktop.png</search_button_image>
+      <search_result_preview_color>#575555</search_result_preview_color>
+      <search_results_breadcrumb_color>#575555</search_results_breadcrumb_color>
+      <search_results_highlight_bgcolor>#FCFF00</search_results_highlight_bgcolor>
+      <search_results_highlight_color>#000000</search_results_highlight_color>
+      <search_results_message_color>#575555</search_results_message_color>
+      <search_results_title_color>#0f5091</search_results_title_color>
+      <search_result_and_label>#e1e1e1</search_result_and_label>
+      <search_tab_image>search_desktop_navigation.png</search_tab_image>
+      <sidebar_active_bgcolor>#4b4a4a</sidebar_active_bgcolor>
+      <sidebar_active_tab_mobile_bgcolor>#ffffff</sidebar_active_tab_mobile_bgcolor>
+      <sidebar_active_tab_tablet_bgcolor>#ffffff</sidebar_active_tab_tablet_bgcolor>
+      <sidebar_filter_tab_aplied_tablet_image>filter_tab_applied.png</sidebar_filter_tab_aplied_tablet_image>
+      <sidebar_filter_tab_tablet_image>filter_tab.png</sidebar_filter_tab_tablet_image>
+      <sidebar_glossary_tab_mobile_image>glossary_mobile.png</sidebar_glossary_tab_mobile_image>
+      <sidebar_glossary_tab_active_mobile_image>glossary_mobile_active.png</sidebar_glossary_tab_active_mobile_image>
+      <sidebar_glossary_tab_tablet_image>glossary_tab.png</sidebar_glossary_tab_tablet_image>
+      <sidebar_bgcolor>#4b4a4a</sidebar_bgcolor>
+      <sidebar_header_bgcolor>#777777</sidebar_header_bgcolor>
+      <sidebar_header_mobile_bgcolor>#3f4344</sidebar_header_mobile_bgcolor>
+      <sidebar_header_tablet_bgcolor>#3f4344</sidebar_header_tablet_bgcolor>
+      <sidebar_tablet_border_color>#232323</sidebar_tablet_border_color>
+      <sidebar_index_tab_mobile_image>index_mobile.png</sidebar_index_tab_mobile_image>
+      <sidebar_index_tab_active_mobile_image>index_mobile_active.png</sidebar_index_tab_active_mobile_image>
+      <sidebar_index_tab_tablet_image>index_tab.png</sidebar_index_tab_tablet_image>
+      <sidebar_search_tab_tablet_image>search_tab.png</sidebar_search_tab_tablet_image>
+      <sidebar_toc_tab_mobile_image>toc_mobile.png</sidebar_toc_tab_mobile_image>
+      <sidebar_toc_tab_active_mobile_image>toc_mobile_active.png</sidebar_toc_tab_active_mobile_image>
+      <sidebar_toc_tab_tablet_image>toc_tab.png</sidebar_toc_tab_tablet_image>
+      <toc_tab_image>toc_desktop.png</toc_tab_image>
+      <and_search_enabled_image>andsearch_mark.png</and_search_enabled_image>
+      <and_search_disabled_image>andsearch_nomark.png</and_search_disabled_image>
+      <filter_title_color>#e1e1e1</filter_title_color>
+      <filter_title_seperator_color>#232323</filter_title_seperator_color>
+      <filter_group_bgcolor>#444343</filter_group_bgcolor>
+      <filter_entry_color>#e1e1e1</filter_entry_color>
+      <filter_back_mobtab_image>back_mobile_filter.png</filter_back_mobtab_image>
+      <index_search_bgcolor>#232323</index_search_bgcolor>
+      <social_media_border_color>#232323</social_media_border_color>
+      <social_media_open_image>social_open.png</social_media_open_image>
+      <social_media_close_image>social_close_ltr.png</social_media_close_image>
+      <custom_button_image_0>print_desktop.png</custom_button_image_0>
+    </css>
+    <html>
+      <title_font_family></title_font_family>
+      <page_font_family>\&quot;Trebuchet MS\&quot;, Arial, sans-serif</page_font_family>
+      <show_toc type="boolean">true</show_toc>
+      <show_index type="boolean">true</show_index>
+      <show_glossary type="boolean">true</show_glossary>
+      <show_filter type="boolean">true</show_filter>
+      <default_pane>toc</default_pane>
+      <assets type="array"></assets>
+      <custom_buttons type="array">
+        <custom_buttonsitem>
+          <image>print_desktop.png</image>
+          <name>Print</name>
+          <onclick>rh.model.publish(rh.consts(&#39;EVT_PRINT_TOPIC&#39;));return false;</onclick>
+          <title>Print</title>
+        </custom_buttonsitem>
+      </custom_buttons>
+      <max_width_mobile>941</max_width_mobile>
+      <max_width_tablet>1295</max_width_tablet>
+      <search_results_highlight_bgcolor>#FCFF00</search_results_highlight_bgcolor>
+      <search_results_highlight_color>#000000</search_results_highlight_color>
+      <search_results_in_content_area type="boolean">false</search_results_in_content_area>
+      <sidebar_open_by_default type="boolean">true</sidebar_open_by_default>
+      <use_and_search type="boolean">true</use_and_search>
+      <use_facebook type="boolean">false</use_facebook>
+      <use_twitter type="boolean">false</use_twitter>
+    </html>
+  </variables>
+  <version>2022.3.0</version>
+</skin>
