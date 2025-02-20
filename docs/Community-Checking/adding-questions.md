@@ -73,6 +73,15 @@ The reference needs to have the book name abbreviated the same way Paratext abbr
 If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Save your spreadsheet as a CSV file.
+
+	:::note
+	
+	If you are using Microsoft Excel, be sure to select “CSV UTF-8 (Comma delimited) (*.csv)” as the file type when exporting as CSV.
+	
+	:::
+	
+	
+
 2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
 3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
 4. Click on **Import from CSV file** and select the file.

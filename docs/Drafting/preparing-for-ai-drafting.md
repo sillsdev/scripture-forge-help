@@ -15,7 +15,7 @@ To access Scripture Forge Auto Drafting, you will need to click on the “Genera
 ![](./2066867633.png)
 
 
-After you fill out the form, please allow a couple days for the Scripture Forge onboarding team to review it and investigate the best settings for your project. Once this is done, the team will reach out to you with further instructions to guide you in the drafting process.
+After you fill out the form, please allow a couple days for the Scripture Forge onboarding team to review it and investigate the best settings for your project and provide you with some review drafts if there are different options to choose from. Once this is done, the team will reach out to you with further instructions to guide you in the drafting process.
 
 
 ### **Selecting the Primary Reference Translation** {#26e1244e99c0459bad277d7cff4417b8}
