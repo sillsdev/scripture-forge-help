@@ -1,0 +1,14 @@
+{
+  "help_menu": {
+    "overview": "Übersicht",
+    "concepts": "Konzepte",
+    "tasks": "Aufgaben",
+    "tasks_menu": {
+      "administrator_tasks": "Aufgaben des Administrators",
+      "basic_tasks": "Grundlegende Aufgaben",
+      "community_checking_tasks": "Aufgaben Überprüfung mit Zielgruppe",
+      "translate_tasks": "Aufgaben Übersetzen"
+    },
+    "user_interface": "Benutzeroberfläche"
+  }
+}
