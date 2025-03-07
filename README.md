@@ -18,4 +18,4 @@ This site is built with [Docusaurus](https://docusaurus.io/). Documentation file
   - dos2unix (used to update the line endings of the .sh files to run on WSL/WSL2) `sudo apt-get install dos2unix`
   - [deno](https://docs.deno.com/runtime/getting_started/installation/) 
 
-- To set the environment variables, you will want to open an administrative command prompt and `setx` each variable and then run `setx WSLENV VARIABLE/u` seperating each variable with a colon, to share them with WSL/WSL2 when running the `update.mts`. 
+- To set the environment variables, you will want to open an administrative command prompt and `setx VARIABLE` each variable and then run `setx WSLENV VARIABLE/u` seperating each variable with a colon, to share them with WSL/WSL2 when running the `update.mts`.
