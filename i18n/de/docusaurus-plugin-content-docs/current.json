@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Weiter",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Drafting": {
+    "message": "Entwurf erstellen",
+    "description": "The label for category Drafting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Checking": {
+    "message": "Überprüfung mit der Zielgruppe",
+    "description": "The label for category Community Checking in sidebar tutorialSidebar"
+  }
+}

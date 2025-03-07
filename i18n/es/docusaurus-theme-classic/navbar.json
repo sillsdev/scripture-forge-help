@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Ayuda de Scripture Forge",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logotipo de Scripture Forge",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Back to Scripture Forge": {
+    "message": "Volver a Scripture Forge",
+    "description": "Navbar item with label Back to Scripture Forge"
+  }
+}

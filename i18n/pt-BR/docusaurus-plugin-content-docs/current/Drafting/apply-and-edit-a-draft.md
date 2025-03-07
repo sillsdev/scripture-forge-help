@@ -85,3 +85,4 @@ To do this, click on the New Tab button as shown below and select “History.”
 Now, using the dropdown list, select the date to open the desired version of your draft.
 
 **Please note that when a new draft is generated, any older drafts that have not been saved will be lost. Remember to download the draft or apply it to your Paratext project and run a sync before generating a new draft.**
+

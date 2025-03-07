@@ -85,3 +85,4 @@ Para ello, haga clic en el botón Nueva pestaña, como se muestra a continuació
 Ahora, utilizando la lista desplegable, seleccione la fecha para abrir la versión deseada de su borrador.
 
 **Tenga en cuenta que cuando se genere un nuevo borrador, se perderán los borradores anteriores que no se hayan guardado. Recuerda descargar el borrador o aplicarlo a tu proyecto Paratext y ejecutar una sincronización antes de generar un nuevo borrador.**
+

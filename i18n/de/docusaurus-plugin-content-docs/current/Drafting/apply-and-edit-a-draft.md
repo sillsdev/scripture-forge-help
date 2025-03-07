@@ -85,3 +85,4 @@ Klicke dazu auf die Schaltfläche Neue Registerkarte (siehe unten) und wähle "V
 Wähle nun im Dropdown-Menü das Datum aus, an dem Du die gewünschte Version Deines Entwurfs öffnen möchtest.
 
 **Bitte beachte, dass bei der Erstellung eines neuen Entwurfs alle älteren Entwürfe, die nicht gespeichert wurden, verloren gehen. Denke daran, den Entwurf herunterzuladen oder ihn in Dein Paratext-Projekt zu übernehmen und eine Synchronisierung durchzuführen, bevor Du einen neuen Entwurf erstellst.**
+

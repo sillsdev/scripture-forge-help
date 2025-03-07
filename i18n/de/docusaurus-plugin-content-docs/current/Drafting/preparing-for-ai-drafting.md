@@ -49,3 +49,4 @@ Wie im obigen Bild dargestellt, werden Dir einige Optionen angezeigt. Du kannst 
 \*\*3) Kontrollkästchen für die Vorübersetzung von Überschriften und Material ausserhalb der Verse – Wir empfehlen, dass Du dieses Kontrollkästchen nicht aktivierst. Die Überschriften der Abschnitte werden weiterhin übersetzt.
 
 **4) Erlaube zusätzliche Kontrollkästchen für die Schulungsdaten** – Wenn Du dieses Kontrollkästchen aktivierst, kannst Du weiteren Dokumente hochladen, die für die Schulung des Sprachmodells verwendet werden können. Diese Dateien müssen parallele Sätze in den gleichen Ausgangs- und Zielsprachen enthalten wie die Primärreferenzübersetzung und das Zielprojekt. Bitte beachten, dass Du zu diesem Zweck **nur .csv-Dateien hochladen** kannst.
+

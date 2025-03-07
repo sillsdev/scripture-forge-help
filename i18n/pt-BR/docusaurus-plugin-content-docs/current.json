@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Drafting": {
+    "message": "Drafting",
+    "description": "The label for category Drafting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Checking": {
+    "message": "Verificação da Comunidade",
+    "description": "The label for category Community Checking in sidebar tutorialSidebar"
+  }
+}

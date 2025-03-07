@@ -29,3 +29,4 @@ Une fois ces étapes terminées, vous verrez le bouton « Générer une ébauche
 Une fois que l'ébauche est prête, vous devriez voir une notification comme indiqué dans la capture d'écran ci-dessous.
 
 ![](./2097960595.png)
+

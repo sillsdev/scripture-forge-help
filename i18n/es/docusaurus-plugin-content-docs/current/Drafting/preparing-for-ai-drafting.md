@@ -49,3 +49,4 @@ Como se muestra en la imagen superior, se le presentarán algunas opciones. Pued
 **3) Casilla de verificación de pretraducción de encabezados y material no transversal** - Le recomendamos que deje esta casilla sin marcar. Los títulos de las secciones se seguirán traduciendo.
 
 **4) Casilla de verificación Permitir datos de entrenamiento adicionales** - Si selecciona esta casilla, podrá cargar cualquier documento adicional que pueda utilizarse para entrenar el modelo lingüístico. Estos archivos deben contener frases paralelas en las mismas lenguas de origen y de destino que la traducción de referencia primaria y el proyecto de destino. Tenga en cuenta que **sólo puede cargar archivos .csv** para este fin.
+

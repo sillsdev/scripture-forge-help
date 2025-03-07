@@ -1,5 +1,5 @@
 ---
-title: Erstellung eines Entwurf verstehen
+title: Erstellung eines Entwurfs verstehen
 sidebar_position: 0
 slug: /understanding-drafts
 ---
@@ -280,3 +280,4 @@ Rückübersetzungsentwürfe können aus jeder Sprache generiert werden, müssen 
 | Chinesisch                              | zh        | zho       | chi       |
 | Malaiisch                               | ms        | zsm       | zsm       |
 | Zulu                                    | zu        | zul       | zul       |
+

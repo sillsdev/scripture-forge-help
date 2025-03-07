@@ -49,3 +49,4 @@ Comme indiqué dans l'image ci-dessus, vous aurez quelques options présentées.
 **3) Cochez la case à cocher Pré-traduire les en-têtes et les matériaux non versets** – Nous vous recommandons de laisser cette case décochée. Les titres de section seront encore traduits.
 
 **4) Autorisez la case à cocher des données de formation supplémentaires** – Si vous cochez cette case, vous pourrez télécharger tout autre document pouvant être utilisé pour former le modèle de langue. Ces fichiers doivent contenir des phrases parallèles dans les mêmes langues source et cible que la traduction de référence principale et le projet cible. Veuillez noter que vous ne pouvez **envoyer que des fichiers .csv** à cette fin.
+
