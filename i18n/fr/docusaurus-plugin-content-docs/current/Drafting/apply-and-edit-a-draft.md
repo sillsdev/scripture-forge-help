@@ -85,3 +85,4 @@ Pour cela, cliquez sur le bouton Nouvel onglet comme indiqué ci-dessous et sél
 Maintenant, en utilisant la liste déroulante, sélectionnez la date pour ouvrir la version désirée de votre brouillon.
 
 **Veuillez noter que lorsqu'une nouvelle ébauche est généré, toutes les anciennes ébauches qui n'ont pas été sauvegardés seront perdus. N'oubliez pas de télécharger l'ébauche ou de l'appliquer à votre projet Paratext et d'exécuter une synchronisation avant de générer une nouvelle ébauche.**
+

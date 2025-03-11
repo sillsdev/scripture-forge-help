@@ -98,7 +98,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Arabe marocain                          |           | ary       |           |
 | Arabe égyptien                          |           | arz       |           |
 | Assamese                                | as        | asm       | asm       |
-| Asturian                                |           | ast       |           |
+| Asturien                                |           | ast       |           |
 | Awadhi                                  |           | awa       |           |
 | Aymara                                  |           | ayr       |           |
 | Azerbaïdjanais du Sud                   |           | azb       |           |
@@ -119,7 +119,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Cebuano                                 |           | ceb       |           |
 | Tchèque                                 | cs        | ces       | cze       |
 | Chokwe                                  |           | cjk       |           |
-| Central Kurdish                         |           | ckb       |           |
+| Kurde Central                           |           | ckb       |           |
 | Crimean Turkish                         |           | crh       |           |
 | Welsh                                   | cy        | cym       | wel       |
 | Danois                                  | da        | dan       | dan       |
@@ -127,12 +127,12 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Dinka                                   |           | dik       |           |
 | Dyula                                   |           | dyu       |           |
 | Dzongkha                                | dz        | dzo       | dzo       |
-| Greek                                   | el        | ell       | gre       |
-| Anglais                                 | en        | eng       | eng       |
+| Grecque                                 | el        | ell       | gre       |
+| Anglais                                 | en        | fra       | fra       |
 | Esperanto                               | eo        | epo       | epo       |
 | Estonien                                | et        | est       | est       |
 | Basque                                  | eu        | eus       | baq       |
-| Ewe                                     | ee        | ewe       | ewe       |
+| Éwé                                     | ee        | éwé       | éwé       |
 | Faroese                                 | fo        | fao       | fao       |
 | Fijian                                  | fj        | fij       | fij       |
 | Finnish                                 | fi        | fin       | fin       |
@@ -146,7 +146,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Guarani                                 | gn        | grn       | grn       |
 | Gujarati                                | gu        | guj       | guj       |
 | Créole haïtien                          |           | hat       |           |
-| Hausa                                   | ha        | hau       | hau       |
+| Haoussa                                 | ha        | hau       | hau       |
 | Hébreu                                  | he        | heb       | heb       |
 | Hindi                                   | hi        | hin       | hin       |
 | Chhattisgarhi                           |           | hne       |           |
@@ -156,7 +156,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Igbo                                    | ig        | ibo       | ibo       |
 | Iloko                                   |           | ilo       |           |
 | Indonésien                              | id        | ind       | ind       |
-| Icelandic                               | is        | isl       | ice       |
+| Islandais                               | is        | isl       | ice       |
 | Les Italiens                            | it        | ita       | ita       |
 | Javanais                                | jv        | jav       | jav       |
 | japonaises                              | ja        | jpn       | jpn       |
@@ -182,7 +182,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Ligurian                                |           | lij       |           |
 | Limburgish                              | li        | lim       | lim       |
 | Lingala                                 | ln        | lin       | lin       |
-| Lithuanian                              | lt        | lit       | lit       |
+| Lithuanien                              | lt        | lit       | lit       |
 | Lombard                                 |           | lmo       |           |
 | Latgalian                               |           | ltg       |           |
 | Luxembourgish                           | lb        | ltz       | ltz       |
@@ -205,8 +205,8 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Maori                                   | mi        | mri       | mao       |
 | Burmese                                 | mon       | mya       | bur       |
 | Dutch                                   | nl        | nld       | dut       |
-| Norwegian Nynorsk                       | nn        | nno       | nno       |
-| Norwegian Bokmål                        | nb        | nob       | nob       |
+| Nynorsk norvégien                       | nn        | nno       | nno       |
+| Norvégien, bokmål                       | nb        | nob       | nob       |
 | Nepali                                  |           | npi       | npi       |
 | Sotho du Nord                           |           | nso       | nso       |
 | Nuer                                    |           | nus       | nus       |
@@ -244,7 +244,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Sardinian                               | sc        | srd       | srd       |
 | Serbe                                   | sr        | srp       | srp       |
 | Swazi                                   | ss        | ssw       | ssw       |
-| Sundanese                               | su        | sun       | sun       |
+| Soundanaise                             | su        | soleil    | soleil    |
 | Swedish                                 | sv        | swe       | swe       |
 | Swahili                                 | sw        | swh       | swh       |
 | Silesian                                | szl       | szl       | szl       |
@@ -280,3 +280,4 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Chinois                                 | zh        | zho       | chi       |
 | Malay                                   | ms        | zsm       | zsm       |
 | Zulu                                    | zu        | zul       | zul       |
+
