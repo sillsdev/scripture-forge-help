@@ -6,7 +6,6 @@ slug: /FAQ
 
 ## **Questions about Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}
 
-
 1. How does Scripture Forge fit into my translation steps?
 
     _Scripture Forge is a tool designed to help you navigate the drafting phase more effectively and quickly while maintaining the quality of your work. It is not a replacement to the translation steps, instead think of it as a resource to help you be more productive while drafting and community checking_
