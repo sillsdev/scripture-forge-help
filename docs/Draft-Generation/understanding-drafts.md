@@ -1,5 +1,5 @@
 ---
-title: Understanding Drafting
+title: Understanding Draft Generation
 sidebar_position: 0
 slug: /understanding-drafts
 ---
