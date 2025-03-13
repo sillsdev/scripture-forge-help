@@ -3,9 +3,9 @@
     "message": "Próximo",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Drafting": {
-    "message": "Drafting",
-    "description": "The label for category Drafting in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Draft Generation": {
+    "message": "Draft Generation",
+    "description": "The label for category Draft Generation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Checking": {
     "message": "Verificação da Comunidade",

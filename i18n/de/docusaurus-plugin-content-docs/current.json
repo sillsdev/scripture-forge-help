@@ -3,9 +3,9 @@
     "message": "Weiter",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Drafting": {
-    "message": "Entwurf erstellen",
-    "description": "The label for category Drafting in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Draft Generation": {
+    "message": "Generieren von Entwürfen",
+    "description": "The label for category Draft Generation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Checking": {
     "message": "Überprüfung mit der Zielgruppe",
