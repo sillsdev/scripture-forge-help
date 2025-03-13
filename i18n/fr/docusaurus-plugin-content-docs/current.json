@@ -3,9 +3,9 @@
     "message": "Suivant",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Drafting": {
-    "message": "Ébauche en cours",
-    "description": "The label for category Drafting in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Draft Generation": {
+    "message": "Génération d'une ébauche",
+    "description": "The label for category Draft Generation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Checking": {
     "message": "Vérification par la communauté",

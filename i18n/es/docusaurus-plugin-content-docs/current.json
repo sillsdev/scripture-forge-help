@@ -3,9 +3,9 @@
     "message": "Siguiente",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Drafting": {
-    "message": "Redacción",
-    "description": "The label for category Drafting in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Draft Generation": {
+    "message": "Generación de borradores",
+    "description": "The label for category Draft Generation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Checking": {
     "message": "Comprobación por la comunidad",
