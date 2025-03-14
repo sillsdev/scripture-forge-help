@@ -1,7 +1,7 @@
 ---
 title: Ajouter des questions
 sidebar_position: 1
-slug: /ajouter-questions
+slug: /adding-questions
 ---
 
 import ReactPlayer from "react-player";
