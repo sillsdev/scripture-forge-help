@@ -83,7 +83,7 @@ Du musst Dir nicht merken, dass Markus 5 43 Verse hat, um nach allen Versen des 
 
 :::
 
-### Fragen aus Transcelerator importieren {#1850d745ac9e80e795f3d611356e74d5}
+### Fragen aus Transcelerator importieren {#1850d745ac9e8003815fc894b8baaeb7}
 
 [Transcelerator](https://software.sil.org/transcelerator/) ist ein Plugin für Paratext, das eine Reihe von vorgefertigten Fragen zur Überprüfung des Textverständnisses in mehreren wichtigen Sprachen enthält. Diese Fragen können in Paratext übersetzt, in Scripture Forge exportiert und dann nach einer Synchronisierung in Scripture Forge importiert werden.
 
@@ -100,7 +100,7 @@ Um Fragen aus Transcelerator zu importieren:
 9. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. In diesem Abschnitt findest Du Anweisungen zum Filtern für die gewünschten Fragen.
 10. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 
-## Audioaufnahme des Textes anhängen {#fd31ef9b6d74417099996e7dadb5068e}
+## Audioaufnahme des Textes anhängen {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge kann eine Audioaufnahme von jedem Textabschnitt für Überprüfer der Zielgruppe abspielen. Dazu musst Du für jedes Kapitel eine Audiodatei und eine Zeitdatei hochladen. Zeitdateien erlauben es Scripture Forge jeden Vers hervorzuheben, während er gesprochen wird.
 
