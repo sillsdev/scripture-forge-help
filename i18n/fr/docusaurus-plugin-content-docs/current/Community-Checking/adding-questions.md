@@ -1,7 +1,7 @@
 ---
 title: Ajouter des questions
 sidebar_position: 1
-slug: /ajouter-questions
+slug: /adding-questions
 ---
 
 import ReactPlayer from "react-player";
@@ -18,7 +18,7 @@ Actuellement, le seul moyen d'obtenir des commentaires de la part des vérificat
 
 <ReactPlayer controls url="https://youtu.be/J-led5En3D8" />
 
-### Créer des questions individuellement dans Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
+### Créer des questions individuellement dans Scripture Forge {#1850d745ac9e8003815fc894b8baaeb7}
 
 Pour ajouter des questions à votre projet, cliquez sur **Vue d'ensemble** dans la section **Vérification par la communauté** dans la barre latérale de navigation. Clique ensuite sur le bouton **Ajouter une question**. Une boîte de dialogue s'ouvrira pour vous permettre de créer une question.
 
@@ -104,7 +104,7 @@ Pour importer des questions depuis Transcelerator:
 
 Scripture Forge peut jouer un enregistrement audio de chaque passage pour les vérificateurs de la communauté. Pour ce faire, vous devrez téléverser un fichier audio et un fichier de synchronisation pour chaque chapitre. Les fichiers de synchronisation permettent à Scripture Forge de mettre en surbrillance chaque verset au fur et à mesure qu'il est prononcé.
 
-### Enregistrement du texte {#1926abf6118c46bba16353d2ef85169f}
+### Enregistrement du texte {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge prend en charge les fichiers audio aux formats .mp3 et .wav. Les fichiers de synchronisation sont pris en charge par HearThis, aeneas, Audacity et Adobe Audition.
 

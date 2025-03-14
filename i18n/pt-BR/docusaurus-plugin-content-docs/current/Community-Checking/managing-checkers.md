@@ -20,7 +20,7 @@ In the side bar, click **Settings**, and scroll down to **Community Checking Set
 
 The first setting to consider is **Allow checkers to see each other's answers**. When community checkers are presented with a question, existing answers from other community checkers are not shown so that they will not influence the answer that is given. Once a question is answered, any other answers to the question will be shown, and checkers can comment on and like each other’s answers. If you don’t want this interaction and want answers from other checkers to always be hidden, turn off **Allow checkers to see each other's answers**.
 
-### Sharing settings {#5aa7e3d8451f40cfa6b33c5dd39a3c6f}
+### Sharing settings {#1850d745ac9e8097ad4efcb063fc2603}
 
 If you want community checkers to be able to invite friends to the project, make sure **Allow users to invite others to the project** is enabled. If this setting is off, only project admins will be able to add community checkers to the project.
 

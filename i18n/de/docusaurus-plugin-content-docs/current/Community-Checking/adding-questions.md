@@ -83,7 +83,7 @@ Du musst Dir nicht merken, dass Markus 5 43 Verse hat, um nach allen Versen des 
 
 :::
 
-### Fragen aus Transcelerator importieren {#1850d745ac9e8003815fc894b8baaeb7}
+### Fragen aus Transcelerator importieren {#1850d745ac9e80e795f3d611356e74d5}
 
 [Transcelerator](https://software.sil.org/transcelerator/) ist ein Plugin für Paratext, das eine Reihe von vorgefertigten Fragen zur Überprüfung des Textverständnisses in mehreren wichtigen Sprachen enthält. Diese Fragen können in Paratext übersetzt, in Scripture Forge exportiert und dann nach einer Synchronisierung in Scripture Forge importiert werden.
 

@@ -1,7 +1,7 @@
 ---
 title: Gestion des réponses collectées
 sidebar_position: 3
-slug: /gestion des réponses
+slug: /managing-answers
 ---
 
 import ReactPlayer from "react-player";
