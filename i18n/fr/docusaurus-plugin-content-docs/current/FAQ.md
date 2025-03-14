@@ -6,6 +6,7 @@ slug: /FAQ
 
 ## **Questions about Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}
 
+
 1. How does Scripture Forge fit into my translation steps?
 
     _Scripture Forge is a tool designed to help you navigate the drafting phase more effectively and quickly while maintaining the quality of your work. It is not a replacement to the translation steps, instead think of it as a resource to help you be more productive while drafting and community checking_
@@ -62,6 +63,7 @@ slug: /FAQ
 
 3. Why does my book only have Chapter 1 in the project?
     - _Adding a draft to the project happens on a chapter-by-chapter basis from the “Autodraft” window under “Edit and Review”. So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
+
     - _You can add the whole book by navigating to “Generate Draft” and finding the draft that has been generated. Click the 3 dot menu available next to the name of the book you wish to add, and then click “Add to project.” This will add the whole book to your project_
 
 4. Why does my button say “re-add to project”
