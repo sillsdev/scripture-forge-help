@@ -25,6 +25,7 @@ slug: /faq
 ## **Questions sur les sources et la formation du modèle** {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
 1. Comment puis-je améliorer la qualité de mes ébauches
+1. Comment puis-je améliorer la qualité de mes ébauches
 
     _Il y a 2 façons principales d'améliorer les brouillons._
 
