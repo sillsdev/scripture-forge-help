@@ -16,9 +16,9 @@ Actuellement, le seul moyen d'obtenir des commentaires de la part des vérificat
 
 :::
 
-<ReactPlayer controls url="https://youtu.be/J-led5En3D8" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
-### Créer des questions individuellement dans Scripture Forge {#1850d745ac9e8003815fc894b8baaeb7}
+### Créer des questions individuellement dans Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
 
 Pour ajouter des questions à votre projet, cliquez sur **Vue d'ensemble** dans la section **Vérification par la communauté** dans la barre latérale de navigation. Clique ensuite sur le bouton **Ajouter une question**. Une boîte de dialogue s'ouvrira pour vous permettre de créer une question.
 
@@ -53,8 +53,17 @@ La référence doit comporter le nom du livre abrégé de la même manière que 
 Si vous avez besoin d'aide pour formater votre feuille de calcul correctement afin de pouvoir l'importer dans Scripture Forge, nous serons heureux de vous aider. Envoyez simplement un e-mail à [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Enregistrez votre feuille de calcul en tant que fichier CSV.
+
+    :::remarque
+
+    Si vous utilisez Microsoft Excel, veillez à sélectionner "CSV UTF-8 (délimité par des virgules) (\*.csv)" comme type de fichier lors de l'exportation au format CSV.
+
+    :::
+
 2. Ensuite, dans Scripture Forge, cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre latérale de navigation.
+
 3. Cliquez ensuite sur le bouton **Importation en lots** . Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions.
+
 4. Cliquez sur **Importer à partir du fichier CSV** et sélectionnez le fichier.
     1. Si certaines lignes de votre fichier n'ont pas de référence et de question valides, un avertissement s'affichera pour vous indiquer que ces lignes seront ignorées.
     2. Dans le cas contraire, une liste de questions s'affichera.
@@ -104,7 +113,7 @@ Pour importer des questions depuis Transcelerator:
 
 Scripture Forge peut jouer un enregistrement audio de chaque passage pour les vérificateurs de la communauté. Pour ce faire, vous devrez téléverser un fichier audio et un fichier de synchronisation pour chaque chapitre. Les fichiers de synchronisation permettent à Scripture Forge de mettre en surbrillance chaque verset au fur et à mesure qu'il est prononcé.
 
-### Enregistrement du texte {#1850d745ac9e80e795f3d611356e74d5}
+### Enregistrement du texte {#1926abf6118c46bba16353d2ef85169f}
 
 Scripture Forge prend en charge les fichiers audio aux formats .mp3 et .wav. Les fichiers de synchronisation sont pris en charge par HearThis, aeneas, Audacity et Adobe Audition.
 

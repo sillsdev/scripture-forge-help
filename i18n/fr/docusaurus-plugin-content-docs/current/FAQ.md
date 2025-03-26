@@ -1,76 +1,75 @@
 ---
-title: FAQs
+title: FAQ
 sidebar_position: 6
 slug: /FAQ
 ---
 
-## **Questions about Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}
+## **Questions sur Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}
 
+1. Comment Scripture Forge s'intègre-t-il dans ma démarche de traduction ?
 
-1. How does Scripture Forge fit into my translation steps?
+    _Scripture Forge est un outil conçu pour vous aider à naviguer plus efficacement et plus rapidement dans la phase de rédaction tout en maintenant la qualité de votre travail. Ce n'est pas un remplacement par les étapes de traduction, au lieu de considérer cela comme une ressource pour vous aider à être plus productif pendant la rédaction et la vérification de la communauté
 
-    _Scripture Forge is a tool designed to help you navigate the drafting phase more effectively and quickly while maintaining the quality of your work. It is not a replacement to the translation steps, instead think of it as a resource to help you be more productive while drafting and community checking_
+2. Scripture Forge conserve-t-il une sauvegarde des données de mon projet ? Qui est responsable de la sécurité des données ?
 
-2. Does Scripture Forge keep a backup of my project data? Who is responsible for keeping the data safe?
+    _Scripture Forge maintient une version du projet sur les serveurs contrôlés par SIL, et est responsable de la sécurisation de ce projet. Le projet est également synchronisé avec votre projet Paratext, qui est stocké sur les serveurs Paratext. Sachez que les données voyagent sur Internet lorsque vous vous connectez à l'interface de Scripture Forge en ligne._
 
-    _Scripture Forge maintains a version of the project on SIL-controlled servers, and is responsible for keeping that project secure. The project also syncs with your Paratext project, which is stored on the Paratext servers. Be aware that the data does travel over the Internet when you connect to the Scripture Forge interface online._
+3. Comment puis-je obtenir le soutien ou l'aide de l'équipe SF ?
 
-3. How can I get support or help from the SF team?
-
-    _You may use the following links to contact us or find support:_
+    _Vous pouvez utiliser les liens suivants pour nous contacter ou trouver de l'aide:_
 
     - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge)[ ](https://help.scriptureforge.org/)And [https://help.scriptureforge.org](https://help.scriptureforge.org/)
     - **Questions and Support:** email: support_team@scriptureforge.org
     - **Report an issue:**[ ](https://scriptureforge.freshdesk.com/support/tickets/new)[https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
 
-## **Questions on Sources and Training the model** {#1b30d745ac9e80e791d9f0c3ee971c5c}
+## **Questions sur les sources et la formation du modèle** {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
-1. How do I improve the quality of my Drafts?
+1. Comment puis-je améliorer la qualité de mes ébauches
+1. Comment puis-je améliorer la qualité de mes ébauches
 
-    _There are 2 primary ways to improve drafts._
+    _Il y a 2 façons principales d'améliorer les brouillons._
 
-    - _The first is to add more data to the Translation model. You can do this by choosing more books in Step 2 - “Choose books for Training the Language Model.” The more data available for training the better will be the results of the drafts._
-    - _The second way is to improve the quality of the data in the Translation Model. You can do this by making sure the books you have chosen are well checked for consistency in areas such as spelling, punctuation and content. The better the quality of the data, the better the system will learn to generate good drafts._
-    - _Many teams also see benefit from using an up to date back translation as an additional training source_
+    - _Le premier est d'ajouter plus de données au modèle de traduction. Vous pouvez le faire en choisissant plus de livres à l'étape 2 - "Choisir des livres pour l'entraînement du modèle de langue". Plus il y aura de données disponibles pour la formation, mieux ce seront les résultats des ébauches._
+    - _La seconde façon est d'améliorer la qualité des données dans le Modèle de traduction. Vous pouvez le faire en vous assurant que les livres que vous avez choisis sont bien vérifiés pour la cohérence dans des domaines tels que l'orthographe, la ponctuation et le contenu. Plus la qualité des données est élevée, plus le système apprendra à générer de bonnes ébauches._
+    - _De nombreuses équipes voient également les avantages d'utiliser une traduction à jour comme source de formation supplémentaire_
 
-2. Why do you want me to set a separate training source that isn't my main source?
+2. Pourquoi voulez-vous que je définisse une source de formation distincte de ma source principale ?
 
-    _If there’s a text that’s more closely aligned with your translation, it may make it easier for the model to learn the relationships between the two languages. A separate training source is not always needed but is an option we provide_
+    _S'il y a un texte plus proche de votre traduction, il peut faciliter l'apprentissage des relations entre les deux langues. Une source de formation séparée n'est pas toujours nécessaire, mais est une option que nous fournissons_
 
-3. How do I change the source or use a different version to train the translation model?
+3. Comment puis-je changer la source ou utiliser une version différente pour former le modèle de traduction?
 
-    _You can change the source of your project by navigating to Settings and then selecting the required one as a resource under “Translate.”_
+    _Vous pouvez changer la source de votre projet en naviguant dans Paramètres puis en sélectionnant celui requis en tant que ressource sous « Traduire ». _
 
-4. Why is the book I want not visible in my list of books?
+4. Pourquoi le livre que je veux n'est-il pas visible dans ma liste de livres?
 
-    _The book needs to exist in both the source and target projects in Paratext. Please ensure this and then run a send/receive in Paratext and a synchronize in Scripture Forge so that Scripture Forge has the latest information from Paratext_
+    _Le livre doit exister à la fois dans les projets source et cible dans Paratext. Veuillez vous assurer que ceci et ensuite exécuter un Envoyer/Recevoir dans Paratext et une synchronisation dans Scripture Forge afin que Scripture Forge ait les dernières informations de Paratext_
 
-5. Why is there a red exclamation mark when I select a new Primary source translation in the Settings page?
+5. Pourquoi y a-t-il un point d'exclamation rouge lorsque je sélectionne une nouvelle traduction de source principale dans la page Paramètres?
 
-    _It means that setting the source was unsuccessful. You can refresh the page and try again_
+    _Cela signifie que la configuration de la source a échoué. Vous pouvez actualiser la page et essayer à nouveau_
 
-## **Questions on Drafting** {#1b30d745ac9e8095b256da102cecb88a}
+## **Questions sur l'ébauchage** {#1b30d745ac9e8095b256da102cecb88a}
 
-1. How long does it take to generate my draft?
+1. Combien de temps faut-il pour générer mon ébauche
 
-    _It currently takes roughly 3 hours to generate a draft. However, since this is dependent on server availability and how many books you have requested, we recommend generating no more than 3 books at a time. If the draft generation is taking an unusually long time please reach out to us to report the issue._
+    _Il faut actuellement environ 3 heures pour générer une ébauche. Cependant, comme cela dépend de la disponibilité du serveur et du nombre de livres que vous avez demandés, nous vous recommandons de ne pas générer plus de 3 livres à la fois. Si la génération d'ébauche prend un temps exceptionnellement long, veuillez nous contacter pour signaler le problème._
 
-2. How will I know when my draft is done?
+2. Comment saurai-je que mon ébauche est terminé ?
 
-    _You may check the “Generate draft” page to see the status, and when it’s done, you’ll see a message similar to this:_
+    _Vous pouvez vérifier la page « Générer une ébauche » pour voir le statut, et une fois terminé, vous verrez un message similaire à ceci :_
 
     ![](./267304602.png)
 
-3. Why does my book only have Chapter 1 in the project?
-    - _Adding a draft to the project happens on a chapter-by-chapter basis from the “Autodraft” window under “Edit and Review”. So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
+3. Pourquoi mon livre ne comporte-t-il que le chapitre 1 dans le projet ?
+    - _L'ajout d'une ébauche au projet se fait chapitre par chapitre à partir de la fenêtre « AutoEbauche» sous « Édition et revue ». Ainsi, si un seul chapitre est ajouté, ce sera le seul chapitre disponible dans le projet. D'autres chapitres devront être ajoutés individuellement._
+    - _Vous pouvez ajouter le livre entier en naviguant vers « Générer une ébauche » et en trouvant l'ébauche qui a été généré. Cliquez sur le menu à 3 points disponible à côté du nom du livre que vous souhaitez ajouter, puis cliquez sur « Ajouter au projet ». Cela va ajouter tout le livre à votre projet_
 
-    - _You can add the whole book by navigating to “Generate Draft” and finding the draft that has been generated. Click the 3 dot menu available next to the name of the book you wish to add, and then click “Add to project.” This will add the whole book to your project_
+4. Pourquoi mon bouton dit-il « ré-ajouter au projet»
 
-4. Why does my button say “re-add to project”
+    _Si vous éditez un chapitre après "ajout au projet" et que vous voulez revenir au projet SF ébauche non éditée, vous pouvez réimporter l''ebauche originale en cliquant sur le bouton « Ré-ajouter au projet » _
 
-    _If you edit a chapter after “adding to project” and want to revert to the unedited SF draft, you can re-import the original draft by clicking the “Re-add to project” button_
+5. Que montre l'onglet Historique ?
 
-5. What does the History tab show?
-
-    _When you make changes to your draft, Scripture Forge saves a version of those changes that you may access via the history tab. You may revert your project to an older version from here by clicking the “Restore this version” button._
+    _Lorsque vous apportez des modifications à votre brouillon, Scripture Forge enregistre une version de ces modifications auxquelles vous pouvez accéder via l'onglet Historique. Vous pouvez revenir à une ancienne version de votre projet ici en cliquant sur le bouton « Restaurer cette version »._
 

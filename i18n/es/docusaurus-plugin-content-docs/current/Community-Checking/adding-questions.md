@@ -16,7 +16,7 @@ Actualmente, la única forma de obtener opiniones de los verificadores de la com
 
 :::
 
-<ReactPlayer controls url="https://youtu.be/J-led5En3D8" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
 ### Crear preguntas individualmente en la Fragua de las Escrituras {#1850d745ac9e8031908ef693ff578eec}
 
@@ -53,8 +53,17 @@ La referencia debe tener el nombre del libro abreviado de la misma forma que Par
 Si necesitas ayuda para poner tu hoja de cálculo en el formato adecuado para importarla a Scripture Forge, estaremos encantados de ayudarte. Sólo tienes que enviar un correo electrónico a [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Guarda tu hoja de cálculo como archivo CSV.
+
+    :::note
+
+    Si utiliza Microsoft Excel, asegúrese de seleccionar "CSV UTF-8 (delimitado por comas) (\*.csv)" como tipo de archivo al exportar como CSV.
+
+    :::
+
 2. A continuación, en Scripture Forge, haz clic en **Visión general** en la sección **Comprobación de la comunidad** de la barra lateral de navegación.
+
 3. A continuación, haz clic en el botón **Importación masiva**. Se abrirá un diálogo pidiéndote que elijas de dónde quieres importar las preguntas.
+
 4. Haz clic en **Importar desde archivo CSV** y selecciona el archivo.
     1. Si tienes algunas filas en tu archivo que no tienen una referencia y una pregunta válidas, se mostrará una advertencia haciéndote saber que esas filas se omitirán.
     2. De lo contrario, se te mostrará una lista de preguntas.

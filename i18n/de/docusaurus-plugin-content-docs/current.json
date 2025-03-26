@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Draft Generation": {
-    "message": "Generieren von Entwürfen",
+    "message": "Entwurf generieren",
     "description": "The label for category Draft Generation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Checking": {
