@@ -16,7 +16,7 @@ Im Moment ist die einzige Möglichkeit, Rückmeldungen von Überprüfern aus der
 
 :::
 
-<ReactPlayer controls url="https://youtu.be/J-led5En3D8" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
 ### Fragen individuell in Scripture Forge erstellen {#1850d745ac9e8031908ef693ff578eec}
 
@@ -53,8 +53,17 @@ Der Verweis muss den Buchnamen in der gleichen Weise abkürzen, wie Paratext Buc
 Wenn Du Hilfe benötigst, um Deine Tabelle in das richtige Format für den Import in Scripture Forge zu bringen, helfen wir Dir gerne. Sende einfach eine E-Mail an [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Speichere Deine Tabelle als CSV-Datei.
+
+    :::Anmerkung
+
+    Falls Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du als CSV exportierest.
+
+    :::
+
 2. Klicke dann in Scripture Forge auf **Übersicht** unter dem Abschnitt **Überprüfung mit der Zielgruppe** in der Navigationsleiste.
+
 3. Klicke dann auf die Schaltfläche **Massenimport**. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest.
+
 4. Klicke auf **Import aus CSV-Datei** und wähle die Datei aus.
     1. Wenn Du einige Zeilen in Deiner Datei hast, die keine gültige Referenz und Frage haben, wird eine Warnung angezeigt, die Dich darauf hinweist, dass diese Zeilen übersprungen werden.
     2. Andernfalls wird Dir eine Liste von Fragen angezeigt.
@@ -100,7 +109,7 @@ Um Fragen aus Transcelerator zu importieren:
 9. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. In diesem Abschnitt findest Du Anweisungen zum Filtern für die gewünschten Fragen.
 10. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 
-## Audioaufnahme des Textes anhängen {#1850d745ac9e80e795f3d611356e74d5}
+## Audioaufnahme des Textes anhängen {#fd31ef9b6d74417099996e7dadb5068e}
 
 Scripture Forge kann eine Audioaufnahme von jedem Textabschnitt für Überprüfer der Zielgruppe abspielen. Dazu musst Du für jedes Kapitel eine Audiodatei und eine Zeitdatei hochladen. Zeitdateien erlauben es Scripture Forge jeden Vers hervorzuheben, während er gesprochen wird.
 
