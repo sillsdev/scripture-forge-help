@@ -109,7 +109,7 @@ Um Fragen aus Transcelerator zu importieren:
 9. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. In diesem Abschnitt findest Du Anweisungen zum Filtern für die gewünschten Fragen.
 10. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 
-## Audioaufnahme des Textes anhängen {#1850d745ac9e80e795f3d611356e74d5}
+## Audioaufnahme des Textes anhängen {#fd31ef9b6d74417099996e7dadb5068e}
 
 Scripture Forge kann eine Audioaufnahme von jedem Textabschnitt für Überprüfer der Zielgruppe abspielen. Dazu musst Du für jedes Kapitel eine Audiodatei und eine Zeitdatei hochladen. Zeitdateien erlauben es Scripture Forge jeden Vers hervorzuheben, während er gesprochen wird.
 
