@@ -1,0 +1,51 @@
+---
+title: Mulai
+slug: /
+sidebar_position: -1
+---
+
+import DocCardList from "@theme/DocCardList";
+import i18n from "./getting-started.json";
+
+<DocCardList
+  items={[
+    {
+      type: "link",
+      href: "/connect-paratext-project",
+      label: i18n.connect_project,
+    },
+    {
+      type: "link",
+      href: "/understanding-drafts",
+      label: i18n.drafting,
+    },
+    {
+      type: "link",
+      href: "/enable-community-checking",
+      label: i18n.community_checking,
+    },
+    {
+      type: "link",
+      href: "/translation-suggestions",
+      label: i18n.translation_suggestions,
+    },
+  ]}
+/>
+
+<h2>{i18n.more_resources}</h2>
+
+<DocCardList
+  items={[
+    { type: "link", href: "pathname:///manual", label: i18n.read_manual },
+    {
+      type: "link",
+      href: "https://community.scripture.software.sil.org/c/scripture-forge/19",
+      label: i18n.community_site,
+    },
+    {
+      type: "link",
+      href: "mailto:help@scriptureforge.org",
+      label: i18n.email_support,
+    },
+  ]}
+/>

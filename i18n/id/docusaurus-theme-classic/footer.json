@@ -1,0 +1,42 @@
+{
+  "link.title.Resources": {
+    "message": "Sumber",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Support": {
+    "message": "Dukungan",
+    "description": "The title of the footer links column with title=Support in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Hukum",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.Manual": {
+    "message": "Panduan",
+    "description": "The label of footer link with label=Manual linking to pathname:///manual"
+  },
+  "link.item.label.Change log": {
+    "message": "Catatan perubahan",
+    "description": "The label of footer link with label=Change log linking to https://community.scripture.software.sil.org/t/scripture-forge-announcements/1776"
+  },
+  "link.item.label.Community site": {
+    "message": "Situs Komunitas",
+    "description": "The label of footer link with label=Community site linking to https://community.scripture.software.sil.org/c/scripture-forge/19"
+  },
+  "link.item.label.Email support": {
+    "message": "Dukungan email",
+    "description": "The label of footer link with label=Email support linking to mailto:help@scriptureforge.org"
+  },
+  "link.item.label.Terms of Use": {
+    "message": "Ketentuan Penggunaan",
+    "description": "The label of footer link with label=Terms of Use linking to https://scriptureforge.org/terms"
+  },
+  "link.item.label.Privacy policy": {
+    "message": "Kebijakan privasi",
+    "description": "The label of footer link with label=Privacy policy linking to https://scriptureforge.org/privacy"
+  },
+  "copyright": {
+    "message": "Hak Cipta © 2025 SIL International",
+    "description": "The footer copyright"
+  }
+}
