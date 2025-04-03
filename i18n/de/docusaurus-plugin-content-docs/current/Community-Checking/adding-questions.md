@@ -54,7 +54,7 @@ Wenn Du Hilfe benötigst, um Deine Tabelle in das richtige Format für den Impor
 
 1. Speichere Deine Tabelle als CSV-Datei.
 
-    :::Anmerkung
+    :::note
 
     Falls Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du als CSV exportierest.
 

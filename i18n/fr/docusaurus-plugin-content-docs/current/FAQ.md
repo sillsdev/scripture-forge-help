@@ -1,7 +1,7 @@
 ---
 title: FAQ
 sidebar_position: 6
-slug: /FAQ
+slug: /faq
 ---
 
 ## **Questions sur Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}

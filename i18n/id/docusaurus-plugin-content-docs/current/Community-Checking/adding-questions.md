@@ -12,7 +12,7 @@ Untuk mendapatkan umpan balik atas terjemahan Anda, Anda perlu menambahkan perta
 
 :::note
 
-Saat ini satu-satunya cara untuk mendapatkan umpan balik dari para pemeriksa komunitas adalah dengan mengajukan pertanyaan-pertanyaan pemeriksaan. Beberapa administrator proyek telah meminta agar pemeriksa dapat menambahkan komentar pada teks bahkan tanpa adanya pertanyaan. Jika itu adalah sesuatu yang dapat menguntungkan proyek Anda, silakan [menyuarakan dukungan Anda untuk proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) di [situs komunitas Scripture Forge](https://community.scripture.software.sil.org/).
+Saat ini satu-satunya cara untuk mendapatkan umpan balik dari para masyarakat pemeriksa adalah dengan mengajukan pertanyaan-pertanyaan pemeriksaan. Beberapa administrator proyek telah meminta agar pemeriksa dapat menambahkan komentar pada teks bahkan tanpa adanya pertanyaan. Jika itu adalah sesuatu yang dapat menguntungkan proyek Anda, silakan [menyuarakan dukungan Anda untuk proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) di [situs komunitas Scripture Forge](https://community.scripture.software.sil.org/).
 
 :::
 
@@ -20,19 +20,19 @@ Saat ini satu-satunya cara untuk mendapatkan umpan balik dari para pemeriksa kom
 
 ### Membuat pertanyaan secara individu di Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
 
-Untuk menambahkan pertanyaan ke proyek Anda, klik **Gambaran Umum** di bawah bagian **Pemeriksaan Komunitas** pada bilah sisi navigasi. Kemudian klik tombol **Tambah Pertanyaan**. Sebuah dialog akan terbuka yang memungkinkan Anda untuk membuat pertanyaan.
+Untuk menambahkan pertanyaan ke proyek Anda, klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** pada bilah sisi navigasi. Kemudian klik tombol **Tambah Pertanyaan**. Sebuah dialog akan terbuka yang memungkinkan Anda untuk membuat pertanyaan.
 
 Sebuah pertanyaan dapat berlaku untuk satu ayat, atau beberapa ayat. Ketik referensi ke dalam kotak **Referensi Alkitab**, atau klik panah tarik-turun untuk memilih kitab, pasal, dan ayat. Jika Anda ingin pertanyaan mencakup beberapa ayat, masukkan referensi akhir di kotak kedua. Setelah Anda memasukkan referensi, teks akan muncul, dengan ayat-ayat yang Anda pilih disorot.
 
 Ketik pertanyaan Anda di kotak **Pertanyaan**. Jika Anda ingin menambahkan versi audio dari pertanyaan tersebut, klik tombol **Rekam**. Anda mungkin akan diminta untuk memberikan izin untuk mengakses mikrofon Anda. Setelah Anda selesai merekam, klik **Hentikan Perekaman**. Kemudian, Anda dapat memutar rekaman untuk mendengar hasilnya. Klik tombol **Coba Lagi** jika Anda tidak puas dengan hasilnya. Anda juga dapat mengunggah file audio alih-alih merekam, jika Anda mau.
 
-Klik **Simpan** dan pertanyaan Anda akan ditambahkan ke daftar pertanyaan pemeriksaan komunitas.
+Klik **Simpan** dan pertanyaan Anda akan ditambahkan ke daftar pertanyaan pemeriksaan masyarakat.
 
 ![](./1916935940.png)
 
 ### Mengimpor pertanyaan dari spreadsheet {#1850d745ac9e8085960dd88b648f0c7a}
 
-Membuat pertanyaan satu per satu bisa jadi membosankan, jadi kami juga memungkinkan untuk mengimpor pertanyaan dari spreadsheet. Anda dapat menggunakan program seperti Microsoft Excel, Google Spreadsheet, atau LibreOffice Calc untuk membuat atau menyunting daftar pertanyaan. Jika Anda mencari satu set pertanyaan yang telah dibuat sebelumnya, pertimbangkanlah [unfoldingWord® Translation Questions] (https://git.door43.org/unfoldingWord/en_tq). Jika Anda membuka halaman yang ditautkan dan mengklik salah satu file, Anda dapat mengunduhnya, membukanya sebagai spreadsheet, dan menyunting daftar pertanyaan.
+Membuat pertanyaan satu per satu bisa jadi membosankan, jadi kami juga memungkinkan untuk mengimpor pertanyaan dari spreadsheet. Anda dapat menggunakan program seperti Microsoft Excel, Google Spreadsheet, atau LibreOffice Calc untuk membuat atau menyunting daftar pertanyaan. Jika Anda mencari satu set pertanyaan yang telah dibuat sebelumnya, pertimbangkanlah [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). Jika Anda membuka halaman yang ditautkan dan mengklik salah satu file, Anda dapat mengunduhnya, membukanya sebagai spreadsheet, dan menyunting daftar pertanyaan.
 
 Berikut adalah contoh bagaimana baris-baris dalam spreadsheet Anda seharusnya terlihat agar dapat diimpor ke Scripture Forge:
 
@@ -46,7 +46,7 @@ Spreadsheet dapat memiliki lebih banyak kolom, tetapi semua kolom kecuali kolom 
 
 :::note
 
-Referensi harus memiliki nama kitab yang disingkat dengan cara yang sama seperti Paratext menyingkat nama buku. Sebagai contoh, **Ibr 1:1** dapat digunakan, tetapi **Ibrani 1:1** tidak dapat digunakan.
+Referensi harus memiliki nama kitab yang disingkat dengan cara yang sama seperti Paratext menyingkat nama kitab. Sebagai contoh, **Ibr 1:1** dapat digunakan, tetapi **Ibrani 1:1** tidak dapat digunakan.
 
 :::
 
@@ -54,13 +54,13 @@ Jika Anda membutuhkan bantuan untuk memasukkan spreadsheet Anda ke dalam format 
 
 1. Simpan spreadsheet Anda menjadi file CSV.
 
-    ::: catatan
+    :::note
 
     Jika Anda menggunakan Microsoft Excel, pastikan untuk memilih "CSV UTF-8 (dibatasi dengan koma) (\*.csv)" sebagai jenis file ketika mengekspor sebagai CSV.
 
     :::
 
-2. Kemudian di Scripture Forge, klik **Gambaran Umum** di bawah bagian **Pemeriksaan Komunitas** di bilah sisi navigasi.
+2. Kemudian di Scripture Forge, klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi.
 
 3. Kemudian klik tombol **Impor masal**. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan.
 
@@ -94,7 +94,7 @@ Anda tidak perlu mengingat bahwa ada 43 ayat dalam Markus 5 untuk menyaring semu
 
 ### Mengimpor pertanyaan dari Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
 
-[Transcelerator] (https://software.sil.org/transcelerator/) adalah plugin untuk Paratext yang memiliki gudang pertanyaan untuk pemeriksaan pemahaman siap pakai dalam beberapa bahasa utama. Pertanyaan-pertanyaan tersebut dapat diterjemahkan di dalam Paratext, diekspor ke Scripture Forge, dan kemudian setelah diselaraskan, diimpor ke dalam Scripture Forge.
+[Transcelerator](https://software.sil.org/transcelerator/) adalah plugin untuk Paratext yang memiliki gudang pertanyaan untuk pemeriksaan pemahaman siap pakai dalam beberapa bahasa utama. Pertanyaan-pertanyaan tersebut dapat diterjemahkan di dalam Paratext, diekspor ke Scripture Forge, dan kemudian setelah diselaraskan, diimpor ke dalam Scripture Forge.
 
 Untuk mengimpor pertanyaan dari Transcelerator:
 
@@ -104,20 +104,20 @@ Untuk mengimpor pertanyaan dari Transcelerator:
 4. Ketik terjemahan dari pertanyaan bahasa Inggris yang ingin Anda gunakan di kolom **Terjemahan**. Untuk setiap pertanyaan yang telah siap, pilih kotak centang **Konfirmasi** untuk pertanyaan tersebut.
 5. Tutup Transcelerator, dan lakukan Kirim/Terima Paratext.
 6. Di Scripture Forge, di bilah sisi navigasi, klik **Sinkronisasi**. Pada halaman yang terbuka, klik **Sinkronisasi** untuk mengirim dan menerima pertanyaan Transcelerator dari Paratext.
-7. Klik **Gambaran Umum** di bawah bagian **Pemeriksaan Komunitas** di bilah sisi navigasi. Kemudian klik tombol **Impor masal**.
+7. Klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi. Kemudian klik tombol **Impor masal**.
 8. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan. Klik **Import dari Transcelerator**.
 9. Pilih pertanyaan yang ingin Anda impor. Langkah-langkah untuk melakukan hal ini sama persis dengan bagian di atas yang berjudul **Mengimpor pertanyaan dari spreadsheet**. Lihat bagian tersebut untuk petunjuk tentang penyaringan pertanyaan yang Anda inginkan.
 10. Klik **Import Pertanyaan Terpilih** dan pertanyaan Anda akan ditambahkan ke proyek.
 
 ## Lampirkan rekaman audio teks {#1850d745ac9e80e795f3d611356e74d5}
 
-Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para pemeriksa komunitas. Untuk melakukan ini, Anda perlu mengunggah file audio dan file waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.
+Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para masyarakat pemeriksa. Untuk melakukan ini, Anda perlu mengunggah file audio dan file waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.
 
-### Merekam teks {#1850d745ac9e805eb4b1c0f05d6da02a}
+### Scripture Forge mendukung audio dalam format file .mp3 dan .wav.
 
 Scripture Forge mendukung audio dalam format file .mp3 dan .wav. File pengaturan waktu didukung dari HearThis, aeneas, Audacity, dan Adobe Audition.
 
-Salah satu opsi yang paling sederhana adalah dengan menggunakan [HearThis](http://software.sil.org/hearthis) untuk merekam terjemahan. [Panduan ini] (https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) akan memandu Anda melalui proses perekaman Akitab dan menghasilkan file audio dan file waktu. Lewati langkah-langkah di bagian akhir tentang menggunakan Scripture App Builder.
+Salah satu opsi yang paling sederhana adalah dengan menggunakan [HearThis](http://software.sil.org/hearthis) untuk merekam terjemahan. [Panduan ini](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) akan memandu Anda melalui proses perekaman Akitab dan menghasilkan file audio dan file waktu. Lewati langkah-langkah di bagian akhir tentang menggunakan Scripture App Builder.
 
 [Sumber](https://software.sil.org/scriptureappbuilder/resources/) untuk Scripture App Builder membahas pendekatan yang lebih canggih, seperti menggunakan Glyssen untuk rekaman audio yang didramatisasi.
 

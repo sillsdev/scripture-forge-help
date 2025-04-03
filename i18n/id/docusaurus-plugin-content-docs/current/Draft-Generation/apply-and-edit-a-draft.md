@@ -26,7 +26,7 @@ Di sini Anda akan melihat konsep pasal pertama yang tersedia di satu sisi. Di si
 
 ### 2. Tambahkan seluruh kitab {#1430d745ac9e803183c8d916bc54de64}
 
-Setelah konsep Anda dibuat, klik menu 3-titik di samping nama kitab yang ingin Anda tambahkan ke proyek Anda. Kemudian, klik "Tambahkan ke proyek" untuk menambahkan seluruh buku ke proyek Anda.
+Setelah konsep Anda dibuat, klik menu 3-titik di samping nama kitab yang ingin Anda tambahkan ke proyek Anda. Kemudian, klik "Tambahkan ke proyek" untuk menambahkan seluruh kitab ke proyek Anda.
 
 ![](./739210120.png)
 

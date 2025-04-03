@@ -1,6 +1,6 @@
 ---
 title: Inviting Community Checkers
-sidebar_position: 3
+sidebar_position: 2
 slug: /managing-checkers
 ---
 
@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Invite people to check your project {#678dca00aaa54fd79319ecf815049301}
 
-<ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
 
 Once you have the questions on your project, it’s time to invite community checkers.
 

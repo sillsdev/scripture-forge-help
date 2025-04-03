@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-Setelah Anda mendaftar untuk Pembuatan Konsep dan mengkonfigurasi pengaturan yang diperlukan, Anda dapat mengakses Scripture Forge AI Drafting dengan mengeklik tombol "Membuat Konsep" di menu utama. Anda sekarang akan memiliki akses ke tombol "Buat Konsep Baru".
+Setelah Anda mendaftar untuk Pembuatan Konsep dan mengelola pengaturan yang diperlukan, Anda dapat mengakses Scripture Forge AI Drafting dengan mengeklik tombol "Membuat Konsep" di menu utama. Anda sekarang akan memiliki akses ke tombol "Buat Konsep Baru".
 
 ![](./1574993447.png)
 

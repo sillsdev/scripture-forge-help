@@ -54,7 +54,7 @@ Si vous avez besoin d'aide pour formater votre feuille de calcul correctement af
 
 1. Enregistrez votre feuille de calcul en tant que fichier CSV.
 
-    :::remarque
+    :::note
 
     Si vous utilisez Microsoft Excel, veillez à sélectionner "CSV UTF-8 (délimité par des virgules) (\*.csv)" comme type de fichier lors de l'exportation au format CSV.
 

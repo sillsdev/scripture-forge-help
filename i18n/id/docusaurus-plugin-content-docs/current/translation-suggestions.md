@@ -1,6 +1,6 @@
 ---
 title: Mengaktifkan Saran Terjemahan
-sidebar_position: 4
+sidebar_position: 5
 slug: /translation-suggestions
 ---
 
@@ -206,7 +206,7 @@ Untuk menyesuaikan _**pengaturan saran terjemahan**_ untuk pengguna Anda, lihat 
 
 :::note
 
-Anda dapat mengonfigurasi pengaturan saran terjemahan untuk masing-masing pengguna.
+Anda dapat mengelola pengaturan saran terjemahan untuk masing-masing pengguna.
 
 :::
 
