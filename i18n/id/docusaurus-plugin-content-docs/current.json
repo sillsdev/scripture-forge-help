@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Berikutnya",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Draft Generation": {
+    "message": "Pembuatan Konsep",
+    "description": "The label for category Draft Generation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Checking": {
+    "message": "Pemeriksaan Masyarakat",
+    "description": "The label for category Community Checking in sidebar tutorialSidebar"
+  }
+}

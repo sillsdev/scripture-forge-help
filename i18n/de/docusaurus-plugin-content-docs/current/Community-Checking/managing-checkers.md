@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Leute einladen, Dein Projekt zu überprüfen {#1850d745ac9e80caacf5e643bb216f77}
 
-<ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
 
 Sobald Du die Fragen zu Deinem Projekt hast, wird es Zeit, Überprüfer aus der Zielgruppe einzuladen.
 

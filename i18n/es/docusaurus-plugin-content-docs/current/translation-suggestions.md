@@ -1,6 +1,6 @@
 ---
 title: Uso de las sugerencias de traducción
-sidebar_position: 4
+sidebar_position: 5
 slug: /translation-suggestions
 ---
 

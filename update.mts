@@ -129,6 +129,10 @@ const helpLocales = [
     docusaurus: "pt-BR",
     crowdin: "pt-BR",
   },
+  {
+    docusaurus: "id",
+    crowdin: "id",
+  },
 ] as const;
 
 async function copyDirContentsRecursive(

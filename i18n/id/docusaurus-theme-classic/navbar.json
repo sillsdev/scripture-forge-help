@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Bantuan Scripture Forge",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo Scripture Forge",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Back to Scripture Forge": {
+    "message": "Kembali ke Scripture Forge",
+    "description": "Navbar item with label Back to Scripture Forge"
+  }
+}

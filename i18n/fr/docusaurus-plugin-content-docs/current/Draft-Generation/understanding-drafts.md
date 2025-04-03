@@ -197,7 +197,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Marathi                                 | mr        | mar       | mar       |
 | Minangkabau                             |           | min       | min       |
 | Macédonien                              | mk        | mkd       | mac       |
-| Plateau Malagasy                        |           | plt       | plt       |
+| Plateau malgache                        |           | plt       | plt       |
 | Maltese                                 | mt        | mlt       | mlt       |
 | Manipuri                                |           | mni       | mni       |
 | Halh Mongolian                          |           | khk       | khk       |
@@ -212,7 +212,7 @@ Les ébauches de rétro-traduction peuvent être générés à partir de n'impor
 | Nuer                                    |           | nus       | nus       |
 | Chichewa                                | ny        | nya       | nya       |
 | Occitan                                 | oc        | oci       | oci       |
-| West Central Oromo                      |           | gaz       | gaz       |
+| Centre-Ouest Oromo                      |           | gaz       | gaz       |
 | Odia                                    |           | ory       | ory       |
 | Pangasinan                              |           | pag       | pag       |
 | Punjabi                                 | pa        | pan       | pan       |

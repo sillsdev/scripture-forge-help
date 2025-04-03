@@ -1,7 +1,7 @@
 ---
 title: Preguntas frecuentes
 sidebar_position: 6
-slug: /Preguntas frecuentes
+slug: /faq
 ---
 
 ## **Preguntas sobre Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}

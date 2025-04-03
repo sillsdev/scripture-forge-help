@@ -1,6 +1,6 @@
 ---
 title: Using Community Checking
-sidebar_position: 3
+sidebar_position: 0
 slug: /enable-community-checking
 ---
 

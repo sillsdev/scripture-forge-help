@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Invitez des personnes à vérifier votre projet {#1850d745ac9e80caacf5e643bb216f77}
 
-<ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
 
 Une fois que vous avez les questions pour votre projet, il est temps d'inviter les vérificateurs de la communauté.
 

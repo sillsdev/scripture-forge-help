@@ -1,7 +1,7 @@
 ---
 title: FAQs
 sidebar_position: 6
-slug: /FAQ
+slug: /faq
 ---
 
 
