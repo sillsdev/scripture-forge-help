@@ -92,7 +92,7 @@ Il n'est pas nécessaire de se rappeler qu'il y a 43 versets dans Marc 5 pour fi
 
 :::
 
-### Importation des questions depuis Transcelerator {#1ed2e353d94847a3861ad3a69d531aac}
+### Importation des questions depuis Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
 
 [Transcelerator](https://software.sil.org/transcelerator/) est un plugin pour Paratext qui contient une banque de questions prêtes à l'emploi pour vérifier la compréhension dans plusieurs langues majeures. Ces questions peuvent être traduites dans Paratext, exportées vers Scripture Forge, puis importées dans Scripture Forge après synchronisation.
 
@@ -109,7 +109,7 @@ Pour importer des questions depuis Transcelerator:
 9. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
 10. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
 
-## Attacher un enregistrement audio du texte {#fd31ef9b6d74417099996e7dadb5068e}
+## Attacher un enregistrement audio du texte {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge peut jouer un enregistrement audio de chaque passage pour les vérificateurs de la communauté. Pour ce faire, vous devrez téléverser un fichier audio et un fichier de synchronisation pour chaque chapitre. Les fichiers de synchronisation permettent à Scripture Forge de mettre en surbrillance chaque verset au fur et à mesure qu'il est prononcé.
 
