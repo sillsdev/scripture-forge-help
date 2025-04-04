@@ -88,13 +88,13 @@ Anda juga dapat menyaring sebagian pertanyaan:
 
 :::note
 
-Anda tidak perlu mengingat bahwa ada 43 ayat dalam Markus 5 untuk menyaring semua ayat dalam pasal ini. Jika Anda mengklik panah tarik-turun pada kotak Referensi Ayat ke, sebuah dialog akan terbuka yang memungkinkan Anda untuk memilih kitab, pasal, dan ayat. Setelah Anda memilih Markus 5, maka akan muncul daftar ayat-ayat dalam Markus 5, dan Anda dapat memilih ayat terakhir, yaitu ayat 43. Atau Anda dapat mengetikkan **Mrk 5:100** di kotak **Referensi ke**, dan semua ayat dalam Markus 5 akan disertakan, meskipun sebenarnya tidak ada ayat 100 dalam Markus 5.
+Anda tidak perlu mengingat bahwa ada 43 ayat dalam Markus 5 untuk menyaring semua ayat dalam pasal ini. Jika Anda mengklik panah tarik-turun pada kotak **Referensi Ayat** ke, sebuah dialog akan terbuka yang memungkinkan Anda untuk memilih kitab, pasal, dan ayat. Setelah Anda memilih Markus 5, maka akan muncul daftar ayat-ayat dalam Markus 5, dan Anda dapat memilih ayat terakhir, yaitu ayat 43. Atau Anda dapat mengetikkan **Mrk 5:100** di kotak **Referensi ke**, dan semua ayat dalam Markus 5 akan disertakan, meskipun sebenarnya tidak ada ayat 100 dalam Markus 5.
 
 :::
 
 ### Mengimpor pertanyaan dari Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
 
-[Transcelerator](https://software.sil.org/transcelerator/) adalah plugin untuk Paratext yang memiliki gudang pertanyaan untuk pemeriksaan pemahaman siap pakai dalam beberapa bahasa utama. Pertanyaan-pertanyaan tersebut dapat diterjemahkan di dalam Paratext, diekspor ke Scripture Forge, dan kemudian setelah diselaraskan, diimpor ke dalam Scripture Forge.
+[Transcelerator](https://software.sil.org/transcelerator/) adalah plugin untuk Paratext yang memiliki gudang pertanyaan untuk pemeriksaan pemahaman siap pakai dalam beberapa bahasa utama. Pertanyaan-pertanyaan tersebut dapat diterjemahkan di dalam Paratext, diekspor ke Scripture Forge, dan kemudian setelah disinkronkan, diimpor ke dalam Scripture Forge.
 
 Untuk mengimpor pertanyaan dari Transcelerator:
 
@@ -111,7 +111,7 @@ Untuk mengimpor pertanyaan dari Transcelerator:
 
 ## Lampirkan rekaman audio teks {#1850d745ac9e80e795f3d611356e74d5}
 
-Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para masyarakat pemeriksa. Untuk melakukan ini, Anda perlu mengunggah file audio dan file waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.
+Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para masyarakat pemeriksa. Untuk melakukan ini, Anda perlu mengunggah berkas audio dan data waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.
 
 ### Scripture Forge mendukung audio dalam format file .mp3 dan .wav.
 
@@ -131,7 +131,7 @@ Sebagai alternatif, Anda dapat membuat file waktu secara manual menggunakan Auda
 
 ### Melampirkan audio {#1850d745ac9e80668685c9ea58252d6b}
 
-Untuk mengunggah file audio dan pengaturan waktu, pada bilah sisi klik **Pertanyaan & jawaban**, arahkan ke pasal yang ingin Anda lampirkan audionya, lalu klik ikon **Kelola Audio** di pojok kanan atas. Klik **Jelajahi File** dan pilih rekaman audio dan file waktu terkait untuk pasal tersebut, lalu klik **Simpan**.
+Untuk mengunggah berkas audio dan data waktu, pada bilah sisi klik **Pertanyaan & jawaban**, arahkan ke pasal yang ingin Anda lampirkan audionya, lalu klik ikon **Kelola Audio** di pojok kanan atas. Klik **Jelajahi File** dan pilih rekaman audio dan data waktu terkait untuk pasal tersebut, lalu klik **Simpan**.
 
 ![](./645317227.png)
 

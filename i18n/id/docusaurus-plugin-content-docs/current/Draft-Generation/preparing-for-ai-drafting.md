@@ -6,7 +6,7 @@ slug: /preparing-for-ai-drafting
 
 ## **Mendaftar untuk Pembuatan Konsep Otomatis** {#c01e77600a3b440ead3f1b816837d614}
 
-Untuk mengakses Scripture Forge Pembuatan Konsep Otomatis, Anda perlu mengklik tombol "Penyusunan Konsep" di menu utama. Jika ini adalah pertama kalinya Anda membuat konsep dalam proyek Anda, Anda akan diminta untuk mendaftar ke Pembuatan Konsep Terjemahan dan mengisi formulir Pembuatan Konsep Terjemahan. Anda akan melihat tombol "Mendaftar untuk Pembuatan Konsep" seperti yang ditunjukkan pada gambar di bawah ini.
+Untuk mengakses Scripture Forge Pembuatan Konsep Otomatis, Anda perlu mengklik tombol "Pembuatan Konsep" di menu utama. Jika ini adalah pertama kalinya Anda membuat konsep dalam proyek Anda, Anda akan diminta untuk mendaftar ke Pembuatan Konsep Terjemahan dan mengisi formulir Pembuatan Konsep Terjemahan. Anda akan melihat tombol "Mendaftar untuk Pembuatan Konsep" seperti yang ditunjukkan pada gambar di bawah ini.
 
 ![](./2066867633.png)
 
