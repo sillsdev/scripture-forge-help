@@ -6,7 +6,7 @@ slug: /adding-questions
 
 import ReactPlayer from "react-player";
 
-## Add Questions to the Project {#47b7c1e2e8a74a3489b167849470745e}
+## Add Questions to the Project {#1850d745ac9e80e09444cb3564752e31}
 
 In order to get feedback on your translation, you’ll need to add comprehension checking questions. You can import questions created by someone else, or create your own.
 
@@ -18,7 +18,7 @@ Currently the only way to get feedback from community checkers is to ask checkin
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
-### Creating questions individually in Scripture Forge {#0c67e74b02944b61a33b3ea2d101effd}
+### Creating questions individually in Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
 
 To add questions to your project, click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Add Question** button. A dialog will open that will allow you to create a question.
 
@@ -30,7 +30,7 @@ Click **Save** and your question will be added to the list of community checking
 
 ![](./1916935940.png)
 
-### Importing questions from a spreadsheet {#42107c9def434bf396442d0004577710}
+### Importing questions from a spreadsheet {#1850d745ac9e8085960dd88b648f0c7a}
 
 Creating questions one by one can be tedious, so we’ve also made it possible to import questions from a spreadsheet. You can use a program such as Microsoft Excel, Google Sheets, or LibreOffice Calc to create or edit a list of questions. If you’re looking for a set of pre-made questions, consider the [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). If you go to the linked page and click on one of the files, you can then download it, open it as a spreadsheet, and edit the list of questions.
 
@@ -68,14 +68,14 @@ If you need help getting your spreadsheet into the right format to import to Scr
     1. If you have some rows in your file that don’t have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
     2. Otherwise you will be shown a list of questions.
 
-### Import all questions {#3f10139da5904f1883acafad811b422c}
+### Import all questions {#1850d745ac9e80b59ae8cabac1b67e7f}
 
 To import all of the questions in the CSV file, follow these steps:
 
 1. Click the checkbox at the top of the list. This will select all the questions.
 2. Click **Import Selected Questions**.
 
-### Import a subset of questions {#f8f6b299154e4caca7aa04661a820efd}
+### Import a subset of questions {#1850d745ac9e8045aa5bd2ab9ce99fbc}
 
 You can also filter for a subset of the questions:
 
@@ -92,7 +92,7 @@ You don’t have to remember that there are 43 verses in Mark 5 in order to filt
 
 :::
 
-### Importing questions from Transcelerator {#1ed2e353d94847a3861ad3a69d531aac}
+### Importing questions from Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
 
 [Transcelerator](https://software.sil.org/transcelerator/) is a plugin for Paratext that has a bank of ready-made comprehension checking questions in several major languages. Those questions can be translated within Paratext, exported to Scripture Forge, and then after a sync, imported into Scripture Forge.
 
@@ -109,11 +109,11 @@ To import questions from Transcelerator:
 9. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
 10. Click **Import Selected Questions** and your questions will be added to the project.
 
-## Attach audio recording of the text {#fd31ef9b6d74417099996e7dadb5068e}
+## Attach audio recording of the text {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge can play an audio recording of each passage for community checkers. To do this, you will need to upload an audio file and a timing file for each chapter. Timing files allow Scripture Forge to highlight each verse as it is being spoken.
 
-### Recording the text {#1926abf6118c46bba16353d2ef85169f}
+### Recording the text {#1850d745ac9e805eb4b1c0f05d6da02a}
 
 Scripture Forge supports audio in .mp3 and .wav file formats. Timing files are supported from HearThis, aeneas, Audacity, and Adobe Audition.
 
@@ -121,7 +121,7 @@ One of the simplest options is to use [HearThis](http://software.sil.org/hearthi
 
 The [resources](https://software.sil.org/scriptureappbuilder/resources/) for Scripture App Builder discuss more advanced approaches, such as using Glyssen for a dramatized audio recording.
 
-### Creating timing files {#066182aa22c64dc7a74ad0556619c4b9}
+### Creating timing files {#1850d745ac9e80c7b583c6d50193d7c9}
 
 If you already have audio recorded, there are several options for creating timing data.
 
