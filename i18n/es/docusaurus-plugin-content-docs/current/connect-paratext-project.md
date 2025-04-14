@@ -62,7 +62,7 @@ Tras hacer clic en "Conectar", se le pedirá que seleccione la fuente del proyec
 Opcional: Activar las sugerencias de traducción (nº 1 más abajo)
 
 
-![](./1628956354.png)
+![](./440460267.png)
 
 
 Opcional: Activar la comprobación comunitaria (nº 2 arriba)
@@ -71,7 +71,7 @@ Opcional: Activar la comprobación comunitaria (nº 2 arriba)
 Cuando esté listo, haga clic en Conectar:
 
 
-![](./440460267.png)
+![](./210173750.png)
 
 
 Espera a que Scripture Forge conecte el proyecto Paratext:

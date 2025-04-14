@@ -68,14 +68,14 @@ Si vous avez besoin d'aide pour formater votre feuille de calcul correctement af
     1. Si certaines lignes de votre fichier n'ont pas de référence et de question valides, un avertissement s'affichera pour vous indiquer que ces lignes seront ignorées.
     2. Dans le cas contraire, une liste de questions s'affichera.
 
-### Importer toutes les questions {#3f10139da5904f1883acafad811b422c}
+### Importer toutes les questions {#1850d745ac9e80b59ae8cabac1b67e7f}
 
 Pour importer toutes les questions du fichier CSV, procédez comme suit :
 
 1. Cliquez sur la case à cocher en haut de la liste. Ceci sélectionnera toutes les questions.
 2. Cliquez sur **Importer les questions sélectionnées**.
 
-### Importer un sous-ensemble de questions {#f8f6b299154e4caca7aa04661a820efd}
+### Importer un sous-ensemble de questions {#1850d745ac9e8045aa5bd2ab9ce99fbc}
 
 Vous pouvez également filtrer pour avoir un sous-ensemble de questions :
 
@@ -113,7 +113,7 @@ Pour importer des questions depuis Transcelerator:
 
 Scripture Forge peut jouer un enregistrement audio de chaque passage pour les vérificateurs de la communauté. Pour ce faire, vous devrez téléverser un fichier audio et un fichier de synchronisation pour chaque chapitre. Les fichiers de synchronisation permettent à Scripture Forge de mettre en surbrillance chaque verset au fur et à mesure qu'il est prononcé.
 
-### Enregistrement du texte {#1926abf6118c46bba16353d2ef85169f}
+### Enregistrement du texte {#1850d745ac9e805eb4b1c0f05d6da02a}
 
 Scripture Forge prend en charge les fichiers audio aux formats .mp3 et .wav. Les fichiers de synchronisation sont pris en charge par HearThis, aeneas, Audacity et Adobe Audition.
 

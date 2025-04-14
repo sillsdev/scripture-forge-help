@@ -6,7 +6,7 @@ slug: /managing-answers
 
 import ReactPlayer from "react-player";
 
-## Receive and interact with responses to the questions {#d09b7e47859e451783e6dcca8a80f40a}
+## Receber e interagir com as respostas às perguntas {#1850d745ac9e800db3dacdee0053beca}
 
 <ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" />
 

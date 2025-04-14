@@ -113,7 +113,7 @@ Untuk mengimpor pertanyaan dari Transcelerator:
 
 Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para masyarakat pemeriksa. Untuk melakukan ini, Anda perlu mengunggah berkas audio dan data waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.
 
-### Scripture Forge mendukung audio dalam format file .mp3 dan .wav.
+### Merekam teks {#1850d745ac9e805eb4b1c0f05d6da02a}
 
 Scripture Forge mendukung audio dalam format file .mp3 dan .wav. File pengaturan waktu didukung dari HearThis, aeneas, Audacity, dan Adobe Audition.
 
