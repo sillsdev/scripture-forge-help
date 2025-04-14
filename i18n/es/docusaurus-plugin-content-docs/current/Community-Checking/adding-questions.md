@@ -113,7 +113,7 @@ Para importar preguntas desde Transcelerator:
 
 Scripture Forge puede reproducir una grabación de audio de cada pasaje para las comprobaciones comunitarias. Para ello, deberá cargar un archivo de audio y un archivo de tiempo para cada capítulo. Los archivos de tiempo permiten a Scripture Forge resaltar cada versículo a medida que se pronuncia.
 
-### Grabación del texto {#1926abf6118c46bba16353d2ef85169f}
+### Grabación del texto {#1850d745ac9e805eb4b1c0f05d6da02a}
 
 Scripture Forge admite audio en formatos de archivo .mp3 y .wav. Los archivos de tiempo son compatibles con HearThis, aeneas, Audacity y Adobe Audition.
 
@@ -121,7 +121,7 @@ Una de las opciones más sencillas es utilizar [HearThis](http://software.sil.or
 
 Los [recursos](https://software.sil.org/scriptureappbuilder/resources/) para Scripture App Builder tratan enfoques más avanzados, como el uso de Glyssen para una grabación de audio dramatizada.
 
-### Creación de archivos de temporización {#066182aa22c64dc7a74ad0556619c4b9}
+### Creación de archivos de temporización {#1850d745ac9e80c7b583c6d50193d7c9}
 
 Si ya tiene audio grabado, existen varias opciones para crear datos de temporización.
 
