@@ -31,22 +31,22 @@ Teks yang tersedia dalam bahasa yang Anda terjemahkan, dan bahasa yang Anda terj
 
 ### Contoh dasar {#9165ff8c10564a7fa67c3375f62de85e}
 
-Misalkan sebuah tim penerjemah menerjemahkan Alkitab ke dalam bahasa lokal, dengan menggunakan NIV dalam bahasa Inggris sebagai teks referensi/sumber. Tim ini telah menyelesaikan seluruh Perjanjian Baru, dan mulai mengerjakan kitab Kejadian.
+Misalkan sebuah tim penerjemah menerjemahkan Alkitab ke dalam bahasa daerah, dengan menggunakan NIV dalam bahasa Inggris sebagai teks referensi/sumber. Tim ini telah menyelesaikan seluruh Perjanjian Baru, dan mulai mengerjakan kitab Kejadian.
 Sistem akan menghasilkan konsep sebagai berikut:
 
-1. Mesin membandingkan Perjanjian Baru NIV bahasa Inggris dengan Perjanjian Baru bahasa lokal, untuk mempelajari bahasa tersebut.
-2. Setelah mempelajari bahasanya, mesin menterjemahkan kitab Kejadian dari NIV bahasa Inggris ke dalam bahasa setempat.
+1. Mesin membandingkan Perjanjian Baru NIV bahasa Inggris dengan Perjanjian Baru bahasa daerah, untuk mempelajari bahasa tersebut.
+2. Setelah mempelajari bahasanya, mesin menterjemahkan kitab Kejadian dari NIV bahasa Inggris ke dalam bahasa daerah.
 
 Setelah membuat kitab Kejadian, tim akan menyunting konsep tersebut untuk memperbaiki kesalahan. Setelah itu, mereka akan dapat membuat konsep kitab berikutnya yang akan mereka kerjakan, dan sistem/mesin akan menggunakan terjemahan Kitab Kejadian untuk meningkatkan kualitas konsep berikutnya.
 
 ### Contoh yang lebih kompleks {#e6ec52fc004a41c195617bbcc3bb7f84}
 
-Pada contoh pertama, tim menggunakan NIV bahasa Inggris sebagai teks referensi/sumber, dan sistem mempelajari bahasa dengan membandingkan NIV bahasa Inggris dengan Perjanjian Baru dalam bahasa lokal. Namun, dalam banyak kasus, konsep dengan kualitas yang lebih baik dapat dihasilkan dengan menggunakan teks yang berbeda dari teks yang diterjemahkan oleh tim.
+Pada contoh pertama, tim menggunakan NIV bahasa Inggris sebagai teks referensi/sumber, dan sistem mempelajari bahasa dengan membandingkan NIV bahasa Inggris dengan Perjanjian Baru dalam bahasa daerah. Namun, dalam banyak kasus, konsep dengan kualitas yang lebih baik dapat dihasilkan dengan menggunakan teks yang berbeda dari teks yang diterjemahkan oleh tim.
 
-Sebagai contoh, sering kali dimungkinkan untuk meningkatkan kualitas konsep dengan menggunakan terjemahan balik dari bahasa lokal ke dalam bahasa sumber. Jika tim telah menerjemahkan balik proyek ini ke dalam bahasa Inggris, maka dapat digunakan sebagai teks referensi/sumber, bukan NIV bahasa Inggris. Terjemahan balik biasanya jauh lebih harfiah daripada terjemahan normal, dan oleh karena itu memudahkan sistem untuk memahami bagaimana bahasa lokal dipetakan ke bahasa Inggris. Dalam contoh ini, sistem akan menghasilkan konsep sebagai berikut:
+Sebagai contoh, sering kali dimungkinkan untuk meningkatkan kualitas konsep dengan menggunakan terjemahan balik dari bahasa daerah ke dalam bahasa sumber. Jika tim telah menerjemahkan balik proyek ini ke dalam bahasa Inggris, maka dapat digunakan sebagai teks referensi/sumber, bukan NIV bahasa Inggris. Terjemahan balik biasanya jauh lebih harfiah daripada terjemahan normal, dan oleh karena itu memudahkan sistem untuk memahami bagaimana bahasa daerah dipetakan ke bahasa Inggris. Dalam contoh ini, sistem akan menghasilkan konsep sebagai berikut:
 
-1. Mesin membandingkan terjemahan balik bahasa Inggris dengan Perjanjian Baru bahasa lokal, untuk mempelajari bahasa tersebut.
-2. Setelah mempelajari bahasanya, mesin menterjemahkan kitab Kejadian dari NIV bahasa Inggris ke dalam bahasa setempat.
+1. Mesin membandingkan terjemahan balik bahasa Inggris dengan Perjanjian Baru bahasa daerah, untuk mempelajari bahasa tersebut.
+2. Setelah mempelajari bahasanya, mesin menterjemahkan kitab Kejadian dari NIV bahasa Inggris ke dalam bahasa daerah.
 
 Menentukan pengaturan yang ideal untuk sebuah proyek adalah proses yang rumit, dan ini bukanlah sesuatu yang perlu Anda pelajari. Tim Pemrosesan Bahasa Alami SIL sedang mengembangkan alat bantu untuk menentukan pengaturan yang ideal, dan dapat membantu tim selama proses orientasi.
 
