@@ -1,12 +1,16 @@
 {
   "version": "4",
   "specifiers": {
+    "jsr:@fajar/deno-ulid@*": "0.1.4",
     "jsr:@std/bytes@^1.0.2": "1.0.4",
     "jsr:@std/fs@*": "1.0.5",
     "jsr:@std/io@*": "0.225.0",
     "jsr:@std/path@^1.0.7": "1.0.7"
   },
   "jsr": {
+    "@fajar/deno-ulid@0.1.4": {
+      "integrity": "a4a8df8c6fd6c133859fcf36fd756eae7a9bbeedd5cd937cbbc3b0e2990dcac0"
+    },
     "@std/bytes@1.0.4": {
       "integrity": "11a0debe522707c95c7b7ef89b478c13fb1583a7cfb9a85674cd2cc2e3a28abc"
     },
