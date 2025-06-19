@@ -1,52 +1,41 @@
 ---
-title: Preparación para la redacción de IA
+title: Preparing to Generate a Draft
 sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## **Inscríbase en Auto Drafting** {#c01e77600a3b440ead3f1b816837d614}
+## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
 
-Para acceder al borrador automático de Scripture Forge, deberá hacer clic en el botón "Generar borrador" del menú principal. Si es la primera vez que genera un borrador en su proyecto, se le pedirá que se registre en Borrador de traducciones y que rellene el formulario de Borrador de traducciones. Verá el botón "Inscribirse en Drafting" como se muestra en la imagen inferior.
+To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
 
-![](./2066867633.png)
+![](./sign_up_for_drafting.png)
 
-Después de rellenar el formulario, espere un par de días para que el equipo de incorporación de Scripture Forge lo revise e investigue los mejores ajustes para su proyecto. Una vez hecho esto, el equipo se pondrá en contacto con usted con más instrucciones para guiarle en el proceso de redacción.
+After you fill out the form, the Scripture Forge onboarding team will review your request and and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.
 
-### **Selección de la traducción de referencia primaria** {#26e1244e99c0459bad277d7cff4417b8}
+## Configuring the draft {#26e1244e99c0459bad277d7cff4417b8}
 
-Para seleccionar o cambiar su traducción de referencia primaria, vaya a la ventana "Configuración". Aquí, en la subsección Traducir, encontrará un menú desplegable que le mostrará una lista de recursos. Puede hacer clic aquí para seleccionar o cambiar la traducción de referencia para su proyecto.
+Once your project has had drafting enabled, the "Sign up for drafting" button will be replaced with a "Configure sources" button. Click this button to select the projects that will be used as the source for your draft.
 
-Esto afectará a todo el proyecto y a cualquiera que tenga acceso a él en Scripture Forge.
+![](./configure_sources_button.png)
 
-_**No puede utilizar el dibujo automático sin seleccionar una traducción de referencia primaria.**_
+### Choosing the source project
 
-![](./6569010.png)
+The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
 
-También tiene la opción de seleccionar la casilla "Activar sugerencias de traducción" justo debajo de este menú desplegable. Este buzón permite hacer sugerencias a todos los usuarios del proyecto. Por favor, tenga en cuenta que esto es independiente del dibujo automático.
+![](./configure_sources_draft_source.png)
 
-_**Le recomendamos que desactive las Sugerencias de traducción si piensa utilizar el dibujo automático.**_
+### Choosing the reference projects
 
-## **Configuración de la generación de borradores de traducción** {#4e17f4ac70274b9d8d615ad3d2679a82}
+The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
 
-Una vez que el equipo de incorporación de Scripture Forge le haya notificado que su proyecto está listo para Autoborrador, esta sección aparecerá en Configuración. El equipo de Scripture Forge le ayudará con instrucciones para estos ajustes como parte del proceso de incorporación.
+Every project is different, so follow the instructions you received from the onboarding team.
 
-![](./1316957426.png)
+![](./configure_sources_draft_reference.png)
 
-Como se muestra en la imagen superior, se le presentarán algunas opciones. Puede optar por dejarlas sin marcar si no desea utilizarlas. Una vez seleccionada una casilla, utilice la lista desplegable que aparece para seleccionar su fuente alternativa.
+### Confirming the languages
 
-**1) Casilla de verificación Utilizar una fuente diferente para la redacción**
+The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
 
-- Esto le permitirá seleccionar una traducción que se utilizará **en lugar de** la Traducción de Referencia Primaria para generar un borrador.
-- La traducción alternativa seleccionada aquí debe ser el **mismo idioma** que la Traducción de Referencia Primaria.
-- Esta traducción influirá en el estilo y en el contenido léxico y exegético del borrador.
+On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
 
-**2) Utilizar una fuente diferente para la casilla de verificación Formación**
-
-- Esto le permitirá seleccionar una traducción que se utilizará **en lugar de** la Traducción de Referencia Primaria para entrenar el modelo lingüístico.
-- La traducción alternativa seleccionada aquí debe ser el **mismo idioma** que la Traducción de Referencia Primaria.
-- Se trata de una configuración técnica que sólo debe establecerse si así lo indica el equipo de Scripture Forge.
-
-**3) Casilla de verificación de pretraducción de encabezados y material no transversal** - Le recomendamos que deje esta casilla sin marcar. Los títulos de las secciones se seguirán traduciendo.
-
-**4) Casilla de verificación Permitir datos de entrenamiento adicionales** - Si selecciona esta casilla, podrá cargar cualquier documento adicional que pueda utilizarse para entrenar el modelo lingüístico. Estos archivos deben contener frases paralelas en las mismas lenguas de origen y de destino que la traducción de referencia primaria y el proyecto de destino. Tenga en cuenta que **sólo puede cargar archivos .csv** para este fin.
-
+![](./configure_sources_confirm_languages.png)

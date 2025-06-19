@@ -1,52 +1,41 @@
 ---
-title: Mempersiapkan Konsep AI
+title: Preparing to Generate a Draft
 sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## **Mendaftar untuk Pembuatan Konsep Otomatis** {#c01e77600a3b440ead3f1b816837d614}
+## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
 
-Untuk mengakses Scripture Forge Pembuatan Konsep Otomatis, Anda perlu mengklik tombol "Pembuatan Konsep" di menu utama. Jika ini adalah pertama kalinya Anda membuat konsep dalam proyek Anda, Anda akan diminta untuk mendaftar ke Pembuatan Konsep Terjemahan dan mengisi formulir Pembuatan Konsep Terjemahan. Anda akan melihat tombol "Mendaftar untuk Pembuatan Konsep" seperti yang ditunjukkan pada gambar di bawah ini.
+To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
 
-![](./2066867633.png)
+![](./sign_up_for_drafting.png)
 
-Setelah Anda mengisi formulir, mohon tunggu beberapa hari agar tim onboarding Scripture Forge dapat memeriksanya dan menyelidiki pengaturan terbaik untuk proyek Anda. Setelah ini selesai, tim akan menghubungi Anda dengan instruksi lebih lanjut untuk memandu Anda dalam proses pembuatan konsep.
+After you fill out the form, the Scripture Forge onboarding team will review your request and and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.
 
-### **Memilih Referensi Terjemahan Utama** {#26e1244e99c0459bad277d7cff4417b8}
+## Configuring the draft {#26e1244e99c0459bad277d7cff4417b8}
 
-Untuk memilih atau mengubah Referensi Terjemahan Utama Anda, buka jendela "Pengaturan". Di sini, di bawah sub-bagian Terjemahkan, Anda akan menemukan menu tarik-turun yang akan menampilkan daftar sumber. Anda dapat mengklik di sini untuk memilih atau mengubah referensi terjemahan untuk proyek Anda.
+Once your project has had drafting enabled, the "Sign up for drafting" button will be replaced with a "Configure sources" button. Click this button to select the projects that will be used as the source for your draft.
 
-Hal ini akan memengaruhi keseluruhan proyek dan siapa pun yang memiliki akses ke Scripture Forge.
+![](./configure_sources_button.png)
 
-**Anda tidak dapat menggunakan Pembuatan Konsep Otomatis tanpa memilih Referensi Terjemahan Utama.**_
+### Choosing the source project
 
-![](./6569010.png)
+The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
 
-Anda juga memiliki opsi untuk memilih kotak centang "Aktifkan Saran Terjemahan" tepat di bawah menu tarik-turun ini. Kotak ini memungkinkan saran untuk semua pengguna proyek. Harap diperhatikan, bahwa ini terpisah dari Pembuatan Konsep Otomatis.
+![](./configure_sources_draft_source.png)
 
-**Kami sarankan untuk menonaktifkan Saran Terjemahan jika Anda berencana menggunakan Pembuatan Konsep Otomatis.**_
+### Choosing the reference projects
 
-## **Pengaturan Pembuatan Konsep Terjemahan** {#4e17f4ac70274b9d8d615ad3d2679a82}
+The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
 
-Setelah tim pengembang Scripture Forge memberi tahu Anda bahwa proyek Anda telah siap untuk Pembuatan Konsep Otomatis, bagian ini akan muncul di bawah Pengaturan. Tim Scripture Forge akan membantu Anda dengan instruksi untuk pengaturan ini sebagai bagian dari proses orientasi.
+Every project is different, so follow the instructions you received from the onboarding team.
 
-![](./1316957426.png)
+![](./configure_sources_draft_reference.png)
 
-Seperti ditunjukkan pada gambar di atas, Anda akan mendapatkan beberapa opsi yang disajikan. Anda dapat memilih untuk tidak mencentangnya jika Anda tidak ingin menggunakannya. Setelah Anda memilih kotak centang, gunakan daftar tarik-turun yang muncul untuk memilih sumber alternatif.
+### Confirming the languages
 
-**1) Gunakan sumber yang berbeda untuk kotak centang Pembuatan Konsep**
+The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
 
-- Ini akan memungkinkan Anda untuk memilih terjemahan yang akan digunakan **sebagai pengganti** Referensi Utama Terjemahan untuk menghasilkan konsep.
-- Terjemahan alternatif yang dipilih di sini haruslah **bahasa yang sama** dengan Referensi Terjemahan Utama.
-- Terjemahan ini akan mempengaruhi gaya serta konten leksikal dan eksegetis dari konsep tersebut.
+On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
 
-**2) Gunakan sumber yang berbeda untuk kotak centang Pelatihan**
-
-- Ini akan memungkinkan Anda untuk memilih terjemahan yang akan digunakan **sebagai pengganti** Referensi Utama Terjemahan untuk melatih bahasa.
-- Terjemahan alternatif yang dipilih di sini haruslah **bahasa yang sama** dengan Referensi Terjemahan Utama.
-- Ini adalah konfigurasi teknis yang hanya boleh diatur jika diinstruksikan oleh tim Scripture Forge.
-
-**3) Kotak centang judul pra-penerjemahan dan materi non-ayat** - Kami sarankan Anda membiarkan kotak ini tidak dicentang. Judul-judul perikop akan tetap diterjemahkan.
-
-**4) Kotak centang Izinkan data pelatihan tambahan** - Memilih kotak centang ini akan memungkinkan Anda untuk mengunggah dokumen lebih lanjut yang dapat digunakan untuk melatih model bahasa. File-file ini harus berisi kalimat paralel dalam bahasa sumber dan bahasa target yang sama dengan Referensi Terjemahan Utama (sumber) dan proyek target. Harap diperhatikan bahwa Anda **hanya dapat mengunggah file .csv** untuk tujuan ini.
-
+![](./configure_sources_confirm_languages.png)

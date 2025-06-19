@@ -8,7 +8,7 @@ slug: /faq
 
 1. Wie passt Scripture Forge zu meinem Übersetzungsablauf?
 
-    _Scripture Forge ist ein Werkzeug, das Dir hilft, Dich effektiver und schneller durch die Entwurfsphase zu bewegen und dabei die Qualität Deiner Arbeit zu aufrechtzuerhalten. Es ist kein Ersatz für den Übersetzungsablauf, sondern ein Hilfsmittel, das Dir hilft, beim Erstellen von Entwürfen und bei der Überprüfung mit der Zielgruppe produktiver zu sein_
+    _Scripture Forge ist ein Werkzeug, das Dir hilft, Dich effektiver und schneller durch die Entwurfsphase zu bewegen und dabei die Qualität Deiner Arbeit aufrechtzuerhalten. Es ist kein Ersatz für den Übersetzungsablauf, sondern ein Hilfsmittel, das Dir hilft, beim Erstellen von Entwürfen und bei der Überprüfung mit der Zielgruppe produktiver zu sein_
 
 2. Bewahrt Scripture Forge eine Sicherungskopie meiner Projektdaten auf? Wer ist dafür verantwortlich, dass die Daten sicher aufbewahrt werden?
 

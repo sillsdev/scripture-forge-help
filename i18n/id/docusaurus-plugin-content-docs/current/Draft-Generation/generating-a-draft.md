@@ -8,25 +8,32 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-Setelah Anda mendaftar untuk Pembuatan Konsep dan mengelola pengaturan yang diperlukan, Anda dapat mengakses Scripture Forge AI Drafting dengan mengeklik tombol "Membuat Konsep" di menu utama. Anda sekarang akan memiliki akses ke tombol "Buat Konsep Baru".
+## Generating a draft
 
-![](./1574993447.png)
+Once your project has been activated and sources configured, click the generate draft button to get started:
 
-Setelah Anda mengkliknya, Anda akan dibawa ke **Proses 2 Langkah** untuk membuat konsep Anda.
+![](./generate_draft_button.png)
 
-- **Langkah 1:** Langkah pertama untuk membuat konsep adalah memilih kitab yang ingin Anda terjemahkan. Hanya kitab-kitab yang telah ditambahkan di proyek Paratext Anda yang akan ditampilkan di sini. Kami menyarankan untuk memilih hingga 5 kitab untuk diterjemahkan sekaligus.
+### Confirm the project configuration
 
-![](./736001719.png)
+On the first screen, review the configured sources and language codes and verify that they are correct. Then go to the next step.
 
-- **Langkah 2:** Selanjutnya, Anda akan memilihkitab-kitab yang akan digunakan untuk melatih model bahasa. Kitab-kitab ini harus diperiksa dengan baik tetapi tidak perlu diperiksa oleh konsultan. Semakin banyak kitab, semakin baik hasil penyusunannya. Jika Anda telah memilih kitab untuk diterjemahkan pada langkah 1, Anda tidak dapat memilihnya untuk melatih model pada langkah ini
+![](./generate_draft_confirm_sources.png)
 
-![](./1046606413.png)
+### Select the books to draft
 
-- Langkah 3 (opsional): Selanjutnya, Anda juga dapat mengunggah file tambahan apa pun untuk melatih model bahasa. Ini harus dalam format .csv. Langkah ini bersifat opsional.
+On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time.
 
-Setelah Anda menyelesaikan langkah-langkah ini, Anda akan melihat tombol "Membuat Konsep" yang tersedia. Setelah Anda mengkliknya, berikan waktu kepada Scripture Forge untuk membuat konsep. Ini mungkin memakan waktu sekitar 3 jam atau lebih, tergantung pada seberapa sibuk server kami.
+![](./generate_draft_select_books_to_draft.png)
 
-Setelah Konsep siap, Anda akan melihat notifikasi seperti yang ditunjukkan pada gambar di bawah ini.
+### Select the books to train the language model
 
-![](./2097960595.png)
+On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don’t need to be consultant-checked, they should be accurate translations of the source book.**
 
+![](./generate_draft_select_books_to_train.png)
+
+### Confirm your selections
+
+On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate Draft" button to start the process.
+
+![](./generate_draft_summary.png)
