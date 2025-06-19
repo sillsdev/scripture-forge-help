@@ -183,37 +183,22 @@ async function deleteExistingFiles() {
   console.log(`Deleting most files in ${docsDir}`);
   // delete all files except 	docs/getting-started.json and docs/getting-started.mdx
 
-  const filesToKeep = ["getting-started.json", "getting-started.mdx"];
+  // TODO Since we're no longer fetching from Notion, we can't delete the files in the docs directory
+  // Consider updating this to use Crowdin as the source of truth for the docs
+  const deleteEnglishFiles = false;
+  if (deleteEnglishFiles) {
+    const filesToKeep = ["getting-started.json", "getting-started.mdx"];
 
-  for await (const dirEntry of Deno.readDir(docsDir)) {
-    if (dirEntry.isFile && !filesToKeep.includes(dirEntry.name)) {
-      await Deno.remove(`${docsDir}/${dirEntry.name}`);
+    for await (const dirEntry of Deno.readDir(docsDir)) {
+      if (dirEntry.isFile && !filesToKeep.includes(dirEntry.name)) {
+        await Deno.remove(`${docsDir}/${dirEntry.name}`);
+      }
     }
   }
 
   const i18nDir = `${projectRoot}/i18n`;
   console.log(`Deleting ${i18nDir}`);
   await Deno.remove(i18nDir, { recursive: true });
-}
-
-async function fetchNotionDocs() {
-  const child = new Deno.Command("bash", {
-    args: ["pull_docs.sh"],
-    stdout: "piped",
-    stderr: "piped",
-  }).spawn();
-
-  copy(readerFromStreamReader(child.stdout.getReader()), Deno.stdout);
-  copy(readerFromStreamReader(child.stderr.getReader()), Deno.stderr);
-
-  const status = await child.status;
-
-  if (!status.success) {
-    const code = status.code;
-    throw new Error(
-      `Failed to fetch Notion docs. pull_docs.sh exited with code ${code}`
-    );
-  }
 }
 
 async function runChecks() {
@@ -342,10 +327,6 @@ async function runChecks() {
 try {
   console.log("--- Deleting existing files ---");
   await deleteExistingFiles();
-  console.log();
-
-  console.log("--- Fetching latest docs from Notion ---");
-  await fetchNotionDocs();
   console.log();
 
   console.log("--- Fetching latest translations from Crowdin ---");
