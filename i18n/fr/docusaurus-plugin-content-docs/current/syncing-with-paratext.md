@@ -14,7 +14,7 @@ _Notez que la synchronisation d'un projet dans Scripture Forge s'applique à **T
 
 Ceci vous montrera le bouton « Synchroniser » dans votre fenêtre. Une fois que vous avez cliqué, veuillez patienter jusqu'à ce que la synchronisation soit terminée et que les deux flèches arrêtent de tourner, avant de faire quoi que ce soit d'autre, comme indiqué dans l'image ci-dessous.
 
-![](./1990846672.png)
+![](./sync.png)
 
 ## **Quand est-il nécessaire de synchroniser un projet** {#b19f92d1a5714c4fb57b61672d95b898}
 

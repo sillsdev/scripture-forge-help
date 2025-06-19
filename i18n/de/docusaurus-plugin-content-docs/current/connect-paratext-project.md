@@ -50,7 +50,7 @@ Alternativ kannst Du auch auf Dein Profilsymbol oben rechts auf dem Bildschirm u
 In der angezeigten Liste kannst Du Projekte öffnen, wenn diese bereits verbunden sind. Du kannst auch einem Projekt beitreten oder auf "Verbinden" klicken, um ein Projekt zum ersten Mal in Scripture Forge zu verbinden.
 
 
-![](./1783795116.png)
+![](./my_projects.png)
 
 
 Nach dem Klicken auf "Verbinden" wirst Du aufgefordert, Deine Projektquelle auszuwählen. Wähle aus der verfügbaren Dropdown-Liste die Quelle aus, die Du für Dein Projekt verwenden möchtest.

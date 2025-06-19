@@ -50,7 +50,7 @@ Atau, Anda juga dapat mengklik ikon profil Anda di bagian kanan atas layar dan d
 Dari daftar yang ditampilkan, Anda akan dapat membuka proyek jika sudah terhubung. Anda juga dapat bergabung dengan sebuah proyek atau klik "Hubungkan" untuk menghubungkan sebuah proyek untuk pertama kalinya di Scripture Forge.
 
 
-![](./1783795116.png)
+![](./my_projects.png)
 
 
 Setelah mengklik "Hubungkan", Anda akan diminta untuk memilih Sumber Proyek. Dari daftar drop-down yang tersedia, pilih sumber yang ingin Anda gunakan untuk proyek Anda.

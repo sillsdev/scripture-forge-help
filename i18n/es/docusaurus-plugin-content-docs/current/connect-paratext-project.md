@@ -50,7 +50,7 @@ También puede hacer clic en el icono de su perfil en la parte superior derecha 
 En la lista mostrada, podrá abrir proyectos si ya están conectados. También puede unirse a un proyecto o hacer clic en "Conectar" para conectar un proyecto por primera vez en Scripture Forge.
 
 
-![](./1783795116.png)
+![](./my_projects.png)
 
 
 Tras hacer clic en "Conectar", se le pedirá que seleccione la fuente del proyecto. En la lista desplegable disponible, seleccione la fuente que desea utilizar para su proyecto.
