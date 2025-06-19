@@ -1,52 +1,41 @@
 ---
-title: Préparation pour l'ébauche assistée par l'IA
+title: Preparing to Generate a Draft
 sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## **Inscrivez-vous pour l'ébauche automatique.** {#c01e77600a3b440ead3f1b816837d614}
+## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
 
-Pour accéder à la rédaction automatique de Scripture Forge, vous devrez cliquer sur le bouton « Générer une ébauche » dans le menu principal. Si c'est la première fois que vous générez une ébauche dans votre projet, vous serez invité à vous inscrire au projet de traduction et à remplir le formulaire d'ébauche de traduction. Vous verrez le bouton "S'inscrire à la rédaction" comme indiqué dans l'image ci-dessous.
+To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
 
-![](./2066867633.png)
+![](./sign_up_for_drafting.png)
 
-Après avoir rempli le formulaire, veuillez laisser quelques jours à l'équipe d'intégration de Scripture Forge pour l'examiner et rechercher les meilleurs paramètres pour votre projet. Une fois cette étape franchie, l'équipe vous contactera pour vous donner des instructions supplémentaires afin de vous guider dans le processus de rédaction.
+After you fill out the form, the Scripture Forge onboarding team will review your request and and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.
 
-### **Sélectionner la traduction de référence principale** {#26e1244e99c0459bad277d7cff4417b8}
+## Configuring the draft {#26e1244e99c0459bad277d7cff4417b8}
 
-Pour sélectionner ou modifier votre Traduction de Référence Primaire, accédez à la fenêtre “Paramètres”. Ici, sous la sous-section Traduire, vous trouverez un menu déroulant qui affichera une liste de ressources. Vous pouvez cliquer ici pour sélectionner ou modifier la traduction de référence de votre projet.
+Once your project has had drafting enabled, the "Sign up for drafting" button will be replaced with a "Configure sources" button. Click this button to select the projects that will be used as the source for your draft.
 
-Cela affectera l'ensemble du projet et toute autre personne qui y a accès sur Scripture Forge.
+![](./configure_sources_button.png)
 
-_**Vous ne pouvez pas utiliser la Rédaction Automatique sans sélectionner une traduction de référence principale.**_
+### Choosing the source project
 
-![](./6569010.png)
+The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
 
-Vous avez également la possibilité de cocher la case "Activer les suggestions de traduction" juste en dessous de ce menu déroulant. Cette case permet d'activer les suggestions pour tous les utilisateurs du projet. Veuillez noter que ceci est séparé de la rédaction automatique.
+![](./configure_sources_draft_source.png)
 
-Nous recommandons de désactiver les suggestions de traduction si vous prévoyez d'utiliser la Rédaction Automatique.
+### Choosing the reference projects
 
-## **Paramètres de génération d'une ébauche de traduction** {#4e17f4ac70274b9d8d615ad3d2679a82}
+The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
 
-Une fois que l'équipe d'intégration de Scripture Forge vous a notifié que votre projet est prêt pour la rédaction automatique, cette section apparaîtra dans les paramètres. L'équipe de Scripture Forge vous aidera à obtenir des instructions sur ces paramètres dans le cadre du processus d'intégration.
+Every project is different, so follow the instructions you received from the onboarding team.
 
-![](./1316957426.png)
+![](./configure_sources_draft_reference.png)
 
-Comme indiqué dans l'image ci-dessus, vous aurez quelques options présentées. Vous pouvez choisir de laisser ces éléments non cochés si vous ne souhaitez pas les utiliser. Une fois que vous avez sélectionné une case à cocher, utilisez la liste déroulante qui apparaît pour sélectionner votre source alternative.
+### Confirming the languages
 
-**1) Utilisez une source différente pour ébaucher une case à cocher**
+The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
 
-- Cela vous permettra de sélectionner une traduction qui sera utilisée **à la place de** la traduction de référence principale pour générer une ébauche.
-- La traduction alternative sélectionnée ici doit être la **même langue** que la traduction de référence principale.
-- Cette traduction influencera le style ainsi que le contenu lexical et exégétique d'une ébauche.
+On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
 
-**2) Utilisez une source différente pour la case à cocher Formation**
-
-- Cela vous permettra de sélectionner une traduction qui sera utilisée **à la place de** la traduction de référence principale pour former le modèle de langue.
-- La traduction alternative sélectionnée ici doit être la **même langue** que la traduction de référence principale.
-- Il s'agit d'une configuration technique qui ne devrait être définie que si l'équipe de l'Écriture Forge l'indique.
-
-**3) Cochez la case à cocher Pré-traduire les en-têtes et les matériaux non versets** – Nous vous recommandons de laisser cette case décochée. Les titres de section seront encore traduits.
-
-**4) Autorisez la case à cocher des données de formation supplémentaires** – Si vous cochez cette case, vous pourrez télécharger tout autre document pouvant être utilisé pour former le modèle de langue. Ces fichiers doivent contenir des phrases parallèles dans les mêmes langues source et cible que la traduction de référence principale et le projet cible. Veuillez noter que vous ne pouvez **envoyer que des fichiers .csv** à cette fin.
-
+![](./configure_sources_confirm_languages.png)

@@ -1,52 +1,41 @@
 ---
-title: Für KI-Entwürfe vorbereiten
+title: Preparing to Generate a Draft
 sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## **Registriere Dich für Auto Drafting (automatisches Entwerfen)** {#c01e77600a3b440ead3f1b816837d614}
+## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
 
-Um auf Scripture Forge Auto Drafting (automatisches Entwerfen) zuzugreifen, musst Du im Hauptmenü auf die Schaltfläche „Entwurf generieren“ klicken. Wenn es Dein erstes Mal ist, einen Entwurf in Deinem Projekt zu generieren, wirst Du aufgefordert, Dich für Übersetzungsentwürfe zu registrieren und das Formular für Übersetzungsentwürfe auszufüllen. Du siehst die Schaltfläche „Registrieren für das Entwerfen“ wie im Bild unten gezeigt.
+To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
 
-![](./2066867633.png)
+![](./sign_up_for_drafting.png)
 
-Nachdem Du das Formular ausgefüllt hast, gib dem Scripture Forge Onboarding Team bitte ein paar Tage, um Deinen Antrag zu überprüfen und die besten Einstellungen für Dein Projekt herauszufinden. Sobald dies erledigt ist, wird sich das Team mit weiteren Anweisungen an Dich wenden, um Dich in den Entwerfungsprozess zu führen.
+After you fill out the form, the Scripture Forge onboarding team will review your request and and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.
 
-### **Auswahl der primären Referenzübersetzung** {#26e1244e99c0459bad277d7cff4417b8}
+## Configuring the draft {#26e1244e99c0459bad277d7cff4417b8}
 
-Um Deine primäre Referenzübersetzung auszuwählen oder zu ändern, gehe zum Fenster „Einstellungen“. Unter dem Unterabschnitt Übersetzen, findest Du hier ein Dropdown-Menü, das eine Liste von Ressourcen anzeigt. Du kannst hier klicken, um die Referenzübersetzung für Dein Projekt auszuwählen oder zu ändern.
+Once your project has had drafting enabled, the "Sign up for drafting" button will be replaced with a "Configure sources" button. Click this button to select the projects that will be used as the source for your draft.
 
-Dies wirkt sich auf das gesamte Projekt und alle anderen aus, die auf Scripture Forge Zugang dazu haben.
+![](./configure_sources_button.png)
 
-_**Du kannst Auto Drafting (automatisches Entwerfen) nicht verwenden, ohne eine primäre Referenzübersetzung auszuwählen.**_
+### Choosing the source project
 
-![](./6569010.png)
+The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
 
-Du hast auch die Möglichkeit, das Kontrollkästchen „Übersetzungsvorschläge aktivieren“ direkt unter diesem Dropdown-Menü auszuwählen. Diese Kästchen aktiviert Vorschläge für alle Benutzer des Projekts. Bitte beachte, dass dies von Auto Drafting (automatisches Entwerfen) getrennt ist.
+![](./configure_sources_draft_source.png)
 
-_**Wir empfehlen Übersetzungsvorschläge zu deaktivieren, wenn Du Auto Drafting (automatisches Entwerfen) verwenden möchtest.**_
+### Choosing the reference projects
 
-## **Einstellungen Generieren von Übersetzungsentwürfen** {#4e17f4ac70274b9d8d615ad3d2679a82}
+The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
 
-Sobald Du vom Onboarding-Team von Scripture Forge benachrichtigt wurdest, dass Dein Projekt für Auto Drafting (automatisches Entwerfen) bereit ist, erscheint dieser Abschnitt unter Einstellungen. Das Scripture Forge Team hilft Dir bei der Anleitung zu diesen Einstellungen im Rahmen des Onboarding-Prozesses.
+Every project is different, so follow the instructions you received from the onboarding team.
 
-![](./1316957426.png)
+![](./configure_sources_draft_reference.png)
 
-Wie im obigen Bild dargestellt, werden Dir einige Optionen angezeigt. Du kannst diese Option deaktivieren, wenn Du sie nicht verwenden möchtest. Wenn Du ein Kontrollkästchen ausgewählt hast, verwende die Dropdown-Liste, die erscheint, um Deinen alternativen Ausgangstext auszuwählen.
+### Confirming the languages
 
-**1) Einen anderen Ausgangstext für den Entwurf verwenden**
+The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
 
-- Dies erlaubt Dir, eine Übersetzung auszuwählen, die **anstelle** der Hauptreferenzübersetzung verwendet wird, um einen Entwurf zu generieren.
-- Die hier ausgewählte alternative Übersetzung muss die **gleiche Sprache** haben wie die primäre Referenzübersetzung.
-- Diese Übersetzung wird den Stil sowie den lexikalischen und exegetischen Inhalt des Entwurfs beeinflussen.
+On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
 
-**2) Einen anderen Ausgangstext für das Schulungs-Kontrollkästchen**
-
-- Hier kannst Du eine Übersetzung auswählen, die **anstelle** der primären Referenzübersetzung zum Schulen des Sprachmodells verwendet werden soll.
-- Die hier ausgewählte alternative Übersetzung muss die **gleiche Sprache** haben wie die primäre Referenzübersetzung.
-- Dies ist eine technische Konfiguration, die nur gesetzt werden sollte, wenn sie vom Scripture Forge Team angewiesen wird.
-
-\*\*3) Kontrollkästchen für die Vorübersetzung von Überschriften und Material ausserhalb der Verse – Wir empfehlen, dass Du dieses Kontrollkästchen nicht aktivierst. Die Überschriften der Abschnitte werden weiterhin übersetzt.
-
-**4) Erlaube zusätzliche Kontrollkästchen für die Schulungsdaten** – Wenn Du dieses Kontrollkästchen aktivierst, kannst Du weiteren Dokumente hochladen, die für die Schulung des Sprachmodells verwendet werden können. Diese Dateien müssen parallele Sätze in den gleichen Ausgangs- und Zielsprachen enthalten wie die Primärreferenzübersetzung und das Zielprojekt. Bitte beachten, dass Du zu diesem Zweck **nur .csv-Dateien hochladen** kannst.
-
+![](./configure_sources_confirm_languages.png)
