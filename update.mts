@@ -154,7 +154,6 @@ async function copyDirContentsRecursive(
 
 async function copyFiles() {
   for (const locale of helpLocales) {
-    const sourceDocsDir = `${projectRoot}/docs`;
     const localizedGuidesDir = `${projectRoot}/translations/${locale.crowdin}/Guides`;
     const dest = `${projectRoot}/i18n/${locale.docusaurus}/`;
     const docusaurusDest = `${dest}docusaurus-plugin-content-docs`;
@@ -164,9 +163,6 @@ async function copyFiles() {
     console.log(`Creating directory ${currentDest}`);
     await Deno.mkdir(docusaurusDest, { recursive: true });
     await Deno.mkdir(currentDest, { recursive: true });
-
-    console.log(`Copying files from ${sourceDocsDir} to ${currentDest}`);
-    await copyDirContentsRecursive(sourceDocsDir, `${currentDest}`);
 
     console.log(`Copying files from ${localizedGuidesDir} to ${dest}`);
     await copyDirContentsRecursive(localizedGuidesDir, dest);
