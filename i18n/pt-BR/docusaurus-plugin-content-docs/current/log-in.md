@@ -11,17 +11,17 @@ slug: /log-in
 1. Go to [https://scriptureforge.org/](https://scriptureforge.org/)
 2. If you already have a Paratext registration (or have created a Scripture Forge account), click the Log In button:
 
-![](./1786056439.png)
+![](./page_sign_up.png)
 
 
 Then Click Log in with Paratext:
 
 
-![](./1624359167.png)
+![](./auth0_sign_up_with_pt.png)
 
 
 Next, Authorize Scripture Forge to connect with your Paratext account. When prompted, type the email address associated with your [Paratext Registry account](https://registry.paratext.org/users/me) and then click the Login arrow (or press the Enter key)
 
 
-![](./448045579.png)
+![](./pt_registry_login.png)
 

@@ -14,7 +14,7 @@ _Note that synchronizing a project in Scripture Forge applies to_ _**ALL USERS**
 
 To sync a project, you need to click “Synchronize” on the main menu. This will show you the “Synchronize” button in your window. Once you click it, please wait till the sync completes and the two arrows stop circling, before doing anything else, as shown in the below image.
 
-![](./1990846672.png)
+![](./sync.png)
 
 ## **When is it necessary to Synchronize a project** {#b19f92d1a5714c4fb57b61672d95b898}
 

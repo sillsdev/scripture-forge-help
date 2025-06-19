@@ -50,7 +50,7 @@ Vous pouvez également cliquer sur l’icône de votre profil en haut à droite 
 À partir de la liste affichée, vous pourrez ouvrir des projets s'ils sont déjà connectés. Vous pouvez également rejoindre un projet ou cliquer sur "Connect" pour connecter un projet pour la première fois dans Scripture Forge.
 
 
-![](./1783795116.png)
+![](./my_projects.png)
 
 
 Après avoir cliqué sur « Connecter », il vous sera demandé de sélectionner votre source de projet. Dans la liste déroulante disponible, sélectionnez la source que vous souhaitez utiliser pour votre projet.

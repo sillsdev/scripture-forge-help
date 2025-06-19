@@ -8,25 +8,32 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-Une fois que vous vous êtes inscrit à ébaucher et que vous avez configuré les paramètres requis, vous pouvez accéder à Scripture Forge AI Ébauchage en cliquant sur le bouton "Générer une ébauche" dans le menu principal. Vous aurez maintenant accès au bouton "Générer une nouvelle ébauche".
+## Generating a draft
 
-![](./1574993447.png)
+Once your project has been activated and sources configured, click the generate draft button to get started:
 
-Une fois que vous aurez cliqué, vous serez dirigé vers un **processus en deux étapes** pour générer votre ébauche.
+![](./generate_draft_button.png)
 
-- **Étape 1 :** La première étape pour générer une ébauche est de sélectionner les livres que vous voulez traduire. Seuls les livres qui sont déjà ajoutés à votre projet Paratext seront affichés ici. Nous vous recommandons de sélectionner jusqu'à 5 livres à traduire à la fois.
+### Confirm the project configuration
 
-![](./736001719.png)
+On the first screen, review the configured sources and language codes and verify that they are correct. Then go to the next step.
 
-- **Étape 2:** Ensuite, vous sélectionnerez les livres à utiliser pour former le modèle de langue. Ces livres devraient être bien vérifiés mais ne doivent pas être vérifiés par un consultant. Plus il y a de livres, plus le résultat de la rédaction est important. Si vous avez choisi un livre à traduire à l'étape 1, vous ne pouvez pas le choisir pour former le modèle à cette étape
+![](./generate_draft_confirm_sources.png)
 
+### Select the books to draft
 
+On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time.
 
-- Étape 3 (optionnel) : Ensuite, vous pouvez également télécharger des fichiers supplémentaires pour former le modèle de langue. Celles-ci doivent être au format .csv. Cette étape est facultative.
+![](./generate_draft_select_books_to_draft.png)
 
-Une fois ces étapes terminées, vous verrez le bouton « Générer une ébauche ». Une fois que vous avez cliqué, donnez du temps à la Forge biblique pour générer les ébauches. Cela peut prendre environ 3 heures ou plus en fonction de l'activité de nos serveurs.
+### Select the books to train the language model
 
-Une fois que l'ébauche est prête, vous devriez voir une notification comme indiqué dans la capture d'écran ci-dessous.
+On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don’t need to be consultant-checked, they should be accurate translations of the source book.**
 
-![](./2097960595.png)
+![](./generate_draft_select_books_to_train.png)
 
+### Confirm your selections
+
+On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate Draft" button to start the process.
+
+![](./generate_draft_summary.png)

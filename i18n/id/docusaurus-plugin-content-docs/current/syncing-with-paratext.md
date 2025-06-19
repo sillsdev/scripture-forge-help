@@ -14,7 +14,7 @@ _Perhatikan bahwa sinkronisasi proyek di Scripture Forge berlaku untuk _**SEMUA 
 
 Untuk menyinkronkan proyek, Anda perlu mengklik "Sinkronisasi" pada menu utama. Ini akan menampilkan tombol "Sinkronisasi" di jendela Anda. Setelah Anda mengekliknya, tunggu sampai sinkronisasi selesai dan kedua tanda panah berhenti berputar-putar, sebelum melakukan apa pun, seperti yang ditunjukkan pada gambar di bawah ini.
 
-![](./1990846672.png)
+![](./sync.png)
 
 ## **Kapan perlu melakukan Sinkronisasi proyek** {#b19f92d1a5714c4fb57b61672d95b898}
 

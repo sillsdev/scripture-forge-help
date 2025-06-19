@@ -8,25 +8,32 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-Nachdem Du Dich für das Entwerfen angemeldet und die erforderlichen Einstellungen konfiguriert hast, kannst Du auf <i>Scripture Forge AI Drafting</i> zugreifen, indem Du im Hauptmenü auf die Schaltfläche "Entwurf generieren" klicken. Du solltest nun Zugriff auf die Schaltfläche "Neuen Entwurf generieren" haben.
+## Einen Entwurf generieren
 
-![](./1574993447.png)
+Sobald Dein Projekt aktiviert und die Ausgangstexte konfiguriert sind, klicke auf die Schaltfläche "Entwurf generieren", um zu beginnen:
 
-Sobald Du darauf klickst, wirst Du zu einem **2-stufigen Verfahren** weitergeleitet, um Deinen Entwurf zu generieren.
+![](./generate_draft_button.png)
 
-- **Schritt 1:** Der erste Schritt zum Generieren eines Entwurfs besteht darin, die Bücher auszuwählen, die Du übersetzen möchtest. Hier werden nur die Bücher angezeigt, die bereits in Deinem Paratext-Projekt vorhanden sind. Wir empfehlen, gleichzeitig bis zu 5 Bücher für die Übersetzung auszuwählen.
+### Projektkonfiguration bestätigen
 
-![](./736001719.png)
+Überprüfe auf dem ersten Bildschirm die konfigurierten Ausgangstexte und Sprachcodes, und stelle sicher, dass diese korrekt sind. Geh dann zum nächsten Schritt über.
 
-- **Schritt 2:** Als Nächstes wähle die Bücher aus, die zum Schulen des Sprachmodells verwendet werden sollen. Diese Bücher sollten gut überprüft worden sein, müssen aber nicht von einem Berater überprüft worden werden. Je mehr Bücher, desto besser das Ergebnis des Entwurfes. Wenn Du in Schritt 1 ein Buch zum Übersetzen ausgewählt hast, kannst Du es in diesem Schritt nicht zum Schulen des Modells auswählen
+![](./generate_draft_confirm_sources.png)
 
-![](./1046606413.png)
+### Bücher für den Entwurf auswählen
 
-- Schritt 3 (optional): Als Nächstes kannst Du auch zusätzliche Dateien für die Schulung des Sprachmodells hochladen. Diese müssen im .csv-Format vorhanden sein. Dieser Schritt ist optional.
+Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Falls das Buch, für das Du den Entwurf generieren möchtest, nicht in Deinem Paratext-Projekt vorhanden ist, musst Du das Buch vorgängig in Paratext erstellen. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren.
 
-Nachdem Du diese Schritte ausgeführt hast, wird die Schaltfläche "Entwurf generieren" angezeigt. Sobald Du darauf klickst, gib Scripture Forge bitte Zeit, die Entwürfe zu generieren. Dies kann etwa 3 Stunden oder länger dauern, je nachdem, wie ausgelastet unsere Server sind.
+![](./generate_draft_select_books_to_draft.png)
 
-Sobald der Entwurf fertig ist, solltest Du eine Benachrichtigung erhalten, wie in der folgenden Abbildung dargestellt.
+### Die Bücher zur Schulung des Sprachmodells auswählen
 
-![](./2097960595.png)
+Im nächsten Schritt wählst Du die Bücher aus, die zur Schulung des Sprachmodells verwendet werden sollen, sowohl in Deinem Hauptprojekt als auch in den Referenzprojekten. **Wähle alle Bücher Deines Projekts aus, die angemessen überprüft wurden. Auch wenn diese nicht bereits durch einen Berater überprüft sein müssen, sollten sie doch genaue Übersetzungen des Grundtextes sein.**
 
+![](./generate_draft_select_books_to_train.png)
+
+### Auswahl bestätigen
+
+Im letzten Schritt überprüfst Du die Bücher, die Du zur Schulung des Modells ausgewählt hast, sowie die Bücher, die Du fürs Generieren des Entwurf ausgewählt hast. Falls Du Änderungen vornehmen musst, kannst Du mit den vorherigen Schritten fortfahren. Sobald Du mit Deiner Auswahl zufrieden bist, klicke auf die Schaltfläche "Entwurf generieren", um den Vorgang zu starten.
+
+![](./generate_draft_summary.png)

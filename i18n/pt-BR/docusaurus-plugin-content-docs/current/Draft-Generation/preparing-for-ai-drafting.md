@@ -1,52 +1,41 @@
 ---
-title: Preparing for AI Drafting
+title: Preparing to Generate a Draft
 sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## **Sign up for Auto Drafting** {#c01e77600a3b440ead3f1b816837d614}
+## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
 
-To access Scripture Forge Auto Drafting, you will need to click on the “Generate Draft” button in the main menu. If it is your first time generating a draft in your project, you will be prompted to sign up for Translation Drafting and fill out the Translation Drafting form. You will see the “Sign-up for Drafting” button as shown in the image below.
+To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
 
-![](./2066867633.png)
+![](./sign_up_for_drafting.png)
 
-After you fill out the form, please allow a couple days for the Scripture Forge onboarding team to review it and investigate the best settings for your project. Once this is done, the team will reach out to you with further instructions to guide you in the drafting process.
+After you fill out the form, the Scripture Forge onboarding team will review your request and and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.
 
-### **Selecting the Primary Reference Translation** {#26e1244e99c0459bad277d7cff4417b8}
+## Configuring the draft {#26e1244e99c0459bad277d7cff4417b8}
 
-To select or change your Primary Reference Translation, navigate to the “Settings” window. Here, under the Translate sub-section, you will find a drop-down menu that will display a list of resources. You can click here to select or change the reference translation for your project.
+Once your project has had drafting enabled, the "Sign up for drafting" button will be replaced with a "Configure sources" button. Click this button to select the projects that will be used as the source for your draft.
 
-This will affect the whole project and anyone else who has access to it on Scripture Forge.
+![](./configure_sources_button.png)
 
-_**You cannot use Auto Drafting without selecting a Primary Reference Translation.**_
+### Choosing the source project
 
-![](./6569010.png)
+The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
 
-You also have the option to select the “Enable Translation Suggestions” checkbox right under this drop-down menu. This box enables suggestions for all users of the project. Please note that this is separate from Auto Drafting.
+![](./configure_sources_draft_source.png)
 
-_**We recommend disabling Translation Suggestions if you plan to use Auto Drafting.**_
+### Choosing the reference projects
 
-## **Translation Draft Generation Settings** {#4e17f4ac70274b9d8d615ad3d2679a82}
+The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
 
-Once the Scripture Forge onboarding team has notified you that your project is ready for Auto Drafting, this section will appear under Settings. The Scripture Forge team will assist you with instructions for these settings as part of the onboarding process.
+Every project is different, so follow the instructions you received from the onboarding team.
 
-![](./1316957426.png)
+![](./configure_sources_draft_reference.png)
 
-As shown in the image above, you will have a few options presented. You may choose to leave these unchecked if you do not wish to use them. Once you select a checkbox, use the dropdown list that appears to select your alternate source.
+### Confirming the languages
 
-**1) Use a different source for Drafting checkbox**
+The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
 
-- This will allow you to select a translation that will be used **in place of** the Primary Reference Translation to generate a draft.
-- The alternate translation selected here must be the **same language** as the Primary Reference Translation.
-- This translation will influence the style along with the lexical and exegetical content of the draft.
+On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
 
-**2) Use a different source for Training checkbox**
-
-- This will allow you to select a translation that will be used **in place of** the Primary Reference Translation to train the language model.
-- The alternate translation selected here must be the **same language** as the Primary Reference Translation.
-- This is a technical configuration that should only be set if instructed by the Scripture Forge team.
-
-**3) Pre-translate headings and non-verse material checkbox** – We recommend you leave this box unchecked. Section headings will still be translated.
-
-**4) Allow additional training data checkbox** – Selecting this checkbox will allow you to upload any further documents that can be used to train the language model. These files must contain parallel sentences in the same source and target languages as the Primary Reference Translation and the target project. Please note that you can **only upload .csv** files for this purpose.
-
+![](./configure_sources_confirm_languages.png)

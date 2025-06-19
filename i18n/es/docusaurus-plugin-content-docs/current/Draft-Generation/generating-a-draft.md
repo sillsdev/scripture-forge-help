@@ -8,25 +8,32 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-Una vez que se haya dado de alta en Drafting y haya configurado los ajustes necesarios, podrá acceder a Scripture Forge AI Drafting haciendo clic en el botón "Generar borrador" del menú principal. Ahora tendrá acceso al botón "Generar nuevo borrador".
+## Generar un borrador
 
-![](./1574993447.png)
+Una vez activado el proyecto y configuradas las fuentes, haga clic en el botón Generar borrador para empezar:
 
-Una vez que haga clic en él, accederá a un **proceso de 2 pasos** para generar su borrador.
+![](./generate_draft_button.png)
 
-- **Paso 1:** El primer paso para generar un borrador es seleccionar los libros que desea traducir. Aquí sólo se mostrarán los libros que ya estén añadidos en su proyecto Paratext. Recomendamos seleccionar hasta 5 libros para traducir a la vez.
+### Confirmar la configuración del proyecto
 
-![](./736001719.png)
+En la primera pantalla, revise las fuentes y los códigos de idioma configurados y compruebe que son correctos. A continuación, vaya al paso siguiente.
 
-- **Paso 2:** A continuación, seleccionará los libros que se utilizarán para entrenar el modelo lingüístico. Estos libros deben estar bien revisados pero no es necesario que los consultores los revisen. Cuantos más libros, mejor será el resultado de la redacción. Si ha elegido un libro para traducir en el paso 1, no puede elegirlo para entrenar el modelo en este paso
+![](./generate_draft_confirm_sources.png)
 
-![](./1046606413.png)
+### Seleccione los libros para redactar
 
-- Paso 3 (opcional): A continuación, también puede cargar cualquier archivo adicional para el entrenamiento del modelo lingüístico. Deben estar en formato .csv. Este paso es opcional.
+En el segundo paso, seleccione los libros que desea traducir. Si el libro que desea redactar no existe en su proyecto Paratext, tendrá que crear primero el libro en Paratext. En general, le sugerimos que redacte un libro a la vez, aunque si está redactando libros más pequeños, puede que le convenga redactar varios a la vez.
 
-Una vez completados estos pasos, verá disponible el botón "Generar borrador". Una vez que haga clic en él, dé tiempo a la Fragua de las Escrituras para generar los borradores. Esto puede tardar unas 3 horas o más dependiendo de lo ocupados que estén nuestros servidores.
+![](./generate_draft_select_books_to_draft.png)
 
-Una vez que el borrador esté listo, debería ver una notificación como la que se muestra en la siguiente captura de pantalla.
+### Seleccione los libros para entrenar el modelo de idioma
 
-![](./2097960595.png)
+En el siguiente paso, seleccione los libros a utilizar para formar el modelo de idioma, tanto en su proyecto principal como en los proyectos de referencia. **Elija todos los libros de su proyecto que hayan sido revisados adecuadamente. Aunque no es necesario que estén revisados por consultores, deben ser traducciones precisas del libro de origen.**
 
+![](./generate_draft_select_books_to_train.png)
+
+### Confirme sus selecciones
+
+En el último paso, revise los libros que seleccionó para entrenar el modelo y los que seleccionó para el borrador. Si necesita realizar algún cambio, puede volver a los pasos anteriores. Una vez que esté satisfecho con sus selecciones, haga clic en el botón "Generar borrador" para iniciar el proceso.
+
+![](./generate_draft_summary.png)
