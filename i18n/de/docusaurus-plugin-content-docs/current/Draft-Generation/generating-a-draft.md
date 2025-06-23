@@ -8,32 +8,32 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-## Generating a draft
+## Einen Entwurf generieren
 
-Once your project has been activated and sources configured, click the generate draft button to get started:
+Sobald Dein Projekt aktiviert und die Ausgangstexte konfiguriert sind, klicke auf die Schaltfläche "Entwurf generieren", um zu beginnen:
 
 ![](./generate_draft_button.png)
 
-### Confirm the project configuration
+### Projektkonfiguration bestätigen
 
-On the first screen, review the configured sources and language codes and verify that they are correct. Then go to the next step.
+Überprüfe auf dem ersten Bildschirm die konfigurierten Ausgangstexte und Sprachcodes, und stelle sicher, dass diese korrekt sind. Geh dann zum nächsten Schritt über.
 
 ![](./generate_draft_confirm_sources.png)
 
-### Select the books to draft
+### Bücher für den Entwurf auswählen
 
-On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time.
+Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Falls das Buch, für das Du den Entwurf generieren möchtest, nicht in Deinem Paratext-Projekt vorhanden ist, musst Du das Buch vorgängig in Paratext erstellen. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren.
 
 ![](./generate_draft_select_books_to_draft.png)
 
-### Select the books to train the language model
+### Die Bücher zur Schulung des Sprachmodells auswählen
 
-On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don’t need to be consultant-checked, they should be accurate translations of the source book.**
+Im nächsten Schritt wählst Du die Bücher aus, die zur Schulung des Sprachmodells verwendet werden sollen, sowohl in Deinem Hauptprojekt als auch in den Referenzprojekten. **Wähle alle Bücher Deines Projekts aus, die angemessen überprüft wurden. Auch wenn diese nicht bereits durch einen Berater überprüft sein müssen, sollten sie doch genaue Übersetzungen des Grundtextes sein.**
 
 ![](./generate_draft_select_books_to_train.png)
 
-### Confirm your selections
+### Auswahl bestätigen
 
-On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate Draft" button to start the process.
+Im letzten Schritt überprüfst Du die Bücher, die Du zur Schulung des Modells ausgewählt hast, sowie die Bücher, die Du fürs Generieren des Entwurf ausgewählt hast. Falls Du Änderungen vornehmen musst, kannst Du mit den vorherigen Schritten fortfahren. Sobald Du mit Deiner Auswahl zufrieden bist, klicke auf die Schaltfläche "Entwurf generieren", um den Vorgang zu starten.
 
 ![](./generate_draft_summary.png)
