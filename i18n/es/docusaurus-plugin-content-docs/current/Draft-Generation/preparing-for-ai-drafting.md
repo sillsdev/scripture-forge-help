@@ -20,22 +20,22 @@ Una vez que se haya habilitado la redacción de su proyecto, el botón "Inscribi
 
 ### Eligiendo el proyecto fuente
 
-The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
+El primer paso es seleccionar el proyecto del que desea traducir el borrador. Por lo general, será en una lengua de comunicación más amplia. Esto puede ser un proyecto de Paratext o un recurso de Biblioteca Bíblica Digital. Comience a escribir el nombre del proyecto (o el nombre abreviado del proyecto), y la lista se filtrará para mostrar sólo los proyectos que coincidan. Haga clic en el proyecto que desea utilizar como fuente y vaya al paso siguiente.
 
 ![](./configure_sources_draft_source.png)
 
-### Choosing the reference projects
+### Elegir los proyectos de referencia
 
-The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
+El proyecto de referencia se utiliza para entrenar el modelo lingüístico. A menudo utilizará el mismo proyecto que el proyecto fuente, pero en algunos casos puede obtener mejores resultados utilizando un proyecto diferente. Algunos proyectos pueden seleccionar un segundo proyecto de referencia. Un caso de uso común es seleccionar su traducción inversa como segundo proyecto de referencia.
 
-Every project is different, so follow the instructions you received from the onboarding team.
+Cada proyecto es diferente, así que siga las instrucciones que haya recibido del equipo de incorporación.
 
 ![](./configure_sources_draft_reference.png)
 
-### Confirming the languages
+### Confirmando los idiomas
 
-The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
+El paso final muestra los datos del idioma de destino. Esto incluirá siempre su propio proyecto, que ya está seleccionado y no puede eliminarse. Actualmente no es posible añadir datos de entrenamiento adicionales en este paso.
 
-On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
+A la derecha, verá un diagrama de cómo se utilizarán los proyectos seleccionados para generar el borrador. En el primer paso, el modelo lingüístico aprenderá del
 
 ![](./configure_sources_confirm_languages.png)
