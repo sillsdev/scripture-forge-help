@@ -2,6 +2,10 @@ name: Build and Deploy PR
 on:
   pull_request:
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   build-and-deploy-pr:
     name: Build and Deploy PR

@@ -1,6 +1,9 @@
 name: Deploy master to live
 on: workflow_dispatch
 
+permissions:
+  contents: read
+
 jobs:
   deploy-live:
     name: Deploy master to live
