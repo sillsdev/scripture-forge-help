@@ -45,7 +45,7 @@ Sobald Du den Entwurf in ein Projekt importiert hast, synchronisiere das Projekt
 
 ## USFM-Dateien exportieren
 
-Falls Du den Entwurf nicht direkt in Dein Projekt importieren möchtest, kannst Du den Entwurf auch als USFM-Dateien herunterladen. Klicke auf der Seite "Entwurf generieren" auf "ZIP herunterladen" und entpacke die Dateien auf Deinem Computer. Du kannst diese Dateien dann in ein Projekt in Paratext importieren.
+Falls Du den Entwurf nicht direkt in Dein Projekt importieren möchtest, kannst Du den Entwurf auch als USFM-Dateien herunterladen. On the "Generate draft" page, click "Download draft", and extract the files on your computer. Du kannst diese Dateien dann in ein Projekt in Paratext importieren.
 
 ![](./download_usfm.png)
 

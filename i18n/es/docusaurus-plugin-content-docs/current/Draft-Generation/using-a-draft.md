@@ -45,7 +45,7 @@ Una vez que haya importado el borrador a un proyecto, sincronice el proyecto en 
 
 ## Exportación de archivos USFM
 
-Si prefiere no importar el borrador directamente a su proyecto, también puede descargarlo como archivos USFM. En la página "Generar borrador", haga clic en "Descargar ZIP" y extraiga los archivos en su computadora. A continuación, puede importar estos archivos a un proyecto en Paratext.
+Si prefiere no importar el borrador directamente a su proyecto, también puede descargarlo como archivos USFM. On the "Generate draft" page, click "Download draft", and extract the files on your computer. A continuación, puede importar estos archivos a un proyecto en Paratext.
 
 ![](./download_usfm.png)
 
