@@ -45,7 +45,7 @@ Once you've imported the draft to a project, sync the project in Scripture Forge
 
 ## Exporting USFM files
 
-If you prefer not to import the draft directly to your project, you can also download the draft as USFM files. On the "Generate draft" page, click "Download ZIP", and extract the files on your computer. You can then import these files into a project in Paratext.
+If you prefer not to import the draft directly to your project, you can also download the draft as USFM files. On the "Generate draft" page, click "Download draft", and extract the files on your computer. You can then import these files into a project in Paratext.
 
 ![](./download_usfm.png)
 
