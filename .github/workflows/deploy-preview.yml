@@ -23,6 +23,6 @@ jobs:
         run: ./build.sh
 
       - name: Deploy preview to Netlify
-        run: ./deploy.sh --github-action-preview-subdomain
+        run: ./deploy.sh --alias github-action-preview
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

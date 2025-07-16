@@ -1,0 +1,43 @@
+name: Build and Deploy PR
+on:
+  pull_request:
+
+jobs:
+  build-and-deploy-pr:
+    name: Build and Deploy PR
+    runs-on: ubuntu-24.04
+    environment: deploy
+
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4.1.0
+        with:
+          node-version: 22
+
+      - name: Build the site
+        run: ./build.sh
+
+      - name: Deploy PR to Netlify
+        run: ./deploy.sh --alias pr-${{ github.event.number }}
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+
+      - name: Comment PR with preview URL
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7.0.1
+        with:
+          script: |
+            const prNumber = context.payload.number;
+            const previewUrl = `https://pr-${prNumber}--scripture-forge-help.netlify.app`;
+            
+            github.rest.issues.createComment({
+              issue_number: prNumber,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🚀 **Preview deployed!**\n\nYou can preview this PR at: ${previewUrl}`
+            });
