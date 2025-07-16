@@ -1,0 +1,39 @@
+name: Update Translations
+
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  schedule:
+    - cron: '0 3 * * 1' # Every Monday at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+    environment: crowdin_fetch
+    env:
+      CROWDIN_PROJECT_ID: ${{ vars.CROWDIN_PROJECT_ID }}
+      CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Deno
+        uses: denoland/setup-deno@909cc5acb0fdd60627fb858598759246509fa755 # v2.0.2
+        with:
+          deno-version: v2.x
+
+      - name: Run update.mts
+        run: ./update.mts
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@271a8d0340265f705b14b6d32b9829c1cb33d45e # @v7.0.8
+        with:
+          commit-message: "Update all translation files from Crowdin"
+          title: "Update all translation files from Crowdin"
+          body: "Automated update of files by GitHub action"
+          branch: i18n/update
