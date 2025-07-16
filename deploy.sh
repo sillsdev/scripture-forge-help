@@ -12,7 +12,13 @@ if [[ -z "${NETLIFY_AUTH_TOKEN:-}" ]]; then
   exit 1
 fi
 
-export NETLIFY_SITE_ID=aba3890d-2b7b-4144-883f-7c600965db82
+
+# The preview branch uses a completely separate site ID in a completely separate Netlify account, in order to allow the
+# production GitHub environment to have tighter security controls than the preview environment. 
+# (Netlify personal access tokens do not have granular permissions)
+if [[ -z "${NETLIFY_SITE_ID:-}" ]]; then
+  export NETLIFY_SITE_ID=aba3890d-2b7b-4144-883f-7c600965db82
+fi
 
 DEPLOY_DIR="build"
 CMD="npx netlify deploy --dir $DEPLOY_DIR"
