@@ -4,7 +4,7 @@ sidebar_position: 2
 slug: /syncing-with-paratext
 ---
 
-
+# test edit
 
 Synchronizing your Scripture Forge project with Paratext is very important as this allows changes you have made in Scripture Forge to be saved to the Paratext servers and also pulls the latest data from your Paratext project into Scripture Forge.
 
