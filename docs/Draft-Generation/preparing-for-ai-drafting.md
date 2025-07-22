@@ -6,7 +6,7 @@ slug: /preparing-for-ai-drafting
 
 ## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
 
-To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
+To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not require you to fill out the form.
 
 
 ![](./sign_up_for_drafting.png)
