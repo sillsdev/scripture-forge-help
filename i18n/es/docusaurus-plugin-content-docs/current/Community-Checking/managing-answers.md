@@ -14,7 +14,7 @@ Para supervisar las respuestas de la comprobación comunitaria, haz clic en **Re
 
 ![](./685721.png)
 
-Para ver las respuestas de los verificadores comunitarios, haz clic en uno de los libros de la sección **Verificación comunitaria** de la barra lateral de navegación. A continuación, haz clic en una pregunta para ver las respuestas que se han dado. Si quieres que una respuesta se exporte a Paratext, haz clic en **Marcar para exportar** en esa respuesta. Si no quieres hacer nada más con la respuesta, haz clic en **Resolver**. Esto no elimina la respuesta, sino que la marca como que no necesita ninguna otra acción.
+Para ver las respuestas de los revisores de la comunidad, haz clic en uno de los libros de la sección **Verificación comunitaria** de la barra lateral de navegación. A continuación, haz clic en una pregunta para ver las respuestas que se han dado. Si quieres que una respuesta se exporte a Paratext, haz clic en **Marcar para exportar** en esa respuesta. Si no quieres hacer nada más con la respuesta, haz clic en **Resolver**. Esto no elimina la respuesta, sino que la marca como que no necesita ninguna otra acción.
 
 ![](./1417670916.png)
 
@@ -28,9 +28,9 @@ Si prefieres que todas las respuestas se exporten a Paratext sin marcarlas indiv
 
 ## Sincroniza el proyecto para que las respuestas aparezcan como notas en Paratext {#1850d745ac9e80a8b3f0f50bcdd0be58}
 
-En la barra lateral de navegación, haz clic en **Sincronizar**. En la página que se abre, haz clic en **Sincronizar** para enviar y recibir cambios desde Paratext. Después abre tu proyecto en Paratext y haz un envío y una recepción. Las respuestas de los verificadores de la comunidad aparecerán en tu proyecto como notas. Ten en cuenta que si respondes a estas notas en Paratext, tus respuestas no aparecerán como comentarios sobre la respuesta en Scripture Forge.
+En la barra lateral de navegación, haz clic en **Sincronizar**. En la página que se abre, haz clic en **Sincronizar** para enviar y recibir cambios desde Paratext. Después abre tu proyecto en Paratext y haz un envío y una recepción. Las respuestas de los revisores de la comunidad aparecerán en tu proyecto como notas. Ten en cuenta que si respondes a estas notas en Paratext, tus respuestas no aparecerán como comentarios sobre la respuesta en Scripture Forge.
 
-La nota mostrará la pregunta original, el nombre del verificador de la comunidad que respondió y la propia respuesta, como se muestra a continuación.
+La nota mostrará la pregunta original, el nombre del revisor de la comunidad que respondió y la propia respuesta, como se muestra a continuación.
 
 ![](./673009763.png)
 

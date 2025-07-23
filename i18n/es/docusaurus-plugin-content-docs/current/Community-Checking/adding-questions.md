@@ -12,7 +12,7 @@ Para obtener comentarios sobre tu traducción, tendrás que añadir preguntas de
 
 :::note
 
-Actualmente, la única forma de obtener opiniones de los verificadores de la comunidad es hacer preguntas de verificación. Algunos administradores de proyectos han pedido que los verificadores puedan añadir comentarios al texto incluso sin que haya una pregunta presente. Si es algo de lo que puede beneficiarse tu proyecto, [expresa tu apoyo a la propuesta](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) en el [sitio de la comunidad de la Fragua de las Escrituras](https://community.scripture.software.sil.org/).
+Actualmente, la única forma de obtener opiniones de los revisores de la comunidad es hacer preguntas de verificación. Algunos administradores de proyectos han pedido que los revisores puedan añadir comentarios al texto incluso sin que haya una pregunta presente. Si es algo de lo que puede beneficiarse tu proyecto, [expresa tu apoyo a la propuesta](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) en el [sitio de la comunidad de la Fragua de las Escrituras](https://community.scripture.software.sil.org/).
 
 :::
 
@@ -111,7 +111,7 @@ Para importar preguntas desde Transcelerator:
 
 ## Adjuntar grabación de audio del texto {#1850d745ac9e80e795f3d611356e74d5}
 
-Scripture Forge puede reproducir una grabación de audio de cada pasaje para las comprobaciones comunitarias. Para ello, deberá cargar un archivo de audio y un archivo de tiempo para cada capítulo. Los archivos de tiempo permiten a Scripture Forge resaltar cada versículo a medida que se pronuncia.
+Scripture Forge puede reproducir una grabación de audio de cada pasaje para los revisores de la comunidad. Para ello, deberá cargar un archivo de audio y un archivo de tiempo para cada capítulo. Los archivos de tiempo permiten a Scripture Forge resaltar cada versículo a medida que se pronuncia.
 
 ### Grabación del texto {#1850d745ac9e805eb4b1c0f05d6da02a}
 

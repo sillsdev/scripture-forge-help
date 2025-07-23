@@ -8,32 +8,32 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/binHoeAGGvU" /></div>
 
-## Generating a draft
+## Générer une ébauche
 
-Once your project has been activated and sources configured, click the generate draft button to get started:
+Une fois que votre projet a été activé et que les sources ont été configurées, cliquez sur le bouton Générer le brouillon pour démarrer :
 
 ![](./generate_draft_button.png)
 
-### Confirm the project configuration
+### Confirmer la configuration du projet
 
-On the first screen, review the configured sources and language codes and verify that they are correct. Then go to the next step.
+Sur le premier écran, vérifiez les sources et les codes de langue configurés et vérifiez qu'ils sont corrects. Passons ensuite à l'étape suivante.
 
 ![](./generate_draft_confirm_sources.png)
 
-### Select the books to draft
+### Sélectionnez les livres à ébaucher
 
-On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time.
+Dans la deuxième étape, sélectionnez les livres que vous voulez traduire. Si le livre que vous voulez ébaucher n'existe pas dans votre projet Paratext, vous devrez d'abord créer le livre dans Paratext. En général, nous suggérons de rédiger un livre à la fois, mais si vous rédigez des livres plus petits, vous voudrez peut-être en rédiger plusieurs à la fois.
 
 ![](./generate_draft_select_books_to_draft.png)
 
-### Select the books to train the language model
+### Sélectionnez les livres pour former le modèle de langue
 
-On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don’t need to be consultant-checked, they should be accurate translations of the source book.**
+À l'étape suivante, sélectionnez les livres à utiliser pour former le modèle de langue, tant dans votre projet principal que dans les projets de référence. **Choisissez tous les livres de votre projet qui ont été correctement revus. Bien qu'ils n'aient pas besoin d'être vérifiés par un consultant, ils devraient être des traductions exactes du livre source.**
 
 ![](./generate_draft_select_books_to_train.png)
 
-### Confirm your selections
+### Confirme ta sélection
 
-On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate Draft" button to start the process.
+Lors de la dernière étape, consultez les livres que vous avez sélectionnés pour former le modèle, et les livres que vous avez sélectionnés pour ébaucher. Si vous devez apporter des modifications, vous pouvez passer aux étapes précédentes. Une fois que vous êtes satisfait de vos sélections, cliquez sur le bouton "Générer un brouillon" pour démarrer le processus.
 
 ![](./generate_draft_summary.png)

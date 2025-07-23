@@ -1,41 +1,41 @@
 ---
-title: Preparing to Generate a Draft
+title: Préparation de la génération d'un brouillon
 sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## Sign up to Generate Drafts {#c01e77600a3b440ead3f1b816837d614}
+## Inscrivez-vous pour l'ébauche automatique.\*\* {#c01e77600a3b440ead3f1b816837d614}
 
-To generate drafts in Scripture Forge, click on the “Generate Draft” button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
+Pour générer des brouillons dans la Forge des Écritures, cliquez sur le bouton « Générer un brouillon » dans le menu principal. Cliquez ensuite sur le bouton "S'inscrire à l'ébauche", et remplissez le formulaire qui s'ouvre, pour avoir accès à votre projet. Les projets de retraduction sont activés par défaut et n'ont pas besoin de remplir le formulaire.
 
 ![](./sign_up_for_drafting.png)
 
-After you fill out the form, the Scripture Forge onboarding team will review your request and and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.
+Après avoir rempli le formulaire, L'équipe d'intégration de l'Écriture Forge examinera votre demande et travaillera pour trouver les meilleurs paramètres pour votre projet. Vous recevrez une ou plusieurs ébauches à examiner. Si vous décidez que la génération de brouillons est correcte pour votre projet, l'équipe activera la rédaction de votre projet et vous guidera dans le processus de sélection des paramètres qui ont été trouvés les meilleurs.
 
-## Configuring the draft {#26e1244e99c0459bad277d7cff4417b8}
+## Configuration du brouillon {#26e1244e99c0459bad277d7cff4417b8}
 
-Once your project has had drafting enabled, the "Sign up for drafting" button will be replaced with a "Configure sources" button. Click this button to select the projects that will be used as the source for your draft.
+Une fois que la rédaction de votre projet a été activée, le bouton « S'inscrire pour ébaucher » sera remplacé par le bouton « Configurer les sources ». Cliquez sur ce bouton pour sélectionner les projets qui seront utilisés comme source de votre brouillon.
 
 ![](./configure_sources_button.png)
 
-### Choosing the source project
+### Choix du projet source
 
-The first step is to select the project you want the draft to be translated from. Usually this will be in a language of wider communication. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
+La première étape est de sélectionner le projet dont vous voulez que le brouillon soit traduit. Habituellement, ce sera dans une langue de communication plus large. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Cliquez sur le projet que vous voulez utiliser comme source, puis passez à l'étape suivante.
 
 ![](./configure_sources_draft_source.png)
 
-### Choosing the reference projects
+### Choix des projets de référence
 
-The reference project is used for training the language model. Often you will use the same project as the source project, but in some cases you can get better results by using a different project. Some projects may select a second reference project. One common uses-case is to select your back translation as a second reference project.
+Le projet de référence est utilisé pour la formation du modèle linguistique. Souvent, vous utiliserez le même projet que le projet source, mais dans certains cas, vous pouvez obtenir de meilleurs résultats en utilisant un projet différent. Certains projets peuvent sélectionner un deuxième projet de référence. Un cas d'utilisation courant est de sélectionner votre traduction de retour comme deuxième projet de référence.
 
-Every project is different, so follow the instructions you received from the onboarding team.
+Chaque projet est différent, donc suivez les instructions que vous avez reçues de l'équipe d'intégration.
 
 ![](./configure_sources_draft_reference.png)
 
-### Confirming the languages
+### Confirmation des langues
 
-The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. Currently it's not possible to add additional training data at this step.
+La dernière étape montre les données de la langue cible. Cela inclura toujours votre projet lui-même, qui est déjà sélectionné et ne peut pas être supprimé. Actuellement, il n'est pas possible d'ajouter des données de formation supplémentaires à cette étape.
 
-On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn from the
+Sur le côté droit, vous verrez un diagramme de la façon dont les projets que vous avez sélectionnés seront utilisés pour générer le brouillon. Dans la première étape, le modèle de langue apprendra de la
 
 ![](./configure_sources_confirm_languages.png)

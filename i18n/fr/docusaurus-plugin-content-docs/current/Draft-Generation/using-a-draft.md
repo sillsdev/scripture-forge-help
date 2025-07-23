@@ -1,54 +1,53 @@
 ---
-title: Using a draft
+title: Utilisation d'une ébauche
 sidebar_position: 2
 slug: /using-a-draft
 ---
 
-When your draft is finished, Scripture Forge will indicate that it's ready and display the list of books that were drafted.
+Lorsque votre ébauche est terminée, Scripture Forge vous indiquera qu'il est prêt et affichera la liste des livres qui ont été rédigés.
 
 ![](./draft_complete.png)
 
-## Previewing a draft
+## Prévisualiser l'ébauche
 
-The draft that Scripture Forge created will not be automatically imported to your project. You can preview the draft and then import a chapter or a book at a time into your project, or into a different project.
+L'ébauche créée par Scripture Forge ne sera pas automatiquement importé dans votre projet. Vous pouvez prévisualiser l'ébauche et ensuite importer un chapitre ou un livre à la fois dans votre projet, ou dans un projet différent.
 
-Click on a book to view the draft. The draft will open in a new tab on the editor page.
-:::tip
-To compare the draft to the text it was translated from, set a source on the settings page. This will allow you to see a source and the resulting draft side-by-side.
+Cliquez sur un livre pour voir l'ébauche. L'ébauche s'ouvrira dans un nouvel onglet sur la page de l'éditeur.
+Pour comprendre l'ébauche au texte à partir duquel il a été traduite, définissez une source sur la page des paramètres Cela vous permettra de voir une source et le brouillon qui en résulte côte à côte.
 
-If you drafted a book the team has already finished translating, you can move the draft tab to the other side of the page, and compare it with the team's translation.
+Si vous avez rédigé un livre, l'équipe a déjà fini de traduire, vous pouvez déplacer l'onglet brouillon vers l'autre côté de la page, et le comparer avec la traduction de l'équipe.
 :::
 
 ![](./draft_preview.png)
 
-## Importing a single chapter
+## Importation d'un seul chapitre
 
-To import the draft of the current chapter into the project, click "Add to project". You can go to each chapter in the book and preview and import each chapter one at a time.
+Pour importer le brouillon du chapitre en cours dans le projet, cliquez sur "Ajouter au projet". Vous pouvez aller à chaque chapitre du livre et prévisualiser et importer chaque chapitre un à la fois.
 
 ![](./chapter_imported.png)
 
-## Importing an entire book
+## Importation d'un livre entier
 
-If you want to import an entire book into the project, you can do this from the "Generate draft" page. Click the three-dot menu beside the book, and then select the option to import it to the current project, or to a different project.
+Si vous voulez importer un livre entier dans le projet, vous pouvez le faire à partir de la page "Générer le brouillon". Cliquez sur le menu à trois points à côté du livre, puis sélectionnez l'option pour l'importer dans le projet en cours ou dans un autre projet.
 
 ![](./import_book.png)
 
-In the dialog that opens, select the project you want the draft to be imported to. If the project hasn't been connected in Scripture Forge yet, you will need to connect it first. **Important:** Importing the draft will replace any existing content in the project for that book.
+Dans la boîte de dialogue qui s'ouvre, sélectionnez le projet dans lequel vous voulez importer le brouillon. Si le projet n'a pas encore été connecté à Scripture Forge, vous devrez d'abord le connecter. **Important:** Importer le brouillon remplacera tout contenu existant dans le projet pour ce livre.
 
 :::note
-The project must already have the book you are importing. Make sure have already created the book in Paratext and synced it to Scripture Forge.
+Le projet doit déjà avoir le livre que vous importez. Assurez-vous que le livre a déjà été créé dans Paratext et qu'il a été synchronisé avec la Forge des Écritures.
 :::
 
 ![](./import_book_dialog.png)
 
-Once you've imported the draft to a project, sync the project in Scripture Forge and then do a send/receive in Paratext to see the changes.
+Une fois que vous avez importé le brouillon dans un projet, synchronisez le projet dans Scripture Forge puis faites un Envoyer/Recevoir dans Paratext pour voir les changements.
 
-## Exporting USFM files
+## Exportation des fichiers USFM
 
-If you prefer not to import the draft directly to your project, you can also download the draft as USFM files. On the "Generate draft" page, click "Download draft", and extract the files on your computer. You can then import these files into a project in Paratext.
+Si vous préférez ne pas importer le brouillon directement dans votre projet, vous pouvez également télécharger le brouillon sous forme de fichiers USFM. Dans la page "Générer le brouillon", cliquez sur "Télécharger le brouillon", et extrayez les fichiers sur votre ordinateur. Vous pouvez ensuite importer ces fichiers dans un projet dans Paratext.
 
 ![](./download_usfm.png)
 
-## Viewing drafts in Paratext 10 Studio
+## Visualisation des brouillons dans Paratext 10 Studio
 
-Paratext 10 Studio directly integrates with Scripture Forge, and allows you to view a draft without importing it to a project. The Scripture Forge extension comes pre-installed, so all you need to do is log in to Scripture Forge in the extension, and then select your project to view the draft.
+Paratext 10 Studio s'intègre directement à la Forge, et vous permet de visualiser un brouillon sans l'importer dans un projet. L'extension Scripture Forge est pré-installée, donc tout ce que vous avez à faire est de vous connecter à Scripture Forge dans l'extension, puis de sélectionner votre projet pour voir le brouillon.
