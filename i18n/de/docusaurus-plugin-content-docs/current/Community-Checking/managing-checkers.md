@@ -12,27 +12,27 @@ import ReactPlayer from "react-player";
 
 Sobald Du die Fragen zu Deinem Projekt hast, wird es Zeit, Überprüfer aus der Zielgruppe einzuladen.
 
-Klicke in der Seitenleiste auf **Einstellungen** und scrolle nach unten zu **Einstellungen Überprüfung mit der Zielgruppe**.
-
-![](./998098765.png)
+In the side bar, click **Settings**, and scroll down to **Sharing settings**.
 
 ### Einstellungen Benutzerinteraktion {#1850d745ac9e8018b5a7ff9f3ea349e9}
 
-Die erste Einstellung, die es zu beachten gilt, ist die Einstellung **Überprüfer können die Antworten der anderen sehen**. Wenn Überprüfern der Zielgruppe eine Frage angezeigt wird, werden existierende Antworten von anderen Überprüfern der Zielgruppe nicht angezeigt, damit dies die erhaltene Antwort nicht beeinflusst. Sobald eine Frage beantwortet ist, werden alle anderen Antworten auf die Frage angezeigt, und die Überprüfer können die Antworten des anderen kommentieren und gegenseitig Antworten mit "Gefällt mir" markieren. Wenn Du diese Interaktion nicht willst, aber möchtest, dass Antworten von anderen Überprüfern immer ausgeblendet werden, deaktiviere **Überprüfer können die Antworten der anderen sehen**.
+The first setting to consider is **Allow checkers to see each other's answers and comments**. Wenn Überprüfern der Zielgruppe eine Frage angezeigt wird, werden existierende Antworten von anderen Überprüfern der Zielgruppe nicht angezeigt, damit dies die erhaltene Antwort nicht beeinflusst. Sobald eine Frage beantwortet ist, werden alle anderen Antworten auf die Frage angezeigt, und die Überprüfer können die Antworten des anderen kommentieren und gegenseitig Antworten mit "Gefällt mir" markieren. If you don’t want this interaction and want answers from other checkers to always be hidden, turn off **Allow checkers to see each other's answers and comments**.
+
+![](./checking_enable_see_others_responses.png)
 
 ### Freigabeeinstellungen {#1850d745ac9e8097ad4efcb063fc2603}
 
-Wenn du möchtest, dass Überprüfer der Zielgruppe Freunde zum Projekt einladen können, achte darauf, dass **Benutzern erlauben, andere in das Projekt einzuladen** aktiviert ist. Wenn diese Einstellung deaktiviert ist, können nur Projektadministratoren Überprüfer der Zielgruppe zum Projekt hinzufügen.
+If you want community checkers to be able to invite friends to the project, make sure **Allow community checkers to invite community checkers** is enabled. Wenn diese Einstellung deaktiviert ist, können nur Projektadministratoren Überprüfer der Zielgruppe zum Projekt hinzufügen.
 
-Wenn Du diese Einstellung aktivierst, gibt es zwei Freigabemodi zur Auswahl. Wenn Du **Jeder mit einem Link**wählst, kannst Du Personen einen Link zum Projekt schicken und jeder, der auf den Link klickt, kann dem Projekt beitreten. Dies ist ideal, wenn Du eine Gruppe von Personen einladen möchtest (zum Beispiel kannst Du den Link in einer Facebook- oder WhatsApp-Gruppe teilen). Jeder mit dem Link wird in der Lage sein, den Link an alle anderen zu senden, um dem Projekt beizutreten. Dann können Überprüfer der Zielgruppe nur Freunde einladen, indem sie eine Einladung in Scripture Forge senden (Scripture Forge sendet dann eine E-Mail-Einladung an die Person).
+![](./settings_sharing.png)
 
 ### Überprüfer der Zielgruppe einladen {#1850d745ac9e802d84d8e00da4fe25c2}
 
 Klicke in der Seitenleiste auf **Benutzer** und es werden Dir Freigabeoptionen angezeigt.
 
-![](./1688833473.png)
+![](./invite_users.png)
 
-Wenn Du die Freigabe von Links im vorherigen Schritt aktiviert hast, gibt es einen Link, den Du kopieren kannst, um das Projekt zu teilen. Um den Link zu kopieren, klicke auf das Kopiersymbol auf der rechten Seite des Links.
+To invite someone by sending a link, click **Share**, select the language you want Scripture Forge to show the recipient, and copy the link. You can then send this link to anyone you want to invite to the project. When they click the link, they will be able to join the project as a community checker.
 
-Wenn die Linkfreigabe deaktiviert ist, oder wenn Du E-Mail-Einladungen an Benutzer senden möchtest, gib die E-Mail des Benutzers ein, den Du einladen möchtest, wähle die Rolle **Überprüfer der Zielgruppe** aus und wähle eine Einladungssprache. Klicke dann auf **Senden**. Eine E-Mail mit einem Link wird an die Person gesendet, die dann den Link anklicken und sich anmelden muss, um dem Projekt beizutreten.
+If you want to send email invitations to users, type the email of the user you want to invite, select the **Community Checker** role, and choose an invitation language. Klicke dann auf **Senden**. Eine E-Mail mit einem Link wird an die Person gesendet, die dann den Link anklicken und sich anmelden muss, um dem Projekt beizutreten.
 
