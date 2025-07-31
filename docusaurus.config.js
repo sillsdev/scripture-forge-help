@@ -55,9 +55,6 @@ const config = {
           {
             title: "Resources",
             items: [
-              // pathname:// informs Docusaurus that this should not be handled as part of the SPA
-              // See https://docusaurus.io/docs/next/advanced/routing#escaping-from-spa-redirects
-              { label: "Manual", href: "pathname:///manual" },
               {
                 label: "Change log",
                 href: "https://community.scripture.software.sil.org/t/scripture-forge-announcements/1776",
