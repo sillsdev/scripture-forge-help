@@ -4,12 +4,15 @@ sidebar_position: 5
 slug: /translation-suggestions
 ---
 
-
-
 ## Apa yang dimaksud dengan Saran Penerjemahan? {#5f721bd65922446f8eefb001acc89f30}
 
+:::info
+"Translation suggestions" is an older Scripture Forge feature that provides interactive suggestions to translators as they type within Scripture Forge. It works best when translating between very similar languages.
 
-Saran penerjemahan memungkinkan Scripture Forge untuk menganalisis bahasa sumber dan bahasa target secara bersamaan, dan secara otomatis menyarankan kata/frasa yang akan digunakan dalam proses penerjemahan.
+Translation drafting is a newer, more flexible, and more powerful translation tool in Scripture Forge that creates drafts for translators to review and edit.
+:::
+
+Translation suggestions allow Scripture Forge to analyze a source and target language together, and automatically suggest words/phrases to use in the translation process.
 
 - Saran penerjemahan didasarkan pada analisis Scripture Forge terhadap ayat-ayat dalam proyek target yang telah diterjemahkan dari proyek sumber.
 - Semakin banyak ayat yang Anda miliki di sumber dan target, semakin baik saran yang diberikan.
@@ -18,26 +21,15 @@ Saran penerjemahan memungkinkan Scripture Forge untuk menganalisis bahasa sumber
 
 ## Mengatur Jendela Saran Terjemahan Anda {#055dfd61aa9442e3b6c787613c8085d6}
 
-
 :::note
-
-Hal ini harus dilakukan oleh setiap pengguna yang ingin menggunakan saran terjemahan.
-
+This must be done by each user who wants to use translation suggestions.
 :::
-
-
-
 
 ### Pilih Proyek Anda {#4de2ee23101e4a498e465465740c5a51}
 
-
 :::tip
-
-Pertama, Anda harus **memilih proyek Anda** dari halaman navigasi, jika Anda belum melakukannya.
-
+First you need to **select your project** from the navigation page, if you haven't already.
 :::
-
-
 
 1. Klik pada panel navigasi Scripture Forge:
 
@@ -46,7 +38,6 @@ Pertama, Anda harus **memilih proyek Anda** dari halaman navigasi, jika Anda bel
 2. Pilih Proyek Anda:
 
     ![](./1186041765.png)
-
 
 **ATAU**
 
@@ -61,7 +52,6 @@ Pertama, Anda harus **memilih proyek Anda** dari halaman navigasi, jika Anda bel
 3. Klik pada proyek Anda:
 
     ![](./2063843017.png)
-
 
 ### Mengatur Jendela Saran Terjemahan {#8798a078b0464f5190de5d6dd7e4d132}
 
@@ -93,7 +83,7 @@ Pertama, Anda harus **memilih proyek Anda** dari halaman navigasi, jika Anda bel
     ![](./645869862.png)
 
 6. Untuk menukar sisi sumber dan target proyek:
-    1. Klik tombol "tukar sumber dan target":
+    1. Click the "swap source and target" button:
 
     ![](./835896389.png)
 
@@ -101,38 +91,25 @@ Pertama, Anda harus **memilih proyek Anda** dari halaman navigasi, jika Anda bel
 
     ![](./1570173027.png)
 
-
 ## Apa yang dimaksud dengan Segmen? {#3931f83c77104d27bfa1bcd797303914}
 
-
 :::tip
-
-Sebelum melakukan pekerjaan penerjemahan di Scripture Forge, Anda harus memahami apa itu "**segmen**".
-
+Before doing translation work in Scripture Forge, you should understand what a "**segment**" is.
 :::
-
-
-
 
 Dalam Scripture Forge, sebuah segmen adalah bagian Alkitab yang akan diterjemahkan. Ini bisa berupa judul bagian, ayat, atau bagian dari ayat (seperti dalam puisi).
 
-
 Sebagai contoh, ayat berikut ini memiliki 6 segmen (Judul, Judul Bagian, Ayat 1, dst):
-
 
 ![](./1428080140.png)
 
-
 Dalam perikop berikutnya, ada 8 segmen total (catatan: ayat 23 memiliki 6 segmen):
-
 
 ![](./423179002.png)
 
-
 ## Cara Menggunakan Saran Terjemahan {#007fd10ab17d498ea44ffb913d92663f}
 
-
-Sekarang setelah Anda memahami cara menavigasi di Scripture Forge, sekarang saatnya untuk mempelajari cara menggunakan **saran penerjemahan**. Ingat, saran terjemahan adalah ketika Scripture Forge menganalisis pekerjaan terjemahan Anda dan secara otomatis menyarankan kata/frasa yang akan digunakan dalam proses penerjemahan.
+Now that you understand how to navigate in Scripture Forge, it's time to learn how to use **translation suggestions**. Ingat, saran terjemahan adalah ketika Scripture Forge menganalisis pekerjaan terjemahan Anda dan secara otomatis menyarankan kata/frasa yang akan digunakan dalam proses penerjemahan.
 
 1. Dalam proyek Anda, buka kitab dan pasal yang ingin Anda terjemahkan.
 2. Klik di segmen yang ingin Anda terjemahkan.
@@ -145,7 +122,7 @@ Sekarang setelah Anda memahami cara menavigasi di Scripture Forge, sekarang saat
 
     ![](./1961667036.png)
 
-5. Di samping saran terdapat persentase:
+5. Next to the suggestions is a percentage:
 
     ![](./1763848216.png)
 
@@ -167,17 +144,11 @@ Sekarang setelah Anda memahami cara menavigasi di Scripture Forge, sekarang saat
 
 ### Lanjutkan Menerjemahkan {#9e130c3ad9c048a4822e37e0d0ba0750}
 
-
 :::tip
+Scripture Forge will continue to learn and make better suggestions as you translate.
 
-Scripture Forge akan terus belajar dan memberikan saran yang lebih baik saat Anda menerjemahkan.
-
-Untuk menyesuaikan _**pengaturan saran terjemahan**_ untuk pengguna Anda, lihat [langkah-langkahnya di sini 🔗](/translation-suggestions).
-
+To adjust the _**translation suggestion settings**_ for your user, see the [steps here 🔗](/translation-suggestions).
 :::
-
-
-
 
 ### Tombol pintas keyboard {#228a943ddd984192b78ae4ccb39c6211}
 
@@ -187,7 +158,7 @@ Untuk menyesuaikan _**pengaturan saran terjemahan**_ untuk pengguna Anda, lihat 
 
     1. Kemudian tekan **Enter** untuk menggunakan saran tersebut.
 2. Anda juga dapat menekan **CTRL + &lt;a number key&gt;** untuk memasukkan sejumlah kata untuk saran yang disorot.
-    1. Contohnya, jika "Kapernaum dan mereka berkata" disorot:
+    1. For example, if "Capernaum and they say" was highlighted:
 
         ![](./1823947882.png)
 
@@ -200,17 +171,11 @@ Untuk menyesuaikan _**pengaturan saran terjemahan**_ untuk pengguna Anda, lihat 
         | Ctrl + 3 | Kapernaum dan mereka         |
         | Ctrl + 4 | Kapernaum dan mereka berkata |
 
-
 ## Sesuaikan Pengaturan Saran Terjemahan - Per Pengguna {#3822d035acfd42ae888cefbd7b71fcb5}
 
-
 :::note
-
-Anda dapat mengelola pengaturan saran terjemahan untuk masing-masing pengguna.
-
+You can configure the translation suggestion settings for your individual user.
 :::
-
-
 
 1. Pilih proyek Anda dari panel Navigasi.
 2. Klik bagian Terjemahkan.

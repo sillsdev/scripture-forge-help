@@ -36,6 +36,6 @@ Chaque projet est différent, donc suivez les instructions que vous avez reçues
 
 La dernière étape montre les données de la langue cible. Cela inclura toujours votre projet lui-même, qui est déjà sélectionné et ne peut pas être supprimé. Actuellement, il n'est pas possible d'ajouter des données de formation supplémentaires à cette étape.
 
-Sur le côté droit, vous verrez un diagramme de la façon dont les projets que vous avez sélectionnés seront utilisés pour générer le brouillon. Dans la première étape, le modèle de langue apprendra de la
+Sur le côté droit, vous verrez un diagramme de la façon dont les projets que vous avez sélectionnés seront utilisés pour générer le brouillon. Dans un premier temps, le modèle linguistique apprend en comparant les projets de référence au projet traduit. Dans un deuxième temps, il utilisera ces connaissances pour traduire le projet source.
 
 ![](./configure_sources_confirm_languages.png)

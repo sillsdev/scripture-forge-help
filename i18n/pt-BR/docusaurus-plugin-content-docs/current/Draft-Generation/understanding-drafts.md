@@ -1,12 +1,12 @@
 ---
-title: Understanding Drafting
+title: Understanding Draft Generation
 sidebar_position: 0
 slug: /understanding-drafts
 ---
 
 ## Introduction {#ad165caedac347798432de75e4305252}
 
-SIL International’s Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. As of  January 1st, 2024, this tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
+SIL International's Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. As of January 1, 2024, this tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 All of the drafts that are created contain errors that need to be corrected by the translation team. For some projects, the quality will be too low to be useful. However, extensive field testing has shown that a significant number of teams find the drafts to be very helpful in their work, and of sufficient quality to use as a starting point for the team to edit.
 
@@ -70,11 +70,11 @@ Regardless of whether you are generating back translation drafts or vernacular d
 1. Log in to [Scripture Forge](https://scriptureforge.org/), using your Paratext credentials.
 2. Connect your Paratext project by following the [Connect a Paratext Project guide](https://help.scriptureforge.org/connect-paratext-project). When you connect the project, select your reference text as the source. For a back translation, the source text should be the vernacular.
 3. After connecting your project, click “Generate draft” in the sidebar.
-4. If you are generating a draft into the vernacular, this is as far as you can on your own, and you will need to fill out the translation drafting registration form by clicking on “Sign up for drafting”. If your project has already been onboarded, or you are working with a back translation, click “Generate draft” to start the process.
+4. If you are generating a draft into the vernacular, this is as far as you can go on your own, and you will need to fill out the translation drafting registration form by clicking on "Sign up for drafting". If your project has already been onboarded, or you are working with a back translation, click "Generate draft" to start the process.
 5. Select the books you want to translate, and then select the books you want to use as training data.
 6. Click “Generate draft” to start the process.
 
-The draft generating process can take anywhere from several hours to several days.
+The draft generation process can take anywhere from several hours to several days.
 
 Once you have a draft generated, you can preview the draft and import individual chapters into your project.
 

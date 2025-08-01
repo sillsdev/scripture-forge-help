@@ -8,7 +8,7 @@ slug: /faq
 
 1. Comment Scripture Forge s'intègre-t-il dans ma démarche de traduction ?
 
-    _Scripture Forge est un outil conçu pour vous aider à naviguer plus efficacement et plus rapidement dans la phase de rédaction tout en maintenant la qualité de votre travail. Ce n'est pas un remplacement par les étapes de traduction, au lieu de considérer cela comme une ressource pour vous aider à être plus productif pendant la rédaction et la vérification de la communauté
+    _Scripture Forge est un outil conçu pour vous aider à naviguer plus efficacement et plus rapidement dans la phase de rédaction tout en maintenant la qualité de votre travail. Il ne remplace pas les étapes de la traduction. Au lieu de cela, pensez à cela comme une ressource pour vous aider à être plus productif pendant la rédaction et la vérification de la communauté._
 
 2. Scripture Forge conserve-t-il une sauvegarde des données de mon projet ? Qui est responsable de la sécurité des données ?
 
@@ -18,9 +18,9 @@ slug: /faq
 
     _Vous pouvez utiliser les liens suivants pour nous contacter ou trouver de l'aide:_
 
-    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge)[ ](https://help.scriptureforge.org/)And [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Signaler un problème :** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
     - **Questions and Support:** email: support_team@scriptureforge.org
-    - **Report an issue:**[ ](https://scriptureforge.freshdesk.com/support/tickets/new)[https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
 
 ## **Questions sur les sources et la formation du modèle** {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
@@ -28,7 +28,7 @@ slug: /faq
 
     _Il y a 2 façons principales d'améliorer les brouillons._
 
-    - _Le premier est d'ajouter plus de données au modèle de traduction. Vous pouvez le faire en choisissant plus de livres à l'étape 2 - "Choisir des livres pour l'entraînement du modèle de langue". Plus il y aura de données disponibles pour la formation, mieux ce seront les résultats des ébauches._
+    - _Le premier est d'ajouter plus de données au modèle de traduction. Vous pouvez le faire en choisissant plus de livres à l'étape 2 - "Sélectionnez les livres à former". Plus il y aura de données disponibles pour la formation, mieux ce seront les résultats des ébauches._
     - _La seconde façon est d'améliorer la qualité des données dans le Modèle de traduction. Vous pouvez le faire en vous assurant que les livres que vous avez choisis sont bien vérifiés pour la cohérence dans des domaines tels que l'orthographe, la ponctuation et le contenu. Plus la qualité des données est élevée, plus le système apprendra à générer de bonnes ébauches._
     - _De nombreuses équipes voient également les avantages d'utiliser une traduction à jour comme source de formation supplémentaire_
 
@@ -64,7 +64,7 @@ slug: /faq
     - _L'ajout d'une ébauche au projet se fait chapitre par chapitre à partir de la fenêtre « AutoEbauche» sous « Édition et revue ». Ainsi, si un seul chapitre est ajouté, ce sera le seul chapitre disponible dans le projet. D'autres chapitres devront être ajoutés individuellement._
     - _Vous pouvez ajouter le livre entier en naviguant vers « Générer une ébauche » et en trouvant l'ébauche qui a été généré. Cliquez sur le menu à 3 points disponible à côté du nom du livre que vous souhaitez ajouter, puis cliquez sur « Ajouter au projet ». Cela va ajouter tout le livre à votre projet_
 
-4. Pourquoi mon bouton dit-il « ré-ajouter au projet»
+4. Pourquoi mon bouton dit-il "ré-ajouter au projet"?
 
     _Si vous éditez un chapitre après "ajout au projet" et que vous voulez revenir au projet SF ébauche non éditée, vous pouvez réimporter l''ebauche originale en cliquant sur le bouton « Ré-ajouter au projet » _
 

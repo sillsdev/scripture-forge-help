@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Menerima dan berinteraksi dengan jawaban atas pertanyaan-pertanyaan yang diajukan {#1850d745ac9e800db3dacdee0053beca}
 
-<ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Untuk memantau tanggapan pemeriksaan masyarakat, klik **Ringkasan** di bawah bagian **Pemeriksaan masyarakat** pada bilah navigasi. Bersama dengan daftar pertanyaan, statistik dasar tentang tanggapan akan ditampilkan.
 

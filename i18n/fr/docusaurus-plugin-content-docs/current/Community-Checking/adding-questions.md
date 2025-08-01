@@ -11,9 +11,7 @@ import ReactPlayer from "react-player";
 Pour obtenir des commentaires sur votre traduction, vous devrez ajouter des questions de vérification de la compréhension. Vous pouvez importer des questions créées par quelqu'un d'autre ou créer vos propres questions.
 
 :::note
-
 Actuellement, le seul moyen d'obtenir des commentaires de la part des vérificateurs de la communauté est de poser des questions de vérification. Certains administrateurs de projets ont demandé que les vérificateurs puissent ajouter des commentaires au texte même en l'absence de question. Si c'est quelque chose qui peut être utile pour votre projet, veuillez [exprimer votre soutien à la proposition](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) sur le [site de la communauté Scripture Forge](https://community.scripture.software.sil.org/).
-
 :::
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
@@ -24,7 +22,7 @@ Pour ajouter des questions à votre projet, cliquez sur **Vue d'ensemble** dans 
 
 Une question peut s'appliquer à un seul verset, ou à plusieurs versets. Tapez une référence dans la boîte de dialogue**Référence biblique**, ou cliquez sur la flèche du menu déroulant pour sélectionner un livre, un chapitre et un verset. Si vous souhaitez que la question s'étende sur plusieurs versets, saisissez une référence de fin dans la deuxième case. Une fois que vous avez saisi une référence, le texte s'affiche, avec, en surbrillance, les versets que vous avez choisis.
 
-Saisissez votre question dans la case **Question** . Si vous souhaitez ajouter une version audio de la question, cliquez sur le bouton **Enregistrer** . Il se peut que vous soyez invité à donner l'autorisation d'accéder à votre microphone. Lorsque vous avez terminé l'enregistrement, cliquez sur **Arrêter l'enregistrement**. Vous pouvez ensuite écouter l'enregistrement pour voir comment il sonne. Cliquez sur le bouton **Essayer à nouveau** si vous n'êtes pas satisfait. Vous pouvez également télétransmettre un fichier audio au lieu d'enregistrer, si vous préférez.
+Saisissez votre question dans la case Question . Si vous souhaitez ajouter une version audio de la question, cliquez sur le bouton Enregistrer . Il se peut que vous soyez invité à donner l'autorisation d'accéder à votre microphone. Lorsque vous avez terminé l'enregistrement, cliquez sur **Arrêter l'enregistrement**. Vous pouvez ensuite écouter l'enregistrement pour voir comment il sonne. Cliquez sur le bouton **Essayer à nouveau** si vous n'êtes pas satisfait. Vous pouvez également télétransmettre un fichier audio au lieu d'enregistrer, si vous préférez.
 
 Cliquez sur **Sauver** et votre question sera ajoutée à la liste des questions de vérification par la communauté.
 
@@ -45,20 +43,15 @@ Voici un exemple de ce à quoi doivent ressembler les lignes de votre feuille de
 La feuille de calcul peut comporter davantage de colonnes, mais aucune ne sera utilisée, à l'exception des colonnes "référence" et "question". Les fichiers TSV publiés par unfoldingWord sont dans un format légèrement différent, mais peuvent également être importés dans Scripture Forge.
 
 :::note
-
 La référence doit comporter le nom du livre abrégé de la même manière que Paratext abrège les noms de livres. Par exemple, **HEB 1:1** fonctionnera, mais **Hébreux 1:1** ne fonctionnera pas.
-
 :::
 
 Si vous avez besoin d'aide pour formater votre feuille de calcul correctement afin de pouvoir l'importer dans Scripture Forge, nous serons heureux de vous aider. Envoyez simplement un e-mail à [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Enregistrez votre feuille de calcul en tant que fichier CSV.
 
-    :::note
-
-    Si vous utilisez Microsoft Excel, veillez à sélectionner "CSV UTF-8 (délimité par des virgules) (\*.csv)" comme type de fichier lors de l'exportation au format CSV.
-
-    :::
+    :::Si vous utilisez Microsoft Excel, veillez à sélectionner "CSV UTF-8 (délimité par des virgules) (\*.csv)" comme type de fichier lors de l'exportation au format CSV.
+    :: :
 
 2. Ensuite, dans Scripture Forge, cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre latérale de navigation.
 
@@ -87,9 +80,7 @@ Vous pouvez également filtrer pour avoir un sous-ensemble de questions :
 4. Cliquez sur **Importer les questions sélectionnées**.
 
 :::note
-
 Il n'est pas nécessaire de se rappeler qu'il y a 43 versets dans Marc 5 pour filtrer tous les versets du chapitre. Si vous cliquez sur la flèche déroulante dans la boîte **Référence de fin**, une boîte de dialogue s'ouvrira pour vous permettre de sélectionner un livre, chapitre et verset. Une fois que vous sélectionnez Marc 5, la liste des versets de Marc 5 s'affiche, et vous pouvez sélectionner le dernier verset, qui est le verset 43. Vous pouvez également saisir **MRK 5:100** dans la case **Référence de fin** , et tous les versets de Marc 5 seront inclus, même s'il n'y a pas de verset 100 dans Marc 5.
-
 :::
 
 ### Importation des questions depuis Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}

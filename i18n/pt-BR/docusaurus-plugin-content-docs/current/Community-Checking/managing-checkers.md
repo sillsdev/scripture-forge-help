@@ -10,13 +10,13 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/aBPHCF56hxA" /></div>
 
-Once you have the questions on your project, it’s time to invite community checkers.
+Once you have the questions on your project, it's time to invite community checkers.
 
 In the side bar, click **Settings**, and scroll down to **Sharing settings**.
 
 ### User interaction settings {#1850d745ac9e8018b5a7ff9f3ea349e9}
 
-The first setting to consider is **Allow checkers to see each other's answers and comments**. When community checkers are presented with a question, existing answers from other community checkers are not shown so that they will not influence the answer that is given. Once a question is answered, any other answers to the question will be shown, and checkers can comment on and like each other’s answers. If you don’t want this interaction and want answers from other checkers to always be hidden, turn off **Allow checkers to see each other's answers and comments**.
+The first setting to consider is **Allow checkers to see each other's answers and comments**. When community checkers are presented with a question, existing answers from other community checkers are not shown so that they will not influence the answer that is given. Once a question is answered, any other answers to the question will be shown, and checkers can comment on and like each other's answers. If you don't want this interaction and want answers from other checkers to always be hidden, turn off **Allow checkers to see each other's answers and comments**.
 
 ![](./checking_enable_see_others_responses.png)
 

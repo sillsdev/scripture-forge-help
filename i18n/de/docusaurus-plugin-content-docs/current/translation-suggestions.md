@@ -4,10 +4,13 @@ sidebar_position: 5
 slug: /translation-suggestions
 ---
 
-
-
 ## Was sind Übersetzungsvorschläge? {#5f721bd65922446f8eefb001acc89f30}
 
+:::info
+"Translation suggestions" is an older Scripture Forge feature that provides interactive suggestions to translators as they type within Scripture Forge. It works best when translating between very similar languages.
+
+Translation drafting is a newer, more flexible, and more powerful translation tool in Scripture Forge that creates drafts for translators to review and edit.
+:::
 
 Übersetzungsvorschläge erlauben es Scripture Forge, eine Ausgangs- und Zielsprache zusammen zu analysieren und automatisch Wörter/Begriffe vorzuschlagen, die im Übersetzungsprozess verwendet werden sollen.
 
@@ -18,26 +21,15 @@ slug: /translation-suggestions
 
 ## Fenster mit Übersetzungsvorschlägen einrichten {#055dfd61aa9442e3b6c787613c8085d6}
 
-
 :::note
-
-Dies muss von jedem Benutzer gemacht werden, der Übersetzungsvorschläge verwenden möchte.
-
+This must be done by each user who wants to use translation suggestions.
 :::
-
-
-
 
 ### Dein Projekt wählen {#4de2ee23101e4a498e465465740c5a51}
 
-
 :::tip
-
-Zuerst musst Du **Dein Projekt** auf der Navigationsseite auswählen, wenn Du es noch nicht getan hast.
-
+First you need to **select your project** from the navigation page, if you haven't already.
 :::
-
-
 
 1. Klicke auf die Scripture Forge-Navigationsleiste:
 
@@ -46,7 +38,6 @@ Zuerst musst Du **Dein Projekt** auf der Navigationsseite auswählen, wenn Du es
 2. Wähle Dein Projekt:
 
     ![](./1186041765.png)
-
 
 **ODER**
 
@@ -61,7 +52,6 @@ Zuerst musst Du **Dein Projekt** auf der Navigationsseite auswählen, wenn Du es
 3. Klicke auf Dein Projekt:
 
     ![](./2063843017.png)
-
 
 ### Das Übersetzungsvorschlagsfenster einrichten {#8798a078b0464f5190de5d6dd7e4d132}
 
@@ -93,7 +83,7 @@ Zuerst musst Du **Dein Projekt** auf der Navigationsseite auswählen, wenn Du es
     ![](./645869862.png)
 
 6. Um die Ausgangs- und Zielprojektseiten zu wechseln:
-    1. Klicke auf die Schaltfläche "Ausgangs- und Zieltext tauschen":
+    1. Click the "swap source and target" button:
 
     ![](./835896389.png)
 
@@ -101,38 +91,25 @@ Zuerst musst Du **Dein Projekt** auf der Navigationsseite auswählen, wenn Du es
 
     ![](./1570173027.png)
 
-
 ## Was ist ein Segment? {#3931f83c77104d27bfa1bcd797303914}
 
-
 :::tip
-
-Bevor Du die Übersetzungen in Scripture Forge anfertigst, solltest Du verstehen, was ein “**Segment**” ist.
-
+Before doing translation work in Scripture Forge, you should understand what a "**segment**" is.
 :::
-
-
-
 
 In Scripture Forge ist ein Segment ein Abschnitt des zu übersetzenden Bibeltextes. Dies kann eine Abschnittsüberschrift, ein Vers oder ein Teil eines Verses sein (wie in der Poesie).
 
-
 Zum Beispiel hat der folgende Abschnitt 6 Segmente (Titel, Überschrift, Vers 1, etc):
-
 
 ![](./1428080140.png)
 
-
 In diesem nächsten Abschnitt gibt es insgesamt 8 Segmente (Anmerkung: Vers 23 hat 6 Segmente):
-
 
 ![](./423179002.png)
 
-
 ## Wie man Übersetzungsvorschläge nutzt {#007fd10ab17d498ea44ffb913d92663f}
 
-
-Jetzt, da Du verstehst, wie Du in Scripture forge navigierst, ist es an der Zeit zu lernen, wie Du **Übersetzungsvorschläge** verwendest. Denke daran, Übersetzungsvorschläge sind, wenn Scrpture Forge Deine Übersetzungsarbeit analysiert und automatisch Wörter/Begriffe vorschlägt, die im Übersetzungsprozess verwendet werden sollen.
+Now that you understand how to navigate in Scripture Forge, it's time to learn how to use **translation suggestions**. Denke daran, Übersetzungsvorschläge sind, wenn Scrpture Forge Deine Übersetzungsarbeit analysiert und automatisch Wörter/Begriffe vorschlägt, die im Übersetzungsprozess verwendet werden sollen.
 
 1. In Deinem Projekt gehe zum Buch und Kapitel, das Du übersetzen möchtest.
 2. Klicke ins Segment, das Du übersetzen möchtest.
@@ -145,7 +122,7 @@ Jetzt, da Du verstehst, wie Du in Scripture forge navigierst, ist es an der Zeit
 
     ![](./1961667036.png)
 
-5. Neben den Vorschlägen gibt es einen Prozentsatz:
+5. Next to the suggestions is a percentage:
 
     ![](./1763848216.png)
 
@@ -167,17 +144,11 @@ Jetzt, da Du verstehst, wie Du in Scripture forge navigierst, ist es an der Zeit
 
 ### Weiter übersetzen {#9e130c3ad9c048a4822e37e0d0ba0750}
 
-
 :::tip
+Scripture Forge will continue to learn and make better suggestions as you translate.
 
-Scripture Forge wird weiter lernen und bessere Vorschläge machen, während Du übersetzt.
-
-Um die _** Einstellungen für Übersetzungsvorschläge**_ für Ihren Benutzer anzupassen, lies bitte die Schritte [hier 🔗](/translation-suggestions).
-
+To adjust the _**translation suggestion settings**_ for your user, see the [steps here 🔗](/translation-suggestions).
 :::
-
-
-
 
 ### Tastaturkürzel {#228a943ddd984192b78ae4ccb39c6211}
 
@@ -187,7 +158,7 @@ Um die _** Einstellungen für Übersetzungsvorschläge**_ für Ihren Benutzer an
 
     1. Drücke dann **Enter**, um den Vorschlag zu benutzen.
 2. Du kannst auch **STRG +&lt;a number key&gt;** drücken, um die Anzahl der Wörter für den hervorgehobenen Vorschlag einzufügen.
-    1. Wenn zum Beispiel „Capernaum und sie sagen“ hervorgehoben wurde:
+    1. For example, if "Capernaum and they say" was highlighted:
 
         ![](./1823947882.png)
 
@@ -200,17 +171,11 @@ Um die _** Einstellungen für Übersetzungsvorschläge**_ für Ihren Benutzer an
         | Strg + 3 | Kapernaum und sie       |
         | Strg + 4 | Kapernaum und sie sagen |
 
-
 ## Übersetzungs-Einstellungen anpassen - Pro Benutzer {#3822d035acfd42ae888cefbd7b71fcb5}
 
-
 :::note
-
-Du kannst die Übersetzungsvorschläge für Deine individuellen Benutzer konfigurieren.
-
+You can configure the translation suggestion settings for your individual user.
 :::
-
-
 
 1. Wähle Dein Projekt aus der Navigationsleiste.
 2. Klicke auf den Abschnitt Übersetzen.

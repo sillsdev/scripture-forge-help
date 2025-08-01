@@ -4,9 +4,7 @@ sidebar_position: 0
 slug: /log-in
 ---
 
-
-
-## Se connecter à Scripture Forge avec un compte Paratext {#68acbb7da03045a7b357e41c0107f6d1}
+## Se connecter à Scripture Forge avec un compte Paratext
 
 1. Aller sur [https://scriptureforge.org/](https://scriptureforge.org/)
 2. Si vous avez déjà une inscription à Paratext (ou si vous avez créé un compte Scripture Forge), cliquez sur le bouton "Connexion" :
