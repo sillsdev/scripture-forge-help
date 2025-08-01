@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Recevez les réponses aux questions et interagissez avec elles {#1850d745ac9e800db3dacdee0053beca}
 
-<ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Pour surveiller les réponses à la vérification par la communauté, cliquez sur **Vue d'ensemble** dans la section **Vérification par la communauté** dans la barre latérale de navigation. Outre une liste de questions, des statistiques de base concernant les réponses seront affichées.
 

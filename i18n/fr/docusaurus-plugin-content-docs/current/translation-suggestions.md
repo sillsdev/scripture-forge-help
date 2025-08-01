@@ -4,10 +4,13 @@ sidebar_position: 5
 slug: /translation-suggestions
 ---
 
-
-
 ## Que sont les suggestions de traduction ? {#5f721bd65922446f8eefb001acc89f30}
 
+:::info
+"Suggestions de traduction" est une ancienne fonctionnalité de Scripture Forge qui fournit des suggestions interactives aux traducteurs lorsqu'ils tapent dans Scripture Forge. Il fonctionne mieux lorsque vous traduisez entre des langues très similaires.
+
+La rédaction de la traduction est un outil de traduction plus récent, plus souple et plus puissant dans Scripture Forge qui crée des brouillons pour les traducteurs à réviser et à modifier.
+:::
 
 Les suggestions de traduction permettent à Scripture Forge d'analyser une langue source et une langue cible ensemble, et de suggérer automatiquement des mots/phrases à utiliser dans le processus de traduction.
 
@@ -18,26 +21,13 @@ Les suggestions de traduction permettent à Scripture Forge d'analyser une langu
 
 ## Configuration de votre fenêtre de suggestions de traduction {#055dfd61aa9442e3b6c787613c8085d6}
 
-
-:::note
-
-Ceci doit être fait par chaque utilisateur qui souhaite utiliser les suggestions de traduction.
-
+:::Ceci doit être fait par chaque utilisateur qui souhaite utiliser les suggestions de traduction.
 :::
-
-
-
 
 ### Sélectionner Votre Projet {#4de2ee23101e4a498e465465740c5a51}
 
-
-:::tip
-
-Tout d'abord, vous devez **sélectionner votre projet** à partir de la page de navigation, si ce n'est pas déjà fait.
-
+:::Tout d'abord, vous devez **sélectionner votre projet** à partir de la page de navigation, si ce n'est pas déjà fait.
 :::
-
-
 
 1. Cliquez sur le volet de navigation Scripture Forge :
 
@@ -46,7 +36,6 @@ Tout d'abord, vous devez **sélectionner votre projet** à partir de la page de 
 2. Sélectionnez votre projet :
 
     ![](./1186041765.png)
-
 
 **OU**
 
@@ -61,7 +50,6 @@ Tout d'abord, vous devez **sélectionner votre projet** à partir de la page de 
 3. Cliquez sur votre projet :
 
     ![](./2063843017.png)
-
 
 ### Configuration de la fenêtre des suggestions de traduction {#8798a078b0464f5190de5d6dd7e4d132}
 
@@ -101,36 +89,22 @@ Tout d'abord, vous devez **sélectionner votre projet** à partir de la page de 
 
     ![](./1570173027.png)
 
-
 ## Qu'est-ce qu'un segment ? {#3931f83c77104d27bfa1bcd797303914}
 
-
-:::tip
-
 Avant d'effectuer des travaux de traduction dans Scripture Forge, vous devez comprendre ce qu'est un "**segment**".
-
 :::
-
-
-
 
 Dans Scripture Forge, un segment est une section des Écritures à traduire. Il peut s'agir d'un titre de section, d'un verset ou d'une partie de verset (comme dans la poésie).
 
-
 Par exemple, le passage suivant comporte 6 segments (titre, titre de section, verset 1, etc.) :
-
 
 ![](./1428080140.png)
 
-
 Dans le passage suivant, il y a 8 segments au total (remarque : le verset 23 a 6 segments) :
-
 
 ![](./423179002.png)
 
-
 ## Comment utiliser les suggestions de traduction {#007fd10ab17d498ea44ffb913d92663f}
-
 
 Maintenant que vous comprenez comment naviguer dans Scripture Forge, il est temps d'apprendre à utiliser **les suggestions de traduction**. Souvenez-vous que les suggestions de traduction permettent à Scripture Forge d'analyser votre travail de traduction et de suggérer automatiquement des mots/phrases à utiliser dans le processus de traduction.
 
@@ -167,17 +141,10 @@ Maintenant que vous comprenez comment naviguer dans Scripture Forge, il est temp
 
 ### Continuer à traduire {#9e130c3ad9c048a4822e37e0d0ba0750}
 
-
-:::tip
-
-Scripture Forge continuera à apprendre et à faire de meilleures suggestions pendant que vous traduisez.
+:::Scripture Forge continuera à apprendre et à faire de meilleures suggestions pendant que vous traduisez.
 
 Pour ajuster les _**Paramètres des suggestions de traduction**_ pour votre utilisateur, voir les étapes [ici 🔗](/translation-suggestions).
-
 :::
-
-
-
 
 ### Raccourcis clavier {#228a943ddd984192b78ae4ccb39c6211}
 
@@ -200,17 +167,10 @@ Pour ajuster les _**Paramètres des suggestions de traduction**_ pour votre util
         | Ctrl + 3  | Capernaüm et ils        |
         | Ctrl + 4  | Capernaüm et ils disent |
 
-
 ## Ajuster les paramètres des suggestions de traduction - par utilisateur {#3822d035acfd42ae888cefbd7b71fcb5}
 
-
-:::note
-
-Vous pouvez configurer les paramètres des suggestions de traduction pour votre utilisateur individuel.
-
+:::Vous pouvez configurer les paramètres des suggestions de traduction pour votre utilisateur individuel.
 :::
-
-
 
 1. Sélectionnez votre projet dans le volet de navigation.
 2. Cliquez sur la section Traduire.

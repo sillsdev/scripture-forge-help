@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Recibe las respuestas a las preguntas e interactúa con ellas {#1850d745ac9e800db3dacdee0053beca}
 
-<ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Para supervisar las respuestas de la comprobación comunitaria, haz clic en **Resumen** en la sección **Comprobación comunitaria** de la barra lateral de navegación. Junto con una lista de preguntas, se mostrarán estadísticas básicas sobre las respuestas.
 

@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Receber e interagir com as respostas às perguntas {#1850d745ac9e800db3dacdee0053beca}
 
-<ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 To monitor community checking responses, click on **Overview** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
 

@@ -11,127 +11,119 @@ import ReactPlayer from "react-player";
 Untuk mendapatkan umpan balik atas terjemahan Anda, Anda perlu menambahkan pertanyaan pemeriksaan pemahaman. Anda dapat mengimpor pertanyaan yang dibuat oleh orang lain, atau membuat pertanyaan sendiri.
 
 :::note
-
-Saat ini satu-satunya cara untuk mendapatkan umpan balik dari para masyarakat pemeriksa adalah dengan mengajukan pertanyaan-pertanyaan pemeriksaan. Beberapa administrator proyek telah meminta agar pemeriksa dapat menambahkan komentar pada teks bahkan tanpa adanya pertanyaan. Jika itu adalah sesuatu yang dapat menguntungkan proyek Anda, silakan [menyuarakan dukungan Anda untuk proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) di [situs komunitas Scripture Forge](https://community.scripture.software.sil.org/).
-
+Currently the only way to get feedback from community checkers is to ask checking questions. Some project administrators have asked for checkers to be able to add comments to the text even without a question present. If that's something your project may benefit from, please [voice your support for the proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) on the [Scripture Forge community site](https://community.scripture.software.sil.org/).
 :::
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
-### Membuat pertanyaan secara individu di Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
+### Creating questions individually in Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
 
-Untuk menambahkan pertanyaan ke proyek Anda, klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** pada bilah sisi navigasi. Kemudian klik tombol **Tambah Pertanyaan**. Sebuah dialog akan terbuka yang memungkinkan Anda untuk membuat pertanyaan.
+To add questions to your project, click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Add Question** button. A dialog will open that will allow you to create a question.
 
-Sebuah pertanyaan dapat berlaku untuk satu ayat, atau beberapa ayat. Ketik referensi ke dalam kotak **Referensi Alkitab**, atau klik panah tarik-turun untuk memilih kitab, pasal, dan ayat. Jika Anda ingin pertanyaan mencakup beberapa ayat, masukkan referensi akhir di kotak kedua. Setelah Anda memasukkan referensi, teks akan muncul, dengan ayat-ayat yang Anda pilih disorot.
+A question can apply to a single verse, or multiple verses. Type a reference into the **Scripture reference** box, or click the dropdown arrow to select a book, chapter, and verse. If you want the question to span multiple verses, enter an end reference in the second box. Once you've input a reference, the text will show up, with the verses you chose highlighted.
 
-Ketik pertanyaan Anda di kotak **Pertanyaan**. Jika Anda ingin menambahkan versi audio dari pertanyaan tersebut, klik tombol **Rekam**. Anda mungkin akan diminta untuk memberikan izin untuk mengakses mikrofon Anda. Setelah Anda selesai merekam, klik **Hentikan Perekaman**. Kemudian, Anda dapat memutar rekaman untuk mendengar hasilnya. Klik tombol **Coba Lagi** jika Anda tidak puas dengan hasilnya. Anda juga dapat mengunggah file audio alih-alih merekam, jika Anda mau.
+Type your question into the **Question** box. If you want to add an audio version of the question, click the **Record** button. You may be prompted to give permission to access your microphone. When you have finished recording, click **Stop Recording**. You can then play the recording to hear how it sounds. Click the **Try Again** button if you're not satisfied with it. You can also upload an audio file instead of recording, if you prefer.
 
-Klik **Simpan** dan pertanyaan Anda akan ditambahkan ke daftar pertanyaan pemeriksaan masyarakat.
+Click **Save** and your question will be added to the list of community checking questions.
 
 ![](./1916935940.png)
 
-### Mengimpor pertanyaan dari spreadsheet {#1850d745ac9e8085960dd88b648f0c7a}
+### Importing questions from a spreadsheet {#1850d745ac9e8085960dd88b648f0c7a}
 
-Membuat pertanyaan satu per satu bisa jadi membosankan, jadi kami juga memungkinkan untuk mengimpor pertanyaan dari spreadsheet. Anda dapat menggunakan program seperti Microsoft Excel, Google Spreadsheet, atau LibreOffice Calc untuk membuat atau menyunting daftar pertanyaan. Jika Anda mencari satu set pertanyaan yang telah dibuat sebelumnya, pertimbangkanlah [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). Jika Anda membuka halaman yang ditautkan dan mengklik salah satu file, Anda dapat mengunduhnya, membukanya sebagai spreadsheet, dan menyunting daftar pertanyaan.
+Creating questions one by one can be tedious, so we've also made it possible to import questions from a spreadsheet. You can use a program such as Microsoft Excel, Google Sheets, or LibreOffice Calc to create or edit a list of questions. If you're looking for a set of pre-made questions, consider the [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). If you go to the linked page and click on one of the files, you can then download it, open it as a spreadsheet, and edit the list of questions.
 
-Berikut adalah contoh bagaimana baris-baris dalam spreadsheet Anda seharusnya terlihat agar dapat diimpor ke Scripture Forge:
+Here's an example of how the rows in your spreadsheet should look in order to be able to import it to Scripture Forge:
 
 | Referensi                 | Pertanyaan                                              |
 | ------------------------- | ------------------------------------------------------- |
-| Ibr 1:1   | Apa yang dimaksud dengan "nenek moyang kita"?           |
-| Ibr 1:2   | Apa artinya bahwa Anak adalah "pewaris segala sesuatu"? |
-| Ibr 1:2-3 | Siapakah "Anak" yang dibicarakan dalam ayat-ayat ini?   |
+| HEB 1:1   | What does "our fathers" refer to?                       |
+| HEB 1:2   | What does it mean that the Son is "heir of all things"? |
+| HEB 1:2-3 | Who is the "Son" spoken of in these verses?             |
 
-Spreadsheet dapat memiliki lebih banyak kolom, tetapi semua kolom kecuali kolom "ayat referensi" dan "pertanyaan" tidak akan digunakan. File TSV yang diterbitkan oleh unfoldingWord memiliki format yang sedikit berbeda, tetapi dapat diimpor ke Scripture Forge juga.
+The spreadsheet can have more columns as well, but all columns except the "reference" and "question" columns will not be used. The TSV files published by unfoldingWord are in a slightly different format, but can be imported to Scripture Forge too.
 
 :::note
-
-Referensi harus memiliki nama kitab yang disingkat dengan cara yang sama seperti Paratext menyingkat nama kitab. Sebagai contoh, **Ibr 1:1** dapat digunakan, tetapi **Ibrani 1:1** tidak dapat digunakan.
-
+The reference needs to have the book name abbreviated the same way Paratext abbreviates book names. For example, **HEB 1:1** will work, but **Hebrews 1:1** will not work.
 :::
 
-Jika Anda membutuhkan bantuan untuk memasukkan spreadsheet Anda ke dalam format yang tepat untuk diimpor ke Scripture Forge, kami akan dengan senang hati membantu Anda. Cukup kirimkan email ke [help@scriptureforge.org](mailto:help@scriptureforge.org).
+If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
-1. Simpan spreadsheet Anda menjadi file CSV.
+1. Save your spreadsheet as a CSV file.
 
     :::note
-
-    Jika Anda menggunakan Microsoft Excel, pastikan untuk memilih "CSV UTF-8 (dibatasi dengan koma) (\*.csv)" sebagai jenis file ketika mengekspor sebagai CSV.
-
+    If you are using Microsoft Excel, be sure to select "CSV UTF-8 (Comma delimited) (\*.csv)" as the file type when exporting as CSV.
     :::
 
-2. Kemudian di Scripture Forge, klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi.
+2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
 
-3. Kemudian klik tombol **Impor masal**. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan.
+3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
 
-4. Klik **Import dari file CSV** dan pilih file.
-    1. Jika Anda memiliki beberapa baris dalam file Anda yang tidak memiliki referensi dan pertanyaan yang benar, sebuah peringatan akan ditampilkan untuk memberitahu Anda bahwa baris-baris ini akan dilewati.
-    2. Jika tidak, Anda akan diperlihatkan daftar pertanyaan.
+4. Click on **Import from CSV file** and select the file.
+    1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
+    2. Otherwise you will be shown a list of questions.
 
-### Impor semua pertanyaan {#1850d745ac9e80b59ae8cabac1b67e7f}
+### Import all questions {#1850d745ac9e80b59ae8cabac1b67e7f}
 
-Untuk mengimpor semua pertanyaan dalam file CSV, ikuti langkah-langkah berikut:
+To import all of the questions in the CSV file, follow these steps:
 
-1. Klik kotak centang di bagian atas daftar. Ini akan memilih semua pertanyaan.
-2. Klik **Import Pertanyaan yang Dipilih**.
+1. Click the checkbox at the top of the list. This will select all the questions.
+2. Click **Import Selected Questions**.
 
-### Mengimpor sebagian pertanyaan {#1850d745ac9e8045aa5bd2ab9ce99fbc}
+### Import a subset of questions {#1850d745ac9e8045aa5bd2ab9ce99fbc}
 
-Anda juga dapat menyaring sebagian pertanyaan:
+You can also filter for a subset of the questions:
 
-1. Gunakan kotak **Referensi dari** dan **Referensi ke** untuk menentukan ayat-ayat yang Anda inginkan untuk memulai dan mengakhiri pertanyaan.
-2. Misalnya, jika Anda hanya ingin mengimpor pertanyaan untuk Markus 5:
-    1. Masukkan **Mrk 5:1** ke dalam kotak **Referensi dari**.
-    2. Masukkan **Mrk 5:43** ke dalam kotak **Referensi dari**.
-3. Klik kotak centang di bagian atas daftar untuk memilih semua pertanyaan. Hanya pertanyaan yang ditampilkan yang akan dipilih.
-4. Klik **Import Pertanyaan yang Dipilih**.
+1. Use the **Reference from** and **Reference to** boxes to specify the verses that you want the questions to start and end at.
+2. For example, if you only want to import questions for Mark 5:
+    1. Put **MRK 5:1** in the **Reference from** box.
+    2. Put **MRK 5:43** in the **Reference to** box.
+3. Click the checkbox at the top of the list to select all questions. Only the questions that are shown will be selected.
+4. Click **Import Selected Questions**.
 
 :::note
-
-Anda tidak perlu mengingat bahwa ada 43 ayat dalam Markus 5 untuk menyaring semua ayat dalam pasal ini. Jika Anda mengklik panah tarik-turun pada kotak **Referensi Ayat** ke, sebuah dialog akan terbuka yang memungkinkan Anda untuk memilih kitab, pasal, dan ayat. Setelah Anda memilih Markus 5, maka akan muncul daftar ayat-ayat dalam Markus 5, dan Anda dapat memilih ayat terakhir, yaitu ayat 43. Atau Anda dapat mengetikkan **Mrk 5:100** di kotak **Referensi ke**, dan semua ayat dalam Markus 5 akan disertakan, meskipun sebenarnya tidak ada ayat 100 dalam Markus 5.
-
+You don't have to remember that there are 43 verses in Mark 5 in order to filter for all the verses in the chapter. If you click the dropdown arrow in the **Reference to** box, a dialog will open allowing you to select a book, chapter, and verse. Once you select Mark 5, it will list the verses in Mark 5, and you'll be able to select the last one, which is verse 43. Alternatively you can type **MRK 5:100** in the **Reference to** box, and all the verses in Mark 5 will be included, even though there isn't actually a verse 100 in Mark 5.
 :::
 
-### Mengimpor pertanyaan dari Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
+### Importing questions from Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
 
-[Transcelerator](https://software.sil.org/transcelerator/) adalah plugin untuk Paratext yang memiliki gudang pertanyaan untuk pemeriksaan pemahaman siap pakai dalam beberapa bahasa utama. Pertanyaan-pertanyaan tersebut dapat diterjemahkan di dalam Paratext, diekspor ke Scripture Forge, dan kemudian setelah disinkronkan, diimpor ke dalam Scripture Forge.
+[Transcelerator](https://software.sil.org/transcelerator/) is a plugin for Paratext that has a bank of ready-made comprehension checking questions in several major languages. Those questions can be translated within Paratext, exported to Scripture Forge, and then after a sync, imported into Scripture Forge.
 
-Untuk mengimpor pertanyaan dari Transcelerator:
+To import questions from Transcelerator:
 
-1. Unduh dan pasang Transcelerator dari [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. Dari dalam Paratext, luncurkan Transcelerator.
-3. Di dalam Transcelerator, buka menu **File** dan klik **Buat File Scripture Forge**.
-4. Ketik terjemahan dari pertanyaan bahasa Inggris yang ingin Anda gunakan di kolom **Terjemahan**. Untuk setiap pertanyaan yang telah siap, pilih kotak centang **Konfirmasi** untuk pertanyaan tersebut.
-5. Tutup Transcelerator, dan lakukan Kirim/Terima Paratext.
-6. Di Scripture Forge, di bilah sisi navigasi, klik **Sinkronisasi**. Pada halaman yang terbuka, klik **Sinkronisasi** untuk mengirim dan menerima pertanyaan Transcelerator dari Paratext.
-7. Klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi. Kemudian klik tombol **Impor masal**.
-8. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan. Klik **Import dari Transcelerator**.
-9. Pilih pertanyaan yang ingin Anda impor. Langkah-langkah untuk melakukan hal ini sama persis dengan bagian di atas yang berjudul **Mengimpor pertanyaan dari spreadsheet**. Lihat bagian tersebut untuk petunjuk tentang penyaringan pertanyaan yang Anda inginkan.
-10. Klik **Import Pertanyaan Terpilih** dan pertanyaan Anda akan ditambahkan ke proyek.
+1. Download and install Transcelerator from [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
+2. From within Paratext, launch Transcelerator.
+3. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
+4. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
+5. Close Transcelerator, and do a send and receive with Paratext.
+6. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
+7. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
+8. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
+9. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
+10. Click **Import Selected Questions** and your questions will be added to the project.
 
-## Lampirkan rekaman audio teks {#1850d745ac9e80e795f3d611356e74d5}
+## Attach audio recording of the text {#1850d745ac9e80e795f3d611356e74d5}
 
-Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para masyarakat pemeriksa. Untuk melakukan ini, Anda perlu mengunggah berkas audio dan data waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.
+Scripture Forge can play an audio recording of each passage for community checkers. To do this, you will need to upload an audio file and a timing file for each chapter. Timing files allow Scripture Forge to highlight each verse as it is being spoken.
 
-### Merekam teks {#1850d745ac9e805eb4b1c0f05d6da02a}
+### Recording the text {#1850d745ac9e805eb4b1c0f05d6da02a}
 
-Scripture Forge mendukung audio dalam format file .mp3 dan .wav. File pengaturan waktu didukung dari HearThis, aeneas, Audacity, dan Adobe Audition.
+Scripture Forge supports audio in .mp3 and .wav file formats. Timing files are supported from HearThis, aeneas, Audacity, and Adobe Audition.
 
-Salah satu opsi yang paling sederhana adalah dengan menggunakan [HearThis](http://software.sil.org/hearthis) untuk merekam terjemahan. [Panduan ini](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) akan memandu Anda melalui proses perekaman Akitab dan menghasilkan file audio dan file waktu. Lewati langkah-langkah di bagian akhir tentang menggunakan Scripture App Builder.
+One of the simplest options is to use [HearThis](http://software.sil.org/hearthis) to record the translation. [This guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) will walk you through the process of recording scripture and producing audio and timing files. Skip the steps at the end about using Scripture App Builder.
 
-[Sumber](https://software.sil.org/scriptureappbuilder/resources/) untuk Scripture App Builder membahas pendekatan yang lebih canggih, seperti menggunakan Glyssen untuk rekaman audio yang didramatisasi.
+The [resources](https://software.sil.org/scriptureappbuilder/resources/) for Scripture App Builder discuss more advanced approaches, such as using Glyssen for a dramatized audio recording.
 
-### Membuat file waktu {#1850d745ac9e80c7b583c6d50193d7c9}
+### Creating timing files {#1850d745ac9e80c7b583c6d50193d7c9}
 
-Jika Anda sudah merekam audio, ada beberapa opsi untuk membuat data waktu.
+If you already have audio recorded, there are several options for creating timing data.
 
-Anda dapat secara otomatis menghasilkan file waktu menggunakan aeneas dengan mengikuti [petunjuk ini](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
+You can automatically generate timing files using aeneas by following [these instructions](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
 
-Sebagai alternatif, Anda dapat membuat file waktu secara manual menggunakan Audacity dengan mengikuti [panduan ini](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Pilihan lainnya adalah Adobe Audition. Data waktu dari Adobe Audition didukung dalam format waktu desimal atau FPS. Kami tidak mendukung format "sampel".
+Alternatively, you can manually create timing files using Audacity by following [this guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Another option is Adobe Audition. Timing data from Adobe Audition is supported in decimal or FPS time formats. We don't support the "samples" format.
 
-### Melampirkan audio {#1850d745ac9e80668685c9ea58252d6b}
+### Attaching audio {#1850d745ac9e80668685c9ea58252d6b}
 
-Untuk mengunggah berkas audio dan data waktu, pada bilah sisi klik **Pertanyaan & jawaban**, arahkan ke pasal yang ingin Anda lampirkan audionya, lalu klik ikon **Kelola Audio** di pojok kanan atas. Klik **Jelajahi File** dan pilih rekaman audio dan data waktu terkait untuk pasal tersebut, lalu klik **Simpan**.
+To upload audio and timing files, in the sidebar click **Questions & answers**, navigate to the chapter you want to attach audio to, and then click the **Manage Audio** icon in the top right corner. Click **Browse Files** and select the audio recording and associated timing file for that chapter, then click **Save**.
 
 ![](./645317227.png)
 

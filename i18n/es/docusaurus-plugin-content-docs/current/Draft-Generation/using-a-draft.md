@@ -1,7 +1,7 @@
 ---
 title: Utilizar un borrador
 sidebar_position: 2
-slug: /using-a-draft
+slug: /utilizar-un-borrador
 ---
 
 Cuando termine su borrador, Scripture Forge le indicará que está listo y le mostrará la lista de libros que fueron borrados.
@@ -13,6 +13,7 @@ Cuando termine su borrador, Scripture Forge le indicará que está listo y le mo
 El borrador creado por Scripture Forge no se importará automáticamente a su proyecto. Puede previsualizar el borrador y luego importar un capítulo o un libro a la vez en su proyecto, o en un proyecto diferente.
 
 Haga clic en un libro para ver el borrador. El borrador se abrirá en una nueva pestaña en la página del editor.
+
 :::tip
 Para comparar el borrador con el texto del que se tradujo, establezca una fuente en la página de configuración. Esto le permitirá ver una fuente y el borrador resultante uno al lado del otro.
 

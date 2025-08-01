@@ -4,10 +4,13 @@ sidebar_position: 5
 slug: /translation-suggestions
 ---
 
-
-
 ## ¿Qué son las sugerencias de traducción? {#5f721bd65922446f8eefb001acc89f30}
 
+:::info
+"Sugerencias de traducción" es una antigua función de Scripture Forge que proporciona sugerencias interactivas a los traductores mientras escriben dentro de Scripture Forge. Funciona mejor cuando se traduce entre lenguas muy similares.
+
+La redacción de traducciones es una herramienta de traducción más nueva, flexible y potente de Scripture Forge que crea borradores para que los traductores los revisen y editen.
+:::
 
 Las sugerencias de traducción permiten a Scripture Forge analizar conjuntamente un idioma de origen y uno de destino, y sugerir automáticamente palabras/frases para utilizar en el proceso de traducción.
 
@@ -18,26 +21,15 @@ Las sugerencias de traducción permiten a Scripture Forge analizar conjuntamente
 
 ## Configure su ventana de sugerencias de traducción {#055dfd61aa9442e3b6c787613c8085d6}
 
-
-:::note
-
+:::nota
 Esto debe hacerlo cada usuario que desee utilizar las sugerencias de traducción.
-
 :::
-
-
-
 
 ### Seleccione su proyecto {#4de2ee23101e4a498e465465740c5a51}
 
-
 :::tip
-
 Primero debe **seleccionar su proyecto** en la página de navegación, si aún no lo ha hecho.
-
 :::
-
-
 
 1. Haga clic en el panel de navegación de Scripture Forge:
 
@@ -46,7 +38,6 @@ Primero debe **seleccionar su proyecto** en la página de navegación, si aún n
 2. Seleccione su proyecto:
 
     ![](./1186041765.png)
-
 
 **O**
 
@@ -61,7 +52,6 @@ Primero debe **seleccionar su proyecto** en la página de navegación, si aún n
 3. Haga clic en su proyecto:
 
     ![](./2063843017.png)
-
 
 ### Configurar la ventana de sugerencias de traducción {#8798a078b0464f5190de5d6dd7e4d132}
 
@@ -101,36 +91,23 @@ Primero debe **seleccionar su proyecto** en la página de navegación, si aún n
 
     ![](./1570173027.png)
 
-
 ## ¿Qué es un segmento? {#3931f83c77104d27bfa1bcd797303914}
 
-
 :::tip
-
-Antes de realizar trabajos de traducción en Scripture Forge, debe entender qué es un "**segmento**".
-
+Antes de realizar trabajos de traducción en Scripture Forge, debe entender qué es un**"segmento**".
 :::
-
-
-
 
 En Scripture Forge, un segmento es una sección de las Escrituras que debe traducirse. Puede tratarse del título de una sección, de un verso o de una parte de un verso (como en la poesía).
 
-
 Por ejemplo, el siguiente pasaje tiene 6 segmentos (Título, Encabezamiento de sección, Versículo 1, etc.):
-
 
 ![](./1428080140.png)
 
-
 En este pasaje siguiente, hay 8 segmentos en total (nota: el versículo 23 tiene 6 segmentos):
-
 
 ![](./423179002.png)
 
-
 ## Cómo utilizar las sugerencias de traducción {#007fd10ab17d498ea44ffb913d92663f}
-
 
 Ahora que ya sabe cómo navegar en Scripture Forge, es el momento de aprender a utilizar **las sugerencias de traducción**. Recuerde que las sugerencias de traducción se producen cuando Scripture Forge analiza su trabajo de traducción y sugiere automáticamente palabras/frases para utilizar en el proceso de traducción.
 
@@ -167,17 +144,11 @@ Ahora que ya sabe cómo navegar en Scripture Forge, es el momento de aprender a 
 
 ### Seguir traduciendo {#9e130c3ad9c048a4822e37e0d0ba0750}
 
-
 :::tip
-
-La Scripture Forge seguirá aprendiendo y haciendo mejores sugerencias a medida que usted traduzca.
+Scripture Forge seguirá aprendiendo y haciendo mejores sugerencias a medida que usted traduzca.
 
 Para ajustar la _**configuración de las sugerencias de traducción**_ para tu usuario, consulta los [pasos aquí 🔗](/translation-suggestions).
-
 :::
-
-
-
 
 ### Atajos de teclado {#228a943ddd984192b78ae4ccb39c6211}
 
@@ -200,17 +171,11 @@ Para ajustar la _**configuración de las sugerencias de traducción**_ para tu u
         | Ctrl + 3       | Cafarnaúm y ellos   |
         | Ctrl + 4       | Cafarnaúm y dicen   |
 
-
 ## Ajustar la configuración de las sugerencias de traducción - Por usuario {#3822d035acfd42ae888cefbd7b71fcb5}
 
-
 :::note
-
 Puede configurar los ajustes de sugerencia de traducción para su usuario individual.
-
 :::
-
-
 
 1. Seleccione su proyecto en el panel de navegación.
 2. Haga clic en la sección Traducir.

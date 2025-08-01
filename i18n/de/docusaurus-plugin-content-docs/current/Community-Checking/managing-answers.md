@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 
 ## Antworten auf die Fragen erhalten und damit austauschen {#1850d745ac9e800db3dacdee0053beca}
 
-<ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" />
+<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 Um Antworten bei der Überprüfung mit der Zielgruppe zu überwachen, klicke auf **Übersicht** unter dem Abschnitt **Überprüfung mit der Zielgruppe** in der Navigationsleiste. Neben einer Liste von Fragen werden grundlegende Statistiken über die Antworten angezeigt.
 
