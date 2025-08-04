@@ -11,9 +11,7 @@ import ReactPlayer from "react-player";
 Um Rückmeldungen zu Deiner Übersetzung zu erhalten, musst Du Fragen zur Überprüfung des Verständnisses hinzufügen. Du kannst Fragen importieren, die von anderen erstellt wurden, oder eigene Fragen erstellen.
 
 :::note
-
 Im Moment ist die einzige Möglichkeit, Rückmeldungen von Überprüfern aus der Zielgruppe zu erhalten, indem Überprüfungsfragen gestellt werden. Einige Projektadministratoren haben darum gebeten, dass die Überprüfer Kommentare zum Text hinzufügen können, auch wenn keine Frage vorhanden ist. Wenn dies etwas ist, von dem Dein Projekt profitieren könnte, [unterstütze den Vorschlag](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) bitte auf der [Scripture Forge Community Seite](https://community.scripture.software.sil.org/).
-
 :::
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
@@ -45,19 +43,14 @@ Hier siehst Du ein Beispiel dafür, wie die Zeilen in Deiner Tabelle aussehen so
 Die Tabelle kann auch mehr als zwei Spalten haben, aber nur die Spalten "Referenz" und "Frage" werden verwendet. Die von unfoldingWord veröffentlichten TSV-Dateien haben ein etwas anderes Format, können aber ebenfalls in Scripture Forge importiert werden.
 
 :::note
-
-Der Verweis muss den Buchnamen in der gleichen Weise abkürzen, wie Paratext Buchnamen abkürzt. Zum Beispiel funktioniert **HEB 1:1**, aber **Hebräer 1,1** funktioniert nicht.
-
+Der Verweis muss den Buchnamen in der gleichen Weise abkürzen, wie Paratext Buchnamen abkürzt. Zum Beispiel funktioniert **HEB 1:1**, aber **Hebräer 1:1** funktioniert nicht.
 :::
 
 Wenn Du Hilfe benötigst, um Deine Tabelle in das richtige Format für den Import in Scripture Forge zu bringen, helfen wir Dir gerne. Sende einfach eine E-Mail an [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 1. Speichere Deine Tabelle als CSV-Datei.
 
-    :::note
-
-    Falls Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du als CSV exportierest.
-
+    :::note Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du als CSV exportierest.
     :::
 
 2. Klicke dann in Scripture Forge auf **Übersicht** unter dem Abschnitt **Überprüfung mit der Zielgruppe** in der Navigationsleiste.
@@ -87,9 +80,7 @@ Du kannst auch nach einem Teil der Fragen filtern:
 4. Klicke auf **Ausgewählte Fragen importieren**.
 
 :::note
-
 Du musst Dir nicht merken, dass Markus 5 43 Verse hat, um nach allen Versen des Kapitels zu filtern. Wenn Du auf den Dropdown-Pfeil im Feld **Verweis auf** klickst, wird ein Dialogfeld geöffnet, in dem Du ein Buch, ein Kapitel und einen Vers auswählen kannst. Wenn Du Markus 5 auswählst, werden die Verse in Markus 5 aufgelistet, und Du kannst den letzten Vers, nämlich Vers 43, auswählen. Alternativ kannst Du auch **MRK 5:100** in das Feld **Verweis auf** eingeben, und alle Verse in Markus 5 werden einbezogen, obwohl es in Markus 5 eigentlich keinen Vers 100 gibt.
-
 :::
 
 ### Fragen aus Transcelerator importieren {#1850d745ac9e8003815fc894b8baaeb7}

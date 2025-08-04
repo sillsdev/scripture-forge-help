@@ -36,6 +36,6 @@ Cada proyecto es diferente, así que siga las instrucciones que haya recibido de
 
 El paso final muestra los datos del idioma de destino. Esto incluirá siempre su propio proyecto, que ya está seleccionado y no puede eliminarse. Actualmente no es posible añadir datos de entrenamiento adicionales en este paso.
 
-A la derecha, verá un diagrama de cómo se utilizarán los proyectos seleccionados para generar el borrador. En el primer paso, el modelo lingüístico aprenderá del
+A la derecha, verá un diagrama de cómo se utilizarán los proyectos seleccionados para generar el borrador. En el primer paso, el modelo lingüístico aprenderá comparando los proyectos de referencia con el proyecto traducido. En el segundo paso, utilizará esos conocimientos para traducir el proyecto fuente.
 
 ![](./configure_sources_confirm_languages.png)

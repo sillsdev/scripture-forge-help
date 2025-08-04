@@ -13,6 +13,8 @@ Lorsque votre ébauche est terminée, Scripture Forge vous indiquera qu'il est p
 L'ébauche créée par Scripture Forge ne sera pas automatiquement importé dans votre projet. Vous pouvez prévisualiser l'ébauche et ensuite importer un chapitre ou un livre à la fois dans votre projet, ou dans un projet différent.
 
 Cliquez sur un livre pour voir l'ébauche. L'ébauche s'ouvrira dans un nouvel onglet sur la page de l'éditeur.
+
+:::tip
 Pour comprendre l'ébauche au texte à partir duquel il a été traduite, définissez une source sur la page des paramètres Cela vous permettra de voir une source et le brouillon qui en résulte côte à côte.
 
 Si vous avez rédigé un livre, l'équipe a déjà fini de traduire, vous pouvez déplacer l'onglet brouillon vers l'autre côté de la page, et le comparer avec la traduction de l'équipe.

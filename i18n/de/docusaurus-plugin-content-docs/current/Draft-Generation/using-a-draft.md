@@ -13,8 +13,9 @@ Sobald Dein Entwurf generiert ist zeigt Scripture Forge an, dass er bereit ist s
 Der Entwurf, den Scripture Forge generiert hat, wird nicht automatisch in Dein Projekt importiert. Du kannst eine Vorschau des Entwurfs anzeigen und dann jeweils ein Kapitel oder ein Buch in Dein Projekt oder in ein anderes Projekt importieren.
 
 Klicke auf ein Buch, um den Entwurf anzusehen. Der Entwurf wird in einer neuen Registerkarte auf der Editor-Seite geöffnet.
+
 :::tip
-Um den Entwurf mit dem Text zu vergleichen, aus dem er übersetzt wurde, wähle auf der Einstellungsseite einen Ausgangstext. So kannst Du einen Ausgangstext und den daraus entstandenen Entwurf nebeneinander ansehen.
+tipUm den Entwurf mit dem Text zu vergleichen, aus dem er übersetzt wurde, wähle auf der Einstellungsseite einen Ausgangstext. So kannst Du einen Ausgangstext und den daraus entstandenen Entwurf nebeneinander ansehen.
 
 Falls Du den Entwurf eines Buches generiert hast, dessen Übersetzung das Team bereits fertig übersetzt hat, kannst Du die Registerkarte "Entwurf" auf die andere Seite der Seite verschieben und sie mit der Übersetzung des Teams vergleichen.
 :::

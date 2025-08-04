@@ -8,7 +8,7 @@ slug: /faq
 
 1. ¿Cómo encaja Scripture Forge en mis pasos de traducción?
 
-    _Scripture Forge es una herramienta diseñada para ayudarle a navegar por la fase de redacción con mayor eficacia y rapidez, manteniendo al mismo tiempo la calidad de su trabajo. No sustituye a los pasos de traducción, sino que es un recurso que le ayudará a ser más productivo en la redacción y el control comunitario_
+    _Scripture Forge es una herramienta diseñada para ayudarle a navegar por la fase de redacción con mayor eficacia y rapidez, manteniendo al mismo tiempo la calidad de su trabajo. No sustituye a las etapas de traducción. En lugar de eso, considéralo un recurso que te ayudará a ser más productivo durante la redacción y el control comunitario._
 
 2. ¿Guarda Scripture Forge una copia de seguridad de los datos de mi proyecto? ¿Quién es responsable de la seguridad de los datos?
 
@@ -19,8 +19,8 @@ slug: /faq
     _Puede utilizar los siguientes enlaces para ponerse en contacto con nosotros o buscar asistencia:_
 
     - **Aprendizaje y documentación:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge)[ ](https://help.scriptureforge.org/)Y [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Informar de un problema:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) correo electrónico: help@scriptureforge.org
     - **Preguntas y soporte:** correo electrónico: support_team@scriptureforge.org
-    - **Informar de un problema:**[ ](https://scriptureforge.freshdesk.com/support/tickets/new)[https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) correo electrónico: help@scriptureforge.org
 
 ## **Preguntas sobre las fuentes y el entrenamiento del modelo** {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
@@ -28,7 +28,7 @@ slug: /faq
 
     _Hay dos formas principales de mejorar los borradores._
 
-    - _El primero es añadir más datos al modelo de traducción. Puede hacerlo eligiendo más libros en el paso 2 - “Elegir libros para la formación del modelo de idioma”. Cuantos más datos estén disponibles para la formación, mejores serán los resultados de los borradores._
+    - _El primero es añadir más datos al modelo de traducción. Puede hacerlo eligiendo más libros en el Paso 2 - "Seleccionar libros para entrenar". Cuantos más datos estén disponibles para la formación, mejores serán los resultados de los borradores._
     - _La segunda forma es mejorar la calidad de los datos en el Modelo de traducción. Puede hacerlo asegurándose de que los libros que ha elegido estén bien comprobados por la consistencia en áreas como la ortografía, la puntuación y el contenido. Cuanto mejor sea la calidad de los datos, mejor aprenderá el sistema a generar buenos borradores._
     - _Muchos equipos también se benefician del uso de una retrotraducción actualizada como fuente de formación adicional._
 

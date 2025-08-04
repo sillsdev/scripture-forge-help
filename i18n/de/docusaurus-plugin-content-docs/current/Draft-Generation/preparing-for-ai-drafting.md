@@ -36,6 +36,6 @@ Jedes Projekt ist anders. Befolge daher die Anweisungen, die Du vom Onboarding-T
 
 Im letzten Schritt werden die Daten in der Zielsprache angezeigt. Dazu gehört immer auch Dein Projekt selbst, das bereits ausgewählt ist und nicht entfernt werden kann. Zur Zeit ist es nicht möglich, in diesem Schritt zusätzliche Schuldungsdaten hinzuzufügen.
 
-Auf der rechten Seite siehst Du ein Diagramm, das zeigt, wie die von Dir ausgewählten Projekte zur Generierung des Entwurfs verwendet werden. Im ersten Schritt lernt das Sprachmodell aus den
+Auf der rechten Seite siehst Du ein Diagramm, das zeigt, wie die von Dir ausgewählten Projekte zur Generierung des Entwurfs verwendet werden. In the first step, the language model will learn from comparing the reference projects to the translated project. In the second step, it will use that knowledge to translate the source project.
 
 ![](./configure_sources_confirm_languages.png)

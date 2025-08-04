@@ -16,7 +16,7 @@ In the side bar, click **Settings**, and scroll down to **Sharing settings**.
 
 ### Pengaturan interaksi pengguna {#1850d745ac9e8018b5a7ff9f3ea349e9}
 
-The first setting to consider is **Allow checkers to see each other's answers and comments**. Ketika masyarakat pemeriksa diberikan pertanyaan, jawaban yang sudah ada dari masyarakat pemeriksa lain tidak ditampilkan sehingga tidak akan mempengaruhi jawaban yang diberikan. Setelah sebuah pertanyaan dijawab, jawaban lain dari pertanyaan tersebut akan ditampilkan, dan para pemeriksa dapat mengomentari dan menyukai jawaban satu sama lain. If you don’t want this interaction and want answers from other checkers to always be hidden, turn off **Allow checkers to see each other's answers and comments**.
+The first setting to consider is **Allow checkers to see each other's answers and comments**. Ketika masyarakat pemeriksa diberikan pertanyaan, jawaban yang sudah ada dari masyarakat pemeriksa lain tidak ditampilkan sehingga tidak akan mempengaruhi jawaban yang diberikan. Setelah sebuah pertanyaan dijawab, jawaban lain dari pertanyaan tersebut akan ditampilkan, dan para pemeriksa dapat mengomentari dan menyukai jawaban satu sama lain. If you don't want this interaction and want answers from other checkers to always be hidden, turn off **Allow checkers to see each other's answers and comments**.
 
 ![](./checking_enable_see_others_responses.png)
 

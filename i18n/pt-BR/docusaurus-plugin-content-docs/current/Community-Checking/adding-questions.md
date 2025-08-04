@@ -8,12 +8,10 @@ import ReactPlayer from "react-player";
 
 ## Add Questions to the Project {#1850d745ac9e80e09444cb3564752e31}
 
-In order to get feedback on your translation, you’ll need to add comprehension checking questions. You can import questions created by someone else, or create your own.
+In order to get feedback on your translation, you'll need to add comprehension checking questions. You can import questions created by someone else, or create your own.
 
 :::note
-
-Currently the only way to get feedback from community checkers is to ask checking questions. Some project administrators have asked for checkers to be able to add comments to the text even without a question present. If that’s something your project may benefit from, please [voice your support for the proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) on the [Scripture Forge community site](https://community.scripture.software.sil.org/).
-
+Currently the only way to get feedback from community checkers is to ask checking questions. Some project administrators have asked for checkers to be able to add comments to the text even without a question present. If that's something your project may benefit from, please [voice your support for the proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) on the [Scripture Forge community site](https://community.scripture.software.sil.org/).
 :::
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
@@ -22,9 +20,9 @@ Currently the only way to get feedback from community checkers is to ask checkin
 
 To add questions to your project, click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Add Question** button. A dialog will open that will allow you to create a question.
 
-A question can apply to a single verse, or multiple verses. Type a reference into the **Scripture reference** box, or click the dropdown arrow to select a book, chapter, and verse. If you want the question to span multiple verses, enter an end reference in the second box. Once you’ve input a reference, the text will show up, with the verses you chose highlighted.
+A question can apply to a single verse, or multiple verses. Type a reference into the **Scripture reference** box, or click the dropdown arrow to select a book, chapter, and verse. If you want the question to span multiple verses, enter an end reference in the second box. Once you've input a reference, the text will show up, with the verses you chose highlighted.
 
-Type your question into the **Question** box. If you want to add an audio version of the question, click the **Record** button. You may be prompted to give permission to access your microphone. When you have finished recording, click **Stop Recording**. You can then play the recording to hear how it sounds. Click the **Try Again** button if you’re not satisfied with it. You can also upload an audio file instead of recording, if you prefer.
+Type your question into the **Question** box. If you want to add an audio version of the question, click the **Record** button. You may be prompted to give permission to access your microphone. When you have finished recording, click **Stop Recording**. You can then play the recording to hear how it sounds. Click the **Try Again** button if you're not satisfied with it. You can also upload an audio file instead of recording, if you prefer.
 
 Click **Save** and your question will be added to the list of community checking questions.
 
@@ -32,22 +30,20 @@ Click **Save** and your question will be added to the list of community checking
 
 ### Importing questions from a spreadsheet {#1850d745ac9e8085960dd88b648f0c7a}
 
-Creating questions one by one can be tedious, so we’ve also made it possible to import questions from a spreadsheet. You can use a program such as Microsoft Excel, Google Sheets, or LibreOffice Calc to create or edit a list of questions. If you’re looking for a set of pre-made questions, consider the [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). If you go to the linked page and click on one of the files, you can then download it, open it as a spreadsheet, and edit the list of questions.
+Creating questions one by one can be tedious, so we've also made it possible to import questions from a spreadsheet. You can use a program such as Microsoft Excel, Google Sheets, or LibreOffice Calc to create or edit a list of questions. If you're looking for a set of pre-made questions, consider the [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). If you go to the linked page and click on one of the files, you can then download it, open it as a spreadsheet, and edit the list of questions.
 
-Here’s an example of how the rows in your spreadsheet should look in order to be able to import it to Scripture Forge:
+Here's an example of how the rows in your spreadsheet should look in order to be able to import it to Scripture Forge:
 
 | Referência                | Pergunta                                                |
 | ------------------------- | ------------------------------------------------------- |
-| HEB 1:1   | What does “our fathers” refer to?                       |
-| HEB 1:2   | What does it mean that the Son is “heir of all things”? |
-| HEB 1:2-3 | Who is the “Son” spoken of in these verses?             |
+| HEB 1:1   | What does "our fathers" refer to?                       |
+| HEB 1:2   | What does it mean that the Son is "heir of all things"? |
+| HEB 1:2-3 | Who is the "Son" spoken of in these verses?             |
 
-The spreadsheet can have more columns as well, but all columns except the “reference” and “question” columns will not be used. The TSV files published by unfoldingWord are in a slightly different format, but can be imported to Scripture Forge too.
+The spreadsheet can have more columns as well, but all columns except the "reference" and "question" columns will not be used. The TSV files published by unfoldingWord are in a slightly different format, but can be imported to Scripture Forge too.
 
 :::note
-
 The reference needs to have the book name abbreviated the same way Paratext abbreviates book names. For example, **HEB 1:1** will work, but **Hebrews 1:1** will not work.
-
 :::
 
 If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [help@scriptureforge.org](mailto:help@scriptureforge.org).
@@ -55,9 +51,7 @@ If you need help getting your spreadsheet into the right format to import to Scr
 1. Save your spreadsheet as a CSV file.
 
     :::note
-
-    If you are using Microsoft Excel, be sure to select “CSV UTF-8 (Comma delimited) (\*.csv)” as the file type when exporting as CSV.
-
+    If you are using Microsoft Excel, be sure to select "CSV UTF-8 (Comma delimited) (\*.csv)" as the file type when exporting as CSV.
     :::
 
 2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
@@ -65,7 +59,7 @@ If you need help getting your spreadsheet into the right format to import to Scr
 3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
 
 4. Click on **Import from CSV file** and select the file.
-    1. If you have some rows in your file that don’t have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
+    1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
     2. Otherwise you will be shown a list of questions.
 
 ### Import all questions {#1850d745ac9e80b59ae8cabac1b67e7f}
@@ -87,9 +81,7 @@ You can also filter for a subset of the questions:
 4. Click **Import Selected Questions**.
 
 :::note
-
-You don’t have to remember that there are 43 verses in Mark 5 in order to filter for all the verses in the chapter. If you click the dropdown arrow in the **Reference to** box, a dialog will open allowing you to select a book, chapter, and verse. Once you select Mark 5, it will list the verses in Mark 5, and you’ll be able to select the last one, which is verse 43. Alternatively you can type **MRK 5:100** in the **Reference to** box, and all the verses in Mark 5 will be included, even though there isn’t actually a verse 100 in Mark 5.
-
+You don't have to remember that there are 43 verses in Mark 5 in order to filter for all the verses in the chapter. If you click the dropdown arrow in the **Reference to** box, a dialog will open allowing you to select a book, chapter, and verse. Once you select Mark 5, it will list the verses in Mark 5, and you'll be able to select the last one, which is verse 43. Alternatively you can type **MRK 5:100** in the **Reference to** box, and all the verses in Mark 5 will be included, even though there isn't actually a verse 100 in Mark 5.
 :::
 
 ### Importing questions from Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
@@ -101,7 +93,7 @@ To import questions from Transcelerator:
 1. Download and install Transcelerator from [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
 2. From within Paratext, launch Transcelerator.
 3. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
-4. Type the translations of the English questions you want to use in the **Translation** column. For each question that’s ready, select the **Confirmed** check box for the questions.
+4. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
 5. Close Transcelerator, and do a send and receive with Paratext.
 6. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
 7. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
@@ -127,7 +119,7 @@ If you already have audio recorded, there are several options for creating timin
 
 You can automatically generate timing files using aeneas by following [these instructions](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
 
-Alternatively, you can manually create timing files using Audacity by following [this guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Another option is Adobe Audition. Timing data from Adobe Audition is supported in decimal or FPS time formats. We don’t support the “samples” format.
+Alternatively, you can manually create timing files using Audacity by following [this guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Another option is Adobe Audition. Timing data from Adobe Audition is supported in decimal or FPS time formats. We don't support the "samples" format.
 
 ### Attaching audio {#1850d745ac9e80668685c9ea58252d6b}
 
