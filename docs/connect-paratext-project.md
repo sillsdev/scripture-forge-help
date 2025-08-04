@@ -9,7 +9,9 @@ import ReactPlayer from "react-player";
 ## Introduction {#6222bdf3db3a44b4bf01a9cc6ffdaa80}
 
 :::tip
+
 Paratext projects only need to be connected once within Scripture Forge.
+
 :::
 
 After a Paratext project is connected to Scripture Forge, every user that is a member of the project in Paratext (under User Permissions) will be able to open the project in Scripture Forge.

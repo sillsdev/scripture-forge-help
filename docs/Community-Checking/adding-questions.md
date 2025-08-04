@@ -11,7 +11,9 @@ import ReactPlayer from "react-player";
 In order to get feedback on your translation, you'll need to add comprehension checking questions. You can import questions created by someone else, or create your own.
 
 :::note
+
 Currently the only way to get feedback from community checkers is to ask checking questions. Some project administrators have asked for checkers to be able to add comments to the text even without a question present. If that's something your project may benefit from, please [voice your support for the proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) on the [Scripture Forge community site](https://community.scripture.software.sil.org/).
+
 :::
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
@@ -43,7 +45,9 @@ Here's an example of how the rows in your spreadsheet should look in order to be
 The spreadsheet can have more columns as well, but all columns except the "reference" and "question" columns will not be used. The TSV files published by unfoldingWord are in a slightly different format, but can be imported to Scripture Forge too.
 
 :::note
+
 The reference needs to have the book name abbreviated the same way Paratext abbreviates book names. For example, **HEB 1:1** will work, but **Hebrews 1:1** will not work.
+
 :::
 
 If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [help@scriptureforge.org](mailto:help@scriptureforge.org).
@@ -51,7 +55,9 @@ If you need help getting your spreadsheet into the right format to import to Scr
 1. Save your spreadsheet as a CSV file.
 
 	:::note
+
 	If you are using Microsoft Excel, be sure to select "CSV UTF-8 (Comma delimited) (*.csv)" as the file type when exporting as CSV.
+
 	:::
 
 2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
@@ -79,7 +85,9 @@ You can also filter for a subset of the questions:
 4. Click **Import Selected Questions**.
 
 :::note
+
 You don't have to remember that there are 43 verses in Mark 5 in order to filter for all the verses in the chapter. If you click the dropdown arrow in the **Reference to** box, a dialog will open allowing you to select a book, chapter, and verse. Once you select Mark 5, it will list the verses in Mark 5, and you'll be able to select the last one, which is verse 43. Alternatively you can type **MRK 5:100** in the **Reference to** box, and all the verses in Mark 5 will be included, even though there isn't actually a verse 100 in Mark 5.
+
 :::
 
 ### Importing questions from Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}

@@ -7,9 +7,11 @@ slug: /translation-suggestions
 ## What are Translation Suggestions? {#5f721bd65922446f8eefb001acc89f30}
 
 :::info
+
 "Translation suggestions" is an older Scripture Forge feature that provides interactive suggestions to translators as they type within Scripture Forge. It works best when translating between very similar languages.
 
 Translation drafting is a newer, more flexible, and more powerful translation tool in Scripture Forge that creates drafts for translators to review and edit.
+
 :::
 
 Translation suggestions allow Scripture Forge to analyze a source and target language together, and automatically suggest words/phrases to use in the translation process.
@@ -22,13 +24,17 @@ Translation suggestions allow Scripture Forge to analyze a source and target lan
 ## Setup Your Translation Suggestions Window {#055dfd61aa9442e3b6c787613c8085d6}
 
 :::note
+
 This must be done by each user who wants to use translation suggestions.
+
 :::
 
 ### Select Your Project {#4de2ee23101e4a498e465465740c5a51}
 
 :::tip
+
 First you need to **select your project** from the navigation page, if you haven't already.
+
 :::
 
 1. Click on the Scripture Forge navigation pane:
@@ -94,7 +100,9 @@ First you need to **select your project** from the navigation page, if you haven
 ## What is a Segment? {#3931f83c77104d27bfa1bcd797303914}
 
 :::tip
+
 Before doing translation work in Scripture Forge, you should understand what a "**segment**" is.
+
 :::
 
 In Scripture Forge, a segment is a section of Scripture to be translated. This can be a section heading, a verse, or a part of a verse (like in poetry).
@@ -145,9 +153,11 @@ Now that you understand how to navigate in Scripture Forge, it's time to learn h
 ### Continue Translating {#9e130c3ad9c048a4822e37e0d0ba0750}
 
 :::tip
+
 Scripture Forge will continue to learn and make better suggestions as you translate.
 
 To adjust the _**translation suggestion settings**_ for your user, see the [steps here 🔗](/translation-suggestions).
+
 :::
 
 ### Keyboard Shortcuts {#228a943ddd984192b78ae4ccb39c6211}
@@ -174,7 +184,9 @@ To adjust the _**translation suggestion settings**_ for your user, see the [step
 ## Adjust Translation Suggestion Settings - Per User {#3822d035acfd42ae888cefbd7b71fcb5}
 
 :::note
+
 You can configure the translation suggestion settings for your individual user.
+
 :::
 
 1. Select your project from the Navigation pane.
