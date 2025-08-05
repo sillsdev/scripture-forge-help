@@ -4,11 +4,11 @@ sidebar_position: 6
 slug: /faq
 ---
 
-## **Pertanyaan tentang Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}
+## Pertanyaan tentang Scripture Forge {#1b30d745ac9e80a38ebef8610e57c100}
 
 1. Bagaimana Scripture Forge cocok dengan langkah-langkah penerjemahan saya?
 
-    _Scripture Forge adalah alat yang dirancang untuk membantu Anda menavigasi fase pembuatan konsep dengan lebih efektif dan cepat dengan tetap menjaga kualitas pekerjaan Anda. Ini bukan pengganti langkah-langkah penerjemahan, tetapi anggaplah ini sebagai sumber untuk membantu Anda menjadi lebih produktif saat menyusun konsep dan memeriksa bersama masyarakat_
+    _Scripture Forge adalah alat yang dirancang untuk membantu Anda menavigasi fase pembuatan konsep dengan lebih efektif dan cepat dengan tetap menjaga kualitas pekerjaan Anda. It is not a replacement for the translation steps. Instead, think of it as a resource to help you be more productive while drafting and community checking._
 
 2. Apakah Scripture Forge menyimpan cadangan data proyek saya? Siapa yang bertanggung jawab untuk menjaga keamanan data?
 
@@ -18,17 +18,17 @@ slug: /faq
 
     _Anda dapat menggunakan tautan berikut untuk menghubungi kami atau menemukan dukungan:_
 
-    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge)[ ](https://help.scriptureforge.org/)And [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
     - **Questions and Support:** email: support_team@scriptureforge.org
-    - **Report an issue:**[ ](https://scriptureforge.freshdesk.com/support/tickets/new)[https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
 
-## \*\*Pertanyaan tentangmodel Sumber dan Pelatihan \*\* {#1b30d745ac9e80e791d9f0c3ee971c5c}
+## Pertanyaan tentangmodel Sumber dan Pelatihan {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
 1. Bagaimana cara meningkatkan kualitas Konsep saya?
 
     _Ada 2 cara utama untuk memperbaiki konsep._
 
-    - _Yang pertama adalah menambahkan lebih banyak data ke model Terjemahan. Anda dapat melakukan ini dengan memilih lebih banyak kitab di Langkah 2 - "Memilih kitab untuk Pelatihan Model Bahasa." Semakin banyak data yang tersedia untuk pelatihan, semakin baik pula hasil konsepnya._
+    - _Yang pertama adalah menambahkan lebih banyak data ke model Terjemahan. You can do this by choosing more books in Step 2 - "Select books to train on." Semakin banyak data yang tersedia untuk pelatihan, semakin baik pula hasil konsepnya._
     - _Cara kedua adalah dengan meningkatkan kualitas data dalam Model Penerjemahan. Anda dapat melakukan ini dengan memastikan kitab yang Anda pilih telah diperiksa dengan baik dalam konsistensi di berbagai bidang seperti ejaan, tanda baca, dan maknanya. Semakin baik kualitas data, semakin baik pula sistem akan belajar untuk menghasilkan konsep yang baik._
     - _Banyak tim juga merasakan manfaat dari penggunaan terjemahan terbaru sebagai sumber pelatihan tambahan_
 
@@ -48,7 +48,7 @@ slug: /faq
 
     _Ini berarti bahwa pengaturan sumber tidak berhasil. Anda dapat memuat ulang halaman dan mencoba lagi_
 
-## **Pertanyaan tentang Pembuatan Konsep** {#1b30d745ac9e8095b256da102cecb88a}
+## Pertanyaan tentang Pembuatan Konsep {#1b30d745ac9e8095b256da102cecb88a}
 
 1. Berapa lama waktu yang dibutuhkan untuk membuat konsep saya?
 
@@ -64,7 +64,7 @@ slug: /faq
     - _Menambahkan konsep ke proyek dilakukan berdasarkan pasal per pasal dari jendela "Membuat konsep otomatis" di bawah "Sunting dan Tinjau". Jadi, jika hanya satu pasal yang ditambahkan, pasal tersebut akan menjadi satu-satunya pasal yang tersedia dalam proyek. Pasal lain harus ditambahkan secara terpisah._
     - _Anda dapat menambahkan seluruh kitab dengan menavigasi ke "Buat konsep" dan menemukan konsep yang telah dibuat. Klik menu 3 titik yang tersedia di sebelah nama kitab yang ingin Anda tambahkan, lalu klik "Tambahkan ke proyek." Ini akan menambahkan seluruh kitab ke proyek Anda_
 
-4. Mengapa tombol saya bertuliskan "tambahkan kembali ke proyek"
+4. Why does my button say "re-add to project"?
 
     _Jika Anda menyunting pasal setelah "menambahkan ke proyek" dan ingin kembali ke konsep SF yang belum disunting, Anda dapat mengimpor kembali konsep asli dengan mengklik tombol "Tambahkan kembali ke proyek"_
 

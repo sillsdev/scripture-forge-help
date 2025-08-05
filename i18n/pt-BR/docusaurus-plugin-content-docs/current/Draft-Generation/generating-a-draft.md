@@ -10,7 +10,7 @@ import ReactPlayer from "react-player";
 
 ## Generating a draft
 
-Once your project has been activated and sources configured, click the generate draft button to get started:
+Once your project has been activated and sources have been configured, click the "Generate draft" button to get started:
 
 ![](./generate_draft_button.png)
 
@@ -28,7 +28,7 @@ On the second step, select the books you want translated. If the book you want t
 
 ### Select the books to train the language model
 
-On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don’t need to be consultant-checked, they should be accurate translations of the source book.**
+On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don't need to be consultant-checked, they should be accurate translations of the source book.**
 
 ![](./generate_draft_select_books_to_train.png)
 

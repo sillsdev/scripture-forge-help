@@ -10,7 +10,7 @@ import ReactPlayer from "react-player";
 
 ## Générer une ébauche
 
-Une fois que votre projet a été activé et que les sources ont été configurées, cliquez sur le bouton Générer le brouillon pour démarrer :
+Une fois que votre projet a été activé et que les sources ont été configurées, cliquez sur le bouton Générer l'ébauche pour démarrer :
 
 ![](./generate_draft_button.png)
 

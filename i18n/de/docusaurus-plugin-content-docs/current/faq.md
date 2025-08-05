@@ -4,11 +4,11 @@ sidebar_position: 6
 slug: /faq
 ---
 
-## **Fragen zu Scripture Forge** {#1b30d745ac9e80a38ebef8610e57c100}
+## Fragen zu Scripture Forge {#1b30d745ac9e80a38ebef8610e57c100}
 
 1. Wie passt Scripture Forge zu meinem Übersetzungsablauf?
 
-    _Scripture Forge ist ein Werkzeug, das Dir hilft, Dich effektiver und schneller durch die Entwurfsphase zu bewegen und dabei die Qualität Deiner Arbeit aufrechtzuerhalten. Es ist kein Ersatz für den Übersetzungsablauf, sondern ein Hilfsmittel, das Dir hilft, beim Erstellen von Entwürfen und bei der Überprüfung mit der Zielgruppe produktiver zu sein_
+    _Scripture Forge ist ein Werkzeug, das Dir hilft, Dich effektiver und schneller durch die Entwurfsphase zu bewegen und dabei die Qualität Deiner Arbeit aufrechtzuerhalten. It is not a replacement for the translation steps. Instead, think of it as a resource to help you be more productive while drafting and community checking._
 
 2. Bewahrt Scripture Forge eine Sicherungskopie meiner Projektdaten auf? Wer ist dafür verantwortlich, dass die Daten sicher aufbewahrt werden?
 
@@ -18,17 +18,17 @@ slug: /faq
 
     _Du kannst die folgenden Links verwenden, um uns zu kontaktieren oder Support zu erhalten:_
 
-    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge)[ ](https://help.scriptureforge.org/)And [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
     - **Questions and Support:** email: support_team@scriptureforge.org
-    - **Report an issue:**[ ](https://scriptureforge.freshdesk.com/support/tickets/new)[https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
 
-## **Fragen zu Quellen und zur Schulung des Modells** {#1b30d745ac9e80e791d9f0c3ee971c5c}
+## Fragen zu Quellen und zur Schulung des Modells {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
 1. Wie verbessere ich die Qualität meiner Entwürfe?
 
     _Es gibt 2 hauptsächliche Methoden, um Entwürfe zu verbessern._
 
-    - _Die erste ist es, mehr Daten zum Übersetzungsmodell hinzuzufügen. Du kannst dies tun, indem Du in Schritt 2 mehr Bücher wählst - „Bücher für das Schulungsmodell auswählen“. Je mehr Daten für die Schulung zur Verfügung stehen, desto besser werden die Ergebnisse der Entwürfe sein._
+    - _Die erste ist es, mehr Daten zum Übersetzungsmodell hinzuzufügen. You can do this by choosing more books in Step 2 - "Select books to train on." Je mehr Daten für die Schulung zur Verfügung stehen, desto besser werden die Ergebnisse der Entwürfe sein._
     - _Die zweite Methode ist es, die Qualität der Daten im Übersetzungsmodell zu verbessern. Du kannst dies tun, indem Du sicherstellst, dass die von Dir ausgewählten Bücher auf Konsistenz in Bereichen wie Schreiben, Satzzeichen und Inhalt überprüft werden. Je besser die Qualität der Daten ist, desto besser wird das System lernen, gute Entwürfe zu erstellen._
     - _Viele Teams sehen auch den Nutzen einer aktuellen Rückübersetzung als zusätzliche Quelle für die Schulung_
 
@@ -48,7 +48,7 @@ slug: /faq
 
     _Dies bedeutet, dass das Festlegen des Ausgangstextes nicht erfolgreich war. Du kannst die Seite aktualisieren und es erneut versuchen_
 
-## **Fragen zum Erstellen von Entwürfen** {#1b30d745ac9e8095b256da102cecb88a}
+## Fragen zum Erstellen von Entwürfen {#1b30d745ac9e8095b256da102cecb88a}
 
 1. Wie lange dauert es, meinen Entwurf zu generieren?
 
@@ -64,7 +64,7 @@ slug: /faq
     - _Dem Projekt einen Entwurf hinzuzufügen geschieht Kapitel für Kapitel aus dem Fenster „Autodraft“ unter „Bearbeiten und Überprüfen“. Wenn also nur ein Kapitel hinzugefügt wird, wird es das einzige Kapitel im Projekt sein. Andere Kapitel müssen einzeln hinzugefügt werden._
     - _Du kannst das ganze Buch hinzufügen, indem Du zu „Entwurf generieren“ gehst und den erstellten Entwurf aufrufst. Klicke auf das 3-Punkt-Menü neben dem Namen des Buches, das Du hinzufügen möchtest, und klicke dann auf „Zum Projekt hinzufügen“. Dadurch wird das ganze Buch zu Deinem Projekt hinzufügen_
 
-4. Warum steht auf meiner Schaltfläche "Erneut zum Projekt hinzufügen"?
+4. Why does my button say "re-add to project"?
 
     _Wenn Du ein Kapitel nach dem Ausführen von „Zum Projekt hinzufügen“ bearbeitest und zu dem nicht bearbeiteten SF-Entwurf zurückkehren möchtest, kannst Du den ursprünglichen Entwurf erneut importieren, indem Du auf die Schaltfläche „Erneut zum Projekt hinzufügen“ klickst_
 

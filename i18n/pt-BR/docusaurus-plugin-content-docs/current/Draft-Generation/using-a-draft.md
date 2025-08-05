@@ -13,10 +13,13 @@ When your draft is finished, Scripture Forge will indicate that it's ready and d
 The draft that Scripture Forge created will not be automatically imported to your project. You can preview the draft and then import a chapter or a book at a time into your project, or into a different project.
 
 Click on a book to view the draft. The draft will open in a new tab on the editor page.
+
 :::tip
+
 To compare the draft to the text it was translated from, set a source on the settings page. This will allow you to see a source and the resulting draft side-by-side.
 
 If you drafted a book the team has already finished translating, you can move the draft tab to the other side of the page, and compare it with the team's translation.
+
 :::
 
 ![](./draft_preview.png)
@@ -36,7 +39,9 @@ If you want to import an entire book into the project, you can do this from the 
 In the dialog that opens, select the project you want the draft to be imported to. If the project hasn't been connected in Scripture Forge yet, you will need to connect it first. **Important:** Importing the draft will replace any existing content in the project for that book.
 
 :::note
-The project must already have the book you are importing. Make sure have already created the book in Paratext and synced it to Scripture Forge.
+
+The project must already have the book you are importing. Make sure you have already created the book in Paratext and synced it to Scripture Forge.
+
 :::
 
 ![](./import_book_dialog.png)

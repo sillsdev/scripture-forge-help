@@ -8,21 +8,16 @@ import ReactPlayer from "react-player";
 
 ## Pendahuluan {#6222bdf3db3a44b4bf01a9cc6ffdaa80}
 
-
 :::tip
 
-Proyek-proyek Paratext hanya perlu dihubungkan satu kali di dalam Scripture Forge.
+Paratext projects only need to be connected once within Scripture Forge.
 
 :::
-
-
-
 
 Setelah proyek Paratext terhubung ke Scripture Forge, setiap pengguna yang menjadi anggota proyek di Paratext (di bawah Izin Pengguna) akan dapat membuka proyek di Scripture Forge.
 
 
-Untuk dapat membuka sebuah proyek di Scripture Forge, seorang pengguna hanya perlu [masuk ke Scripture Forge dengan informasi akun Paratext mereka](/log-in).
-
+To be able to open a project in Scripture Forge, a user just needs to [log in to Scripture Forge with their Paratext account information](/log-in).
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/exEJxc19Zm4" /></div>
 
@@ -36,7 +31,6 @@ Untuk dapat membuka sebuah proyek di Scripture Forge, seorang pengguna hanya per
 2. Jika Anda telah menghubungkan sebuah proyek ke Scripture Forge, ikuti petunjuk ini untuk menghubungkan proyek tambahan:
 
     Untuk melihat daftar proyek yang dapat Anda akses di Paratext, klik ikon Scripture Forge di sebelah kiri atas layar.
-
 
 ![](./2112594915.png)
 
@@ -58,33 +52,24 @@ Setelah mengklik "Hubungkan", Anda akan diminta untuk memilih Sumber Proyek. Dar
 
 ![](./1628956354.png)
 
-
 Opsional: Mengaktifkan saran terjemahan (#1 di bawah)
-
 
 ![](./440460267.png)
 
-
 Opsional: Aktifkan Pemeriksaan Masyarakat (#2 di atas)
 
-
-Setelah Anda siap, Klik Hubungkan:
-
+When you are ready, click Connect:
 
 ![](./210173750.png)
 
-
 Tunggu sampai Scripture Forge menghubungkan proyek Paratext:
-
 
 ![](./1421415415.png)
 
-
-Scripture Forge mungkin memerlukan beberapa saat untuk menghubungkan proyek Anda, bilah progres hijau akan berhenti bergerak ketika proyek Anda telah terhubung sepenuhnya:
-
+Scripture Forge may take a while to connect your project. The green progress bar will stop moving when your project is fully connected:
 
 ![](./672841105.png)
 
 
-Catatan: Anda mungkin dapat bekerja di Scripture Forge sebelum terhubung sepenuhnya.
+Note: You may be able to work in Scripture Forge before it is fully connected.
 

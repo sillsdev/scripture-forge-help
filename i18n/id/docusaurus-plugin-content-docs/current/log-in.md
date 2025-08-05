@@ -4,9 +4,7 @@ sidebar_position: 0
 slug: /log-in
 ---
 
-
-
-## Masuk ke Scripture Forge dengan Akun Paratext {#68acbb7da03045a7b357e41c0107f6d1}
+## Log in to Scripture Forge with a Paratext Account
 
 1. Buka [https://scriptureforge.org/](https://scriptureforge.org/)
 2. Jika Anda sudah memiliki registrasi Paratext (atau sudah membuat akun Scripture Forge), klik tombol Masuk:
