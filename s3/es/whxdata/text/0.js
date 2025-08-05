@@ -1,1 +1,0 @@
-rh._.exports({"0":[["Delete a question"]],"1":[["Delete:Delete a question"]],"2":[[" ","Delete a question"]],"3":[[" ","You ","cannot"," delete a ","question",". Questions should be ","archived"," when you do not want community checkers to review a question."," ","Administrators can delete answers. "],[" ","Administrator tasks overview"]],"4":[[" ","Related Topics"]],"id":"0"})

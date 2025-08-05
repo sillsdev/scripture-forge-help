@@ -1,1 +1,0 @@
-gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><cki><ck fm=\"Avatar\" to=\"Update your name\" num=\"47\"/><ck fm=\"Add a comment\" to=\"User Interface overview\" num=\"22\"/></cki>";

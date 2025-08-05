@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"Vue d\u0027ensemble","type":"book","tilePath":"","key":"toc1"},{"name":"Concepts","type":"book","tilePath":"","key":"toc2"},{"name":"Tâches","type":"book","tilePath":"","key":"toc3"},{"name":"Interface utilisateur","type":"book","tilePath":"","key":"toc8"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

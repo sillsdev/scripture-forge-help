@@ -1,13 +1,7 @@
 #!/usr/bin/env -S deno run --allow-net --allow-read --allow-write --allow-run=bash,unzip --allow-env
 
-// This script fetches the latest docs from Notion and translations from Crowdin,
-// then copies the files to the appropriate directories.
+// This script fetches the latest translations from Crowdin, then copies the files to the appropriate directories.
 
-// One current limitation is that when the docs from Notion are ahead of the translations, it can result in broken links between the two.
-// A possible remediation would be to copy the English files to the other locales first, then overwrite those with the translated files.
-// This doesn't fully solve the problem though, because metadata in the translated files may be different from the English files.
-
-import { copy, readerFromStreamReader } from "jsr:@std/io";
 import { walk } from "jsr:@std/fs/walk";
 
 const projectId = Deno.env.get("CROWDIN_PROJECT_ID");
