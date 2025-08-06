@@ -113,7 +113,7 @@ for (const locale of locales) {
       links: await page.locator("main a").count(),
       images: await page.locator("main img").count(),
       admonitions: await page.locator("main .theme-admonition").count(),
-      iframes: await page.locator("main iframe").count(),
+      videos: await page.locator("main .player-wrapper").count(),
       italics: await page.locator("main em").count(),
       bold: await page.locator("main strong").count(),
       headings: await page
