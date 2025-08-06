@@ -33,9 +33,9 @@
   "workspace": {
     "packageJson": {
       "dependencies": [
-        "npm:@docusaurus/core@^3.7.0",
-        "npm:@docusaurus/module-type-aliases@^3.7.0",
-        "npm:@docusaurus/preset-classic@^3.7.0",
+        "npm:@docusaurus/core@^3.8.1",
+        "npm:@docusaurus/module-type-aliases@^3.8.1",
+        "npm:@docusaurus/preset-classic@^3.8.1",
         "npm:@mdx-js/react@3",
         "npm:@tsconfig/docusaurus@^1.0.5",
         "npm:clsx@^1.2.1",
