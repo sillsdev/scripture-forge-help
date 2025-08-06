@@ -104,6 +104,11 @@ for (const locale of locales) {
         ? `${rootPage}${doc.url}`
         : `${rootPage}/${locale}${doc.url}`;
     await page.goto(url);
+    if (
+      await page.getByRole("heading", { name: "Page Not Found" }).isVisible()
+    ) {
+      throw new Error(`Page not found: ${url}`);
+    }
     const counts = {
       links: await page.locator("main a").count(),
       images: await page.locator("main img").count(),
