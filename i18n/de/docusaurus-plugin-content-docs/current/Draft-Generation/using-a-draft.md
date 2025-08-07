@@ -16,44 +16,44 @@ Klicke auf ein Buch, um den Entwurf anzusehen. Der Entwurf wird in einer neuen R
 
 :::tip
 
-To compare the draft to the text it was translated from, set a source on the settings page. This will allow you to see a source and the resulting draft side-by-side.
+Um den Entwurf mit dem Text zu vergleichen, aus dem er übersetzt wurde, wähle auf der Einstellungsseite einen Ausgangstext. So kannst Du einen Ausgangstext und den daraus entstandenen Entwurf nebeneinander ansehen.
 
-If you drafted a book the team has already finished translating, you can move the draft tab to the other side of the page, and compare it with the team's translation.
+Falls Du den Entwurf eines Buches generiert hast, dessen Übersetzung das Team bereits fertig übersetzt hat, kannst Du die Registerkarte "Entwurf" auf die andere Seite der Seite verschieben und sie mit der Übersetzung des Teams vergleichen.
 
 :::
 
 ![](./draft_preview.png)
 
-## Importing a single chapter
+## Ein einzelnes Kapitel importieren
 
-To import the draft of the current chapter into the project, click "Add to project". You can go to each chapter in the book and preview and import each chapter one at a time.
+Um den Entwurf des aktuellen Kapitels ins Projekt zu importieren, klicke auf "Zum Projekt hinzufügen". Du kannst zu jedem Kapitel des Buches gehen, eine Vorschau anzeigen und die Kapitel nacheinander importieren.
 
 ![](./chapter_imported.png)
 
-## Importing an entire book
+## Ein ganzes Buch importieren
 
-If you want to import an entire book into the project, you can do this from the "Generate draft" page. Click the three-dot menu beside the book, and then select the option to import it to the current project, or to a different project.
+Falls Du ein ganzes Buch ins Projekt importieren möchtest, kannst Du dies auf der Seite "Entwurf generieren" tun. Klicke auf das Menü mit den drei Punkten neben dem Buch und wähle dann die Option, es in das aktuelle Projekt oder in ein anderes Projekt zu importieren.
 
 ![](./import_book.png)
 
-In the dialog that opens, select the project you want the draft to be imported to. If the project hasn't been connected in Scripture Forge yet, you will need to connect it first. **Important:** Importing the draft will replace any existing content in the project for that book.
+Wähle im sich öffnenden Dialogfeld das Projekt aus, in das der Entwurf importiert werden soll. Falls das Projekt noch nicht mit Scripture Forge verbunden wurde, musst Du es zuerst verbinden. **Wichtig:** Das Importieren des Entwurfs ersetzt alle vorhandenen Inhalte im Projekt für dieses Buch.
 
 :::note
 
-The project must already have the book you are importing. Make sure you have already created the book in Paratext and synced it to Scripture Forge.
+Das Projekt muss das zu importierende Buch bereits enthalten. Stelle sicher, dass Du das Buch bereits in Paratext erstellt und mit Scripture Forge synchronisiert hast.
 
 :::
 
 ![](./import_book_dialog.png)
 
-Once you've imported the draft to a project, sync the project in Scripture Forge and then do a send/receive in Paratext to see the changes.
+Sobald Du den Entwurf in ein Projekt importiert hast, synchronisiere das Projekt in Scripture Forge und führe dann einen Sende-/Empfangsvorgang in Paratext durch, um die Änderungen zu sehen.
 
-## Exporting USFM files
+## USFM-Dateien exportieren
 
-If you prefer not to import the draft directly to your project, you can also download the draft as USFM files. On the "Generate draft" page, click "Download draft", and extract the files on your computer. You can then import these files into a project in Paratext.
+Falls Du den Entwurf nicht direkt in Dein Projekt importieren möchtest, kannst Du den Entwurf auch als USFM-Dateien herunterladen. Klicke auf der Seite "Entwurf generieren" auf "Entwurf herunterladen" und entpacke die Dateien auf Deinem Computer. Du kannst diese Dateien dann in ein Projekt in Paratext importieren.
 
 ![](./download_usfm.png)
 
-## Viewing drafts in Paratext 10 Studio
+## Entwürfen in Paratext 10 Studio ansehen
 
-Paratext 10 Studio directly integrates with Scripture Forge, and allows you to view a draft without importing it to a project. The Scripture Forge extension comes pre-installed, so all you need to do is log in to Scripture Forge in the extension, and then select your project to view the draft.
+Paratext 10 Studio ist direkt mit Scripture Forge verbunden und ermöglicht es Dir, einen Entwurf anzusehen, ohne diesen in ein Projekt zu importieren. Die Scripture Forge-Erweiterung ist bereits vorinstalliert. Du musst Dich also nur bei Scripture Forge in der Erweiterung anmelden und dann Dein Projekt auswählen, um den Entwurf anzusehen.

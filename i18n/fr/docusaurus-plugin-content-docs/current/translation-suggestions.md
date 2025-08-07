@@ -156,7 +156,7 @@ Maintenant que vous comprenez comment naviguer dans Scripture Forge, il est temp
 
 Scripture Forge continuera à apprendre et à faire de meilleures suggestions pendant que vous traduisez.
 
-Pour ajuster les _**Paramètres des suggestions de traduction**_ pour votre utilisateur, voir les étapes [ici 🔗](/translation-suggestions).
+Pour ajuster les _**Paramètres des suggestions de traduction**_ pour votre utilisateur, voir les étapes [ici](/translation-suggestions).
 
 :::
 

@@ -156,13 +156,13 @@ Now that you understand how to navigate in Scripture Forge, it's time to learn h
 
 Scripture Forge will continue to learn and make better suggestions as you translate.
 
-To adjust the _**translation suggestion settings**_ for your user, see the [steps here 🔗](/translation-suggestions).
+To adjust the _**translation suggestion settings**_ for your user, see the [steps here](/translation-suggestions).
 
 :::
 
 ### Keyboard Shortcuts {#228a943ddd984192b78ae4ccb39c6211}
 
-1. When Scripture Forge shows you translation suggestions, you can use the **Up** and **Down arrow keys** to highlight the suggestion that you want.
+1. When Scripture Forge shows you translation suggestions, you can use the **Up** and **Down** arrow keys to highlight the suggestion that you want.
 
 	![](./719603901.png)
 

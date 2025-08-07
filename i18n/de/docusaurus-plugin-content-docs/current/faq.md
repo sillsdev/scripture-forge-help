@@ -8,7 +8,7 @@ slug: /faq
 
 1. Wie passt Scripture Forge zu meinem Übersetzungsablauf?
 
-    _Scripture Forge ist ein Werkzeug, das Dir hilft, Dich effektiver und schneller durch die Entwurfsphase zu bewegen und dabei die Qualität Deiner Arbeit aufrechtzuerhalten. It is not a replacement for the translation steps. Instead, think of it as a resource to help you be more productive while drafting and community checking._
+    _Scripture Forge ist ein Werkzeug, das Dir hilft, Dich effektiver und schneller durch die Entwurfsphase zu bewegen und dabei die Qualität Deiner Arbeit aufrechtzuerhalten. Dies ist kein Ersatz für die Übersetzungsschritte. Betrachte es stattdessen als ein Mittel, das Dir hilft, bei der Erstellung von Entwürfen und bei der Überprüfung mit der Zielgruppe produktiver zu sein._
 
 2. Bewahrt Scripture Forge eine Sicherungskopie meiner Projektdaten auf? Wer ist dafür verantwortlich, dass die Daten sicher aufbewahrt werden?
 
@@ -18,9 +18,9 @@ slug: /faq
 
     _Du kannst die folgenden Links verwenden, um uns zu kontaktieren oder Support zu erhalten:_
 
-    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
-    - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
-    - **Questions and Support:** email: support_team@scriptureforge.org
+    - **Lernen und Dokumentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) und [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+    - **Ein Problem melden:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) E-Mail: help@scriptureforge.org
+    - **Fragen und Unterstützung:** E-Mail: support_team@scriptureforge.org
 
 ## Fragen zu Quellen und zur Schulung des Modells {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
@@ -28,7 +28,7 @@ slug: /faq
 
     _Es gibt 2 hauptsächliche Methoden, um Entwürfe zu verbessern._
 
-    - _Die erste ist es, mehr Daten zum Übersetzungsmodell hinzuzufügen. You can do this by choosing more books in Step 2 - "Select books to train on." Je mehr Daten für die Schulung zur Verfügung stehen, desto besser werden die Ergebnisse der Entwürfe sein._
+    - _Die erste ist es, mehr Daten zum Übersetzungsmodell hinzuzufügen. Du kannst dies tun, indem du in Schritt 2 weitere Bücher wählst - "Wähle für die Schulung Bücher aus." Je mehr Daten für die Schulung zur Verfügung stehen, desto besser werden die Ergebnisse der Entwürfe sein._
     - _Die zweite Methode ist es, die Qualität der Daten im Übersetzungsmodell zu verbessern. Du kannst dies tun, indem Du sicherstellst, dass die von Dir ausgewählten Bücher auf Konsistenz in Bereichen wie Schreiben, Satzzeichen und Inhalt überprüft werden. Je besser die Qualität der Daten ist, desto besser wird das System lernen, gute Entwürfe zu erstellen._
     - _Viele Teams sehen auch den Nutzen einer aktuellen Rückübersetzung als zusätzliche Quelle für die Schulung_
 
@@ -64,7 +64,7 @@ slug: /faq
     - _Dem Projekt einen Entwurf hinzuzufügen geschieht Kapitel für Kapitel aus dem Fenster „Autodraft“ unter „Bearbeiten und Überprüfen“. Wenn also nur ein Kapitel hinzugefügt wird, wird es das einzige Kapitel im Projekt sein. Andere Kapitel müssen einzeln hinzugefügt werden._
     - _Du kannst das ganze Buch hinzufügen, indem Du zu „Entwurf generieren“ gehst und den erstellten Entwurf aufrufst. Klicke auf das 3-Punkt-Menü neben dem Namen des Buches, das Du hinzufügen möchtest, und klicke dann auf „Zum Projekt hinzufügen“. Dadurch wird das ganze Buch zu Deinem Projekt hinzufügen_
 
-4. Why does my button say "re-add to project"?
+4. Warum steht auf meiner Schaltfläche "Erneut zum Projekt hinzufügen"?
 
     _Wenn Du ein Kapitel nach dem Ausführen von „Zum Projekt hinzufügen“ bearbeitest und zu dem nicht bearbeiteten SF-Entwurf zurückkehren möchtest, kannst Du den ursprünglichen Entwurf erneut importieren, indem Du auf die Schaltfläche „Erneut zum Projekt hinzufügen“ klickst_
 

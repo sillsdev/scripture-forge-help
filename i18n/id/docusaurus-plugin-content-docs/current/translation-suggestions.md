@@ -156,7 +156,7 @@ Now that you understand how to navigate in Scripture Forge, it's time to learn h
 
 Scripture Forge will continue to learn and make better suggestions as you translate.
 
-To adjust the _**translation suggestion settings**_ for your user, see the [steps here 🔗](/translation-suggestions).
+To adjust the _**translation suggestion settings**_ for your user, see the [steps here](/translation-suggestions).
 
 :::
 

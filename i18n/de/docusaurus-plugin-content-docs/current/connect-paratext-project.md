@@ -10,14 +10,14 @@ import ReactPlayer from "react-player";
 
 :::tip
 
-Paratext projects only need to be connected once within Scripture Forge.
+Paratext-Projekte müssen nur einmal mit Scripture Forge verbunden werden.
 
 :::
 
 Nachdem ein Paratext-Projekt mit Scripture Forge verbunden wurde, kann jeder Benutzer, der Mitglied des Projekts in Paratext ist (unter Benutzerberechtigungen), das Projekt in Scripture Forge öffnen.
 
 
-Um ein Projekt in Scripture Forge öffnen zu können, muss ein Benutzer sich nur [bei Scripture Forge mit seinen Paratext-Kontoinformationen](/log-in) anmelden.
+Um ein Projekt in Scripture Forge öffnen zu können, muss ein Benutzer sich einfach [bei Scripture Forge mit seinen Paratext-Kontoinformationen](/log-in) anmelden.
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/exEJxc19Zm4" /></div>
 
@@ -66,7 +66,7 @@ Warte darauf, dass sich Scripture Forge mit dem Paratext-Projekt verbindet:
 
 ![](./1421415415.png)
 
-Scripture Forge may take a while to connect your project. The green progress bar will stop moving when your project is fully connected:
+Scripture Forge kann eine Weile benötigen, bis Dein Projekt verbinden ist. Der grüne Fortschrittsbalken bleibt stehen, wenn Dein Projekt vollständig verbunden ist:
 
 ![](./672841105.png)
 

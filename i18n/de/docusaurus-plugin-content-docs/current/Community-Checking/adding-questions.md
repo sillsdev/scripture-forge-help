@@ -12,126 +12,126 @@ Um Rückmeldungen zu Deiner Übersetzung zu erhalten, musst Du Fragen zur Überp
 
 :::note
 
-Currently the only way to get feedback from community checkers is to ask checking questions. Some project administrators have asked for checkers to be able to add comments to the text even without a question present. If that's something your project may benefit from, please [voice your support for the proposal](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) on the [Scripture Forge community site](https://community.scripture.software.sil.org/).
+Im Moment ist die einzige Möglichkeit, Rückmeldungen von Überprüfern der Zielgruppe zu erhalten, indem Überprüfungsfragen gestellt werden. Einige Projektadministratoren haben darum gebeten, dass die Überprüfer Kommentare zum Text hinzufügen können, auch wenn keine Frage vorhanden ist. Falls dies etwas ist, von dem Dein Projekt profitieren könnte, [unterstütze den Vorschlag](https://community.scripture.software.sil.org/t/feature-request-comments-to-any-bible-verse-chosen/2506/6) bitte auf der [Scripture Forge Community Seite](https://community.scripture.software.sil.org/).
 
 :::
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/J-led5En3D8" /></div>
 
-### Creating questions individually in Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
+### Fragen individuell in Scripture Forge erstellen {#1850d745ac9e8031908ef693ff578eec}
 
-To add questions to your project, click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Add Question** button. A dialog will open that will allow you to create a question.
+Um Fragen zu Deinem Projekt hinzuzufügen, klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**. Klicke dann auf die Schaltfläche **Frage hinzufügen**. Ein Dialogfeld wird geöffnet, in dem Du eine Frage erstellen kanst.
 
-A question can apply to a single verse, or multiple verses. Type a reference into the **Scripture reference** box, or click the dropdown arrow to select a book, chapter, and verse. If you want the question to span multiple verses, enter an end reference in the second box. Once you've input a reference, the text will show up, with the verses you chose highlighted.
+Eine Frage kann sich auf einen einzelnen Vers oder auf mehrere Verse beziehen. Gib einen Verweis in das Feld für die **Bibelstelle** ein, oder klicke auf den Dropdown-Pfeil, um ein Buch, ein Kapitel und einen Vers auszuwählen. Falls sich die Frage über mehrere Verse erstrecken soll, gib in das zweite Feld einen Endverweis ein. Sobald Du einen Verweis eingegeben hast, wird der Text angezeigt, wobei die von Dir ausgewählten Verse hervorgehoben sind.
 
-Type your question into the **Question** box. If you want to add an audio version of the question, click the **Record** button. You may be prompted to give permission to access your microphone. When you have finished recording, click **Stop Recording**. You can then play the recording to hear how it sounds. Click the **Try Again** button if you're not satisfied with it. You can also upload an audio file instead of recording, if you prefer.
+Gib Deine Frage in das Feld **Frage** ein. Falls Du eine Audioversion der Frage hinzufügen möchtest, klicke auf die Schaltfläche **Aufnehmen**. Unter Umständen wirst Du aufgefordert, den Zugriff auf Dein Mikrofon freizugeben. Wenn Du die Aufnahme beenden möchtest, klicke auf **Aufnahme beenden**. Du kannst dann die Aufnahme abspielen, um zu hören, wie sie klingt. Klicke auf die Schaltfläche **Erneut versuchen**, wenn Du mit dem Ergebnis nicht zufrieden bist. Du kannst anstelle einer Aufnahme auch eine Audiodatei hochladen, wenn Du das bevorzugst.
 
-Click **Save** and your question will be added to the list of community checking questions.
+Klicke auf **Speichern** und Deine Frage wird zur Liste der Fragen für die Überprüfung mit der Zielgruppe hinzugefügt.
 
 ![](./1916935940.png)
 
-### Importing questions from a spreadsheet {#1850d745ac9e8085960dd88b648f0c7a}
+### Fragen aus einer Tabelle importieren {#1850d745ac9e8085960dd88b648f0c7a}
 
-Creating questions one by one can be tedious, so we've also made it possible to import questions from a spreadsheet. You can use a program such as Microsoft Excel, Google Sheets, or LibreOffice Calc to create or edit a list of questions. If you're looking for a set of pre-made questions, consider the [unfoldingWord® Translation Questions](https://git.door43.org/unfoldingWord/en_tq). If you go to the linked page and click on one of the files, you can then download it, open it as a spreadsheet, and edit the list of questions.
+Da es mühsam sein kann, eine Frage nach der anderen zu erstellen, haben wir auch die Möglichkeit geschaffen, Fragen aus einer Tabelle zu importieren. Du kannst ein Programm wie Microsoft Excel, Google Sheets oder LibreOffice Calc verwenden, um eine Liste von Fragen zu erstellen oder zu bearbeiten. Falls Du auf der Suche nach einer Reihe vorgefertigter Fragen bist, solltest Du die [unfoldingWord®-Übersetzungsfragen](https://git.door43.org/unfoldingWord/en_tq) in Betracht ziehen. Falls Du auf die verlinkte Seite gehst und auf eine der Dateien klickst, kannst Du sie herunterladen, als Tabellenkalkulation öffnen und die Liste der Fragen bearbeiten.
 
-Here's an example of how the rows in your spreadsheet should look in order to be able to import it to Scripture Forge:
+Hier siehst Du ein Beispiel dafür, wie die Zeilen in Deiner Tabelle aussehen sollten, damit Du sie in Scripture Forge importieren kannst:
 
-| Verweis                   | Frage                                                   |
-| ------------------------- | ------------------------------------------------------- |
-| HEB 1:1   | What does "our fathers" refer to?                       |
-| HEB 1:2   | What does it mean that the Son is "heir of all things"? |
-| HEB 1:2-3 | Who is the "Son" spoken of in these verses?             |
+| Verweis                   | Frage                                                  |
+| ------------------------- | ------------------------------------------------------ |
+| HEB 1:1   | Worauf bezieht sich "unsere Väter"?                    |
+| HEB 1:2   | Was bedeutet es, dass der Sohn „Erbe aller Dinge“ ist? |
+| HEB 1:2-3 | Wer ist der "Sohn", von dem diese Verse sprechen?      |
 
-The spreadsheet can have more columns as well, but all columns except the "reference" and "question" columns will not be used. The TSV files published by unfoldingWord are in a slightly different format, but can be imported to Scripture Forge too.
+Die Tabelle kann auch mehr als zwei Spalten haben, aber nur die Spalten "Verweis" und "Frage" werden verwendet. Die von unfoldingWord veröffentlichten TSV-Dateien haben ein etwas anderes Format, können aber ebenfalls in Scripture Forge importiert werden.
 
 :::note
 
-The reference needs to have the book name abbreviated the same way Paratext abbreviates book names. For example, **HEB 1:1** will work, but **Hebrews 1:1** will not work.
+Der Verweis muss den Buchnamen in der gleichen Weise abkürzen, wie Paratext Buchnamen abkürzt. Zum Beispiel funktioniert **HEB 1:1**, aber **Hebräer 1,1** funktioniert nicht.
 
 :::
 
-If you need help getting your spreadsheet into the right format to import to Scripture Forge, we would be happy to help you. Just send an email to [help@scriptureforge.org](mailto:help@scriptureforge.org).
+Falls Du Hilfe benötigst, um Deine Tabelle in das richtige Format für den Import in Scripture Forge zu bringen, helfen wir Dir gerne. Sende einfach eine E-Mail an [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
-1. Save your spreadsheet as a CSV file.
+1. Speichere Deine Tabelle als CSV-Datei.
 
     :::note
 
-    If you are using Microsoft Excel, be sure to select "CSV UTF-8 (Comma delimited) (\*.csv)" as the file type when exporting as CSV.
+    Falls Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du eine Datei als CSV exportierest.
 
     :::
 
-2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
+2. Klicke dann in der Navigationsleiste in Scripture Forge unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**.
 
-3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
+3. Klicke dann auf die Schaltfläche **Massenimport**. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest.
 
-4. Click on **Import from CSV file** and select the file.
-    1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
-    2. Otherwise you will be shown a list of questions.
+4. Klicke auf **Import aus CSV-Datei** und wähle die Datei aus.
+    1. Falls Du einige Zeilen in Deiner Datei hast, die keinen gültigen Verweis und keine gültige Frage enthalten, wird eine Warnung angezeigt, die Dich darauf hinweist, dass diese Zeilen übersprungen werden.
+    2. Andernfalls wird Dir eine Liste von Fragen angezeigt.
 
-### Import all questions {#1850d745ac9e80b59ae8cabac1b67e7f}
+### Alle Fragen importieren {#1850d745ac9e80b59ae8cabac1b67e7f}
 
-To import all of the questions in the CSV file, follow these steps:
+Um alle Fragen in der CSV-Datei zu importieren, gehe wie folgt vor:
 
-1. Click the checkbox at the top of the list. This will select all the questions.
-2. Click **Import Selected Questions**.
+1. Klicke auf das Kontrollkästchen am Anfang der Liste. Damit werden alle Fragen ausgewählt.
+2. Klicke auf **Ausgewählte Fragen importieren**.
 
-### Import a subset of questions {#1850d745ac9e8045aa5bd2ab9ce99fbc}
+### Ein Teil der Fragen importieren {#1850d745ac9e8045aa5bd2ab9ce99fbc}
 
-You can also filter for a subset of the questions:
+Du kannst auch nach einem Teil der Fragen filtern:
 
-1. Use the **Reference from** and **Reference to** boxes to specify the verses that you want the questions to start and end at.
-2. For example, if you only want to import questions for Mark 5:
-    1. Put **MRK 5:1** in the **Reference from** box.
-    2. Put **MRK 5:43** in the **Reference to** box.
-3. Click the checkbox at the top of the list to select all questions. Only the questions that are shown will be selected.
-4. Click **Import Selected Questions**.
+1. Verwende die Felder **Verweis von** und **Verweis auf**, um die Verse anzugeben, mit denen die Fragen beginnen und enden sollen.
+2. Falls Du zum Beispiel nur Fragen für Markus 5 importieren möchtest:
+    1. Gib **MRK 5:1** in das Feld **Verweis von** ein.
+    2. Gib **MRK 5:43** in das Feld **Verweis auf** ein.
+3. Klicke auf das Kontrollkästchen am Anfang der Liste, um alle Fragen auszuwählen. Nur die angezeigten Fragen werden ausgewählt.
+4. Klicke auf **Ausgewählte Fragen importieren**.
 
 :::note
 
-You don't have to remember that there are 43 verses in Mark 5 in order to filter for all the verses in the chapter. If you click the dropdown arrow in the **Reference to** box, a dialog will open allowing you to select a book, chapter, and verse. Once you select Mark 5, it will list the verses in Mark 5, and you'll be able to select the last one, which is verse 43. Alternatively you can type **MRK 5:100** in the **Reference to** box, and all the verses in Mark 5 will be included, even though there isn't actually a verse 100 in Mark 5.
+Du musst Dir nicht merken, dass Markus 5 43 Verse hat, um nach allen Versen des Kapitels zu filtern. Wenn Du auf den Dropdown-Pfeil im Feld **Verweis auf** klickst, wird ein Dialogfeld geöffnet, in dem Du ein Buch, ein Kapitel und einen Vers auswählen kannst. Wenn Du Markus 5 auswählst, werden die Verse in Markus 5 aufgelistet, und Du kannst den letzten Vers, Vers 43, auswählen. Alternativ kannst Du auch **MRK 5:100** in das Feld **Verweis auf** eingeben, und alle Verse in Markus 5 werden einbezogen, obwohl es in Markus 5 eigentlich keinen Vers 100 gibt.
 
 :::
 
-### Importing questions from Transcelerator {#1850d745ac9e8003815fc894b8baaeb7}
+### Fragen aus Transcelerator importieren {#1850d745ac9e8003815fc894b8baaeb7}
 
-[Transcelerator](https://software.sil.org/transcelerator/) is a plugin for Paratext that has a bank of ready-made comprehension checking questions in several major languages. Those questions can be translated within Paratext, exported to Scripture Forge, and then after a sync, imported into Scripture Forge.
+[Transcelerator](https://software.sil.org/transcelerator/) ist ein Plugin für Paratext, das eine Reihe von vorgefertigten Fragen zur Überprüfung des Textverständnisses in mehreren wichtigen Sprachen enthält. Diese Fragen können in Paratext übersetzt, in Scripture Forge exportiert und dann nach einer Synchronisierung in Scripture Forge importiert werden.
 
-To import questions from Transcelerator:
+Um Fragen aus Transcelerator zu importieren:
 
-1. Download and install Transcelerator from [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. From within Paratext, launch Transcelerator.
-3. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
-4. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
-5. Close Transcelerator, and do a send and receive with Paratext.
-6. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
-7. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
-8. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
-9. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
-10. Click **Import Selected Questions** and your questions will be added to the project.
+1. Lade Transcelerator von [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/) herunter und installiere es.
+2. Starte Transcelerator in Paratext.
+3. Öffne in Transcelerator das Menü **Datei** und klicke auf **Scripture Forge-Datei erzeugen**.
+4. Gib die Übersetzungen der englischen Fragen, die Du verwenden möchtest, in die Spalte **Übersetzung** ein. Aktiviere für jede Frage, die bereit ist, das Kontrollkästchen **Bestätigt**.
+5. Schließe Transcelerator und führe "Senden/Empfangen" in Paratext aus.
+6. Klicke in Scripture Forge in der Navigationsleiste auf **Synchronisieren**. Klicke auf der sich öffnenden Seite auf **Synchronisieren**, um die Transcelerator-Fragen von Paratext zu senden und zu empfangen.
+7. Klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**. Klicke dann auf die Schaltfläche **Massenimport**.
+8. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest. Klicke auf **Import aus Transcelerator**.
+9. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. Siehe den Abschnitt mit den Anweisungen zum Filtern für die gewünschten Fragen.
+10. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 
-## Attach audio recording of the text {#1850d745ac9e80e795f3d611356e74d5}
+## Audioaufnahme des Textes hinzufügen {#1850d745ac9e80e795f3d611356e74d5}
 
-Scripture Forge can play an audio recording of each passage for community checkers. To do this, you will need to upload an audio file and a timing file for each chapter. Timing files allow Scripture Forge to highlight each verse as it is being spoken.
+Scripture Forge kann eine Audioaufnahme von jedem Textabschnitt für Überprüfer der Zielgruppe abspielen. Dazu musst Du für jedes Kapitel eine Audiodatei und eine Zeitdatei hochladen. Zeitdateien erlauben es Scripture Forge jeden Vers hervorzuheben, während er gesprochen wird.
 
-### Recording the text {#1850d745ac9e805eb4b1c0f05d6da02a}
+### Den Text aufnehmen {#1850d745ac9e805eb4b1c0f05d6da02a}
 
-Scripture Forge supports audio in .mp3 and .wav file formats. Timing files are supported from HearThis, aeneas, Audacity, and Adobe Audition.
+Scripture Forge unterstützt Audio in den Dateiformaten .mp3 und .wav. Zeitdateien werden von HearThis, aeneas, Audacity und Adobe Audition unterstützt.
 
-One of the simplest options is to use [HearThis](http://software.sil.org/hearthis) to record the translation. [This guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) will walk you through the process of recording scripture and producing audio and timing files. Skip the steps at the end about using Scripture App Builder.
+Eine der einfachsten Optionen ist es, [HearThis](http://software.sil.org/hearthis) zu verwenden, um die Übersetzung aufzunehmen. [Diese Anleitung](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf) führt Dich durch den Prozess der Aufnahme von Bibeltexten und dem Erstellung von Audio- und Zeitdateien. Überspringe die Schritte am Ende über die Verwendung von Scripture App Builder.
 
-The [resources](https://software.sil.org/scriptureappbuilder/resources/) for Scripture App Builder discuss more advanced approaches, such as using Glyssen for a dramatized audio recording.
+Die [Ressourcen](https://software.sil.org/scriptureappbuilder/resources/) für Scripture App Builder diskutiert fortgeschrittene Ansätze, wie etwa die Verwendung von Glyssen für eine dramatisierte Audioaufnahme.
 
-### Creating timing files {#1850d745ac9e80c7b583c6d50193d7c9}
+### Zeitdateien erstellen {#1850d745ac9e80c7b583c6d50193d7c9}
 
-If you already have audio recorded, there are several options for creating timing data.
+Falls Du bereits Audioaufnahmen hast, gibt es mehrere Optionen zum Erstellen von Zeitdaten.
 
-You can automatically generate timing files using aeneas by following [these instructions](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf).
+Du kannst automatisch Zeitdateien mit Aeneas generieren, indem Du [diesen Anweisungen](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf) folgst.
 
-Alternatively, you can manually create timing files using Audacity by following [this guide](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf). Another option is Adobe Audition. Timing data from Adobe Audition is supported in decimal or FPS time formats. We don't support the "samples" format.
+Alternativ kannst Du mit Audacity manuell Zeitdateien erstellen, indem Du [dieser Anleitung](https://software.sil.org/downloads/r/scriptureappbuilder/Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf) folgst. Eine weitere Option ist Adobe Audition. Zeitdaten von Adobe Audition werden in dezimalen oder FPS Zeitformaten unterstützt. Das Format "Samples" wird von uns nicht unterstützt.
 
-### Attaching audio {#1850d745ac9e80668685c9ea58252d6b}
+### Audio anhängen {#1850d745ac9e80668685c9ea58252d6b}
 
-To upload audio and timing files, in the sidebar click **Questions & answers**, navigate to the chapter you want to attach audio to, and then click the **Manage Audio** icon in the top right corner. Click **Browse Files** and select the audio recording and associated timing file for that chapter, then click **Save**.
+Um Audio- und Zeitdateien hochzuladen, klicke in der Seitenleiste auf **Fragen & Antworten**, navigiere zu dem Kapitel, an das du Audio anhängen möchtest und klicke dann auf das **Audio**-Symbol in der oberen rechten Ecke. Klicke auf **Dateien durchsuchen** und wähle die Audioaufzeichnung und dazugehörige Zeitdatei für dieses Kapitel aus und klicke dann auf **Speichern**.
 
 ![](./645317227.png)
 
