@@ -54,19 +54,19 @@ If you need help getting your spreadsheet into the right format to import to Scr
 
 1. Save your spreadsheet as a CSV file.
 
-    :::note
+   :::note
 
-    If you are using Microsoft Excel, be sure to select "CSV UTF-8 (Comma delimited) (\*.csv)" as the file type when exporting as CSV.
+   If you are using Microsoft Excel, be sure to select "CSV UTF-8 (Comma delimited) (\*.csv)" as the file type when exporting as CSV.
 
-    :::
+   :::
 
 2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
 
 3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
 
 4. Click on **Import from CSV file** and select the file.
-    1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
-    2. Otherwise you will be shown a list of questions.
+   1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
+   2. Otherwise you will be shown a list of questions.
 
 ### Import all questions {#1850d745ac9e80b59ae8cabac1b67e7f}
 
@@ -81,8 +81,8 @@ You can also filter for a subset of the questions:
 
 1. Use the **Reference from** and **Reference to** boxes to specify the verses that you want the questions to start and end at.
 2. For example, if you only want to import questions for Mark 5:
-    1. Put **MRK 5:1** in the **Reference from** box.
-    2. Put **MRK 5:43** in the **Reference to** box.
+   1. Put **MRK 5:1** in the **Reference from** box.
+   2. Put **MRK 5:43** in the **Reference to** box.
 3. Click the checkbox at the top of the list to select all questions. Only the questions that are shown will be selected.
 4. Click **Import Selected Questions**.
 

@@ -54,19 +54,19 @@ Si vous avez besoin d'aide pour formater votre feuille de calcul correctement af
 
 1. Enregistrez votre feuille de calcul en tant que fichier CSV.
 
-    :::note
+   :::note
 
-    Si vous utilisez Microsoft Excel, veillez à sélectionner "CSV UTF-8 (délimité par des virgules) (\*.csv)" comme type de fichier lors de l'exportation au format CSV.
+   Si vous utilisez Microsoft Excel, veillez à sélectionner "CSV UTF-8 (délimité par des virgules) (\*.csv)" comme type de fichier lors de l'exportation au format CSV.
 
-    :::
+   :::
 
 2. Ensuite, dans Scripture Forge, cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre latérale de navigation.
 
 3. Cliquez ensuite sur le bouton **Importation en lots** . Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions.
 
 4. Cliquez sur **Importer à partir du fichier CSV** et sélectionnez le fichier.
-    1. Si certaines lignes de votre fichier n'ont pas de référence et de question valides, un avertissement s'affichera pour vous indiquer que ces lignes seront ignorées.
-    2. Dans le cas contraire, une liste de questions s'affichera.
+   1. Si certaines lignes de votre fichier n'ont pas de référence et de question valides, un avertissement s'affichera pour vous indiquer que ces lignes seront ignorées.
+   2. Dans le cas contraire, une liste de questions s'affichera.
 
 ### Importer toutes les questions {#1850d745ac9e80b59ae8cabac1b67e7f}
 
@@ -81,8 +81,8 @@ Vous pouvez également filtrer pour avoir un sous-ensemble de questions :
 
 1. Utilisez les cases **Référence de début** et **Référence de fin** pour spécifier les versets sur lesquels vous souhaitez que les questions commencent et se terminent.
 2. Par exemple, si vous voulez seulement importer des questions pour Marc 5 :
-    1. Indiquez **MRK 5:1** dans la case **Référence de début** .
-    2. Indiquez **MRK 5:43** dans la case **Référence de fin** .
+   1. Indiquez **MRK 5:1** dans la case **Référence de début** .
+   2. Indiquez **MRK 5:43** dans la case **Référence de fin** .
 3. Cliquez sur la case à cocher en haut de la liste pour sélectionner toutes les questions. Seules les questions affichées seront sélectionnées.
 4. Cliquez sur **Importer les questions sélectionnées**.
 
