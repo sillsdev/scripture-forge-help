@@ -54,19 +54,19 @@ Falls Du Hilfe benötigst, um Deine Tabelle in das richtige Format für den Impo
 
 1. Speichere Deine Tabelle als CSV-Datei.
 
-    :::note
+   :::note
 
-    Falls Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du eine Datei als CSV exportierest.
+   Falls Du Microsoft Excel verwendest, wähle bitte „CSV UTF-8 (durch Komma getrennt) (\*.csv)“ als Dateityp aus, wenn Du eine Datei als CSV exportierest.
 
-    :::
+   :::
 
 2. Klicke dann in der Navigationsleiste in Scripture Forge unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**.
 
 3. Klicke dann auf die Schaltfläche **Massenimport**. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest.
 
 4. Klicke auf **Import aus CSV-Datei** und wähle die Datei aus.
-    1. Falls Du einige Zeilen in Deiner Datei hast, die keinen gültigen Verweis und keine gültige Frage enthalten, wird eine Warnung angezeigt, die Dich darauf hinweist, dass diese Zeilen übersprungen werden.
-    2. Andernfalls wird Dir eine Liste von Fragen angezeigt.
+   1. Falls Du einige Zeilen in Deiner Datei hast, die keinen gültigen Verweis und keine gültige Frage enthalten, wird eine Warnung angezeigt, die Dich darauf hinweist, dass diese Zeilen übersprungen werden.
+   2. Andernfalls wird Dir eine Liste von Fragen angezeigt.
 
 ### Alle Fragen importieren {#1850d745ac9e80b59ae8cabac1b67e7f}
 
@@ -81,8 +81,8 @@ Du kannst auch nach einem Teil der Fragen filtern:
 
 1. Verwende die Felder **Verweis von** und **Verweis auf**, um die Verse anzugeben, mit denen die Fragen beginnen und enden sollen.
 2. Falls Du zum Beispiel nur Fragen für Markus 5 importieren möchtest:
-    1. Gib **MRK 5:1** in das Feld **Verweis von** ein.
-    2. Gib **MRK 5:43** in das Feld **Verweis auf** ein.
+   1. Gib **MRK 5:1** in das Feld **Verweis von** ein.
+   2. Gib **MRK 5:43** in das Feld **Verweis auf** ein.
 3. Klicke auf das Kontrollkästchen am Anfang der Liste, um alle Fragen auszuwählen. Nur die angezeigten Fragen werden ausgewählt.
 4. Klicke auf **Ausgewählte Fragen importieren**.
 

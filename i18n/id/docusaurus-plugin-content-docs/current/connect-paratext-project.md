@@ -10,7 +10,7 @@ import ReactPlayer from "react-player";
 
 :::tip
 
-Paratext projects only need to be connected once within Scripture Forge.
+Proyek-proyek Paratext hanya perlu dihubungkan satu kali di dalam Scripture Forge.
 
 :::
 
@@ -71,5 +71,5 @@ Scripture Forge may take a while to connect your project. The green progress bar
 ![](./672841105.png)
 
 
-Note: You may be able to work in Scripture Forge before it is fully connected.
+Catatan: Anda mungkin dapat bekerja di Scripture Forge sebelum terhubung sepenuhnya.
 
