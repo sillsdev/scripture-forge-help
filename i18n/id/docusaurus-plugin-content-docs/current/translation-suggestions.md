@@ -25,7 +25,7 @@ Translation suggestions allow Scripture Forge to analyze a source and target lan
 
 :::note
 
-This must be done by each user who wants to use translation suggestions.
+Hal ini harus dilakukan oleh setiap pengguna yang ingin menggunakan saran terjemahan.
 
 :::
 
@@ -154,7 +154,7 @@ Now that you understand how to navigate in Scripture Forge, it's time to learn h
 
 :::tip
 
-Scripture Forge will continue to learn and make better suggestions as you translate.
+Scripture Forge akan terus belajar dan memberikan saran yang lebih baik saat Anda menerjemahkan.
 
 To adjust the _**translation suggestion settings**_ for your user, see the [steps here](/translation-suggestions).
 
@@ -185,7 +185,7 @@ To adjust the _**translation suggestion settings**_ for your user, see the [step
 
 :::note
 
-You can configure the translation suggestion settings for your individual user.
+Anda dapat mengelola pengaturan saran terjemahan untuk masing-masing pengguna.
 
 :::
 

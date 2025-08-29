@@ -4,11 +4,13 @@ import { chromium } from "npm:playwright";
 
 const locales = ["en", "id", "fr", "es", "pt-BR", "de"];
 
-const rootPage = Deno.args[0];
+let rootPage = Deno.args[0];
 
 if (rootPage == null) {
   console.error("Usage: ./playwright-test.mts <rootPage>");
   Deno.exit(1);
+} else if (rootPage[rootPage.length - 1] === '/') {
+  rootPage = rootPage.slice(0, -1);
 }
 
 // Setup

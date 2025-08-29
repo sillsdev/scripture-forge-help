@@ -41,11 +41,11 @@ First you need to **select your project** from the navigation page, if you haven
 
     ![](./1423231981.png)
 
-2. Select your project:
+2. Selecione o projeto:
 
     ![](./1186041765.png)
 
-**OR**
+**OU**
 
 1. Click on the Scripture Forge menu icon:
 

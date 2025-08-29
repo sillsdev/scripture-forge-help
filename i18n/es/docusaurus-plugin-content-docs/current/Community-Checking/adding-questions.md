@@ -54,19 +54,19 @@ Si necesitas ayuda para poner tu hoja de cálculo en el formato adecuado para im
 
 1. Guarda tu hoja de cálculo como archivo CSV.
 
-    :::note
+   :::note
 
-    Si utiliza Microsoft Excel, asegúrese de seleccionar "CSV UTF-8 (delimitado por comas) (\*.csv)" como tipo de archivo al exportar como CSV.
+   Si utiliza Microsoft Excel, asegúrese de seleccionar "CSV UTF-8 (delimitado por comas) (\*.csv)" como tipo de archivo al exportar como CSV.
 
-    :::
+   :::
 
 2. A continuación, en Scripture Forge, haz clic en **Visión general** en la sección **Comprobación de la comunidad** de la barra lateral de navegación.
 
 3. A continuación, haz clic en el botón **Importación masiva**. Se abrirá un diálogo pidiéndote que elijas de dónde quieres importar las preguntas.
 
 4. Haz clic en **Importar desde archivo CSV** y selecciona el archivo.
-    1. Si tienes algunas filas en tu archivo que no tienen una referencia y una pregunta válidas, se mostrará una advertencia haciéndote saber que esas filas se omitirán.
-    2. De lo contrario, se te mostrará una lista de preguntas.
+   1. Si tienes algunas filas en tu archivo que no tienen una referencia y una pregunta válidas, se mostrará una advertencia haciéndote saber que esas filas se omitirán.
+   2. De lo contrario, se te mostrará una lista de preguntas.
 
 ### Importar todas las preguntas {#1850d745ac9e80b59ae8cabac1b67e7f}
 
@@ -81,8 +81,8 @@ También puedes filtrar por un subconjunto de preguntas:
 
 1. Utiliza las casillas **Referencia desde** y **Referencia hasta** para especificar los versículos en los que quieres que empiecen y terminen las preguntas.
 2. Por ejemplo, si sólo quieres importar preguntas para la Marca 5:
-    1. Pon **MRK 5:1** en la casilla **Referencia de**.
-    2. Pon **MRK 5:43** en la casilla **Referencia a**.
+   1. Pon **MRK 5:1** en la casilla **Referencia de**.
+   2. Pon **MRK 5:43** en la casilla **Referencia a**.
 3. Haz clic en la casilla situada en la parte superior de la lista para seleccionar todas las preguntas. Sólo se seleccionarán las preguntas que se muestren.
 4. Haz clic en **Importar preguntas seleccionadas**.
 
