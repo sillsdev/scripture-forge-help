@@ -20,7 +20,7 @@ Une fois que la rédaction de votre projet a été activée, le bouton « S'insc
 
 ### Choix des projets de référence
 
-Le projet de référence est utilisé pour la formation du modèle linguistique. Usually this is the project that you refer to most often as you are translating, but in some cases you can get better results by using a different project. Certains projets peuvent sélectionner un deuxième projet de référence. Un cas d'utilisation courant est de sélectionner votre traduction de retour comme deuxième projet de référence.
+Le projet de référence est utilisé pour la formation du modèle linguistique. Généralement, c'est le projet auquel vous faites référence le plus souvent lorsque vous traduisez, mais dans certains cas, vous pouvez obtenir de meilleurs résultats en utilisant un projet différent. Certains projets peuvent sélectionner un deuxième projet de référence. Un cas d'utilisation courant est de sélectionner votre traduction de retour comme deuxième projet de référence.
 
 Chaque projet est différent, donc suivez les instructions que vous avez reçues de l'équipe d'intégration.
 
@@ -28,13 +28,13 @@ Chaque projet est différent, donc suivez les instructions que vous avez reçues
 
 ### Choix du projet source
 
-The second step is to select the project you want the draft to be translated from. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Cliquez sur le projet que vous voulez utiliser comme source, puis passez à l'étape suivante.
+La deuxième étape est de sélectionner le projet dont vous voulez que le brouillon soit traduit. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Cliquez sur le projet que vous voulez utiliser comme source, puis passez à l'étape suivante.
 
 ![](./configure_sources_draft_source.png)
 
 ### Confirmation des langues
 
-La dernière étape montre les données de la langue cible. Cela inclura toujours votre projet lui-même, qui est déjà sélectionné et ne peut pas être supprimé. You can add additional training data on this step by uploading a spreadsheet with paired data, with the source language in the first column, and the target language in the second column.
+La dernière étape montre les données de la langue cible. Cela inclura toujours votre projet lui-même, qui est déjà sélectionné et ne peut pas être supprimé. Vous pouvez ajouter des données de formation supplémentaires à cette étape en téléchargeant une feuille de calcul avec des données appariées, avec la langue source dans la première colonne, et la langue cible dans la seconde colonne.
 
 Sur le côté droit, vous verrez un diagramme de la façon dont les projets que vous avez sélectionnés seront utilisés pour générer l'ébauche . Dans un premier temps, le modèle linguistique apprend en comparant les projets de référence au projet traduit. Dans un deuxième temps, il utilisera ces connaissances pour traduire le projet source.
 
