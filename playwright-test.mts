@@ -9,7 +9,7 @@ let rootPage = Deno.args[0];
 if (rootPage == null) {
   console.error("Usage: ./playwright-test.mts <rootPage>");
   Deno.exit(1);
-} else if (rootPage[rootPage.length - 1] === '/') {
+} else if (rootPage[rootPage.length - 1] === "/") {
   rootPage = rootPage.slice(0, -1);
 }
 
@@ -122,6 +122,11 @@ for (const locale of locales) {
         .locator("main h1, main h2, main h3, main h4")
         .count(),
       listItems: await page.locator("main li").count(),
+      // Double asterisks and underscores are used in Markdown and should not appear in rendered text
+      doubleAsterisks:
+        (await page.locator("body").textContent())!.split("**").length - 1,
+      doubleUnderscores:
+        (await page.locator("body").textContent())!.split("__").length - 1,
     };
 
     if (locale === "en") {

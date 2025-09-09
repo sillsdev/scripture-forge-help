@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /preparing-for-ai-drafting
 ---
 
-## Inscrivez-vous pour l'ébauche automatique.\*\* {#c01e77600a3b440ead3f1b816837d614}
+## Inscrivez-vous pour l'ébauche automatique. {#c01e77600a3b440ead3f1b816837d614}
 
 Pour générer des ébauches dans la Forge des Écritures, cliquez sur le bouton « Générer une ébauche  » dans le menu principal. Cliquez ensuite sur le bouton "S'inscrire à l'ébauche", et remplissez le formulaire qui s'ouvre, pour avoir accès à votre projet. Les projets de retraduction sont activés par défaut et n'ont pas besoin de remplir le formulaire.
 
