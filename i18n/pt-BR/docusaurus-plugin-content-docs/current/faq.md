@@ -18,9 +18,9 @@ slug: /faq
 
    _You may use the following links to contact us or find support:_
 
-    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
-    - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
-    - **Questions and Support:** email: support_team@scriptureforge.org
+   - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+   - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
+   - **Questions and Support:** email: support_team@scriptureforge.org
 
 ## Questions on sources and training the model {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
@@ -28,9 +28,9 @@ slug: /faq
 
    _There are 2 primary ways to improve drafts._
 
-    - _The first is to add more data to the translation model. You can do this by choosing more books in Step 2 - "Select books to train on." The more data available for training, the better the results of the drafts will be._
-    - _The second way is to improve the quality of the data in the translation model. You can do this by making sure the books you have chosen are well checked for consistency in areas such as spelling, punctuation, and content. The better the quality of the data, the better the system will learn to generate good drafts._
-    - _Many teams also see benefit from using an up-to-date back translation as an additional training source._
+   - _The first is to add more data to the translation model. You can do this by choosing more books in Step 2 - "Select books to train on." The more data available for training, the better the results of the drafts will be._
+   - _The second way is to improve the quality of the data in the translation model. You can do this by making sure the books you have chosen are well checked for consistency in areas such as spelling, punctuation, and content. The better the quality of the data, the better the system will learn to generate good drafts._
+   - _Many teams also see benefit from using an up-to-date back translation as an additional training source._
 
 2. Why do you want me to set a separate training source that isn't my main source?
 
@@ -61,8 +61,8 @@ slug: /faq
    ![](./267304602.png)
 
 3. Why does my book only have Chapter 1 in the project?
-    - _Adding a draft to the project happens on a chapter-by-chapter basis from the "Autodraft" window under "Edit and Review." So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
-    - _You can add the whole book by navigating to "Generate Draft" and finding the draft that has been generated. Click the 3-dot menu available next to the name of the book you wish to add, and then click "Add to project." This will add the whole book to your project._
+   - _Adding a draft to the project happens on a chapter-by-chapter basis from the "Autodraft" window under "Edit and Review." So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
+   - _You can add the whole book by navigating to "Generate Draft" and finding the draft that has been generated. Click the 3-dot menu available next to the name of the book you wish to add, and then click "Add to project." This will add the whole book to your project._
 
 4. Why does my button say "re-add to project"?
 
