@@ -18,9 +18,9 @@ slug: /faq
 
    _Anda dapat menggunakan tautan berikut untuk menghubungi kami atau menemukan dukungan:_
 
-    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
-    - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
-    - **Questions and Support:** email: support_team@scriptureforge.org
+   - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
+   - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
+   - **Questions and Support:** email: support_team@scriptureforge.org
 
 ## Pertanyaan tentangmodel Sumber dan Pelatihan {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
@@ -28,9 +28,9 @@ slug: /faq
 
    _Ada 2 cara utama untuk memperbaiki konsep._
 
-    - _Yang pertama adalah menambahkan lebih banyak data ke model Terjemahan. You can do this by choosing more books in Step 2 - "Select books to train on." Semakin banyak data yang tersedia untuk pelatihan, semakin baik pula hasil konsepnya._
-    - _Cara kedua adalah dengan meningkatkan kualitas data dalam Model Penerjemahan. Anda dapat melakukan ini dengan memastikan kitab yang Anda pilih telah diperiksa dengan baik dalam konsistensi di berbagai bidang seperti ejaan, tanda baca, dan maknanya. Semakin baik kualitas data, semakin baik pula sistem akan belajar untuk menghasilkan konsep yang baik._
-    - _Banyak tim juga merasakan manfaat dari penggunaan terjemahan terbaru sebagai sumber pelatihan tambahan_
+   - _Yang pertama adalah menambahkan lebih banyak data ke model Terjemahan. You can do this by choosing more books in Step 2 - "Select books to train on." Semakin banyak data yang tersedia untuk pelatihan, semakin baik pula hasil konsepnya._
+   - _Cara kedua adalah dengan meningkatkan kualitas data dalam Model Penerjemahan. Anda dapat melakukan ini dengan memastikan kitab yang Anda pilih telah diperiksa dengan baik dalam konsistensi di berbagai bidang seperti ejaan, tanda baca, dan maknanya. Semakin baik kualitas data, semakin baik pula sistem akan belajar untuk menghasilkan konsep yang baik._
+   - _Banyak tim juga merasakan manfaat dari penggunaan terjemahan terbaru sebagai sumber pelatihan tambahan_
 
 2. Mengapa Anda ingin saya menetapkan sumber pelatihan terpisah yang bukan sumber utama saya?
 
@@ -61,8 +61,8 @@ slug: /faq
    ![](./267304602.png)
 
 3. Mengapa kitab saya hanya memiliki Pasal 1 dalam proyek ini?
-    - _Menambahkan konsep ke proyek dilakukan berdasarkan pasal per pasal dari jendela "Membuat konsep otomatis" di bawah "Sunting dan Tinjau". Jadi, jika hanya satu pasal yang ditambahkan, pasal tersebut akan menjadi satu-satunya pasal yang tersedia dalam proyek. Pasal lain harus ditambahkan secara terpisah._
-    - _Anda dapat menambahkan seluruh kitab dengan menavigasi ke "Buat konsep" dan menemukan konsep yang telah dibuat. Klik menu 3 titik yang tersedia di sebelah nama kitab yang ingin Anda tambahkan, lalu klik "Tambahkan ke proyek." Ini akan menambahkan seluruh kitab ke proyek Anda_
+   - _Menambahkan konsep ke proyek dilakukan berdasarkan pasal per pasal dari jendela "Membuat konsep otomatis" di bawah "Sunting dan Tinjau". Jadi, jika hanya satu pasal yang ditambahkan, pasal tersebut akan menjadi satu-satunya pasal yang tersedia dalam proyek. Pasal lain harus ditambahkan secara terpisah._
+   - _Anda dapat menambahkan seluruh kitab dengan menavigasi ke "Buat konsep" dan menemukan konsep yang telah dibuat. Klik menu 3 titik yang tersedia di sebelah nama kitab yang ingin Anda tambahkan, lalu klik "Tambahkan ke proyek." Ini akan menambahkan seluruh kitab ke proyek Anda_
 
 4. Why does my button say "re-add to project"?
 
