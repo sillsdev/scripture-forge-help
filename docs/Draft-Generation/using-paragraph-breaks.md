@@ -11,11 +11,11 @@ The Paragraph Breaks feature provides additional options for handling the paragr
 
 The button for the formatting options is on the “Generate Draft” page.  When you change the settings a preview of the changes will be shown. Changing the option does not affect drafts that have been added to a project, changing the options only affects the draft previews before they are added to a project.
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-13 093234.png>)
+[image goes here]
 
 Use the "Formatting Options" button to set up the paragraph breaks and quote styles for your draft. After the initial set up, you can return to the “Formatting Options” page and change your settings at any time.
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-13 093931.png>)
+[image goes here]
 
 # Using the Paragraph Breaks feature (step-by-step)
 
@@ -23,15 +23,15 @@ Use the "Formatting Options" button to set up the paragraph breaks and quote sty
 2. Select the book you want to draft (e.g. 1 Kings).
 3. Before generating  a new draft, select Formatting Options.
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-20 123401.png>)
+[image goes here]
 
 4. Select which option of paragraph breaks that will be applied to your draft. Those options are Best Guess, Remove, or Move to End.
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-13 093931.png>)
+[image goes here]
 
 5. Review the newly generated text—the paragraph breaks will now be placed with the updated formatting.
 
-![alt text](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-09-24 112610.png>)
+[image goes here]
 
 :::tip
 
@@ -51,3 +51,4 @@ If you have an older draft of any book in your project, and you want to benefit 
 **Remarks:** Remarks are added to the top of the drafts indicating which formatting option was applied to the draft.
 
 **Existing books and drafts:** The feature cannot format Paragraph marks in books that are already in your project.
+
