@@ -1,9 +1,9 @@
-
 ---
 title: Using Quote Styles
 sidebar_position: 3
-slug:/Using-Quote-Styles
+slug: /Using-Quote-Styles
 ---
+
 # Using Quote Styles
 
 The Quote Style feature automatically restores quotation marks in new drafts so they match the conventions already used in your project. When Scripture Forge generates AI drafts, some punctuation distinctions are lost, this is part of the process and it generally improves the quality of the generated drafts. However, it can create a lot of work for translators who need to restore the distinctions that have been lost. One key distinction is that curly quotation marks are simplified to straight quotes:
@@ -20,11 +20,11 @@ However, many projects use other styles for quotation marks, such as:
 
 On the Generate Draft page is Formatting Options button which will allow you to set up the paragraph breaks and quote styles for your draft. After the initial set up, you can return to the Formatting Options page and change your settings.
 
-[image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-13 093234.png>)
+[image goes here]
 
 You can return to the “Formatting Options” page and change your settings.
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-13 093803.png>)
+[image goes here]
 
 ## How to Use Quote Styles (step-by-step)
 
@@ -32,11 +32,11 @@ You can return to the “Formatting Options” page and change your settings.
 2. Select the book you want to draft (e.g. 1 Kings).
 3. Before generating  a new draft, select Formatting Options.
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-20 123401.png>)
+[image goes here]
 
 4. Select the options for quote styles to apply to the draft. The two options are  "Automatic quote style" or "Straight quotes".
 
-![image](<../../../OneDrive/Pictures/Screenshots/Screenshot 2025-10-20 140816.png>)
+[image goes here]
 
 5. Click save.
 6. Review the output:
@@ -70,4 +70,5 @@ Scripture Forge uses straight, single, and double quotes by default. If you are 
 **Existing drafts:** Existing drafts in your project cannot be reformatted automatically.
 
 **Undetermined quote styles:** If Scripture Forge cannot confidently determine the quote style, you will be notified so that you can edit manually.
+
 
