@@ -1,5 +1,5 @@
 ---
-title: Using paragraph breaks
+title: Using Paragraph Breaks
 sidebar_position: 2
 slug: /Using-Paragraph-Breaks
 ---
@@ -51,4 +51,5 @@ If you have an older draft of any book in your project, and you want to benefit 
 **Remarks:** Remarks are added to the top of the drafts indicating which formatting option was applied to the draft.
 
 **Existing books and drafts:** The feature cannot format Paragraph marks in books that are already in your project.
+
 
