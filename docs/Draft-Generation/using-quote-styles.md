@@ -33,7 +33,7 @@ You can return to the “Formatting Options” page and change your settings.
 3. Before generating  a new draft, select Formatting Options.
 4. Select the options for quote styles to apply to the draft. The two options are  "Automatic quote style" or "Straight quotes".
 
-[insert image here]
+![](./quote_styles_image1.png)
 
 5. Click save.
 6. Review the output:
@@ -67,6 +67,7 @@ Scripture Forge uses straight, single, and double quotes by default. If you are 
 **Existing drafts:** Existing drafts in your project cannot be reformatted automatically.
 
 **Undetermined quote styles:** If Scripture Forge cannot confidently determine the quote style, you will be notified so that you can edit manually.
+
 
 
 
