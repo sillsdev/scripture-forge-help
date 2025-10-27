@@ -29,17 +29,15 @@ After the initial set up, you can return to the “Formatting Options” page an
 ## How to Use Quote Styles (step-by-step)
 
 1. Navigate to the Generate Draft page in Scripture Forge.
-2. Select the book you want to draft (e.g. 1 Kings).
-3. Before generating  a new draft, select Formatting Options.
+2. Select "Formatting Options".
 4. Select the options for quote styles to apply to the draft. The two options are  "Automatic quote style" or "Straight quotes".
 
 ![](./quote_styles_image1.png)
 
 5. Click save.
 6. Review the output:
-    If quote styles  are applied, you will see the project’s preferred quotation marks.
+    If quote styles are applied, you will see the project’s preferred quotation marks.
     If the style could not be determined, you will receive a clear notification to edit the quotes manually when editing the draft.
-7. Accept or reject the changes at the book or chapter level.
 
 :::tip
 
@@ -67,6 +65,7 @@ Scripture Forge uses straight, single, and double quotes by default. If you are 
 **Existing drafts:** Existing drafts in your project cannot be reformatted automatically.
 
 **Undetermined quote styles:** If Scripture Forge cannot confidently determine the quote style, you will be notified so that you can edit manually.
+
 
 
 
