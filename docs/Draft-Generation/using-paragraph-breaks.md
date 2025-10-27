@@ -25,7 +25,7 @@ Use the "Formatting Options" button to set up the paragraph breaks and quote sty
 
 ![](paragraph_breaks_options_image1.jpg)
 
-5. Review the newly generated text—the paragraph breaks will now be placed with the updated formatting.
+4. Review the newly generated text—the paragraph breaks will now be placed with the updated formatting.
 
 ![](./paragraph_breaks_image4.png)
 
@@ -47,6 +47,7 @@ If you have an older draft of any book in your project, and you want to benefit 
 **Remarks:** Remarks are added to the top of the drafts indicating which formatting option was applied to the draft.
 
 **Existing books and drafts:** The feature cannot format Paragraph marks in books that are already in your project.
+
 
 
 
