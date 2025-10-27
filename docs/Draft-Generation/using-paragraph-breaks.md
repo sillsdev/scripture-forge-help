@@ -20,9 +20,8 @@ Use the "Formatting Options" button to set up the paragraph breaks and quote sty
 # Using the Paragraph Breaks feature (step-by-step)
 
 1. Navigate to the Generate Draft page in Scripture Forge.
-2. Select the book you want to draft (e.g. 1 Kings).
-3. After generating a new draft, select "Formatting Options".
-4. Select which option of paragraph breaks that will be applied to your draft. Those options are Best Guess, Remove, or Move to End.
+2. Select "Formatting Options".
+3. Select which option of paragraph breaks that will be applied to your draft. Those options are Best Guess, Remove, or Move to End.
 
 ![](paragraph_breaks_options_image1.jpg)
 
@@ -48,6 +47,7 @@ If you have an older draft of any book in your project, and you want to benefit 
 **Remarks:** Remarks are added to the top of the drafts indicating which formatting option was applied to the draft.
 
 **Existing books and drafts:** The feature cannot format Paragraph marks in books that are already in your project.
+
 
 
 
