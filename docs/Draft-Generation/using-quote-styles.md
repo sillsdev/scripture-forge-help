@@ -30,7 +30,7 @@ After the initial set up, you can return to the “Formatting Options” page an
 
 1. Navigate to the Generate Draft page in Scripture Forge.
 2. Select "Formatting Options".
-4. Select the options for quote styles to apply to the draft. The two options are  "Automatic quote style" or "Straight quotes".
+4. Select the options for quote styles to apply to the draft. The two options are "Automatic quote style" or "Straight quotes".
 
 ![](./quote_styles_image1.png)
 
@@ -65,10 +65,3 @@ Scripture Forge uses straight, single, and double quotes by default. If you are 
 **Existing drafts:** Existing drafts in your project cannot be reformatted automatically.
 
 **Undetermined quote styles:** If Scripture Forge cannot confidently determine the quote style, you will be notified so that you can edit manually.
-
-
-
-
-
-
-

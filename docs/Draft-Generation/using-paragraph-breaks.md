@@ -7,9 +7,9 @@ slug: /Using-Paragraph-Breaks
 
 The Paragraph Breaks feature provides additional options for handling the paragraph breaks in generated drafts. Paragraph breaks are brought over from the drafting source and there are three options for how to handle them. The options are named "Best Guess", "Remove", and "Move to End". 
 
-"Remove" will remove all the Paragraph breaks that appear within a verse. Paragraph breaks that are between verses are not affected. If you use this option you will need to use Paratext to add in any paragraph break markers that are required in your translation. The "Move to End" option will move all Paragraph breaks to the end of the drafted verse text. This was the way that Scripture Forge originally handled Paragraph breaks, before this feature was released. Scripture Forge can attempt to place paragraph markers correctly in the drafted verse and this is the default option and called "Best Guess".  Where the system works well, it should save significant work. The "Best Guess" option is especially useful for books like Psalms where there are many paragraph breaks within verses. 
+"Remove" will remove all the Paragraph breaks that appear within a verse. Paragraph breaks that are between verses are not affected. If you use this option you will need to use Paratext to add in any paragraph break markers that are required in your translation. The "Move to End" option will move all Paragraph breaks to the end of the drafted verse text. This was the way that Scripture Forge originally handled Paragraph breaks, before this feature was released. Scripture Forge can attempt to place paragraph markers correctly in the drafted verse and this is the default option and called "Best Guess". Where the system works well, it should save significant work. The "Best Guess" option is especially useful for books like Psalms where there are many paragraph breaks within verses. 
 
-The button for the formatting options is on the “Generate Draft” page.  When you change the settings a preview of the changes will be shown. Changing the option does not affect drafts that have been added to a project; changing the options only affects the draft previews before they are added to a project.
+The button for the formatting options is on the “Generate Draft” page. When you change the settings a preview of the changes will be shown. Changing the option does not affect drafts that have been added to a project; changing the options only affects the draft previews before they are added to a project.
 
 ![](./paragraph_breaks_image1.png)
 
@@ -47,11 +47,3 @@ If you have an older draft of any book in your project, and you want to benefit 
 **Remarks:** Remarks are added to the top of the drafts indicating which formatting option was applied to the draft.
 
 **Existing books and drafts:** The feature cannot format Paragraph marks in books that are already in your project.
-
-
-
-
-
-
-
-
