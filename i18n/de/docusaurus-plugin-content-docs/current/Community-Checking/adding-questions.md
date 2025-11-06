@@ -99,15 +99,16 @@ Du musst Dir nicht merken, dass Markus 5 43 Verse hat, um nach allen Versen des 
 Um Fragen aus Transcelerator zu importieren:
 
 1. Lade Transcelerator von [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/) herunter und installiere es.
-2. Starte Transcelerator in Paratext.
-3. Öffne in Transcelerator das Menü **Datei** und klicke auf **Scripture Forge-Datei erzeugen**.
-4. Gib die Übersetzungen der englischen Fragen, die Du verwenden möchtest, in die Spalte **Übersetzung** ein. Aktiviere für jede Frage, die bereit ist, das Kontrollkästchen **Bestätigt**.
-5. Schließe Transcelerator und führe "Senden/Empfangen" in Paratext aus.
-6. Klicke in Scripture Forge in der Navigationsleiste auf **Synchronisieren**. Klicke auf der sich öffnenden Seite auf **Synchronisieren**, um die Transcelerator-Fragen von Paratext zu senden und zu empfangen.
-7. Klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**. Klicke dann auf die Schaltfläche **Massenimport**.
-8. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest. Klicke auf **Import aus Transcelerator**.
-9. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. Siehe den Abschnitt mit den Anweisungen zum Filtern für die gewünschten Fragen.
-10. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
+2. Restart Paratext.
+3. Starte Transcelerator in Paratext.
+4. Öffne in Transcelerator das Menü **Datei** und klicke auf **Scripture Forge-Datei erzeugen**.
+5. Gib die Übersetzungen der englischen Fragen, die Du verwenden möchtest, in die Spalte **Übersetzung** ein. Aktiviere für jede Frage, die bereit ist, das Kontrollkästchen **Bestätigt**.
+6. Schließe Transcelerator und führe "Senden/Empfangen" in Paratext aus.
+7. Klicke in Scripture Forge in der Navigationsleiste auf **Synchronisieren**. Klicke auf der sich öffnenden Seite auf **Synchronisieren**, um die Transcelerator-Fragen von Paratext zu senden und zu empfangen.
+8. Klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**. Klicke dann auf die Schaltfläche **Massenimport**.
+9. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest. Klicke auf **Import aus Transcelerator**.
+10. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. Siehe den Abschnitt mit den Anweisungen zum Filtern für die gewünschten Fragen.
+11. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 
 ## Audioaufnahme des Textes hinzufügen {#1850d745ac9e80e795f3d611356e74d5}
 
