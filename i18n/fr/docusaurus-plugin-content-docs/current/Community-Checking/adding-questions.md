@@ -99,15 +99,16 @@ Il n'est pas nécessaire de se rappeler qu'il y a 43 versets dans Marc 5 pour fi
 Pour importer des questions depuis Transcelerator:
 
 1. Téléchargez et installez Transcelerator à partir de [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. Depuis Paratext, lancez Transcelerator.
-3. Dans Transcelerator, ouvrez le menu **Fichier** et cliquez sur **Produire des fichiers Scripture Forge**.
-4. Saisissez dans la colonne **Traduction** les traductions des questions en anglais que vous voulez utiliser. Pour chaque question qui est prête, cochez la case **Confirmée** pour ces questions.
-5. Fermez Transcelerator et effectuez un envoyer recevoir avec Paratext.
-6. Dans Scripture Forge, dans la barre latérale de navigation, cliquez sur **Synchroniser**. Sur la page qui s'ouvre, cliquez sur **Synchroniser** pour envoyer et recevoir les questions Transcelerator depuis Paratext.
-7. Cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre de navigation latérale. Cliquez ensuite sur le bouton **Importation en lots** .
-8. Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions. Cliquez sur **Importer depuis Transcelerator**.
-9. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
-10. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
+2. Restart Paratext.
+3. Depuis Paratext, lancez Transcelerator.
+4. Dans Transcelerator, ouvrez le menu **Fichier** et cliquez sur **Produire des fichiers Scripture Forge**.
+5. Saisissez dans la colonne **Traduction** les traductions des questions en anglais que vous voulez utiliser. Pour chaque question qui est prête, cochez la case **Confirmée** pour ces questions.
+6. Fermez Transcelerator et effectuez un envoyer recevoir avec Paratext.
+7. Dans Scripture Forge, dans la barre latérale de navigation, cliquez sur **Synchroniser**. Sur la page qui s'ouvre, cliquez sur **Synchroniser** pour envoyer et recevoir les questions Transcelerator depuis Paratext.
+8. Cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre de navigation latérale. Cliquez ensuite sur le bouton **Importation en lots** .
+9. Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions. Cliquez sur **Importer depuis Transcelerator**.
+10. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
+11. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
 
 ## Attacher un enregistrement audio du texte {#1850d745ac9e80e795f3d611356e74d5}
 

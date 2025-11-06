@@ -99,15 +99,16 @@ You don't have to remember that there are 43 verses in Mark 5 in order to filter
 Untuk mengimpor pertanyaan dari Transcelerator:
 
 1. Unduh dan pasang Transcelerator dari [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. Dari dalam Paratext, luncurkan Transcelerator.
-3. Di dalam Transcelerator, buka menu **File** dan klik **Buat File Scripture Forge**.
-4. Ketik terjemahan dari pertanyaan bahasa Inggris yang ingin Anda gunakan di kolom **Terjemahan**. For each question that's ready, select the **Confirmed** check box for the questions.
-5. Tutup Transcelerator, dan lakukan Kirim/Terima Paratext.
-6. Di Scripture Forge, di bilah sisi navigasi, klik **Sinkronisasi**. Pada halaman yang terbuka, klik **Sinkronisasi** untuk mengirim dan menerima pertanyaan Transcelerator dari Paratext.
-7. Klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi. Kemudian klik tombol **Impor masal**.
-8. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan. Klik **Import dari Transcelerator**.
-9. Pilih pertanyaan yang ingin Anda impor. Langkah-langkah untuk melakukan hal ini sama persis dengan bagian di atas yang berjudul **Mengimpor pertanyaan dari spreadsheet**. Lihat bagian tersebut untuk petunjuk tentang penyaringan pertanyaan yang Anda inginkan.
-10. Klik **Import Pertanyaan Terpilih** dan pertanyaan Anda akan ditambahkan ke proyek.
+2. Restart Paratext.
+3. Dari dalam Paratext, luncurkan Transcelerator.
+4. Di dalam Transcelerator, buka menu **File** dan klik **Buat File Scripture Forge**.
+5. Ketik terjemahan dari pertanyaan bahasa Inggris yang ingin Anda gunakan di kolom **Terjemahan**. For each question that's ready, select the **Confirmed** check box for the questions.
+6. Tutup Transcelerator, dan lakukan Kirim/Terima Paratext.
+7. Di Scripture Forge, di bilah sisi navigasi, klik **Sinkronisasi**. Pada halaman yang terbuka, klik **Sinkronisasi** untuk mengirim dan menerima pertanyaan Transcelerator dari Paratext.
+8. Klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi. Kemudian klik tombol **Impor masal**.
+9. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan. Klik **Import dari Transcelerator**.
+10. Pilih pertanyaan yang ingin Anda impor. Langkah-langkah untuk melakukan hal ini sama persis dengan bagian di atas yang berjudul **Mengimpor pertanyaan dari spreadsheet**. Lihat bagian tersebut untuk petunjuk tentang penyaringan pertanyaan yang Anda inginkan.
+11. Klik **Import Pertanyaan Terpilih** dan pertanyaan Anda akan ditambahkan ke proyek.
 
 ## Lampirkan rekaman audio teks {#1850d745ac9e80e795f3d611356e74d5}
 
