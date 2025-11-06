@@ -97,15 +97,16 @@ You don't have to remember that there are 43 verses in Mark 5 in order to filter
 To import questions from Transcelerator:
 
 1. Download and install Transcelerator from [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. From within Paratext, launch Transcelerator.
-3. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
-4. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
-5. Close Transcelerator, and do a send and receive with Paratext.
-6. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
-7. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
-8. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
-9. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
-10. Click **Import Selected Questions** and your questions will be added to the project.
+2. Restart Paratext.
+3. From within Paratext, launch Transcelerator.
+4. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
+5. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
+6. Close Transcelerator, and do a send and receive with Paratext.
+7. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
+8. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
+9. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
+10. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
+11. Click **Import Selected Questions** and your questions will be added to the project.
 
 ## Attach audio recording of the text {#1850d745ac9e80e795f3d611356e74d5}
 
