@@ -99,7 +99,7 @@ Il n'est pas nécessaire de se rappeler qu'il y a 43 versets dans Marc 5 pour fi
 Pour importer des questions depuis Transcelerator:
 
 1. Téléchargez et installez Transcelerator à partir de [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. Restart Paratext.
+2. Redémarrer Paratext.
 3. Depuis Paratext, lancez Transcelerator.
 4. Dans Transcelerator, ouvrez le menu **Fichier** et cliquez sur **Produire des fichiers Scripture Forge**.
 5. Saisissez dans la colonne **Traduction** les traductions des questions en anglais que vous voulez utiliser. Pour chaque question qui est prête, cochez la case **Confirmée** pour ces questions.
