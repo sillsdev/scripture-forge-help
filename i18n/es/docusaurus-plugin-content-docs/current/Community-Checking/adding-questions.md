@@ -99,7 +99,7 @@ No hace falta que recuerdes que hay 43 versículos en Marcos 5 para filtrar todo
 Para importar preguntas desde Transcelerator:
 
 1. Descarga e instala Transcelerator desde [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/).
-2. Restart Paratext.
+2. Reiniciar Paratext.
 3. Desde Paratext, lanza Transcelerator.
 4. Dentro de Transcelerator, abre el menú **Archivo** y haz clic en **Producir archivos Scripture Forge**.
 5. Escribe las traducciones de las preguntas en inglés que quieras utilizar en la columna **Traducción**. Para cada pregunta que esté lista, selecciona la casilla **Confirmada** para las preguntas.

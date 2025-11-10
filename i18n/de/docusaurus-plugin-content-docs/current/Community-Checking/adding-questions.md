@@ -99,7 +99,7 @@ Du musst Dir nicht merken, dass Markus 5 43 Verse hat, um nach allen Versen des 
 Um Fragen aus Transcelerator zu importieren:
 
 1. Lade Transcelerator von [software.sil.org/transcelerator/download](https://software.sil.org/transcelerator/download/) herunter und installiere es.
-2. Restart Paratext.
+2. Starte Paratext neu.
 3. Starte Transcelerator in Paratext.
 4. Öffne in Transcelerator das Menü **Datei** und klicke auf **Scripture Forge-Datei erzeugen**.
 5. Gib die Übersetzungen der englischen Fragen, die Du verwenden möchtest, in die Spalte **Übersetzung** ein. Aktiviere für jede Frage, die bereit ist, das Kontrollkästchen **Bestätigt**.
