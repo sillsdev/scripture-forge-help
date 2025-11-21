@@ -8,6 +8,12 @@ slug: /preparing-for-ai-drafting
 
 Pour générer des ébauches dans la Forge des Écritures, cliquez sur le bouton « Générer une ébauche  » dans le menu principal. Cliquez ensuite sur le bouton "S'inscrire à l'ébauche", et remplissez le formulaire qui s'ouvre, pour avoir accès à votre projet. Les projets de retraduction sont activés par défaut et n'ont pas besoin de remplir le formulaire.
 
+:::note
+
+If you created a separate Paratext project just to store generated drafts, make sure you sign up from your main translation project. Do not sign up from the storage project. Drafts can be saved in another project, but they must be generated from your main project so the model learns from your completed translation work.
+
+:::
+
 ![](./sign_up_for_drafting.png)
 
 Après avoir rempli le formulaire, L'équipe d'intégration de l'Écriture Forge examinera votre demande et travaillera pour trouver les meilleurs paramètres pour votre projet. Vous recevrez une ou plusieurs ébauches à examiner. Si vous décidez que la génération de l'ébauche est correcte pour votre projet, l'équipe activera la rédaction de votre projet et vous guidera dans le processus de sélection des paramètres qui ont été trouvés les meilleurs.

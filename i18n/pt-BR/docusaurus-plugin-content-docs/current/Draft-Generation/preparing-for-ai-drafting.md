@@ -8,6 +8,12 @@ slug: /preparing-for-ai-drafting
 
 To generate drafts in Scripture Forge, click on the "Generate Draft" button in the main menu. Then click the "Sign up for Drafting" button, and fill out the form that opens, to get access for your project. Back translation projects are enabled by default and do not need to fill out the form.
 
+:::note
+
+If you created a separate Paratext project just to store generated drafts, make sure you sign up from your main translation project. Do not sign up from the storage project. Drafts can be saved in another project, but they must be generated from your main project so the model learns from your completed translation work.
+
+:::
+
 ![](./sign_up_for_drafting.png)
 
 After you fill out the form, the Scripture Forge onboarding team will review your request and work to find the best settings for your project. You will be provided with one or more drafts to review. If you decide that generating drafts is right for your project, the team will enable drafting on your project and guide you through the process of selecting the settings that were found to be best.

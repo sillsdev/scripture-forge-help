@@ -8,6 +8,12 @@ slug: /preparing-for-ai-drafting
 
 Um einen Entwurf in Scripture Forge zu regeistrieren, klicke auf die Schaltfläche "Entwurf generieren" im Hauptmenu. Klicke dann auf "Für Übersetzungsentwurf generieren anmelden" und fülle das Formular aus, das erscheint, um Deinem Projekt den Zugang zu ermöglichen. Rückübersetzungsprojekte sind standardmäßig aktiviert. Das Formular muss dafür nicht ausgefüllt werden.
 
+:::note
+
+Falls Du ein separates Paratext-Projekt eingerichtet hast, um generierte Entwürfe abzulegen, stelle sicher, dass Du Dich von Deinem Hauptübersetzungsprojekt aus registrierst. Registriere Dich nicht vom Ablageprojekt aus. Entwürfe können in einem anderen Projekt gespeichert werden, aber sie müssen von Deinem Hauptprojekt aus generiert werden, damit das Modell von Deiner vollständigen Übersetzungsarbeit lernen kann.
+
+:::
+
 ![](./sign_up_for_drafting.png)
 
 Nachdem Du das Formular ausgefüllt hast, wird das Scripture Forge Onboarding-Team Deine Anfrage prüfen und die besten Einstellungen für Dein Projekt ermitteln. Du erhältst einen oder mehrere Entwürfe zur Durchsicht. Fall Du Dich dafür entscheidest, dass die Erstellung von Entwürfen für Dein Projekt das Richtige ist, wird das Team das Generieren von Entwürfen für Dein Projekt aktivieren und Dich durch den Prozess der Auswahl der besten Einstellungen führen.
