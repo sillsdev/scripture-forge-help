@@ -20,7 +20,7 @@ Sobald Dein Projekt aktiviert und die Ausgangstexte konfiguriert sind, klicke au
 
 :::note
 
-Falls Du ein separates Paratext-Projekt benutzt, um KI-generierte Entwürfe abzulegen, vergewissere Dich, dass Dein Haupübersetzungsprojekt im Bereich "Daten der Zielsprache\*\* aufgelistet ist. Entwürfe müssen von Deinem Hauptprojekt aus generiert werden, damit das Modell von Deiner vollständigen Übersetzungsarbeit lernen kann.
+Falls Du ein separates Paratext-Projekt benutzt, um KI-generierte Entwürfe abzulegen, vergewissere Dich, dass Dein Haupübersetzungsprojekt im Bereich **Daten der Zielsprache** aufgelistet ist. Entwürfe müssen von Deinem Hauptprojekt aus generiert werden, damit das Modell von Deiner vollständigen Übersetzungsarbeit lernen kann.
 
 :::
 
