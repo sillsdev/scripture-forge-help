@@ -4,15 +4,16 @@ sidebar_position: 2
 slug: /using-a-draft
 ---
 
-Lorsque votre ébauche est terminée, Scripture Forge vous indiquera qu'il est prêt et affichera la liste des livres qui ont été rédigés.
+When your draft is finished, Scripture Forge will indicate that it's ready and list the books that were drafted. Generated drafts are **not** automatically imported to your project. You can preview or import drafts from the **Generate draft** page.
+
+- To import **individual chapters**, preview the chapter and choose "Add to project." Individual chapters can only be added to the current project.
+- To import a **full book**, open the three-dot menu next to the book name. You can choose to import the book into the current project or a different project.
 
 ![](./draft_complete.png)
 
 ## Prévisualiser l'ébauche
 
-L'ébauche créée par Scripture Forge ne sera pas automatiquement importé dans votre projet. Vous pouvez prévisualiser l'ébauche et ensuite importer un chapitre ou un livre à la fois dans votre projet, ou dans un projet différent.
-
-Cliquez sur un livre pour voir l'ébauche. L'ébauche s'ouvrira dans un nouvel onglet sur la page de l'éditeur.
+Click on a book title to view the draft. L'ébauche s'ouvrira dans un nouvel onglet sur la page de l'éditeur.
 
 :::tip
 
@@ -26,13 +27,13 @@ Si vous avez rédigé un livre, l'équipe a déjà fini de traduire, vous pouvez
 
 ## Importation d'un seul chapitre
 
-Pour importer l'ébauche du chapitre en cours dans le projet, cliquez sur "Ajouter au projet". Vous pouvez aller à chaque chapitre du livre et prévisualiser et importer chaque chapitre un à la fois.
+When previewing the draft, you can import the draft of the current chapter into the project by clicking "Add to project". Vous pouvez aller à chaque chapitre du livre et prévisualiser et importer chaque chapitre un à la fois. This will add the chapter to the current project; not to a different project.
 
 ![](./chapter_imported.png)
 
 ## Importation d'un livre entier
 
-Si vous voulez importer un livre entier dans le projet, vous pouvez le faire à partir de la page "Générer l'ébauche". Cliquez sur le menu à trois points à côté du livre, puis sélectionnez l'option pour l'importer dans le projet en cours ou dans un autre projet.
+If you want to import an entire book, you can do this from the "Generate draft" page. Cliquez sur le menu à trois points à côté du livre, puis sélectionnez l'option pour l'importer dans le projet en cours ou dans un autre projet.
 
 ![](./import_book.png)
 
@@ -56,4 +57,9 @@ Si vous préférez ne pas importer l'ébauche directement dans votre projet, vou
 
 ## Visualisation des ébauches  dans Paratext 10 Studio
 
-Paratext 10 Studio s'intègre directement à la Forge, et vous permet de visualiser une ébauche  sans l'importer dans un projet. L'extension Scripture Forge est pré-installée, donc tout ce que vous avez à faire est de vous connecter à Scripture Forge dans l'extension, puis de sélectionner votre projet pour voir l'ébauche .
+Paratext 10 Studio includes a Scripture Forge extension. You can view drafts without importing them:
+
+1. Open the Scripture Forge extension.
+2. Se connecter à Scripture Forge.
+3. Select your project to view the draft.
+

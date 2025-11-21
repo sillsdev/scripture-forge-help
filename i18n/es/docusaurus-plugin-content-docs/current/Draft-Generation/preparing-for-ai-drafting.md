@@ -8,6 +8,12 @@ slug: /preparing-for-ai-drafting
 
 Para generar borradores en Forja de Escritura, haga clic en el botón "Generar borrador" en el menú principal. A continuación, haga clic en el botón "Regístrese para generar borradores" y rellene el formulario que se abre para obtener acceso a su proyecto. Los proyectos de retrotraducción están activados por defecto y no necesitan rellenar el formulario.
 
+:::note
+
+If you created a separate Paratext project just to store generated drafts, make sure you sign up from your main translation project. Do not sign up from the storage project. Drafts can be saved in another project, but they must be generated from your main project so the model learns from your completed translation work.
+
+:::
+
 ![](./sign_up_for_drafting.png)
 
 Después de rellenar el formulario, el equipo de Scripture Forge revisará su solicitud y trabajará para encontrar la mejor configuración para su proyecto. Se le proporcionará uno o más borradores para revisar. Si decide que la generación de borradores es adecuada para su proyecto, el equipo habilitará la generación de borradores en su proyecto y le guiará en el proceso de selección de los ajustes que hayan resultado mejores.

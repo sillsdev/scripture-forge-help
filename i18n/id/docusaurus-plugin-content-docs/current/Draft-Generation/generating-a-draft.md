@@ -18,6 +18,12 @@ Once your project has been activated and sources have been configured, click the
 
 On the first screen, review the configured sources and language codes and verify that they are correct. Then go to the next step.
 
+:::note
+
+If you use a separate Paratext project to store AI-generated drafts, double check that your main working translation project is listed in the **Target language data** section. Drafts must be generated from your main project so that model can learn from your completed translation work.
+
+:::
+
 ![](./generate_draft_confirm_sources.png)
 
 ### Select the books to draft

@@ -18,6 +18,12 @@ Sobald Dein Projekt aktiviert und die Ausgangstexte konfiguriert sind, klicke au
 
 Überprüfe auf dem ersten Bildschirm die konfigurierten Ausgangstexte und Sprachcodes, und stelle sicher, dass diese korrekt sind. Geh dann zum nächsten Schritt über.
 
+:::note
+
+Falls Du ein separates Paratext-Projekt benutzt, um KI-generierte Entwürfe abzulegen, vergewissere Dich, dass Dein Haupübersetzungsprojekt im Bereich "Daten der Zielsprache\*\* aufgelistet ist. Entwürfe müssen von Deinem Hauptprojekt aus generiert werden, damit das Modell von Deiner vollständigen Übersetzungsarbeit lernen kann.
+
+:::
+
 ![](./generate_draft_confirm_sources.png)
 
 ### Bücher für den Entwurf auswählen

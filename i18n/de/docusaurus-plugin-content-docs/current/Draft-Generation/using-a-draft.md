@@ -4,15 +4,16 @@ sidebar_position: 2
 slug: /using-a-draft
 ---
 
-Sobald Dein Entwurf generiert ist zeigt Scripture Forge an, dass er bereit ist sowie die Liste der Bücher, die generiert wurden.
+Sobald Dein Entwurf erstellt ist, wird Scripture Forge anzeigen, dass er bereit und listet die entworfenen Bücher auf. Generierte Entwürfe werden **nicht** automatisch in Dein Projekt importiert. Aus **Entwürfe Generieren** kannst Du eine Voransicht öffnen oder Entwürfe importieren.
+
+- Um **einzelne Kapitel** zu importieren, öffne eine Voransicht und wähle "Zum Projekt hinzufügen". Einzelne Kapitel können nur zum aktuellen Projekt hinzugefügt werden.
+- Um ein **ganzes Buch** zu importieren, öffne das Dreipunktemenü neben dem Namen des Buches. Du kannst wählen, ob Du das Buch ins aktuelle Projekt oder in ein anderes Projekt importieren möchtest.
 
 ![](./draft_complete.png)
 
 ## Vorschau eines Entwurfs ansehen
 
-Der Entwurf, den Scripture Forge generiert hat, wird nicht automatisch in Dein Projekt importiert. Du kannst eine Vorschau des Entwurfs anzeigen und dann jeweils ein Kapitel oder ein Buch in Dein Projekt oder in ein anderes Projekt importieren.
-
-Klicke auf ein Buch, um den Entwurf anzusehen. Der Entwurf wird in einer neuen Registerkarte auf der Editor-Seite geöffnet.
+Klicke auf den Titel des Buches um den Entwurf zu sehen. Der Entwurf wird in einer neuen Registerkarte auf der Editor-Seite geöffnet.
 
 :::tip
 
@@ -26,13 +27,13 @@ Falls Du den Entwurf eines Buches generiert hast, dessen Übersetzung das Team b
 
 ## Ein einzelnes Kapitel importieren
 
-Um den Entwurf des aktuellen Kapitels ins Projekt zu importieren, klicke auf "Zum Projekt hinzufügen". Du kannst zu jedem Kapitel des Buches gehen, eine Vorschau anzeigen und die Kapitel nacheinander importieren.
+Wenn Du eine Voransicht des Entwurfes öffnest, kannst Du den Entwurf der aktuellen Kapitel in Dein Projekt importieren, indem Du auf "Zum Projekt hinzufügen" klickst. Du kannst zu jedem Kapitel des Buches gehen, eine Vorschau anzeigen und die Kapitel nacheinander importieren. Auf diese weise werden die Kapitel zum aktuellen Projekt hinzugefügt; nicht zu einem anderen Projekt.
 
 ![](./chapter_imported.png)
 
 ## Ein ganzes Buch importieren
 
-Falls Du ein ganzes Buch ins Projekt importieren möchtest, kannst Du dies auf der Seite "Entwurf generieren" tun. Klicke auf das Menü mit den drei Punkten neben dem Buch und wähle dann die Option, es in das aktuelle Projekt oder in ein anderes Projekt zu importieren.
+Falls Du ein ganzes Buch importieren möchtest, kannst Du dies aus "Entwürf generieren" tun. Klicke auf das Menü mit den drei Punkten neben dem Buch und wähle dann die Option, es in das aktuelle Projekt oder in ein anderes Projekt zu importieren.
 
 ![](./import_book.png)
 
@@ -56,4 +57,9 @@ Falls Du den Entwurf nicht direkt in Dein Projekt importieren möchtest, kannst 
 
 ## Entwürfen in Paratext 10 Studio ansehen
 
-Paratext 10 Studio ist direkt mit Scripture Forge verbunden und ermöglicht es Dir, einen Entwurf anzusehen, ohne diesen in ein Projekt zu importieren. Die Scripture Forge-Erweiterung ist bereits vorinstalliert. Du musst Dich also nur bei Scripture Forge in der Erweiterung anmelden und dann Dein Projekt auswählen, um den Entwurf anzusehen.
+Paratext 10 Studio beinhaltet eine Erweiterung für Scirpture Forge. Du kannst Entwürfe ansehen, ohne diese zu importieren:
+
+1. Öffne die Erweiterung für Scripture Forge.
+2. Bei Scripture Forge anmelden.
+3. Wähle Dein Projekt, um den Entwurf anzusehen.
+

@@ -4,15 +4,16 @@ sidebar_position: 2
 slug: /using-a-draft
 ---
 
-When your draft is finished, Scripture Forge will indicate that it's ready and display the list of books that were drafted.
+When your draft is finished, Scripture Forge will indicate that it's ready and list the books that were drafted. Generated drafts are **not** automatically imported to your project. You can preview or import drafts from the **Generate draft** page.
+
+- To import **individual chapters**, preview the chapter and choose "Add to project." Individual chapters can only be added to the current project.
+- To import a **full book**, open the three-dot menu next to the book name. You can choose to import the book into the current project or a different project.
 
 ![](./draft_complete.png)
 
 ## Previewing a draft
 
-The draft that Scripture Forge created will not be automatically imported to your project. You can preview the draft and then import a chapter or a book at a time into your project, or into a different project.
-
-Click on a book to view the draft. The draft will open in a new tab on the editor page.
+Click on a book title to view the draft. The draft will open in a new tab on the editor page.
 
 :::tip
 
@@ -26,13 +27,13 @@ If you drafted a book the team has already finished translating, you can move th
 
 ## Importing a single chapter
 
-To import the draft of the current chapter into the project, click "Add to project". You can go to each chapter in the book and preview and import each chapter one at a time.
+When previewing the draft, you can import the draft of the current chapter into the project by clicking "Add to project". You can go to each chapter in the book and preview and import each chapter one at a time. This will add the chapter to the current project; not to a different project.
 
 ![](./chapter_imported.png)
 
 ## Importing an entire book
 
-If you want to import an entire book into the project, you can do this from the "Generate draft" page. Click the three-dot menu beside the book, and then select the option to import it to the current project, or to a different project.
+If you want to import an entire book, you can do this from the "Generate draft" page. Click the three-dot menu beside the book, and then select the option to import it to the current project, or to a different project.
 
 ![](./import_book.png)
 
@@ -56,4 +57,9 @@ If you prefer not to import the draft directly to your project, you can also dow
 
 ## Viewing drafts in Paratext 10 Studio
 
-Paratext 10 Studio directly integrates with Scripture Forge, and allows you to view a draft without importing it to a project. The Scripture Forge extension comes pre-installed, so all you need to do is log in to Scripture Forge in the extension, and then select your project to view the draft.
+Paratext 10 Studio includes a Scripture Forge extension. You can view drafts without importing them:
+
+1. Open the Scripture Forge extension.
+2. Masuk ke Scripture Forge.
+3. Select your project to view the draft.
+

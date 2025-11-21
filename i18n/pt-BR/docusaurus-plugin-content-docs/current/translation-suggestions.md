@@ -21,7 +21,7 @@ Translation suggestions allow Scripture Forge to analyze a source and target lan
 - Suggestions work better with languages that are more similar, and do not work well with languages that are not related to each other.
 - Before you start using translation suggestions, an administrator of the Paratext project must enable translation suggestions for your project.
 
-## Setup Your Translation Suggestions Window {#055dfd61aa9442e3b6c787613c8085d6}
+## Set up Your Translation Suggestions Window {#055dfd61aa9442e3b6c787613c8085d6}
 
 :::note
 
@@ -59,7 +59,7 @@ First you need to **select your project** from the navigation page, if you haven
 
     ![](./2063843017.png)
 
-### Setup the Translation Suggestions Window {#8798a078b0464f5190de5d6dd7e4d132}
+### Set up the Translation Suggestions Window {#8798a078b0464f5190de5d6dd7e4d132}
 
 1. In the navigation pane, click the Translate section:
 
