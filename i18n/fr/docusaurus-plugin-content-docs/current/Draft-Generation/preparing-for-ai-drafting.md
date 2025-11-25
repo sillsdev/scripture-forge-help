@@ -10,7 +10,7 @@ Pour générer des ébauches dans la Forge des Écritures, cliquez sur le bouton
 
 :::note
 
-If you created a separate Paratext project just to store generated drafts, make sure you sign up from your main translation project. Do not sign up from the storage project. Drafts can be saved in another project, but they must be generated from your main project so the model learns from your completed translation work.
+Si vous avez créé un projet Paratext séparé juste pour stocker les ébauches générées, assurez-vous de vous inscrire à partir de votre projet de traduction principal. Ne pas vous inscrire à partir du projet de stockage. Les ébauches peuvent être enregistrées dans un autre projet, mais elles doivent être générées à partir de votre projet principal afin que le modèle apprenne de votre travail de traduction terminé.
 
 :::
 

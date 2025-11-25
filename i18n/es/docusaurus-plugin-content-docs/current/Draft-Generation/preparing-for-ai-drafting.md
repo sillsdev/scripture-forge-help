@@ -10,7 +10,7 @@ Para generar borradores en Forja de Escritura, haga clic en el botón "Generar b
 
 :::note
 
-If you created a separate Paratext project just to store generated drafts, make sure you sign up from your main translation project. Do not sign up from the storage project. Drafts can be saved in another project, but they must be generated from your main project so the model learns from your completed translation work.
+Si ha creado un proyecto Paratext separado sólo para almacenar borradores generados, asegúrese de registrarse en su proyecto de traducción principal. No se registre desde el proyecto de almacenamiento. Los borradores pueden ser guardados en otro proyecto, pero deben ser generados a partir de su proyecto principal para que el modelo aprenda de su trabajo de traducción.
 
 :::
 

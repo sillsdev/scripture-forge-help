@@ -20,7 +20,7 @@ En la primera pantalla, revise las fuentes y los códigos de idioma configurados
 
 :::note
 
-If you use a separate Paratext project to store AI-generated drafts, double check that your main working translation project is listed in the **Target language data** section. Drafts must be generated from your main project so that model can learn from your completed translation work.
+Si utilizas un proyecto Paratext independiente para almacenar los borradores generados por la IA, comprueba que tu proyecto de traducción de trabajo principal aparece en la sección **Datos del idioma de destino**. Los borradores deben generarse a partir de su proyecto principal para que el modelo pueda aprender de su trabajo de traducción terminado.
 
 :::
 

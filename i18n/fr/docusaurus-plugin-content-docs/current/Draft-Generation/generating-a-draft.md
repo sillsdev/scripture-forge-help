@@ -20,7 +20,7 @@ Sur le premier écran, vérifiez les sources et les codes de langue configurés 
 
 :::note
 
-If you use a separate Paratext project to store AI-generated drafts, double check that your main working translation project is listed in the **Target language data** section. Drafts must be generated from your main project so that model can learn from your completed translation work.
+Si vous utilisez un projet Paratext séparé pour stocker les ébauches générées par l'IA, vérifiez que votre projet de traduction principal figure dans la section **Données de la langue cible**. Les ébauches doivent être générées à partir de votre projet principal afin que le modèle puisse tirer des enseignements de votre travail de traduction achevée.
 
 :::
 
