@@ -72,3 +72,21 @@ slug: /faq
 
 	_When you make changes to your draft, Scripture Forge saves a version of those changes that you may access via the history tab. You may revert your project to an older version from here by clicking the "Restore this version" button._
 
+6. Can I be notified when my draft is ready?
+
+	_Yes! You can opt-in to receive email notifications when your draft generation completes. This allows you to be notified immediately without having to check the "Generate draft" page repeatedly._
+
+7. Can I access previously generated drafts?
+
+	_Yes, previously generated drafts are accessible and can be downloaded or re-added to your project even after newer drafts have been created._
+
+## Questions on community checking {#9e130c3ad9c048a4822e37e0d0ba0751}
+
+1. Can I see answers from other community checkers?
+
+	_Yes! Users can now view all community answers to checking questions, even if they have not answered the question themselves. This helps facilitate discussion and collaboration within the community checking process._
+
+2. Can I export community checking questions and answers?
+
+	_Yes, community checking questions and answers can be exported as CSV files for external review, backup, or analysis. This is particularly useful for project administrators who need to track progress or share results._
+
