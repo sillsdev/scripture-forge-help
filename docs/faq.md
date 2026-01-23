@@ -60,6 +60,8 @@ slug: /faq
 
 	![](./267304602.png)
 
+	_You can also opt-in to receive email notifications when your draft generation completes. This allows you to be notified immediately without having to check the "Generate draft" page repeatedly._
+
 3. Why does my book only have Chapter 1 in the project?
 	- _Adding a draft to the project happens on a chapter-by-chapter basis from the "Autodraft" window under "Edit and Review." So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
 	- _You can add the whole book by navigating to "Generate Draft" and finding the draft that has been generated. Click the 3-dot menu available next to the name of the book you wish to add, and then click "Add to project." This will add the whole book to your project._
@@ -72,11 +74,7 @@ slug: /faq
 
 	_When you make changes to your draft, Scripture Forge saves a version of those changes that you may access via the history tab. You may revert your project to an older version from here by clicking the "Restore this version" button._
 
-6. Can I be notified when my draft is ready?
-
-	_Yes! You can opt-in to receive email notifications when your draft generation completes. This allows you to be notified immediately without having to check the "Generate draft" page repeatedly._
-
-7. Can I access previously generated drafts?
+6. Can I access previously generated drafts?
 
 	_Yes, previously generated drafts are accessible and can be downloaded or re-added to your project even after newer drafts have been created._
 
