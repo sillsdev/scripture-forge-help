@@ -1,6 +1,6 @@
 ---
 title: Formatting a draft
-sidebar_position: 3
+sidebar_position: 4
 slug: /formatting-a-draft
 ---
 
