@@ -1,6 +1,6 @@
 ---
 title: Using a draft
-sidebar_position: 2
+sidebar_position: 2.5
 slug: /using-a-draft
 ---
 
@@ -10,20 +10,6 @@ When your draft is finished, Scripture Forge will indicate that it's ready and l
  * To import a **full book**, open the three-dot menu next to the book name. You can choose to import the book into the current project or a different project.
 
 ![](./draft_complete.png)
-
-## Previewing a draft
-
-Click on a book title to view the draft. The draft will open in a new tab on the editor page.
-
-:::tip
-
-To compare the draft to the text it was translated from, set a source on the settings page. This will allow you to see a source and the resulting draft side-by-side.
-
-If you drafted a book the team has already finished translating, you can move the draft tab to the other side of the page, and compare it with the team's translation.
-
-:::
-
-![](./draft_preview.png)
 
 ## Importing a single chapter
 
