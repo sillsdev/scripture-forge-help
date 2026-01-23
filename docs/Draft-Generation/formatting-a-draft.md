@@ -4,69 +4,38 @@ sidebar_position: 3
 slug: /formatting-a-draft
 ---
 
-## Introduction
+## What are formatting options?
 
-When you generate a draft in Scripture Forge for the first time, you will need to select formatting options that control how the draft is generated. These formatting options determine how the AI model processes and outputs the translated text.
+When you generate a draft in Scripture Forge, you can select formatting options that control how the draft text is structured and presented. These options help ensure that the generated draft matches your project's formatting needs and conventions.
 
 ## First-time setup
 
-The first time you generate a draft for your project, you will be prompted to select formatting options. These options are required to ensure the draft is generated according to your project's needs and preferences.
+The first time you generate a draft for your project, you will be required to select formatting options. This is a necessary step to ensure the draft is generated according to your project's requirements.
 
-Once you've selected formatting options for the first time, Scripture Forge will remember your selections and automatically use the same options for future drafts. This means you won't need to configure these settings each time you generate a new draft.
+Once you've selected formatting options for the first time, Scripture Forge will remember your selections. The same formatting options will be used automatically for all future drafts, so you won't need to configure these settings again.
 
 ## Changing formatting options
 
-While your initial formatting selections are saved and reused automatically, you can change these options at any time when generating a new draft. This flexibility allows you to experiment with different settings or adjust the formatting as your project needs evolve.
+While your initial formatting selections are saved and reused automatically, you can choose different options at any time when generating a new draft. This allows you to adjust the formatting if your project's needs change or if you want to experiment with different settings.
 
-To change the formatting options for a new draft:
+## Understanding the options
 
-1. Navigate to the **Generate draft** page
-2. Click on the option to configure or change formatting settings
-3. Select your preferred formatting options
-4. Continue with the draft generation process
+The formatting options control various aspects of how the draft text is structured, including:
 
-## Available formatting options
+- How verses and paragraphs are formatted
+- How special text elements like poetry, lists, or quotations are handled  
+- What punctuation and spacing conventions are applied
+- How section headings and other structural elements are formatted
 
-Scripture Forge provides several formatting options to customize how your draft is generated:
-
-### Text formatting
-
-These options control how the text is structured and formatted in the output:
-
-- **Verse numbering**: Choose how verse numbers are displayed in the draft (inline, separate, or omitted)
-- **Paragraph breaks**: Control how paragraph breaks from the source text are preserved or adapted in the draft
-- **Poetry formatting**: Determine how poetic passages are formatted to maintain their structure
-
-### Punctuation and typography
-
-These settings manage punctuation and typographic elements:
-
-- **Quotation marks**: Select the style of quotation marks used in the draft (straight quotes, curly quotes, or language-specific markers)
-- **Punctuation adaptation**: Choose whether punctuation from the source text should be adapted to match the target language conventions
-
-### Special text handling
-
-Options for handling specific types of biblical text:
-
-- **Section headings**: Decide whether section headings should be included or translated in the draft
-- **Cross-references and footnotes**: Control how cross-references and footnotes are handled during draft generation
-- **Divine names**: Configure how divine names (like "LORD" or "God") are rendered in the target language
+The specific options available will depend on your project type and the source texts you are translating from. During the draft generation process, you'll be presented with the available options and can select the ones that best fit your project.
 
 ## Best practices
 
 When selecting formatting options:
 
-- **Start with defaults**: For your first draft, consider using the recommended default settings
-- **Review sample output**: After generating a draft with specific settings, review the output to ensure it meets your needs
-- **Maintain consistency**: Once you find settings that work well, use them consistently across your drafts
-- **Consult your team**: Discuss formatting choices with your translation team to ensure they align with your project standards
+- **Review the defaults**: The default options are chosen to work well for most projects
+- **Think about your workflow**: Consider how the draft will be used and edited by your team
+- **Be consistent**: Using the same formatting options for all drafts in your project helps maintain consistency
+- **Ask for help if needed**: If you're unsure which options to choose, contact the Scripture Forge support team or your translation consultant
 
-## Getting help
-
-If you're unsure which formatting options to select, or if you have questions about how specific options affect the draft output, you can:
-
-- Contact the Scripture Forge support team for guidance
-- Review sample drafts with different formatting options to see the differences
-- Consult with your translation consultant or project manager
-
-Remember that formatting options can be changed for future drafts, so you can adjust your selections as you learn what works best for your project.
+Remember that you can always change the formatting options for future drafts if you find that different settings work better for your project.
