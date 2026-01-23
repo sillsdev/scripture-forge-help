@@ -56,13 +56,12 @@ slug: /faq
 
 2. How will I know when my draft is done?
 
-	_You may check the "Generate draft" page to see the status, and when it's done, you'll see a message similar to this:_
+	_You can opt-in to receive email notifications when your draft generation completes, so you'll be notified immediately. Alternatively, you can check the "Generate draft" page to see the status. When it's done, you'll see a message similar to this:_
 
 	![](./267304602.png)
 
-	_You can also opt-in to receive email notifications when your draft generation completes. This allows you to be notified immediately without having to check the "Generate draft" page repeatedly._
-
 3. Why does my book only have Chapter 1 in the project?
+
 	- _Adding a draft to the project happens on a chapter-by-chapter basis from the "Autodraft" window under "Edit and Review." So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
 	- _You can add the whole book by navigating to "Generate Draft" and finding the draft that has been generated. Click the 3-dot menu available next to the name of the book you wish to add, and then click "Add to project." This will add the whole book to your project._
 
