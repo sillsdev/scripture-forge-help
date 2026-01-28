@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Introduction {#ad165caedac347798432de75e4305252}
 
-SIL International's Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. As of January 1, 2024, this tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
+SIL International's Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 All of the drafts that are created contain errors that need to be corrected by the translation team. For some projects, the quality will be too low to be useful. However, extensive field testing has shown that a significant number of teams find the drafts to be very helpful in their work, and of sufficient quality to use as a starting point for the team to edit.
 
@@ -63,7 +63,7 @@ Back translation drafts will also contain errors and need to be edited, but the 
 
 ## Getting started {#1ba56b4f36584ecb91b9f2208efec047}
 
-Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be onboarded by the SIL Natural Language Processing team. Please fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), and a member of the team will assess whether your project is a good candidate for generating drafts.
+Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be onboarded by the SIL Natural Language Processing team. To sign up, connect your project in Scripture Forge, go the the "Generate draft" page, click on the "Sign up for drafting" button, and fill out the form. A member of the team will assess whether your project is a good candidate for generating drafts.
 
 Regardless of whether you are generating back translation drafts or vernacular drafts, you can begin by connecting your Paratext project to Scripture Forge by following these steps:
 
