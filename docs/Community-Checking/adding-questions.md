@@ -110,7 +110,7 @@ To import questions from Transcelerator:
 
 ### Importing questions from tagged Paratext notes {#27f4373ac9934884976eacc1cc3a4a25}
 
-Some Paratext roles can add notes to the text of the project in Paratext. You can tag notes that you'd like to import as questions for community checking.
+You can add questions as notes in Paratext and later import them into Scripture Forge as community checking questions. In order to do this, you need to create a note tag in Paratext that you will use to identify which notes you want to import as questions.
 
 To import questions from Paratext notes:
 
@@ -118,11 +118,10 @@ To import questions from Paratext notes:
 2. Create or edit the notes you want to import. The text of the note should be the same as the content you want to become a Community Checking question. Add the tag you've designated for this purpose.
 3. Do a Send/Receive to sync the notes with the Paratext server.
 4. In Scripture Forge, open the project and sync with Paratext.
-5. Navigate to the **Manage questions** page and select the Import option.
+5. Navigate to the **Manage questions** page and click the **Import** button.
 6. Select **Import from Paratext**.
 7. Choose your designated tag from the dropdown list.
-8. Select the questions that you want to import.
-9. Review the references and questions and click **Import Selected Questions**.
+8. Select the questions that you want to import and click **Import Selected Questions**.
 
 ## Attach audio recording of the text {#1850d745ac9e80e795f3d611356e74d5}
 
