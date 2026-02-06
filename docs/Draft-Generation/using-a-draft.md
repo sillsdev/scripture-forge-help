@@ -1,6 +1,6 @@
 ---
 title: Using a draft
-sidebar_position: 2
+sidebar_position: 3
 slug: /using-a-draft
 ---
 
