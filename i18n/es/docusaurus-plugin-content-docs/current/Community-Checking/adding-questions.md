@@ -110,6 +110,21 @@ Para importar preguntas desde Transcelerator:
 10. Selecciona las preguntas que quieres importar. Los pasos para hacerlo son exactamente los mismos que en la sección anterior titulada **Importar preguntas desde una hoja de cálculo**. Consulta esa sección para obtener instrucciones sobre cómo filtrar las preguntas que desees.
 11. Haz clic en **Importar preguntas seleccionadas** y tus preguntas se añadirán al proyecto.
 
+### Importando preguntas de las notas de Paratext etiquetadas {#27f4373ac9934884976eacc1cc3a4a25}
+
+Puede añadir preguntas como notas en Paratext e importarla después a Scripture Forge como preguntas de comprobación de la comunidad. Para hacer esto, necesita crear una etiqueta de nota en Paratext que utilizará para identificar qué notas desea importar como preguntas.
+
+Para importar preguntas de las notas de Paratext:
+
+1. En Paratext, elija una etiqueta única y consistente que añadirá a las notas que desea importar como preguntas.
+2. Crear o editar las notas que desea importar. El texto de la nota debe ser el mismo que el contenido que desea convertirse en una pregunta de comprobación comunitaria. Añade la etiqueta que has designado para este propósito.
+3. Hacer un Enviar/Recibir para sincronizar las notas con el servidor de Paratext.
+4. En Scripture Forge, abre el proyecto y sincroniza con Paratext.
+5. Vaya a la página **Gestionar preguntas** y haga clic en el botón **Importar**.
+6. Seleccione **Importar desde Paratext**.
+7. Elija la etiqueta que desee de la lista desplegable.
+8. Seleccione las preguntas que desea importar y haga clic en **Importar preguntas seleccionadas**.
+
 ## Adjuntar grabación de audio del texto {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge puede reproducir una grabación de audio de cada pasaje para los revisores de la comunidad. Para ello, deberá cargar un archivo de audio y un archivo de tiempo para cada capítulo. Los archivos de tiempo permiten a Scripture Forge resaltar cada versículo a medida que se pronuncia.
