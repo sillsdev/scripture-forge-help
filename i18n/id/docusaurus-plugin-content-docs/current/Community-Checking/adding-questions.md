@@ -110,6 +110,21 @@ Untuk mengimpor pertanyaan dari Transcelerator:
 10. Pilih pertanyaan yang ingin Anda impor. Langkah-langkah untuk melakukan hal ini sama persis dengan bagian di atas yang berjudul **Mengimpor pertanyaan dari spreadsheet**. Lihat bagian tersebut untuk petunjuk tentang penyaringan pertanyaan yang Anda inginkan.
 11. Klik **Import Pertanyaan Terpilih** dan pertanyaan Anda akan ditambahkan ke proyek.
 
+### Importing questions from tagged Paratext notes {#27f4373ac9934884976eacc1cc3a4a25}
+
+You can add questions as notes in Paratext and later import them into Scripture Forge as community checking questions. In order to do this, you need to create a note tag in Paratext that you will use to identify which notes you want to import as questions.
+
+To import questions from Paratext notes:
+
+1. In Paratext, choose a single, consistent tag you'll add to the notes you want to import as questions.
+2. Create or edit the notes you want to import. The text of the note should be the same as the content you want to become a Community Checking question. Add the tag you've designated for this purpose.
+3. Do a Send/Receive to sync the notes with the Paratext server.
+4. In Scripture Forge, open the project and sync with Paratext.
+5. Navigate to the **Manage questions** page and click the **Import** button.
+6. Select **Import from Paratext**.
+7. Choose your designated tag from the dropdown list.
+8. Select the questions that you want to import and click **Import Selected Questions**.
+
 ## Lampirkan rekaman audio teks {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge dapat memutar rekaman audio dari setiap bagian untuk para masyarakat pemeriksa. Untuk melakukan ini, Anda perlu mengunggah berkas audio dan data waktu untuk setiap pasal. File pengaturan waktu memungkinkan Scripture Forge untuk menyorot setiap ayat saat sedang diucapkan.

@@ -110,6 +110,21 @@ Pour importer des questions depuis Transcelerator:
 10. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
 11. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
 
+### Importing questions from tagged Paratext notes {#27f4373ac9934884976eacc1cc3a4a25}
+
+You can add questions as notes in Paratext and later import them into Scripture Forge as community checking questions. In order to do this, you need to create a note tag in Paratext that you will use to identify which notes you want to import as questions.
+
+To import questions from Paratext notes:
+
+1. In Paratext, choose a single, consistent tag you'll add to the notes you want to import as questions.
+2. Create or edit the notes you want to import. The text of the note should be the same as the content you want to become a Community Checking question. Add the tag you've designated for this purpose.
+3. Do a Send/Receive to sync the notes with the Paratext server.
+4. In Scripture Forge, open the project and sync with Paratext.
+5. Navigate to the **Manage questions** page and click the **Import** button.
+6. Select **Import from Paratext**.
+7. Choose your designated tag from the dropdown list.
+8. Select the questions that you want to import and click **Import Selected Questions**.
+
 ## Attacher un enregistrement audio du texte {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge peut jouer un enregistrement audio de chaque passage pour les vérificateurs de la communauté. Pour ce faire, vous devrez téléverser un fichier audio et un fichier de synchronisation pour chaque chapitre. Les fichiers de synchronisation permettent à Scripture Forge de mettre en surbrillance chaque verset au fur et à mesure qu'il est prononcé.

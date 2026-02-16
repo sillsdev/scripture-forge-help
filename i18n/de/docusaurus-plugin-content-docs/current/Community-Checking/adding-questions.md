@@ -110,6 +110,21 @@ Um Fragen aus Transcelerator zu importieren:
 10. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. Siehe den Abschnitt mit den Anweisungen zum Filtern für die gewünschten Fragen.
 11. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 
+### Importieren von Fragen aus gekennzeichneten Paratextnotizen {#27f4373ac9934884976eacc1cc3a4a25}
+
+Du kannst Fragen als Notizen in Paratext hinzufügen und sie später in Scripture Forge als Fragen für die Überprüfung mit der Zielgruppe importieren. Damit Du dies tun kannst, musst Du in Paratext ein Notizensymbol erstellen, mit dem Du die Notizen identifizierst, die Du als Fragen importieren möchtest.
+
+Um Fragen aus Paratext-Notizen zu importieren:
+
+1. Wähle in Paratext ein einziges, konsistentes Symbol aus, das Du als Fragen zu den Notizen hinzufügen möchtest.
+2. Erstelle oder bearbeite die Notizen, die Du importieren möchtest. Der Text der Notiz sollte mit dem Inhalt übereinstimmen, den Du zu einer Frage für die Überprüfung mit der Zielgruppe machen willst. Füge das für diesen Zweck vorgesehene Symbol hinzu.
+3. Führe Senden/Empfangen durch, um die Notizen mit dem Paratext-Server zu synchronisieren.
+4. Öffne in Scripture Forge das Projekt und synchronisiere es mit Paratext.
+5. Gehje zur Seite **Fragen verwalten** und klicke auf die Schaltfläche **Importieren**.
+6. Wähle **Importieren aus Paratext**.
+7. Wähle das gewünschte Symbol aus der Dropdown-Liste.
+8. Wähle die Fragen aus, die Du importieren möchtest, und klicke auf **Ausgewählte Fragen importieren**.
+
 ## Audioaufnahme des Textes hinzufügen {#1850d745ac9e80e795f3d611356e74d5}
 
 Scripture Forge kann eine Audioaufnahme von jedem Textabschnitt für Überprüfer der Zielgruppe abspielen. Dazu musst Du für jedes Kapitel eine Audiodatei und eine Zeitdatei hochladen. Zeitdateien erlauben es Scripture Forge jeden Vers hervorzuheben, während er gesprochen wird.
