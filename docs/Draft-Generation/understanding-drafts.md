@@ -1,6 +1,6 @@
 ---
 title: Understanding Draft Generation
-sidebar_position: 0
+sidebar_position: 1
 slug: /understanding-drafts
 ---
 

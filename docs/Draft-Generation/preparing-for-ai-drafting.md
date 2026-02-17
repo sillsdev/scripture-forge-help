@@ -1,6 +1,6 @@
 ---
 title: Preparing to Generate a Draft
-sidebar_position: 1
+sidebar_position: 3
 slug: /preparing-for-ai-drafting
 ---
 
