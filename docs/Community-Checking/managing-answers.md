@@ -36,6 +36,11 @@ If you would prefer to have all answers exported to Paratext without individuall
 ![](./1265120461.png)
 
 
+## Export Community Checking Data to CSV {#1850d745ac9e80a8b3f0f50bcdd0be59}
+
+Community checking questions and answers can be exported as CSV files for external review, backup, or analysis. This is particularly useful for project administrators who need to track progress or share results with stakeholders outside of Scripture Forge. Look for the CSV export option in the Community Checking section.
+
+
 ## Sync the project so answers show up as notes in Paratext {#1850d745ac9e80a8b3f0f50bcdd0be58}
 
 
