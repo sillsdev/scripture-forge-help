@@ -1,12 +1,12 @@
 ---
 title: Comprender la redacción
-sidebar_position: 0
+sidebar_position: 1
 slug: /understanding-drafts
 ---
 
 ## Introducción {#ad165caedac347798432de75e4305252}
 
-El equipo de Procesamiento del Lenguaje Natural de SIL Global ha desarrollado una herramienta que puede ayudar en la traducción de la Biblia creando un primer borrador que los traductores pueden editar y perfeccionar. Desde el 1 de enero de 2024, esta herramienta está disponible para su uso dentro de [Scripture Forge](https://scriptureforge.org/), una plataforma de edición de escrituras que está estrechamente integrada con [Paratext](https://paratext.org/).
+El equipo de Procesamiento del Lenguaje Natural de SIL Global ha desarrollado una herramienta que puede ayudar en la traducción de la Biblia creando un primer borrador que los traductores pueden editar y perfeccionar. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 Todos los borradores que se crean contienen errores que el equipo de traducción debe corregir. Para algunos proyectos, la calidad será demasiado baja para ser útil. Sin embargo, las numerosas pruebas realizadas sobre el terreno han demostrado que un número significativo de equipos consideran que los borradores son muy útiles para su trabajo y de calidad suficiente para utilizarlos como punto de partida para que el equipo los edite.
 
@@ -63,7 +63,7 @@ Los borradores de la retrotraducción también contendrán errores y habrá que 
 
 ## Cómo empezar {#1ba56b4f36584ecb91b9f2208efec047}
 
-La generación de borradores de retrotraducción está actualmente abierta y disponible para todos los usuarios de Paratext. La generación de borradores en lengua vernácula, debido a la complejidad que entraña su configuración, requiere la incorporación de un equipo al equipo de Procesamiento del Lenguaje Natural del SIL. Rellene el [formulario de inscripción para la redacción de traducciones](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), y un miembro del equipo evaluará si su proyecto es un buen candidato para generar borradores.
+La generación de borradores de retrotraducción está actualmente abierta y disponible para todos los usuarios de Paratext. La generación de borradores en lengua vernácula, debido a la complejidad que entraña su configuración, requiere la incorporación de un equipo al equipo de Procesamiento del Lenguaje Natural del SIL. To sign up, connect your project in Scripture Forge, go the the "Generate draft" page, click on the "Sign up for drafting" button, and fill out the form. A member of the team will assess whether your project is a good candidate for generating drafts.
 
 Independientemente de si estás generando borradores de retrotraducción o borradores vernáculos, puedes empezar conectando tu proyecto Paratext a Scripture Forge siguiendo estos pasos:
 
@@ -187,7 +187,7 @@ Los borradores de retrotraducción pueden generarse a partir de cualquier idioma
 | Latgaliano                |           | ltg       |           |
 | Luxemburgués              | lb        | ltz       | ltz       |
 | Luba-Lulua                |           | lua       |           |
-| Luganda                   | lg        | lg        | lug       |
+| Luganda                   | lg        | lg        | lg        |
 | Luo                       |           | luo       | luo       |
 | Lushai                    |           | lus       | lus       |
 | Letón                     | lv        | lvs       | lav       |
@@ -208,7 +208,7 @@ Los borradores de retrotraducción pueden generarse a partir de cualquier idioma
 | Nynorsk noruego           | nn        | nno       | nno       |
 | Noruego Bokmål            | nb        | nob       | nob       |
 | Nepalí                    |           | npi       | npi       |
-| Sotho norteño             |           | npi       | nso       |
+| Sotho norteño             |           | npi       | npi       |
 | Nuer                      |           | nus       | nus       |
 | Chichewa                  | ny        | nya       | nya       |
 | Occitano                  | oc        | oci       | oci       |
@@ -234,7 +234,7 @@ Los borradores de retrotraducción pueden generarse a partir de cualquier idioma
 | Sinhala                   | si        | sin       | sin       |
 | Eslovaco                  | sk        | slk       | slo       |
 | Eslovenio                 | sl        | slv       | slv       |
-| Samoano                   | sm        | sm        | smo       |
+| Samoano                   | sm        | sm        | sm        |
 | Shona                     | sn        | sna       | sna       |
 | Sindhi                    | sd        | snd       | snd       |
 | Somalí                    | so        | som       | som       |

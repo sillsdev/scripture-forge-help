@@ -1,13 +1,13 @@
 ---
 title: Utilizar un borrador
-sidebar_position: 2
+sidebar_position: 5
 slug: /using-a-draft
 ---
 
-Cuando termine su borrador, Scripture Forge le indicará que está listo y listará los libros que fueron borrados. Los borradores generados **no** se importan automáticamente a su proyecto. Puedes previsualizar o importar borradores desde la página **Generar borrador**.
+Scripture Forge le mostrará cuando su borrador esté listo y listará los libros que fueron borrados. Los borradores generados **no** se importan automáticamente a su proyecto. Puedes previsualizar o importar borradores desde la página **Generar borrador**.
 
-- Para importar **capítulos individuales**, previsualiza el capítulo y elige "Añadir al proyecto". Los capítulos individuales sólo pueden ser añadidos al proyecto actual.
-- Para importar un **libro completo**, abra el menú de tres puntos situado junto al nombre del libro. Puede elegir importar el libro al proyecto actual o a un proyecto diferente.
+- Para importar **capítulos individuales**, haga clic en un libro, luego sobre el capítulo que se abre, haga clic en "Añadir al proyecto". Los capítulos individuales sólo pueden ser añadidos al proyecto actual.
+- Para importar un **libro completo**, haga clic en "Añadir a un proyecto". Puede elegir importar el libro a su proyecto principal o a un proyecto diferente.
 
 ![](./draft_complete.png)
 
@@ -27,23 +27,17 @@ Si has hecho el borrador de un libro que el equipo ya ha terminado de traducir, 
 
 ## Importar un solo capítulo
 
-Al previsualizar el borrador, puedes importar el borrador del capítulo actual al proyecto haciendo clic en "Añadir al proyecto". Puede ir a cada capítulo del libro y previsualizar e importar cada capítulo uno a la vez. Esto añadirá el capítulo al proyecto actual; no a un proyecto diferente.
+Al previsualizar el borrador, puedes importar el borrador del capítulo actual al proyecto haciendo clic en "Añadir al proyecto". Puede ir a cada capítulo del libro y previsualizar e importar cada capítulo uno a la vez. Esto añadirá el capítulo al proyecto actual, no a un proyecto diferente.
 
 ![](./chapter_imported.png)
 
 ## Importar un libro entero
 
-Si desea importar un libro entero, puede hacerlo desde la página "Generar borrador". Haga clic en el menú de tres puntos junto al libro y luego seleccione la opción para importarlo al proyecto actual o a un proyecto diferente.
+Si desea importar un libro completo, o varios libros, puede hacerlo desde la página "Generar borrador". Haga clic en "Añadir a un proyecto" y seleccione el proyecto al que desea importar.
 
 ![](./import_book.png)
 
-En el cuadro de diálogo que se abre, seleccione el proyecto al que desea importar el borrador. Si el proyecto aún no ha sido conectado en Scripture Forge, necesitará conectarlo primero. **Importante:** La importación del borrador reemplazará cualquier contenido existente en el proyecto para ese libro.
-
-:::note
-
-El proyecto ya debe tener el libro que está importando. Asegúrese de que ya ha creado el libro en Paratext y lo sincronizó con Scripture Forge.
-
-:::
+En el cuadro de diálogo que se abre, seleccione el proyecto al que desea importar el borrador. **Importante:** La importación del borrador reemplazará cualquier contenido existente en el proyecto para ese libro.
 
 ![](./import_book_dialog.png)
 
@@ -62,4 +56,3 @@ Paratext 10 Studio incluye una extensión de Scripture Forge. Puedes ver borrado
 1. Abra la extensión Scripture Forge.
 2. Iniciar sesión en Scripture Forge.
 3. Seleccione su proyecto para ver el borrador.
-

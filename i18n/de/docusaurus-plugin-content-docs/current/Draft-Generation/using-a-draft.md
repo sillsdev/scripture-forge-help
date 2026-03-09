@@ -1,13 +1,13 @@
 ---
 title: Einen Entwurf verwenden
-sidebar_position: 2
+sidebar_position: 5
 slug: /using-a-draft
 ---
 
-Sobald Dein Entwurf erstellt ist, wird Scripture Forge anzeigen, dass er bereit und listet die entworfenen Bücher auf. Generierte Entwürfe werden **nicht** automatisch in Dein Projekt importiert. Aus **Entwürfe Generieren** kannst Du eine Voransicht öffnen oder Entwürfe importieren.
+Scripture Forge zeigt an, wenn Dein Entwurf fertig ist und listet die Bücher auf, die erstellt wurden. Generierte Entwürfe werden **nicht** automatisch in Dein Projekt importiert. Aus **Entwürfe Generieren** kannst Du eine Voransicht öffnen oder Entwürfe importieren.
 
-- Um **einzelne Kapitel** zu importieren, öffne eine Voransicht und wähle "Zum Projekt hinzufügen". Einzelne Kapitel können nur zum aktuellen Projekt hinzugefügt werden.
-- Um ein **ganzes Buch** zu importieren, öffne das Dreipunktemenü neben dem Namen des Buches. Du kannst wählen, ob Du das Buch ins aktuelle Projekt oder in ein anderes Projekt importieren möchtest.
+- Um **einzelne Kapitel** zu importieren, klicke auf ein Buch und dann oberhalb des Kapitels, das sich öffnet, auf "Zum Projekt hinzufügen". Einzelne Kapitel können nur zum aktuellen Projekt hinzugefügt werden.
+- Um ein **komplettes Buch** zu importieren, klicke auf "Zu einem Projekt hinzufügen". Du kannst wählen, ob Du das Buch in Dein Hauptprojekt oder in ein anderes Projekt importieren möchtest.
 
 ![](./draft_complete.png)
 
@@ -33,17 +33,11 @@ Wenn Du eine Voransicht des Entwurfes öffnest, kannst Du den Entwurf der aktuel
 
 ## Ein ganzes Buch importieren
 
-Falls Du ein ganzes Buch importieren möchtest, kannst Du dies aus "Entwürf generieren" tun. Klicke auf das Menü mit den drei Punkten neben dem Buch und wähle dann die Option, es in das aktuelle Projekt oder in ein anderes Projekt zu importieren.
+Falls Du ein ganzes Buch oder mehrere Bücher importieren möchtest, kannst Du dies auf der Seite "Entwurf generieren" tun. Klicke auf "Zu einem Projekt hinzufügen" und wähle dann das Projekt aus, in das Du importieren möchtest.
 
 ![](./import_book.png)
 
-Wähle im sich öffnenden Dialogfeld das Projekt aus, in das der Entwurf importiert werden soll. Falls das Projekt noch nicht mit Scripture Forge verbunden wurde, musst Du es zuerst verbinden. **Wichtig:** Das Importieren des Entwurfs ersetzt alle vorhandenen Inhalte im Projekt für dieses Buch.
-
-:::note
-
-Das Projekt muss das zu importierende Buch bereits enthalten. Stelle sicher, dass Du das Buch bereits in Paratext erstellt und mit Scripture Forge synchronisiert hast.
-
-:::
+Wähle im sich öffnenden Dialogfeld das Projekt aus, in das der Entwurf importiert werden soll. **Wichtig:** Das Importieren des Entwurfs ersetzt alle vorhandenen Inhalte im Projekt für dieses Buch.
 
 ![](./import_book_dialog.png)
 
@@ -62,4 +56,3 @@ Paratext 10 Studio beinhaltet eine Erweiterung für Scirpture Forge. Du kannst E
 1. Öffne die Erweiterung für Scripture Forge.
 2. Bei Scripture Forge anmelden.
 3. Wähle Dein Projekt, um den Entwurf anzusehen.
-

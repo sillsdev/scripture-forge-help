@@ -1,12 +1,12 @@
 ---
 title: Erstellung eines Entwurfs verstehen
-sidebar_position: 0
+sidebar_position: 3
 slug: /understanding-drafts
 ---
 
 ## Einführung {#ad165caedac347798432de75e4305252}
 
-Das Natural Language Processing Team von SIL International hat ein Werkzeug entwickelt, das bei der Bibelübersetzung helfen kann, indem es einen groben ersten Entwurf erstellt, den die Übersetzer dann bearbeiten und verfeinern können. Ab dem 1. Januar 2024 ist dieses Werkzeug nun für die Verwendung in [Scripture Forge](https://scriptureforge.org/), einer Plattform zur Bearbeitung von Bibeltexten, die in [Paratext](https://paratext.org/) integriert ist, verfügbar.
+Das Natural Language Processing Team von SIL International hat ein Werkzeug entwickelt, das bei der Bibelübersetzung helfen kann, indem es einen groben ersten Entwurf erstellt, den die Übersetzer dann bearbeiten und verfeinern können. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 Alle Entwürfe, die erstellt werden, enthalten Fehler, die vom Übersetzungsteam korrigiert werden müssen. Bei einigen Projekten wird die Qualität zu gering sein, um nützlich zu sein. Ausführliche Praxistests haben jedoch gezeigt, dass eine beträchtliche Anzahl von Teams die Entwürfe als sehr hilfreich für ihre Arbeit empfindet und dass sie von ausreichender Qualität sind, um sie als Ausgangspunkt für die Bearbeitung durch das Team zu verwenden.
 
@@ -63,7 +63,7 @@ Rückübersetzungsentwürfe enthalten ebenfalls Fehler und müssen bearbeitet we
 
 ## Erste Schritte {#1ba56b4f36584ecb91b9f2208efec047}
 
-Das Generieren von Rückübersetzungsentwürfen ist derzeit offen und steht allen Paratext-Benutzer zu Verfügung. Das Generieren von Entwürfen in die Lokalsprache, erfordert aufgrund der Komplexität beim Einrichten, dass ein Übersetzungsteam vom SIL Natural Language Processing Team unterstützt wird. Bitte fülle das [Registrierungsformular für das Erstellen von Übersetzungsentwürfen](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc) aus, und ein Mitglied des SIL Natural Language Processing Teams wird prüfen, ob Dein Projekt für das Generieren von Entwürfen in Frage kommt.
+Das Generieren von Rückübersetzungsentwürfen ist derzeit offen und steht allen Paratext-Benutzer zu Verfügung. Das Generieren von Entwürfen in die Lokalsprache, erfordert aufgrund der Komplexität beim Einrichten, dass ein Übersetzungsteam vom SIL Natural Language Processing Team unterstützt wird. To sign up, connect your project in Scripture Forge, go the the "Generate draft" page, click on the "Sign up for drafting" button, and fill out the form. A member of the team will assess whether your project is a good candidate for generating drafts.
 
 Unabhängig davon, ob Du Rückübersetzungsentwürfe oder Entwürfe in der Lokalsprache generierst, kannst Du beginnen, indem Du Dein Paratext-Projekt mit Scripture Forge verbindest, indem Du die folgenden Schritte ausführst:
 

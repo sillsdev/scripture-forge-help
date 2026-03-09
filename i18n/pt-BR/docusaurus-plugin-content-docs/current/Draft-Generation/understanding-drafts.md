@@ -1,12 +1,12 @@
 ---
 title: Understanding Draft Generation
-sidebar_position: 0
+sidebar_position: 1
 slug: /understanding-drafts
 ---
 
 ## Introduction {#ad165caedac347798432de75e4305252}
 
-SIL International's Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. As of January 1, 2024, this tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
+SIL International's Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 All of the drafts that are created contain errors that need to be corrected by the translation team. For some projects, the quality will be too low to be useful. However, extensive field testing has shown that a significant number of teams find the drafts to be very helpful in their work, and of sufficient quality to use as a starting point for the team to edit.
 
@@ -63,7 +63,7 @@ Back translation drafts will also contain errors and need to be edited, but the 
 
 ## Getting started {#1ba56b4f36584ecb91b9f2208efec047}
 
-Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be onboarded by the SIL Natural Language Processing team. Please fill out the [translation drafting registration form](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), and a member of the team will assess whether your project is a good candidate for generating drafts.
+Generating back translation drafts is currently open and available to all Paratext users. Generating drafts into the vernacular, due to the complexity involved in setup, requires a team to be onboarded by the SIL Natural Language Processing team. To sign up, connect your project in Scripture Forge, go the the "Generate draft" page, click on the "Sign up for drafting" button, and fill out the form. A member of the team will assess whether your project is a good candidate for generating drafts.
 
 Regardless of whether you are generating back translation drafts or vernacular drafts, you can begin by connecting your Paratext project to Scripture Forge by following these steps:
 
@@ -82,202 +82,202 @@ Once you have a draft generated, you can preview the draft and import individual
 
 Back translation drafts can be generated from any language, but must be back translated into one of the following languages.
 
-| Language name          | ISO 639-1 | ISO 639-2 | ISO 639-3 |
-| ---------------------- | --------- | --------- | --------- |
-| Achinese               |           | ace       |           |
-| Mesopotamian Arabic    |           | acm       |           |
-| Ta'izzi-Adeni Arabic   |           | acq       |           |
-| Tunisian Arabic        |           | aeb       |           |
-| Afrikaans              | af        | afr       | afr       |
-| South Levantine Arabic |           | ajp       |           |
-| Akan                   | ak        | aka       |           |
-| Amharic                | am        | amh       | amh       |
-| North Levantine Arabic |           | apc       |           |
-| Standard Arabic        | ar        | arb       | ara       |
-| Najdi Arabic           |           | ars       |           |
-| Moroccan Arabic        |           | ary       |           |
-| Egyptian Arabic        |           | arz       |           |
-| Assamese               | as        | asm       | asm       |
-| Asturian               |           | ast       |           |
-| Awadhi                 |           | awa       |           |
-| Aymara                 |           | ayr       |           |
-| South Azerbaijani      |           | azb       |           |
-| North Azerbaijani      |           | azj       |           |
-| Bashkir                | ba        | bak       | bak       |
-| Bambara                | bm        | bam       | bam       |
-| Balinese               |           | ban       |           |
-| Belarusian             | be        | bel       | bel       |
-| Bemba                  |           | bem       |           |
-| Bengali                | bn        | ben       | ben       |
-| Bhojpuri               |           | bho       |           |
-| Banjar                 |           | bjn       |           |
-| Tibetan                | bo        | bod       | tib       |
-| Bosnian                | bs        | bos       | bos       |
-| Buginese               |           | bug       |           |
-| Bulgarian              | bg        | bul       | bul       |
-| Catalan                | ca        | cat       | cat       |
-| Cebuano                |           | ceb       |           |
-| Czech                  | cs        | ces       | cze       |
-| Chokwe                 |           | cjk       |           |
-| Central Kurdish        |           | ckb       |           |
-| Crimean Turkish        |           | crh       |           |
-| Welsh                  | cy        | cym       | wel       |
-| Danish                 | da        | dan       | dan       |
-| German                 | de        | deu       | ger       |
-| Dinka                  |           | dik       |           |
-| Dyula                  |           | dyu       |           |
-| Dzongkha               | dz        | dzo       | dzo       |
-| Greek                  | el        | ell       | gre       |
-| English                | en        | eng       | eng       |
-| Esperanto              | eo        | epo       | epo       |
-| Estonian               | et        | est       | est       |
-| Basque                 | eu        | eus       | baq       |
-| Ewe                    | ee        | ewe       | ewe       |
-| Faroese                | fo        | fao       | fao       |
-| Fijian                 | fj        | fij       | fij       |
-| Finnish                | fi        | fin       | fin       |
-| Fon                    |           | fon       |           |
-| French                 | fr        | fra       | fre       |
-| Friulian               |           | fur       |           |
-| Nigerian Fulfulde      |           | fuv       |           |
-| Scottish Gaelic        | gd        | gla       | gla       |
-| Irish                  | ga        | gle       | gle       |
-| Galician               | gl        | glg       | glg       |
-| Guarani                | gn        | grn       | grn       |
-| Gujarati               | gu        | guj       | guj       |
-| Haitian Creole         |           | hat       |           |
-| Hausa                  | ha        | hau       | hau       |
-| Hebrew                 | he        | heb       | heb       |
-| Hindi                  | hi        | hin       | hin       |
-| Chhattisgarhi          |           | hne       |           |
-| Croatian               | hr        | hrv       | hrv       |
-| Hungarian              | hu        | hun       | hun       |
-| Armenian               | hy        | hye       | arm       |
-| Igbo                   | ig        | ibo       | ibo       |
-| Iloko                  |           | ilo       |           |
-| Indonesian             | id        | ind       | ind       |
-| Icelandic              | is        | isl       | ice       |
-| Italian                | it        | ita       | ita       |
-| Javanese               | jv        | jav       | jav       |
-| Japanese               | ja        | jpn       | jpn       |
-| Kabyle                 |           | kab       |           |
-| Kachin                 |           | kac       |           |
-| Kamba                  |           | kam       |           |
-| Kannada                | kn        | kan       | kan       |
-| Kashmiri               | ks        | kas       | kas       |
-| Georgian               | ka        | kat       | geo       |
-| Central Kanuri         |           | knc       |           |
-| Kazakh                 | kk        | kaz       | kaz       |
-| Kabiye                 |           | kbp       |           |
-| Kabuverdianu           |           | kea       |           |
-| Khmer                  | km        | khm       | khm       |
-| Kikuyu                 | ki        | kik       | kik       |
-| Kinyarwanda            | rw        | kin       | kin       |
-| Kyrgyz                 | ky        | kir       | kir       |
-| Kimbundu               |           | kmb       |           |
-| Northern Kurdish       |           | kmr       |           |
-| Kongo                  | kg        | kon       | kon       |
-| Korean                 | ko        | kor       | kor       |
-| Lao                    | lo        | lao       | lao       |
-| Ligurian               |           | lij       |           |
-| Limburgish             | li        | lim       | lim       |
-| Lingala                | ln        | lin       | lin       |
-| Lithuanian             | lt        | lit       | lit       |
-| Lombard                |           | lmo       |           |
-| Latgalian              |           | ltg       |           |
-| Luxembourgish          | lb        | ltz       | ltz       |
-| Luba-Lulua             |           | lua       |           |
-| Luganda                | lg        | lug       | lug       |
-| Luo                    |           | luo       | luo       |
-| Lushai                 |           | lus       | lus       |
-| Latvian                | lv        | lvs       | lav       |
-| Magahi                 |           | mag       | mag       |
-| Maithili               |           | mai       | mai       |
-| Malayalam              | ml        | mal       | mal       |
-| Marathi                | mr        | mar       | mar       |
-| Minangkabau            |           | min       | min       |
-| Macedonian             | mk        | mkd       | mac       |
-| Plateau Malagasy       |           | plt       | plt       |
-| Maltese                | mt        | mlt       | mlt       |
-| Manipuri               |           | mni       | mni       |
-| Halh Mongolian         |           | khk       | khk       |
-| Mossi                  |           | mos       | mos       |
-| Maori                  | mi        | mri       | mao       |
-| Burmese                | my        | mya       | bur       |
-| Dutch                  | nl        | nld       | dut       |
-| Norwegian Nynorsk      | nn        | nno       | nno       |
-| Norwegian Bokmål       | nb        | nob       | nob       |
-| Nepali                 |           | npi       | npi       |
-| Northern Sotho         |           | nso       | nso       |
-| Nuer                   |           | nus       | nus       |
-| Chichewa               | ny        | nya       | nya       |
-| Occitan                | oc        | oci       | oci       |
-| West Central Oromo     |           | gaz       | gaz       |
-| Odia                   |           | ory       | ory       |
-| Pangasinan             |           | pag       | pag       |
-| Punjabi                | pa        | pan       | pan       |
-| Papiamento             |           | pap       | pap       |
-| Persian                | fa        | pes       | per       |
-| Polish                 | pl        | pol       | pol       |
-| Portuguese             | pt        | por       | por       |
-| Dari                   |           | prs       | prs       |
-| Southern Pashto        |           | pbt       | pbt       |
-| Quechua                |           | quy       | quy       |
-| Romanian               | ro        | ron       | rum       |
-| Rundi                  | rn        | run       | run       |
-| Russian                | ru        | rus       | rus       |
-| Sango                  | sg        | sag       | sag       |
-| Sanskrit               | sa        | san       | san       |
-| Santali                |           | sat       | sat       |
-| Sicilian               |           | scn       | scn       |
-| Shan                   |           | shn       | shn       |
-| Sinhala                | si        | sin       | sin       |
-| Slovak                 | sk        | slk       | slo       |
-| Slovenian              | sl        | slv       | slv       |
-| Samoan                 | sm        | smo       | smo       |
-| Shona                  | sn        | sna       | sna       |
-| Sindhi                 | sd        | snd       | snd       |
-| Somali                 | so        | som       | som       |
-| Sotho, Southern        | st        | sot       | sot       |
-| Spanish                | es        | spa       | spa       |
-| Tosk Albanian          | sq        | als       | als       |
-| Sardinian              | sc        | srd       | srd       |
-| Serbian                | sr        | srp       | srp       |
-| Swazi                  | ss        | ssw       | ssw       |
-| Sundanese              | su        | sun       | sun       |
-| Swedish                | sv        | swe       | swe       |
-| Swahili                | sw        | swh       | swh       |
-| Silesian               | szl       | szl       | szl       |
-| Tamil                  | ta        | tam       | tam       |
-| Tatar                  | tt        | tat       | tat       |
-| Telugu                 | te        | tel       | tel       |
-| Tajik                  | tg        | tgk       | tgk       |
-| Tagalog                | tl        | tgl       | tgl       |
-| Thai                   | th        | tha       | tha       |
-| Tigrinya               | ti        | tir       | tir       |
-| Tamashek               | tmh       | taq       | taq       |
-| Tok Pisin              | tpi       | tpi       | tpi       |
-| Tswana                 | tn        | tsn       | tsn       |
-| Tsonga                 | ts        | tso       | tso       |
-| Turkmen                | tk        | tuk       | tuk       |
-| Tumbuka                | tum       | tum       | tum       |
-| Turkish                | tr        | tur       | tur       |
-| Twi                    | tw        | twi       | twi       |
-| Tamazight              | tzm       | tzm       | tzm       |
-| Uighur                 | ug        | uig       | uig       |
-| Ukrainian              | uk        | ukr       | ukr       |
-| Umbundu                | umb       | umb       | umb       |
-| Urdu                   | ur        | urd       | urd       |
-| Uzbek                  | uz        | uzn       | uzn       |
-| Venetian               | vec       | vec       | vec       |
-| Vietnamese             | vi        | vie       | vie       |
-| Waray                  | war       | war       | war       |
-| Wolof                  | wo        | wol       | wol       |
-| Xhosa                  | xh        | xho       | xho       |
-| Yiddish                | yi        | ydd       | yid       |
-| Yoruba                 | yo        | yor       | yor       |
-| Cantonese              | zh        | yue       | yue       |
-| Chinese                | zh        | zho       | chi       |
-| Malay                  | ms        | zsm       | zsm       |
-| Zulu                   | zu        | zul       | zul       |
+| Language name          | ISO 639-1 | ISO 639-2 | ISO 639-3             |
+| ---------------------- | --------- | --------- | --------------------- |
+| Achinese               |           | ace       |                       |
+| Mesopotamian Arabic    |           | acm       |                       |
+| Ta'izzi-Adeni Arabic   |           | acq       |                       |
+| Tunisian Arabic        |           | aeb       |                       |
+| Afrikaans              | af        | afr       | afr                   |
+| South Levantine Arabic |           | ajp       |                       |
+| Akan                   | ak        | aka       |                       |
+| Amharic                | am        | amh       | amh                   |
+| North Levantine Arabic |           | apc       |                       |
+| Standard Arabic        | ar        | arb       | ara                   |
+| Najdi Arabic           |           | ars       |                       |
+| Moroccan Arabic        |           | ary       |                       |
+| Egyptian Arabic        |           | arz       |                       |
+| Assamese               | as        | asm       | asm                   |
+| Asturian               |           | ast       |                       |
+| Awadhi                 |           | awa       |                       |
+| Aymara                 |           | ayr       |                       |
+| South Azerbaijani      |           | azb       |                       |
+| North Azerbaijani      |           | azj       |                       |
+| Bashkir                | ba        | bak       | bak                   |
+| Bambara                | bm        | bam       | bam                   |
+| Balinese               |           | ban       |                       |
+| Belarusian             | be        | bel       | bel                   |
+| Bemba                  |           | bem       |                       |
+| Bengali                | bn        | ben       | benf. |
+| Bhojpuri               |           | bho       |                       |
+| Banjar                 |           | bjn       |                       |
+| Tibetan                | bo        | bod       | tib                   |
+| Bosnian                | bs        | bos       | bos                   |
+| Buginese               |           | bug       |                       |
+| Bulgarian              | bg        | bul       | bul                   |
+| Catalan                | ca        | cat       | cat.  |
+| Cebuano                |           | ceb       |                       |
+| Czech                  | cs        | ces       | cze                   |
+| Chokwe                 |           | cjk       |                       |
+| Central Kurdish        |           | ckb       |                       |
+| Crimean Turkish        |           | crh       |                       |
+| Welsh                  | cy        | cym       | wel                   |
+| Danish                 | da        | dan       | dan                   |
+| German                 | de        | deu       | ger                   |
+| Dinka                  |           | dik       |                       |
+| Dyula                  |           | dyu       |                       |
+| Dzongkha               | dz        | dzo       | dzo                   |
+| Greek                  | el        | ell       | gre                   |
+| English                | en        | eng       | eng                   |
+| Esperanto              | eo        | epo       | epo                   |
+| Estonian               | et        | est       | est                   |
+| Basque                 | eu        | eus       | baq                   |
+| Ewe                    | ee        | ewe       | ewe                   |
+| Faroese                | fo        | fao       | fao                   |
+| Fijian                 | fj        | fij       | fij                   |
+| Finnish                | fi        | fin       | fin                   |
+| Fon                    |           | fon       |                       |
+| French                 | fr        | fra       | fre                   |
+| Friulian               |           | fur       |                       |
+| Nigerian Fulfulde      |           | fuv       |                       |
+| Scottish Gaelic        | gd        | gla       | gla                   |
+| Irish                  | ga        | gle       | gle                   |
+| Galician               | gl        | glg       | glg                   |
+| Guarani                | gn        | grn       | grn                   |
+| Gujarati               | gu        | guj       | guj                   |
+| Haitian Creole         |           | hat       |                       |
+| Hausa                  | ha        | hau       | hau                   |
+| Hebrew                 | he        | heb       | heb                   |
+| Hindi                  | hi        | hin       | hin                   |
+| Chhattisgarhi          |           | hne       |                       |
+| Croatian               | hr        | hrv       | hrv                   |
+| Hungarian              | hu        | hun       | hun                   |
+| Armenian               | hy        | hye       | arm                   |
+| Igbo                   | ig        | ibo       | ibo                   |
+| Iloko                  |           | ilo       |                       |
+| Indonesian             | id        | ind       | ind                   |
+| Icelandic              | is        | isl       | ice                   |
+| Italian                | it        | ita       | ita                   |
+| Javanese               | jv        | jav       | jav                   |
+| Japanese               | ja        | jpn       | jpn                   |
+| Kabyle                 |           | kab       |                       |
+| Kachin                 |           | kac       |                       |
+| Kamba                  |           | kam       |                       |
+| Kannada                | kn        | kan       | kan                   |
+| Kashmiri               | ks        | kas       | kas                   |
+| Georgian               | ka        | kat       | geo                   |
+| Central Kanuri         |           | knc       |                       |
+| Kazakh                 | kk        | kaz       | kaz                   |
+| Kabiye                 |           | kbp       |                       |
+| Kabuverdianu           |           | kea       |                       |
+| Khmer                  | km        | khm       | khm                   |
+| Kikuyu                 | ki        | kik       | kik                   |
+| Kinyarwanda            | rw        | kin       | kin                   |
+| Kyrgyz                 | ky        | kir       | kir                   |
+| Kimbundu               |           | kmb       |                       |
+| Northern Kurdish       |           | kmr       |                       |
+| Kongo                  | kg        | kon       | kon                   |
+| Korean                 | ko        | kor       | kor                   |
+| Lao                    | lo        | lao       | laociano              |
+| Ligurian               |           | lij       |                       |
+| Limburgish             | li        | lim       | lim                   |
+| Lingala                | ln        | lin       | lin                   |
+| Lithuanian             | lt        | lit       | lit                   |
+| Lombard                |           | lmo       |                       |
+| Latgalian              |           | ltg       |                       |
+| Luxembourgish          | lb        | ltz       | ltz                   |
+| Luba-Lulua             |           | lua       |                       |
+| Luganda                | lg        | lug       | lug                   |
+| Luo                    |           | luo       | luo                   |
+| Lushai                 |           | lus       | lus                   |
+| Latvian                | lv        | lvs       | lav                   |
+| Magahi                 |           | mag       | mag                   |
+| Maithili               |           | mai       | mai                   |
+| Malayalam              | ml        | mal       | mal                   |
+| Marathi                | mr        | mar       | mar.  |
+| Minangkabau            |           | min       | min                   |
+| Macedonian             | mk        | mkd       | mac                   |
+| Plateau Malagasy       |           | plt       | plt                   |
+| Maltese                | mt        | mlt       | mlt                   |
+| Manipuri               |           | mni       | mni                   |
+| Halh Mongolian         |           | khk       | khk                   |
+| Mossi                  |           | mos       | mos                   |
+| Maori                  | mi        | mri       | mao                   |
+| Burmese                | my        | mya       | bur                   |
+| Dutch                  | nl        | nld       | dut                   |
+| Norwegian Nynorsk      | nn        | nno       | nno                   |
+| Norwegian Bokmål       | nb        | nob       | nob                   |
+| Nepali                 |           | npi       | npi                   |
+| Northern Sotho         |           | nso       | nso                   |
+| Nuer                   |           | nus       | nus                   |
+| Chichewa               | ny        | nya       | nya                   |
+| Occitan                | oc        | oci       | oci                   |
+| West Central Oromo     |           | gaz       | gaz                   |
+| Odia                   |           | ory       | ory                   |
+| Pangasinan             |           | pag       | pag                   |
+| Punjabi                | pa        | pan       | pan                   |
+| Papiamento             |           | pap       | pap                   |
+| Persian                | fa        | pes       | per                   |
+| Polish                 | pl        | pol       | pol                   |
+| Portuguese             | pt        | por       | por                   |
+| Dari                   |           | prs       | prs                   |
+| Southern Pashto        |           | pbt       | pbt                   |
+| Quechua                |           | quy       | quy                   |
+| Romanian               | ro        | ron       | rum                   |
+| Rundi                  | rn        | run       | correr                |
+| Russian                | ru        | rus       | rus                   |
+| Sango                  | sg        | sag       | sag                   |
+| Sanskrit               | sa        | san       | san                   |
+| Santali                |           | sat       | sat                   |
+| Sicilian               |           | scn       | scn                   |
+| Shan                   |           | shn       | shn                   |
+| Sinhala                | si        | sin       | sin                   |
+| Slovak                 | sk        | slk       | slo                   |
+| Slovenian              | sl        | slv       | slv                   |
+| Samoan                 | sm        | smo       | smo                   |
+| Shona                  | sn        | sna       | sna                   |
+| Sindhi                 | sd        | snd       | snd                   |
+| Somali                 | so        | som       | som                   |
+| Sotho, Southern        | st        | sot       | sot                   |
+| Spanish                | es        | spa       | spa                   |
+| Tosk Albanian          | sq        | als       | als                   |
+| Sardinian              | sc        | srd       | srd                   |
+| Serbian                | sr        | srp       | srp                   |
+| Swazi                  | ss        | ssw       | ssw                   |
+| Sundanese              | su        | sun       | sol                   |
+| Swedish                | sv        | swe       | swe                   |
+| Swahili                | sw        | swh       | swh                   |
+| Silesian               | szl       | szl       | szl                   |
+| Tamil                  | ta        | tam       | tam                   |
+| Tatar                  | tt        | tat       | tat                   |
+| Telugu                 | te        | tel       | tel                   |
+| Tajik                  | tg        | tgk       | tgk                   |
+| Tagalog                | tl        | tgl       | tgl                   |
+| Thai                   | th        | tha       | tha                   |
+| Tigrinya               | ti        | tir       | tir                   |
+| Tamashek               | tmh       | taq       | taq                   |
+| Tok Pisin              | tpi       | tpi       | tpi                   |
+| Tswana                 | tn        | tsn       | tsn                   |
+| Tsonga                 | ts        | tso       | tso                   |
+| Turkmen                | tk        | tuk       | tuk                   |
+| Tumbuka                | tum       | tum       | tum                   |
+| Turkish                | tr        | tur       | tur                   |
+| Twi                    | tw        | twi       | twi                   |
+| Tamazight              | tzm       | tzm       | tzm                   |
+| Uighur                 | ug        | uig       | uig                   |
+| Ukrainian              | uk        | ukr       | ukr                   |
+| Umbundu                | umb       | umb       | umb                   |
+| Urdu                   | ur        | urd       | urd                   |
+| Uzbek                  | uz        | uzn       | uzn                   |
+| Venetian               | vec       | vec       | vec                   |
+| Vietnamese             | vi        | vie       | vie                   |
+| Waray                  | war       | war       | guerra                |
+| Wolof                  | wo        | wol       | wol                   |
+| Xhosa                  | xh        | xho       | xho                   |
+| Yiddish                | yi        | ydd       | yid                   |
+| Yoruba                 | yo        | yor       | yor                   |
+| Cantonese              | zh        | yue       | yue                   |
+| Chinese                | zh        | zho       | chi                   |
+| Malay                  | ms        | zsm       | zsm                   |
+| Zulu                   | zu        | zul       | zul                   |
 

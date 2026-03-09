@@ -1,12 +1,12 @@
 ---
 title: Memahami Pembuatan Konsep
-sidebar_position: 0
+sidebar_position: 1
 slug: /understanding-drafts
 ---
 
 ## Pendahuluan {#ad165caedac347798432de75e4305252}
 
-Tim Pemrosesan Bahasa Alami SIL International telah mengembangkan sebuah alat yang dapat membantu penerjemahan Alkitab dengan membuat konsep awal kasar untuk disunting dan disempurnakan oleh para penerjemah. Pada tanggal 1 Januari 2024, alat ini sekarang tersedia untuk digunakan dalam [Scripture Forge](https://scriptureforge.org/), sebuah platform penyuntingan Alkitab yang terintegrasi erat dengan [Paratext](https://paratext.org/).
+Tim Pemrosesan Bahasa Alami SIL International telah mengembangkan sebuah alat yang dapat membantu penerjemahan Alkitab dengan membuat konsep awal kasar untuk disunting dan disempurnakan oleh para penerjemah. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 Semua konsep yang dibuat mengandung kesalahan yang harus dikoreksi oleh tim penerjemah. Untuk beberapa proyek, kualitasnya akan terlalu rendah untuk digunakan/dibaca. Namun, pengujian lapangan yang ekstensif telah menunjukkan bahwa sejumlah besar tim menemukan bahwa konsep tersebut sangat membantu dalam pekerjaan mereka, dan memiliki kualitas yang memadai untuk digunakan sebagai titik awal bagi tim untuk menyunting.
 
@@ -63,7 +63,7 @@ Konsep terjemahan balik juga akan mengandung kesalahan dan harus disunting, teta
 
 ## Memulai {#1ba56b4f36584ecb91b9f2208efec047}
 
-Pembuatan konsep terjemahan balik saat ini terbuka dan tersedia untuk semua pengguna Paratext. Menghasilkan konsep ke dalam bahasa daerah, karena kerumitan dalam penyiapannya, membutuhkan tim yang harus bergabung dengan tim Pemrosesan Bahasa Alami SIL. Silakan isi [formulir pendaftaran penyusunan konsep terjemahan](https://app.smartsheet.com/b/form/305798a45a664d8585ac74e72241d8cc), dan anggota tim akan menilai apakah proyek Anda merupakan kandidat yang baik untuk menghasilkan konsep.
+Pembuatan konsep terjemahan balik saat ini terbuka dan tersedia untuk semua pengguna Paratext. Menghasilkan konsep ke dalam bahasa daerah, karena kerumitan dalam penyiapannya, membutuhkan tim yang harus bergabung dengan tim Pemrosesan Bahasa Alami SIL. To sign up, connect your project in Scripture Forge, go the the "Generate draft" page, click on the "Sign up for drafting" button, and fill out the form. A member of the team will assess whether your project is a good candidate for generating drafts.
 
 Terlepas dari apakah Anda membuat konsep terjemahan balik atau konsep bahasa daerah, Anda dapat mulai dengan menghubungkan proyek Paratext Anda ke Scripture Forge dengan mengikuti langkah-langkah berikut:
 
