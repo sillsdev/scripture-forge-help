@@ -4,6 +4,10 @@ sidebar_position: 0
 slug: /enable-community-checking
 ---
 
-To use Scripture Forge community checking, you need to first log in to Scripture Forge using your Paratext credentials and connect your project. Once your project is connected, navigate to Settings and scroll down to the Community Checking section. Make sure the "Enable Community Checking" checkbox is ticked as shown in the screenshot below.
+To set up community checking in Scripture Forge, [log in with Paratext](log-in). You must be an admin of the project to set up community checking.
+
+If the project hasn't been connected to Scripture Forge yet, [connect the project](connect-paratext-project) and keep the **Enable Community Checking** checkbox ticked.
+
+If the project has already been connected, you can enable community checking on the **Settings** page. In the **Community checking** section of the settings page, tick the **Enable Community Checking** checkbox as shown in the screenshot below.
 
 ![](./settings_community_checking.png)

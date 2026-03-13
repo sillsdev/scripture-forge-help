@@ -4,72 +4,12 @@ sidebar_position: 1
 slug: /connect-paratext-project
 ---
 
-import ReactPlayer from "react-player";
+Before you can access a Paratext project in Scripture Forge, it needs to be connected to Scripture Forge. Connecting a project creates a copy of the Paratext project in Scripture Forge that can be [synced with Paratext](syncing-with-paratext).
 
-## Introduction {#6222bdf3db3a44b4bf01a9cc6ffdaa80}
+<!-- The following paragraph is an EXACT copy of one of the paragraphs on the /syncing-with-paratext page and should be kept in sync with it. Both pages have the need to explain the relationship between Paratext and Scripture Forge projects, and having them identical means translators only have to translate it once. -->
 
-:::tip
+In Paratext, each member of the project has a copy of the project on their own computer, and Send/Receive is used to share changes with other members. When a project is connected to Scripture Forge, all members of the project in Scripture Forge work on a single copy of the project, so any change made by one member is immediately seen by another member, if both members are online. These changes will be sent to the Paratext project when a sync is done in Scripture Forge, and any changes made in Paratext will be synced to the Scripture Forge project.
 
-Les projets Paratext ne doivent être connectés qu'une seule fois dans Scripture Forge.
-
-:::
-
-Une fois qu'un projet Paratext a été connecté à Scripture Forge, tous les utilisateurs qui sont membres du projet dans Paratext (sous Permissions utilisateurs) pourront ouvrir le projet dans Scripture Forge.
-
-
-Pour pouvoir ouvrir un projet dans Scripture Forge, un utilisateur doit simplement [se connecter à Scripture Forge avec ses informations de compte Paratext](/log-in).
-
-<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/exEJxc19Zm4" /></div>
-
-## Comment connecter un projet Paratext à Scripture Forge {#a71dfc268ebb43a0b19c0ab7018f92b4}
-
-1. Si vous n'avez **jamais connecté** un projet à Scripture Forge :
-    1. Cliquez sur le bouton Connecter un projet :
-
-        ![](./268421786.png)
-
-2. Si vous avez déjà connecté un projet à Scripture Forge, suivez ces instructions pour connecter d'autres projets :
-
-    Pour afficher la liste des projets auxquels vous avez accès dans Paratext, cliquez sur l'icône de la Forge biblique en haut à gauche de l'écran.
-
-![](./2112594915.png)
-
-
-Vous pouvez également cliquer sur l’icône de votre profil en haut à droite de l’écran et dans le menu déroulant cliquer sur « Mes projets ».
-
-
-![](./1201536679.png)
-
-
-À partir de la liste affichée, vous pourrez ouvrir des projets s'ils sont déjà connectés. Vous pouvez également rejoindre un projet ou cliquer sur "Connect" pour connecter un projet pour la première fois dans Scripture Forge.
-
+To connect a Paratext project in Scripture Forge, [log in with Paratext](log-in). When you log in, the **My projects** page will load. If you are on a different page in Scripture Forge you can get to the **My projects** page by clicking the Scripture Forge logo in the top-left corner of the page. The **My projects** page lists all projects you are a member of in Paratext, including those that are connected to Scripture Forge, and those that are not yet connected. If a project has already been connected and you are a member of the Paratext project, you can join the Scripture Forge project by clicking **Join**. If the project hasn't been connected yet, and you are an admin of the project, click **Connect**. Only admins can connect a project on this page.
 
 ![](./my_projects.png)
-
-
-Après avoir cliqué sur « Connecter », il vous sera demandé de sélectionner votre source de projet. Dans la liste déroulante disponible, sélectionnez la source que vous souhaitez utiliser pour votre projet.
-
-
-![](./1628956354.png)
-
-Facultatif : Activer les suggestions de traduction (#1 ci-dessous)
-
-![](./440460267.png)
-
-Facultatif : Activer la Vérification par la communauté (#2 ci-dessus)
-
-Lorsque vous êtes prêt, cliquez sur Connecter :
-
-![](./210173750.png)
-
-Attendez que Scripture Forge connecte le projet Paratext :
-
-![](./1421415415.png)
-
-Scripture Forge peut prendre un certain temps pour connecter votre projet. La barre de progression verte s'arrêtera lorsque votre projet sera entièrement connecté :
-
-![](./672841105.png)
-
-
-Remarque : il se peut que vous puissiez travailler dans Scripture Forge avant qu'il ne soit complètement connecté.
-
