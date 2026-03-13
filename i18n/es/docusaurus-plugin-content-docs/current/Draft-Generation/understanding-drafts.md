@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Introducción {#ad165caedac347798432de75e4305252}
 
-El equipo de Procesamiento del Lenguaje Natural de SIL Global ha desarrollado una herramienta que puede ayudar en la traducción de la Biblia creando un primer borrador que los traductores pueden editar y perfeccionar. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
+El equipo de Procesamiento del Lenguaje Natural de SIL Global ha desarrollado una herramienta que puede ayudar en la traducción de la Biblia creando un primer borrador que los traductores pueden editar y perfeccionar. Esta herramienta está disponible para su uso dentro de [Scripture Forge](https://scriptureforge.org/), una plataforma de edición de escrituras que está estrechamente integrada con [Paratext](https://paratext.org/).
 
 Todos los borradores que se crean contienen errores que el equipo de traducción debe corregir. Para algunos proyectos, la calidad será demasiado baja para ser útil. Sin embargo, las numerosas pruebas realizadas sobre el terreno han demostrado que un número significativo de equipos consideran que los borradores son muy útiles para su trabajo y de calidad suficiente para utilizarlos como punto de partida para que el equipo los edite.
 
@@ -63,7 +63,7 @@ Los borradores de la retrotraducción también contendrán errores y habrá que 
 
 ## Cómo empezar {#1ba56b4f36584ecb91b9f2208efec047}
 
-La generación de borradores de retrotraducción está actualmente abierta y disponible para todos los usuarios de Paratext. La generación de borradores en lengua vernácula, debido a la complejidad que entraña su configuración, requiere la incorporación de un equipo al equipo de Procesamiento del Lenguaje Natural del SIL. To sign up, connect your project in Scripture Forge, go the the "Generate draft" page, click on the "Sign up for drafting" button, and fill out the form. A member of the team will assess whether your project is a good candidate for generating drafts.
+La generación de borradores de retrotraducción está actualmente abierta y disponible para todos los usuarios de Paratext. La generación de borradores en lengua vernácula, debido a la complejidad que entraña su configuración, requiere la incorporación de un equipo al equipo de Procesamiento del Lenguaje Natural del SIL. Para inscribirse, conecte su proyecto en Scripture Forge, vaya a la página "Generar borrador", haga clic en el botón "Inscribirse en el borrador" y rellene el formulario. Un miembro del equipo evaluará si su proyecto es un buen candidato para generar borradores.
 
 Independientemente de si estás generando borradores de retrotraducción o borradores vernáculos, puedes empezar conectando tu proyecto Paratext a Scripture Forge siguiendo estos pasos:
 
