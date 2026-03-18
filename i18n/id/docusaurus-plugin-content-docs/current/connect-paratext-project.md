@@ -4,72 +4,12 @@ sidebar_position: 1
 slug: /connect-paratext-project
 ---
 
-import ReactPlayer from "react-player";
+Before you can access a Paratext project in Scripture Forge, it needs to be connected to Scripture Forge. Connecting a project creates a copy of the Paratext project in Scripture Forge that can be [synced with Paratext](syncing-with-paratext).
 
-## Pendahuluan {#6222bdf3db3a44b4bf01a9cc6ffdaa80}
+<!-- The following paragraph is an EXACT copy of one of the paragraphs on the /syncing-with-paratext page and should be kept in sync with it. Both pages have the need to explain the relationship between Paratext and Scripture Forge projects, and having them identical means translators only have to translate it once. -->
 
-:::tip
+In Paratext, each member of the project has a copy of the project on their own computer, and Send/Receive is used to share changes with other members. When a project is connected to Scripture Forge, all members of the project in Scripture Forge work on a single copy of the project, so any change made by one member is immediately seen by another member, if both members are online. These changes will be sent to the Paratext project when a sync is done in Scripture Forge, and any changes made in Paratext will be synced to the Scripture Forge project.
 
-Proyek-proyek Paratext hanya perlu dihubungkan satu kali di dalam Scripture Forge.
-
-:::
-
-Setelah proyek Paratext terhubung ke Scripture Forge, setiap pengguna yang menjadi anggota proyek di Paratext (di bawah Izin Pengguna) akan dapat membuka proyek di Scripture Forge.
-
-
-To be able to open a project in Scripture Forge, a user just needs to [log in to Scripture Forge with their Paratext account information](/log-in).
-
-<div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/exEJxc19Zm4" /></div>
-
-## Cara Menghubungkan proyek Paratext ke Scripture Forge {#a71dfc268ebb43a0b19c0ab7018f92b4}
-
-1. Jika Anda belum **pernah menghubungkan** proyek ke Scripture Forge:
-    1. Klik tombol Hubungkan proyek:
-
-        ![](./268421786.png)
-
-2. Jika Anda telah menghubungkan sebuah proyek ke Scripture Forge, ikuti petunjuk ini untuk menghubungkan proyek tambahan:
-
-    Untuk melihat daftar proyek yang dapat Anda akses di Paratext, klik ikon Scripture Forge di sebelah kiri atas layar.
-
-![](./2112594915.png)
-
-
-Atau, Anda juga dapat mengklik ikon profil Anda di bagian kanan atas layar dan dari menu tarik-turun, klik "Proyek Saya."
-
-
-![](./1201536679.png)
-
-
-Dari daftar yang ditampilkan, Anda akan dapat membuka proyek jika sudah terhubung. Anda juga dapat bergabung dengan sebuah proyek atau klik "Hubungkan" untuk menghubungkan sebuah proyek untuk pertama kalinya di Scripture Forge.
-
+To connect a Paratext project in Scripture Forge, [log in with Paratext](log-in). When you log in, the **My projects** page will load. If you are on a different page in Scripture Forge you can get to the **My projects** page by clicking the Scripture Forge logo in the top-left corner of the page. The **My projects** page lists all projects you are a member of in Paratext, including those that are connected to Scripture Forge, and those that are not yet connected. If a project has already been connected and you are a member of the Paratext project, you can join the Scripture Forge project by clicking **Join**. If the project hasn't been connected yet, and you are an admin of the project, click **Connect**. Only admins can connect a project on this page.
 
 ![](./my_projects.png)
-
-
-Setelah mengklik "Hubungkan", Anda akan diminta untuk memilih Sumber Proyek. Dari daftar drop-down yang tersedia, pilih sumber yang ingin Anda gunakan untuk proyek Anda.
-
-
-![](./1628956354.png)
-
-Opsional: Mengaktifkan saran terjemahan (#1 di bawah)
-
-![](./440460267.png)
-
-Opsional: Aktifkan Pemeriksaan Masyarakat (#2 di atas)
-
-When you are ready, click Connect:
-
-![](./210173750.png)
-
-Tunggu sampai Scripture Forge menghubungkan proyek Paratext:
-
-![](./1421415415.png)
-
-Scripture Forge may take a while to connect your project. The green progress bar will stop moving when your project is fully connected:
-
-![](./672841105.png)
-
-
-Catatan: Anda mungkin dapat bekerja di Scripture Forge sebelum terhubung sepenuhnya.
-

@@ -4,6 +4,10 @@ sidebar_position: 0
 slug: /enable-community-checking
 ---
 
-Pour utiliser la vérification communautaire de Scripture Forge, vous devez d'abord vous connecter à Scripture Forge à l'aide de vos identifiants Paratext et connecter votre projet. Une fois que votre projet est connecté, accédez aux Paramètres et descendez jusqu'à la section Vérification de la Communauté. Assurez-vous que la case à cocher « Activer la vérification de la communauté » est sélectionnée comme indiqué dans la capture d'écran ci-dessous
+To set up community checking in Scripture Forge, [log in with Paratext](log-in). You must be an admin of the project to set up community checking.
+
+If the project hasn't been connected to Scripture Forge yet, [connect the project](connect-paratext-project) and keep the **Enable Community Checking** checkbox ticked.
+
+If the project has already been connected, you can enable community checking on the **Settings** page. In the **Community checking** section of the settings page, tick the **Enable Community Checking** checkbox as shown in the screenshot below.
 
 ![](./settings_community_checking.png)

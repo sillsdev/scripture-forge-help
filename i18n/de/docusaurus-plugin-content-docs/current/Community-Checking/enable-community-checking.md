@@ -4,6 +4,10 @@ sidebar_position: 0
 slug: /enable-community-checking
 ---
 
-Um in Scripture Forge die Überprüfung mit der Zielgruppe zu nutzen, musst Du Dich zunächst mit Deinen Paratext-Anmeldedaten bei Scripture Forge anmelden und Dein Projekt verbinden. Sobald Dein Projekt verbunden ist, gehe zu Einstellungen und scrolle nach unten zum Abschnitt Überprüfung mit der Zielgruppe. Stelle sicher, dass das Kontrollkästchen „Überprüfung mit der Zielgruppe aktivieren“ ausgewählt ist, wie im Screenshot unten gezeigt wird
+Um die Überprüfung mit der Zielgruppe in Scripture Forge einzurichten, [melde Dich mit Paratext an](log-in). Du musst einer der Administratoren des Projekts sein, um die Überprüfung mit der Zielgruppe einzurichten.
+
+Wenn das Projekt noch nicht mit Scripture Forge verbunden ist, [verbinde das Projekt](connect-paratext-project) und lass das Kontrollkästchen **Überprüfung mit der Zielgruppe aktivieren** angekreuzt.
+
+Falls das Projekt bereits verbunden ist, kannst Du die Überprüfung mit der Zielgruppe auf der Seite **Einstellungen** aktivieren. Aktiviere im Abschnitt **Überprüfung mit der Zielgruppe** der Einstellungsseite das Kontrollkästchen **Überprüfung mit der Zielgruppeaktivieren**, wie im folgenden Bild dargestellt.
 
 ![](./settings_community_checking.png)

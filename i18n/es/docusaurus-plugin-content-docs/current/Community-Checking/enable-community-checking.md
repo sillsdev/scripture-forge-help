@@ -4,6 +4,10 @@ sidebar_position: 0
 slug: /enable-community-checking
 ---
 
-Para utilizar la comprobación de la Comunidad de Scripture Forge, primero debe iniciar sesión en Scripture Forge usando sus credenciales de Paratext y Conectar su proyecto. Una vez conectado su proyecto, vaya a Configuración y desplácese hasta la sección Comprobación de la Comunidad. Asegúrate de que la casilla "Habilitar la Comprobación por la Comunidad" está seleccionada.
+Para configurar la comprobación comunitaria en Scripture Forge, [inicie sesión con Paratext](log-in). Debe ser un administrador del proyecto para configurar la comprobación comunitaria.
+
+Si el proyecto aún no se ha conectado a Scripture Forge, [conecta el proyecto](connect-paratext-project) y mantén marcada la casilla **Activar comprobación comunitaria**.
+
+Si el proyecto ya se ha conectado, puede activar la comprobación comunitaria en la página **Configuración**. En la sección **Comprobación comunitaria** de la página de configuración, marque la casilla **Activar Comprobación comunitaria** como se muestra en la siguiente captura de pantalla.
 
 ![](./settings_community_checking.png)
