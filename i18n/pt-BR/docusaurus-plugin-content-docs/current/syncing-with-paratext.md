@@ -1,25 +1,33 @@
 ---
-title: Synchronizing Scripture Forge with Paratext
+title: Sync Scripture Forge with Paratext
 sidebar_position: 2
 slug: /syncing-with-paratext
 ---
 
-Synchronizing your Scripture Forge project with Paratext is very important, as this allows changes you have made in Scripture Forge to be saved to the Paratext servers and also pulls the latest data from your Paratext project into Scripture Forge.
+<!-- The following paragraph is an EXACT copy of one of the paragraphs on the /connect-paratext-project page and should be kept in sync with it. Both pages have the need to explain the relationship between Paratext and Scripture Forge projects, and having them identical means translators only have to translate it once. -->
 
-It is similar to the Send/Receive function in Paratext.
+In Paratext, each member of the project has a copy of the project on their own computer, and Send/Receive is used to share changes with other members. When a project is connected to Scripture Forge, all members of the project in Scripture Forge work on a single copy of the project, so any change made by one member is immediately seen by another member, if both members are online. These changes will be sent to the Paratext project when a sync is done in Scripture Forge, and any changes made in Paratext will be synced to the Scripture Forge project.
 
-_Note that synchronizing a project in Scripture Forge applies to **ALL USERS** of the SF project. It will also be applied to the Paratext server just like a send/receive function._
+## How to sync your project {#d0af3ae0f98640c6a88fe4132a015be0}
 
-## How to Synchronize your project {#d0af3ae0f98640c6a88fe4132a015be0}
+To sync a project, click **Sync with Paratext** in the main navigation menu. Then click the **Sync with Paratext** button as shown below. Progress will be shown while the sync is running, which usually takes 1 to 3 minutes, depending on the size of the project.
 
-To sync a project, you need to click “Synchronize” on the main menu. This will show you the “Synchronize” button in your window. Once you click it, please wait until the sync completes and the two arrows stop circling before doing anything else, as shown in the image below.
+If Scripture Forge is busy syncing other projects it may take a while before the sync actually starts, though this is rare. Sometimes a sync will fail and you will need to try it again. If a sync keeps failing, or it is taking a very long time, please [contact us for help](mailto:help@scriptureforge.org).
 
 ![](./sync.png)
 
-## When is it necessary to Synchronize a project {#b19f92d1a5714c4fb57b61672d95b898}
+## When to sync a project {#b19f92d1a5714c4fb57b61672d95b898}
 
-- An automatic sync happens when you initially connect a project to Scripture Forge from Paratext for the first time. Scripture Forge is still importing your project data from the Paratext server while it is synchronizing. It is important to wait until the sync completes (the two arrows stop circling) before attempting to do anything else.
-- After you make any changes in your Paratext project and click “send/receive”, it is important to run a sync in Scripture Forge to allow these changes to be imported into Scripture Forge. Merely running the “send/receive” function in Paratext is not enough to cause the changes to be reflected in Scripture Forge.
-- An automatic sync happens when you select a reference translation or generate a draft.
-- After you add a draft to your project in Scripture Forge, please remember to run a sync to save the data to the Paratext server. Don't generate a new draft unless the first one has been added to your project, or it won’t be saved to the Paratext server and the draft will be lost.
-- Any changes or edits made to your project in Scripture Forge need to be synchronized to save them to the Paratext server. Once this is done, you will also need to run a send/receive on your local Paratext project to import these changes.
+At various times Scripture Forge will automatically sync your project with Paratext. These include:
+
+- The first time you connect a project.
+- When you start generating a new draft.
+- When the source for a project is changed, or drafting sources are configured.
+
+You should run a sync whenever you want to send changes from Paratext to Scripture Forge, or from Scripture Forge to Paratext. Here are some examples of when you should run a sync:
+
+- A book has just been completed in Paratext and you want to generate a draft of another book. You should do a send/receive in Paratext and then a sync in Scripture Forge so the completed book will be available as training data in Scripture Forge.
+- A book is ready for community checking. You should do a send/receive in Paratext and then a sync in Scripture Forge so the latest copy of the book will be shown to community checkers.
+- Translators have edited the text in Scripture Forge, or made other changes that you want in Paratext. You should do a sync in Scripture Forge and then a send/receive in Paratext to get the latest changes.
+
+You should avoid waiting a long time to sync after editing the text in Scripture Forge. If someone makes edits in Paratext before you sync the changes to Paratext, it may cause conflicts in Paratext.

@@ -4,6 +4,10 @@ sidebar_position: 0
 slug: /enable-community-checking
 ---
 
-Untuk menggunakan pemeriksaan masyarakat Scripture Forge, Anda harus terlebih dahulu masuk ke Scripture Forge menggunakan akun Paratext Anda dan Hubungkan proyek Anda. Setelah proyek Anda terhubung, navigasikan ke Pengaturan dan gulir ke bawah ke bagian Pemeriksaan Masyarakat. Pastikan kotak centang "Aktifkan Pemeriksaan Masyarakat" dipilih seperti yang ditunjukkan pada gambar di bawah ini
+To set up community checking in Scripture Forge, [log in with Paratext](log-in). You must be an admin of the project to set up community checking.
+
+If the project hasn't been connected to Scripture Forge yet, [connect the project](connect-paratext-project) and keep the **Enable Community Checking** checkbox ticked.
+
+If the project has already been connected, you can enable community checking on the **Settings** page. In the **Community checking** section of the settings page, tick the **Enable Community Checking** checkbox as shown in the screenshot below.
 
 ![](./settings_community_checking.png)
