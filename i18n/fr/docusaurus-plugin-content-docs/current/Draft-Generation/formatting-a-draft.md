@@ -22,4 +22,4 @@ There are two options for quote style. The default is "automatic" which is recom
 
 ![](./quote_style_options.png)
 
-Once you have selected your formatting options, click "Save" to save the options to your project. These options will be used for all future drafts generated for the project. You can change these options at any time, and they will be applied to all future drafts.
+Once you have selected your formatting options, click "Save" to save the options to your project. These options will be used for all future drafts generated for the project. Vous pouvez modifier ces options à tout moment, et elles seront appliquées à tous les futurs brouillons.
