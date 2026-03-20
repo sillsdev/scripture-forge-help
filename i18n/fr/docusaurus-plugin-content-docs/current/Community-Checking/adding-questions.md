@@ -110,7 +110,7 @@ Pour importer des questions depuis Transcelerator:
 10. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
 11. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.
 
-### Importing questions from tagged Paratext notes {#27f4373ac9934884976eacc1cc3a4a25}
+### Importation des questions depuis des notes Paratext étiquetées {#27f4373ac9934884976eacc1cc3a4a25}
 
 You can add questions as notes in Paratext and later import them into Scripture Forge as community checking questions. In order to do this, you need to create a note tag in Paratext that you will use to identify which notes you want to import as questions.
 
