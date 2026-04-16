@@ -20,7 +20,7 @@ Currently the only way to get feedback from community checkers is to ask checkin
 
 ### Creating questions individually in Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
 
-To add questions to your project, click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Add Question** button. A dialog will open that will allow you to create a question.
+To add questions to your project, click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Then click on the **Add Question** button. A dialog will open that will allow you to create a question.
 
 A question can apply to a single verse, or multiple verses. Type a reference into the **Scripture reference** box, or click the dropdown arrow to select a book, chapter, and verse. If you want the question to span multiple verses, enter an end reference in the second box. Once you've input a reference, the text will show up, with the verses you chose highlighted.
 
@@ -60,8 +60,8 @@ If you need help getting your spreadsheet into the right format to import to Scr
 
 	:::
 
-2. Then in Scripture Forge, click on **Overview** under the **Community Checking** section in the navigation sidebar.
-3. Then click on the **Bulk import** button. A dialog will open requesting for you to choose where you want to import questions from.
+2. Then in Scripture Forge, click on **Manage questions** under the **Community Checking** section in the navigation sidebar.
+3. Then click on the **Import** button. A dialog will open requesting for you to choose where you want to import questions from.
 4. Click on **Import from CSV file** and select the file.
 	1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
 	2. Otherwise you will be shown a list of questions.
@@ -103,7 +103,7 @@ To import questions from Transcelerator:
 5. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
 6. Close Transcelerator, and do a send and receive with Paratext.
 7. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
-8. Click on **Overview** under the **Community Checking** section in the navigation sidebar. Then click on the **Bulk import** button.
+8. Click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Then click on the **Import** button.
 9. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
 10. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
 11. Click **Import Selected Questions** and your questions will be added to the project.
