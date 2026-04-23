@@ -12,13 +12,13 @@ import ReactPlayer from "react-player";
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
 
-To monitor community checking responses, click on **Overview** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
+To monitor community checking responses, click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
 
 
 ![](./685721.png)
 
 
-To view the answers from community checkers, click on one of the books under the **Community Checking** section in the navigation sidebar. Then click on a question to see the answers that have been given. If you want an answer to be exported to Paratext, click **Mark for export** on that answer. If you don’t want to do anything further with the answer, click **Resolve**. This does not remove the answer, but it marks it as not needing any further action. 
+To view the answers from community checkers, click on **Questions & answers** under the **Community Checking** section in the navigation sidebar. Then click on a question to see the answers that have been given. If you want an answer to be exported to Paratext, click **Mark for export** on that answer. If you don’t want to do anything further with the answer, click **Resolve**. This does not remove the answer, but it marks it as not needing any further action. 
 
 
 ![](./1417670916.png)
