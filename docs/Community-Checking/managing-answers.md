@@ -39,7 +39,7 @@ If you would prefer to have all answers exported to Paratext without individuall
 ## Sync the project so answers show up as notes in Paratext {#1850d745ac9e80a8b3f0f50bcdd0be58}
 
 
-In the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive changes from Paratext. Then open your project in Paratext and do a send and receive. Answers from community checkers will show up in your project as notes. Please note that if you reply to these notes in Paratext, your replies will not appear as comments on the answer in Scripture Forge. 
+In the navigation sidebar, click **Sync with Paratext**. On the page that opens, click **Sync with Paratext** to send and receive changes from Paratext. Then open your project in Paratext and do a send and receive. Answers from community checkers will show up in your project as notes. Please note that if you reply to these notes in Paratext, your replies will not appear as comments on the answer in Scripture Forge.
 
 
 The note will show the original question, the name of the community checker who answered, and the answer itself, as shown below.
