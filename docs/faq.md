@@ -63,7 +63,7 @@ slug: /faq
 3. Why does my book only have Chapter 1 in the project?
 
 	- _Adding a draft to the project happens on a chapter-by-chapter basis from the "Generated draft" tab in the Edit & review page. So if only one chapter is added, it will be the only chapter available in the project. Other chapters will have to be added individually._
-	- _You can add the whole book by navigating to "Generate Draft" and finding the draft that has been generated. Click "Add to a project" and choose the project you want to add it to._
+	- _You can add the whole book by navigating to "Generate draft" and finding the draft that has been generated. Click "Add to a project" and choose the project you want to add it to._
 
 4. Why does my button say "re-add to project"?
 

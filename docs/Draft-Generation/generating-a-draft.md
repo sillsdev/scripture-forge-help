@@ -40,6 +40,6 @@ On the next step, select the books to use to train the language model, both in y
 
 ### Confirm your selections
 
-On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate Draft" button to start the process.
+On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate draft" button to start the process.
 
 ![](./generate_draft_summary.png)
