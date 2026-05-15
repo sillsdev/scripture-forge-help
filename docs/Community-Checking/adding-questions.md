@@ -102,7 +102,7 @@ To import questions from Transcelerator:
 4. Within Transcelerator, open the **File** menu and click **Produce Scripture Forge Files**.
 5. Type the translations of the English questions you want to use in the **Translation** column. For each question that's ready, select the **Confirmed** check box for the questions.
 6. Close Transcelerator, and do a send and receive with Paratext.
-7. In Scripture Forge, in the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive the Transcelerator questions from Paratext.
+7. In Scripture Forge, in the navigation sidebar, click **Sync with Paratext**. On the page that opens, click **Sync with Paratext** to send and receive the Transcelerator questions from Paratext.
 8. Click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Then click on the **Import** button.
 9. A dialog will open requesting for you to choose where you want to import questions from. Click **Import from Transcelerator**.
 10. Select the questions you want to import. The steps for doing this are exactly the same as in the section above titled **Importing questions from a spreadsheet**. Refer to that section for instructions on filtering for the questions you want.
