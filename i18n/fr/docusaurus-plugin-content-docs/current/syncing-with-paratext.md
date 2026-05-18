@@ -1,33 +1,33 @@
 ---
-title: Sync Scripture Forge with Paratext
+title: Synchroniser Scripture Forge avec Paratext
 sidebar_position: 2
 slug: /syncing-with-paratext
 ---
 
 <!-- The following paragraph is an EXACT copy of one of the paragraphs on the /connect-paratext-project page and should be kept in sync with it. Both pages have the need to explain the relationship between Paratext and Scripture Forge projects, and having them identical means translators only have to translate it once. -->
 
-In Paratext, each member of the project has a copy of the project on their own computer, and Send/Receive is used to share changes with other members. When a project is connected to Scripture Forge, all members of the project in Scripture Forge work on a single copy of the project, so any change made by one member is immediately seen by another member, if both members are online. These changes will be sent to the Paratext project when a sync is done in Scripture Forge, and any changes made in Paratext will be synced to the Scripture Forge project.
+Dans Paratext, chaque membre du projet possède une copie du projet sur son propre ordinateur, et la fonction Envoyer/Recevoir est utilisée pour partager les modifications avec les autres membres. Quand un projet est connecté à Scripture Forge, tous les membres du projet dans Scripture Forge travaillent sur une seule copie du projet, de sorte que tout changement effectué par un membre est immédiatement vu par un autre membre, si les deux membres sont en ligne. Ces modifications seront envoyées au projet Paratext quand une synchronisation est effectuée dans Scripture Forge, et toutes les modifications apportées dans Paratext seront synchronisées avec le projet Scripture Forge.
 
-## How to sync your project {#d0af3ae0f98640c6a88fe4132a015be0}
+## Comment synchroniser votre projet {#d0af3ae0f98640c6a88fe4132a015be0}
 
-To sync a project, click **Sync with Paratext** in the main navigation menu. Then click the **Sync with Paratext** button as shown below. Progress will be shown while the sync is running, which usually takes 1 to 3 minutes, depending on the size of the project.
+Pour synchroniser un projet, cliquez sur **Synchroniser avec Paratext** dans le menu de navigation principal. Cliquez ensuite sur le bouton **Synchroniser avec Paratext** comme indiqué ci-dessous. La progression sera affichée pendant que la synchronisation est en cours d'exécution, ce qui prend généralement de 1 à 3 minutes, selon la taille du projet.
 
-If Scripture Forge is busy syncing other projects it may take a while before the sync actually starts, though this is rare. Sometimes a sync will fail and you will need to try it again. If a sync keeps failing, or it is taking a very long time, please [contact us for help](mailto:help@scriptureforge.org).
+Si Scripture Forge est occupé à synchroniser d'autres projets, cela peut prendre un certain temps avant que la synchronisation ne démarre, même si c'est rare. Parfois, une synchronisation échouera et vous devrez réessayer. Si une synchronisation continue à échouer, ou que cela prend beaucoup de temps, veuillez [nous contacter pour obtenir de l'aide](mailto:help@scriptureforge.org).
 
 ![](./sync.png)
 
-## When to sync a project {#b19f92d1a5714c4fb57b61672d95b898}
+## Quand synchroniser un projet {#b19f92d1a5714c4fb57b61672d95b898}
 
-At various times Scripture Forge will automatically sync your project with Paratext. These include:
+À divers moments, Scripture Forge synchronisera automatiquement votre projet avec Paratext. Ceux-ci inclus :
 
-- The first time you connect a project.
-- When you start generating a new draft.
-- When the source for a project is changed, or drafting sources are configured.
+- La première fois que vous connectez un projet.
+- Lorsque vous commencez à générer une nouvelle ébauche.
+- Quand la source d'un projet est modifiée, ou les sources de rédaction sont configurées.
 
-You should run a sync whenever you want to send changes from Paratext to Scripture Forge, or from Scripture Forge to Paratext. Here are some examples of when you should run a sync:
+Vous devriez exécuter une synchronisation à chaque fois que vous voulez envoyer des changements de Paratext vers Scripture Forge ou de Scripture Forge vers Paratext. Voici quelques exemples de quand vous devriez exécuter une synchronisation :
 
-- A book has just been completed in Paratext and you want to generate a draft of another book. You should do a send/receive in Paratext and then a sync in Scripture Forge so the completed book will be available as training data in Scripture Forge.
-- A book is ready for community checking. You should do a send/receive in Paratext and then a sync in Scripture Forge so the latest copy of the book will be shown to community checkers.
-- Translators have edited the text in Scripture Forge, or made other changes that you want in Paratext. You should do a sync in Scripture Forge and then a send/receive in Paratext to get the latest changes.
+- Un livre vient d'être complété dans Paratext et vous voulez générer une ébauche d'un autre livre. Vous devriez faire un Envoyer/Recevoir dans Paratext, puis une synchronisation dans Scripture Forge afin que le livre terminé soit disponible en tant que formation des données dans Scripture Forge.
+- Un livre est prêt pour la vérification de la communauté. Vous devriez faire un Envoyer/Recevoir dans Paratext, puis une synchronisation dans Scripture Forge pour que la dernière copie du livre soit montrée aux vérificateurs de la communauté.
+- Les traducteurs ont modifié le texte dans la Forge des Écritures, ou ont fait d'autres changements que vous voulez dans Paratext. Vous devriez faire une synchronisation dans Scripture Forge puis un envoyer/recevoir dans Paratext pour obtenir les dernières modifications.
 
-You should avoid waiting a long time to sync after editing the text in Scripture Forge. If someone makes edits in Paratext before you sync the changes to Paratext, it may cause conflicts in Paratext.
+Vous devriez éviter d'attendre beaucoup de temps pour synchroniser après avoir modifié le texte dans la Forge des Écritures. Si quelqu'un fait des modifications dans Paratext avant de synchroniser les modifications sur Paratext, cela peut causer des conflits dans Paratext.

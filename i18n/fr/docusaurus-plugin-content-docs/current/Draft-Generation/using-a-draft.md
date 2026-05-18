@@ -4,10 +4,10 @@ sidebar_position: 5
 slug: /using-a-draft
 ---
 
-Scripture Forge will show when your draft is ready and list the books that were drafted. Les ébauches générées ne sont **pas** automatiquement importés dans votre projet. Vous pouvez prévisualiser ou importer des ébauches depuis la page **Générer ébauche**.
+Scripture Forge montrera quand votre ébauche sera prêt et listera les livres qui ont été rédigés. Les ébauches générées ne sont **pas** automatiquement importés dans votre projet. Vous pouvez prévisualiser ou importer des ébauches depuis la page **Générer ébauche**.
 
-- To import **individual chapters**, click on a book, then above the chapter that opens, click "Add to project." Les chapitres individuels ne peuvent être ajoutés qu'au projet en cours.
-- To import a **full book**, click on "Add to a project". You can choose to import the book into your main project, or to a different project.
+- Pour importer des **chapitres individuels**, cliquez sur un livre, puis au-dessus du chapitre qui s'ouvre, cliquez sur "Ajouter au projet". Les chapitres individuels ne peuvent être ajoutés qu'au projet en cours.
+- Pour importer un **livre complet**, cliquez sur "Ajouter à un projet". Vous pouvez choisir d'importer le livre dans votre projet principal ou dans un autre projet.
 
 ![](./draft_complete.png)
 
@@ -27,13 +27,13 @@ Si vous avez rédigé un livre, l'équipe a déjà fini de traduire, vous pouvez
 
 ## Importation d'un seul chapitre
 
-Lorsque vous prévisualisez l'ébauche, vous pouvez importer l'ébauche du chapitre en cours dans le projet en cliquant sur "Ajouter au projet". Vous pouvez aller à chaque chapitre du livre et prévisualiser et importer chaque chapitre un à la fois. This will add the chapter to the current project, not to a different project.
+Lorsque vous prévisualisez l'ébauche, vous pouvez importer l'ébauche du chapitre en cours dans le projet en cliquant sur "Ajouter au projet". Vous pouvez aller à chaque chapitre du livre et prévisualiser et importer chaque chapitre un à la fois. Cela ajoutera le chapitre au projet en cours, pas à un projet différent.
 
 ![](./chapter_imported.png)
 
 ## Importation d'un livre entier
 
-If you want to import an entire book, or multiple books, you can do this from the "Generate draft" page. Click "Add to a project" and then select the project you want to import to.
+Si vous voulez importer un livre entier ou plusieurs livres, vous pouvez le faire à partir de la page "Générer une ébauche". Cliquez sur "Ajouter à un projet" puis sélectionnez le projet vers lequel vous voulez importer.
 
 ![](./import_book.png)
 

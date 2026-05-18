@@ -112,18 +112,18 @@ Pour importer des questions depuis Transcelerator:
 
 ### Importation des questions depuis des notes Paratext étiquetées {#27f4373ac9934884976eacc1cc3a4a25}
 
-You can add questions as notes in Paratext and later import them into Scripture Forge as community checking questions. In order to do this, you need to create a note tag in Paratext that you will use to identify which notes you want to import as questions.
+Vous pouvez ajouter des questions comme des notes dans Paratext et ensuite les importer dans Scripture Forge en tant que questions de vérification de la communauté. Pour cela, vous devez créer un tag de note dans Paratext que vous utiliserez pour identifier les notes que vous voulez importer en tant que questions.
 
-To import questions from Paratext notes:
+Pour importer des questions à partir de notes Paratext :
 
-1. In Paratext, choose a single, consistent tag you'll add to the notes you want to import as questions.
-2. Create or edit the notes you want to import. The text of the note should be the same as the content you want to become a Community Checking question. Add the tag you've designated for this purpose.
-3. Do a Send/Receive to sync the notes with the Paratext server.
-4. In Scripture Forge, open the project and sync with Paratext.
-5. Navigate to the **Manage questions** page and click the **Import** button.
-6. Select **Import from Paratext**.
-7. Choose your designated tag from the dropdown list.
-8. Select the questions that you want to import and click **Import Selected Questions**.
+1. Dans Paratext, choisissez un tag unique et cohérent que vous ajouterez aux notes que vous voulez importer en tant que questions.
+2. Créez ou modifiez les notes que vous souhaitez importer. Le texte de la note doit être le même que le contenu que vous souhaitez devenir une question de vérification communautaire. Ajoutez le tag que vous avez désigné à cet effet.
+3. Faites un Envoyer/Recevoir pour synchroniser les notes avec le serveur Paratext.
+4. Dans Scripture Forge, ouvrez le projet et synchronisez avec Paratext.
+5. Accédez à la page **Gérer les questions** et cliquez sur le bouton **Importer**.
+6. Sélectionnez **Importer depuis Paratext**.
+7. Choisissez votre étiquette désignée dans la liste déroulante.
+8. Sélectionnez les questions que vous souhaitez importer et cliquez sur **Importer les questions sélectionnées**.
 
 ## Attacher un enregistrement audio du texte {#1850d745ac9e80e795f3d611356e74d5}
 

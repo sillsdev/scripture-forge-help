@@ -1,25 +1,25 @@
 ---
-title: Formatting a draft
+title: Mise en forme d'une ébauche
 sidebar_position: 4
 slug: /formatting-a-draft
 ---
 
-After generating a draft in Scripture Forge, you will need to select formatting options. These options control how Scripture Forge formats the draft text.
+Après avoir créé une ébauche dans Scripture Forge, vous devrez sélectionner des options de formatage. Ces options permettent de contrôler la façon dont Scripture Forge met en forme le projet de texte.
 
 ![](./draft_ready.png)
 
-Formatting options are saved in your project, so you only need to choose them once, though you can change them later if needed.
+Les options de mise en forme sont enregistrées dans votre projet, donc vous n'avez besoin de les choisir qu'une seule fois, bien que vous puissiez les modifier plus tard si nécessaire.
 
-## Selecting paragraph break options
+## Sélection des options de saut de paragraphe
 
-There are three options for paragraph breaks. The default is "best guess" which is recommended for most projects. When you select an option, a preview is shown on the right side of the page to help you understand how the options will affect the formatting of your draft.
+Il y a trois options pour les pauses de paragraphe. La valeur par défaut est « meilleure estimation » qui est recommandée pour la plupart des projets. Lorsque vous sélectionnez une option, un aperçu est affiché sur le côté droit de la page pour vous aider à comprendre comment les options affecteront la mise en forme de votre ébauche.
 
 ![](./paragraph_breaks_options.png)
 
-## Selecting quote style options
+## Sélection des options de style de guillemet
 
-There are two options for quote style. The default is "automatic" which is recommended for most projects. When you select an option, a preview is shown on the right side of the page to help you understand how the options will affect the formatting of your draft.
+Il y a deux options pour le style de guillemets. La valeur par défaut est "automatique" qui est recommandée pour la plupart des projets. Lorsque vous sélectionnez une option, un aperçu est affiché sur le côté droit de la page pour vous aider à comprendre comment les options affecteront la mise en forme de votre ébauche.
 
 ![](./quote_style_options.png)
 
-Once you have selected your formatting options, click "Save" to save the options to your project. These options will be used for all future drafts generated for the project. Vous pouvez modifier ces options à tout moment, et elles seront appliquées à tous les futurs brouillons.
+Une fois que vous avez sélectionné vos options de formatage, cliquez sur "Enregistrer" pour enregistrer les options dans votre projet. Ces options seront utilisées pour tous les futurs ébauches générées pour le projet. Vous pouvez modifier ces options à tout moment, et elles seront appliquées à tous les futurs brouillons.
