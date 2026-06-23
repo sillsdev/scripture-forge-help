@@ -20,7 +20,7 @@ slug: /faq
 
    - **Learning and Documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) and [https://help.scriptureforge.org](https://help.scriptureforge.org/)
    - **Report an issue:** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
-   - **Questions and Support:** email: support_team@scriptureforge.org
+   - **Questions and Support:** email: help@scriptureforge.org
 
 ## Questions on sources and training the model {#1b30d745ac9e80e791d9f0c3ee971c5c}
 

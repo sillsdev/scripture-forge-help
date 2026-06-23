@@ -107,7 +107,7 @@ The *Scripture Forge* Engineer-in-the-Loop (EITL) team supports Old Testament tr
 
 ## Additional Information
 
-Interested in accelerating your New Testament project using *Scripture Forge* draft generation? Contact us at [support\_team@scriptureforge.org](mailto:support_team@scriptureforge.org).
+Interested in accelerating your New Testament project using *Scripture Forge* draft generation? Contact us at [help@scriptureforge.org](mailto:help@scriptureforge.org).
 
 ## New Testament Drafting Guidance {#new-testament-drafting-guidance}
 
