@@ -1,6 +1,6 @@
 ---
 title: Das Generieren eines Entwurfs vorbereiten
-sidebar_position: 1
+sidebar_position: 2
 slug: /preparing-for-ai-drafting
 ---
 

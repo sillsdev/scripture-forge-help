@@ -74,7 +74,7 @@ Regardless of whether you are generating back translation drafts or vernacular d
 5. Select the books you want to translate, and then select the books you want to use as training data.
 6. Click “Generate draft” to start the process.
 
-The draft generation process can take anywhere from several hours to several days.
+The draft generation process typically takes roughly an hour and a half, but can sometimes take much longer.
 
 Once you have a draft generated, you can preview the draft and import individual chapters into your project.
 

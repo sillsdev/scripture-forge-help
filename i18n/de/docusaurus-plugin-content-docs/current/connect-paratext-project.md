@@ -1,6 +1,6 @@
 ---
 title: Ein Paratext-Projekt verbinden
-sidebar_position: 3
+sidebar_position: 1
 slug: /connect-paratext-project
 ---
 

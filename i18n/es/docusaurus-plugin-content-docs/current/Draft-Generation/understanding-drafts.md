@@ -74,7 +74,7 @@ Independientemente de si estás generando borradores de retrotraducción o borra
 5. Seleccione los libros que desea traducir y, a continuación, seleccione los libros que desea utilizar como datos de entrenamiento.
 6. Haga clic en "Generar borrador" para iniciar el proceso.
 
-El proceso de generación de borradores puede durar desde varias horas hasta varios días.
+El proceso de generación del borrador suele durar aproximadamente una hora y media, aunque a veces puede prolongarse mucho más.
 
 Una vez generado el borrador, puede previsualizarlo e importar capítulos individuales a su proyecto.
 

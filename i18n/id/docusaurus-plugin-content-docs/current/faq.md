@@ -52,17 +52,18 @@ slug: /faq
 
 1. Berapa lama waktu yang dibutuhkan untuk membuat konsep saya?
 
-   _Saat ini dibutuhkan waktu sekitar 3 jam untuk menghasilkan sebuah konsep. Namun, karena hal ini tergantung pada ketersediaan server dan jumlah kitab yang Anda minta, kami sarankan untuk membuat tidak lebih dari 3 kitab sekaligus. Jika pembuatan konsep membutuhkan waktu yang sangat lama, silakan melaporkan masalah ini kepada kami._
+   _Drafts currently take roughly an hour and a half to generate, but can sometimes take much longer depending on server availability and the number of books requested. Jika pembuatan konsep membutuhkan waktu yang sangat lama, silakan melaporkan masalah ini kepada kami._
 
 2. Bagaimana saya bisa tahu kapan konsep saya selesai?
 
-   _Anda dapat memeriksa halaman "Buat konsep" untuk melihat statusnya, dan setelah selesai, Anda akan melihat pesan yang mirip dengan ini:_
+   _You can opt-in to receive email notifications when your draft generation completes, so you'll be notified immediately. Alternatively, you can check the "Generate draft" page to see the status. When it's done, you'll see a message similar to this:_
 
    ![](./267304602.png)
 
 3. Mengapa kitab saya hanya memiliki Pasal 1 dalam proyek ini?
-   - _Menambahkan konsep ke proyek dilakukan berdasarkan pasal per pasal dari jendela "Membuat konsep otomatis" di bawah "Sunting dan Tinjau". Jadi, jika hanya satu pasal yang ditambahkan, pasal tersebut akan menjadi satu-satunya pasal yang tersedia dalam proyek. Pasal lain harus ditambahkan secara terpisah._
-   - _Anda dapat menambahkan seluruh kitab dengan menavigasi ke "Buat konsep" dan menemukan konsep yang telah dibuat. Klik menu 3 titik yang tersedia di sebelah nama kitab yang ingin Anda tambahkan, lalu klik "Tambahkan ke proyek." Ini akan menambahkan seluruh kitab ke proyek Anda_
+
+   - _Adding a draft to the project happens on a chapter-by-chapter basis from the "Generated draft" tab in the Edit & review page. Jadi, jika hanya satu pasal yang ditambahkan, pasal tersebut akan menjadi satu-satunya pasal yang tersedia dalam proyek. Pasal lain harus ditambahkan secara terpisah._
+   - _You can add the whole book by navigating to "Generate draft" and finding the draft that has been generated. Click "Add to a project" and choose the project you want to add it to._
 
 4. Why does my button say "re-add to project"?
 

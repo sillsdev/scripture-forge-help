@@ -10,11 +10,11 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
-To monitor community checking responses, click on **Overview** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
+To monitor community checking responses, click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Along with a list of questions, basic statistics about responses will be shown.
 
 ![](./685721.png)
 
-To view the answers from community checkers, click on one of the books under the **Community Checking** section in the navigation sidebar. Then click on a question to see the answers that have been given. If you want an answer to be exported to Paratext, click **Mark for export** on that answer. If you don’t want to do anything further with the answer, click **Resolve**. This does not remove the answer, but it marks it as not needing any further action.
+To view the answers from community checkers, click on **Questions & answers** under the **Community Checking** section in the navigation sidebar. Then click on a question to see the answers that have been given. If you want an answer to be exported to Paratext, click **Mark for export** on that answer. If you don’t want to do anything further with the answer, click **Resolve**. This does not remove the answer, but it marks it as not needing any further action.
 
 ![](./1417670916.png)
 
@@ -28,7 +28,7 @@ If you would prefer to have all answers exported to Paratext without individuall
 
 ## Sync the project so answers show up as notes in Paratext {#1850d745ac9e80a8b3f0f50bcdd0be58}
 
-In the navigation sidebar, click **Synchronize**. On the page that opens, click **Synchronize** to send and receive changes from Paratext. Then open your project in Paratext and do a send and receive. Answers from community checkers will show up in your project as notes. Please note that if you reply to these notes in Paratext, your replies will not appear as comments on the answer in Scripture Forge.
+In the navigation sidebar, click **Sync with Paratext**. On the page that opens, click **Sync with Paratext** to send and receive changes from Paratext. Then open your project in Paratext and do a send and receive. Answers from community checkers will show up in your project as notes. Please note that if you reply to these notes in Paratext, your replies will not appear as comments on the answer in Scripture Forge.
 
 The note will show the original question, the name of the community checker who answered, and the answer itself, as shown below.
 

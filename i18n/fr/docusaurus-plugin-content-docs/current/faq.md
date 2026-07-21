@@ -20,7 +20,7 @@ slug: /faq
 
    - **Apprentissage et documentation:** [https://software.sil.org/ScriptureForge](https://software.sil.org/ScriptureForge) et [https://help.scriptureforge.org](https://help.scriptureforge.org/)
    - **Signaler un problème :** [https://scriptureforge.freshdesk.com/support/tickets/new](https://scriptureforge.freshdesk.com/support/tickets/new) email: help@scriptureforge.org
-   - **Questions et assistance:** courriel : help@scriptureforge.org
+   - **Questions et Assistance :** courriel : help@scriptureforge.org
 
 ## Questions sur les sources et la formation du modèle {#1b30d745ac9e80e791d9f0c3ee971c5c}
 
@@ -52,17 +52,18 @@ slug: /faq
 
 1. Combien de temps faut-il pour générer mon ébauche
 
-   _Il faut actuellement environ 3 heures pour générer une ébauche. Cependant, comme cela dépend de la disponibilité du serveur et du nombre de livres que vous avez demandés, nous vous recommandons de ne pas générer plus de 3 livres à la fois. Si la génération d'ébauche prend un temps exceptionnellement long, veuillez nous contacter pour signaler le problème._
+   _La génération des ébauches prend actuellement environ une heure et demie, mais peut parfois prendre beaucoup plus de temps en fonction de la disponibilité des serveurs et du nombre de livres demandés. Si la génération d'ébauche prend un temps exceptionnellement long, veuillez nous contacter pour signaler le problème._
 
 2. Comment saurai-je que mon ébauche est terminé ?
 
-   _Vous pouvez vérifier la page « Générer une ébauche » pour voir le statut, et une fois terminé, vous verrez un message similaire à ceci :_
+   _Vous pouvez choisir de recevoir des notifications par e-mail dès que la génération de votre ébauche est terminée, afin d'en être informé immédiatement. Vous pouvez également consulter la page « Générer une ébauche » pour vérifier l'état d'avancement. Une fois l'opération terminée, un message similaire à celui-ci s'affichera :_
 
    ![](./267304602.png)
 
 3. Pourquoi mon livre ne comporte-t-il que le chapitre 1 dans le projet ?
-   - _L'ajout d'une ébauche au projet se fait chapitre par chapitre à partir de la fenêtre « AutoEbauche» sous « Édition et revue ». Ainsi, si un seul chapitre est ajouté, ce sera le seul chapitre disponible dans le projet. D'autres chapitres devront être ajoutés individuellement._
-   - _Vous pouvez ajouter le livre entier en naviguant vers « Générer une ébauche » et en trouvant l'ébauche qui a été généré. Cliquez sur le menu à 3 points disponible à côté du nom du livre que vous souhaitez ajouter, puis cliquez sur « Ajouter au projet ». Cela va ajouter tout le livre à votre projet_
+
+   - _L'ajout d'une ébauche au projet se fait chapitre par chapitre à partir de la fenêtre « Ébauche générée » de la page Modifier et Réviser. Ainsi, si un seul chapitre est ajouté, ce sera le seul chapitre disponible dans le projet. D'autres chapitres devront être ajoutés individuellement._
+   - _Vous pouvez ajouter le livre entier en naviguant vers « Générer une ébauche » et en trouvant l'ébauche qui a été généré. Cliquez sur "Ajouter à un projet" puis sélectionnez le projet vers lequel vous voulez importer._
 
 4. Pourquoi mon bouton dit-il "ré-ajouter au projet"?
 

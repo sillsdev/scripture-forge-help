@@ -20,7 +20,7 @@ Im Moment ist die einzige Möglichkeit, Rückmeldungen von Überprüfern der Zie
 
 ### Fragen individuell in Scripture Forge erstellen {#1850d745ac9e8031908ef693ff578eec}
 
-Um Fragen zu Deinem Projekt hinzuzufügen, klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**. Klicke dann auf die Schaltfläche **Frage hinzufügen**. Ein Dialogfeld wird geöffnet, in dem Du eine Frage erstellen kanst.
+Um Fragen zu Deinem Projekt hinzuzufügen, klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Fragen verwalten**. Klicke dann auf die Schaltfläche **Frage hinzufügen**. Ein Dialogfeld wird geöffnet, in dem Du eine Frage erstellen kanst.
 
 Eine Frage kann sich auf einen einzelnen Vers oder auf mehrere Verse beziehen. Gib einen Verweis in das Feld für die **Bibelstelle** ein, oder klicke auf den Dropdown-Pfeil, um ein Buch, ein Kapitel und einen Vers auszuwählen. Falls sich die Frage über mehrere Verse erstrecken soll, gib in das zweite Feld einen Endverweis ein. Sobald Du einen Verweis eingegeben hast, wird der Text angezeigt, wobei die von Dir ausgewählten Verse hervorgehoben sind.
 
@@ -60,9 +60,9 @@ Falls Du Hilfe benötigst, um Deine Tabelle in das richtige Format für den Impo
 
    :::
 
-2. Klicke dann in der Navigationsleiste in Scripture Forge unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**.
+2. Klicke dann in der Navigationsleiste in Scripture Forge unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Fragen verwalten**.
 
-3. Klicke dann auf die Schaltfläche **Massenimport**. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest.
+3. Klicke dann auf die Schaltfläche **Import**. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest.
 
 4. Klicke auf **Import aus CSV-Datei** und wähle die Datei aus.
    1. Falls Du einige Zeilen in Deiner Datei hast, die keinen gültigen Verweis und keine gültige Frage enthalten, wird eine Warnung angezeigt, die Dich darauf hinweist, dass diese Zeilen übersprungen werden.
@@ -104,9 +104,9 @@ Um Fragen aus Transcelerator zu importieren:
 4. Öffne in Transcelerator das Menü **Datei** und klicke auf **Scripture Forge-Datei erzeugen**.
 5. Gib die Übersetzungen der englischen Fragen, die Du verwenden möchtest, in die Spalte **Übersetzung** ein. Aktiviere für jede Frage, die bereit ist, das Kontrollkästchen **Bestätigt**.
 6. Schließe Transcelerator und führe "Senden/Empfangen" in Paratext aus.
-7. Klicke in Scripture Forge in der Navigationsleiste auf **Synchronisieren**. Klicke auf der sich öffnenden Seite auf **Synchronisieren**, um die Transcelerator-Fragen von Paratext zu senden und zu empfangen.
-8. Klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Übersicht**. Klicke dann auf die Schaltfläche **Massenimport**.
-9. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest. Klicke auf **Import aus Transcelerator**.
+7. Klicke in Scripture Forge in der Navigationsleiste auf **Mit Paratext synchronisieren**. Klicke auf der sich öffnenden Seite auf **Mit Paratext synchronisieren**, um die Transcelerator-Fragen von Paratext zu senden und zu empfangen.
+8. Klicke in der Navigationsleiste unter dem Abschnitt **Überprüfung mit der Zielgruppe** auf **Fragen verwalten**. Klicke dann auf die Schaltfläche **Import**.
+9. Es wird ein Dialog geöffnet, in dem Du wählen kannst, woher Du Fragen importieren möchtest. Klicke auf **Von Transcelerator importieren**.
 10. Wähle die Fragen aus, die Du importieren möchtest. Die Schritte hierfür sind genau die gleichen wie in dem Abschnitt oben mit dem Titel **Fragen aus einer Tabelle importieren**. Siehe den Abschnitt mit den Anweisungen zum Filtern für die gewünschten Fragen.
 11. Klicke auf **Importieren ausgewählter Fragen** und Deine Fragen werden dem Projekt hinzugefügt.
 

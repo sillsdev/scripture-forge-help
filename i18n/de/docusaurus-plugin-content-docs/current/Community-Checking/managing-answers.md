@@ -10,11 +10,11 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
-Um Antworten bei der Überprüfung mit der Zielgruppe zu überwachen, klicke auf **Übersicht** unter dem Abschnitt **Überprüfung mit der Zielgruppe** in der Navigationsleiste. Neben einer Liste von Fragen werden grundlegende Statistiken über die Antworten angezeigt.
+Um Antworten bei der Überprüfung mit der Zielgruppe zu überwachen, klicke auf **Fragen verwalten** unter dem Abschnitt **Überprüfung mit der Zielgruppe** in der Navigationsleiste. Neben einer Liste von Fragen werden grundlegende Statistiken über die Antworten angezeigt.
 
 ![](./685721.png)
 
-Um Antworten von Überprüfern der Zielgruppe zu sehen, klicke auf eines der Bücher unter **Überprüfung mit der Zielgruppe** in der Navigationsleiste. Dann klicke auf eine Frage, um die Antworten zu sehen, die gegeben wurden. Wenn Du eine Antwort nach Paratext exportieren möchtest, klicke auf **Für Export markieren** für diese Antwort. Wenn Du mit der Antwort nichts weiter tun möchtest, klicke auf **Erledigt**. Damit wird die Antwort nicht entfernt, aber sie so markiert, dass keine weiteren Maßnahmen erforderlich sind.
+Um Antworten von Überprüfern der Zielgruppe zu sehen, klicke auf **Fragen & Antworten** unter **Überprüfung mit der Zielgruppe** in der Navigationsleiste. Dann klicke auf eine Frage, um die Antworten zu sehen, die gegeben wurden. Wenn Du eine Antwort nach Paratext exportieren möchtest, klicke auf **Für Export markieren** für diese Antwort. Wenn Du mit der Antwort nichts weiter tun möchtest, klicke auf **Erledigt**. Damit wird die Antwort nicht entfernt, aber sie so markiert, dass keine weiteren Maßnahmen erforderlich sind.
 
 ![](./1417670916.png)
 
@@ -28,7 +28,7 @@ Wenn Du es vorziehst, alle Antworten nach Paratext zu exportieren, ohne sie einz
 
 ## Das Projekt synchronisieren, damit Antworten als Notizen in Paratext angezeigt werden {#1850d745ac9e80a8b3f0f50bcdd0be58}
 
-Klicke in der Navigationsleiste auf **Synchronisieren**. Klicke auf der sich öffnenden Seite auf **Synchronisieren**, um Änderungen von Paratext zu senden und zu empfangen. Öffne dann Dein Projekt in Paratext und führe "Senden/Empfangen" aus. Antworten von Überprüfern der Zielgruppe werden in Deinem Projekt als Notizen angezeigt. Bitte beachte, dass, wenn Du auf diese Notizen in Paratext antwortest, Deine Antworten nicht als Kommentare zu der Antwort in Scripture Forge erscheinen.
+Klicke in der Navigationsleiste auf **Mit Paratext synchronisieren**. Klicke auf der sich öffnenden Seite auf **Mit Paratext synchronisieren**, um Änderungen von Paratext zu senden und zu empfangen. Öffne dann Dein Projekt in Paratext und führe "Senden/Empfangen" aus. Antworten von Überprüfern der Zielgruppe werden in Deinem Projekt als Notizen angezeigt. Bitte beachte, dass, wenn Du auf diese Notizen in Paratext antwortest, Deine Antworten nicht als Kommentare zu der Antwort in Scripture Forge erscheinen.
 
 Die Notiz zeigt die ursprüngliche Frage, den Namen des Überprüfers der Zielgruppe, der geantwortet hat, und die Antwort selbst, wie unten gezeigt.
 

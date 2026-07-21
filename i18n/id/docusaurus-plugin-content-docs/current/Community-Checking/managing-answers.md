@@ -10,11 +10,11 @@ import ReactPlayer from "react-player";
 
 <div class="player-wrapper"><ReactPlayer controls url="https://youtu.be/C3bgh3yufVg" /></div>
 
-Untuk memantau tanggapan pemeriksaan masyarakat, klik **Ringkasan** di bawah bagian **Pemeriksaan masyarakat** pada bilah navigasi. Bersama dengan daftar pertanyaan, statistik dasar tentang tanggapan akan ditampilkan.
+To monitor community checking responses, click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Bersama dengan daftar pertanyaan, statistik dasar tentang tanggapan akan ditampilkan.
 
 ![](./685721.png)
 
-Untuk melihat jawaban dari para masyarakat pemeriksa, klik salah satu kitab di bagian **Pemeriksaan Masyarakat** pada bilah sisi navigasi. Kemudian klik pada sebuah pertanyaan untuk melihat jawaban yang telah diberikan. Jika Anda ingin jawaban diekspor ke Paratext, klik **Tandai untuk diekspor** pada jawaban tersebut. Jika Anda tidak ingin melakukan apa pun lebih lanjut dengan jawabannya, klik **Selesaikan**. Hal ini tidak menghapus jawaban, tetapi menandainya sebagai tidak memerlukan tindakan lebih lanjut.
+To view the answers from community checkers, click on **Questions & answers** under the **Community Checking** section in the navigation sidebar. Kemudian klik pada sebuah pertanyaan untuk melihat jawaban yang telah diberikan. Jika Anda ingin jawaban diekspor ke Paratext, klik **Tandai untuk diekspor** pada jawaban tersebut. Jika Anda tidak ingin melakukan apa pun lebih lanjut dengan jawabannya, klik **Selesaikan**. Hal ini tidak menghapus jawaban, tetapi menandainya sebagai tidak memerlukan tindakan lebih lanjut.
 
 ![](./1417670916.png)
 
@@ -28,7 +28,7 @@ Jika Anda lebih suka semua jawaban diekspor ke Paratext tanpa menandainya satu p
 
 ## Sinkronkan proyek sehingga jawaban muncul sebagai catatan di Paratext {#1850d745ac9e80a8b3f0f50bcdd0be58}
 
-Pada bilah sisi navigasi, klik **Sinkronisasi**. Pada halaman yang terbuka, klik **Sinkronisasi** untuk mengirim dan menerima perubahan dari Paratext. Kemudian buka proyek Anda di Paratext dan lakukan Kirim dan Terima. Jawaban dari pemeriksa masyarakat akan muncul di proyek Anda sebagai catatan. Harap diperhatikan bahwa jika Anda membalas catatan-catatan ini di Paratext, balasan Anda tidak akan muncul sebagai komentar pada jawaban di Scripture Forge.
+In the navigation sidebar, click **Sync with Paratext**. On the page that opens, click **Sync with Paratext** to send and receive changes from Paratext. Kemudian buka proyek Anda di Paratext dan lakukan Kirim dan Terima. Jawaban dari pemeriksa masyarakat akan muncul di proyek Anda sebagai catatan. Harap diperhatikan bahwa jika Anda membalas catatan-catatan ini di Paratext, balasan Anda tidak akan muncul sebagai komentar pada jawaban di Scripture Forge.
 
 Catatan tersebut akan menampilkan pertanyaan asli, nama masyarakat pemeriksa yang menjawab, dan jawabannya, seperti yang ditunjukkan di bawah ini.
 

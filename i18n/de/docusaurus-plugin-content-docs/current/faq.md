@@ -52,17 +52,18 @@ slug: /faq
 
 1. Wie lange dauert es, meinen Entwurf zu generieren?
 
-   _Derzeit dauert es ungefähr 3 Stunden, um einen Entwurf zu generieren. Da dies jedoch von der Verfügbarkeit des Servers und der Anzahl der von Dir angeforderten Bücher abhängt, empfehlen wir nicht mehr als 3 Bücher gleichzeitig generieren zu lassen. Sollte das Generieren des Entwurfs eine ungewöhnlich lange Zeit in Anspruch nimmt, wende Dich bitte an uns, um das Problem zu melden._
+   _Das Generieren von Entwürfen dauert derzeit etwa eineinhalb Stunden, kann aber je nach Serververfügbarkeit und Anzahl der angeforderten Bücher manchmal auch deutlich länger dauern. Sollte das Generieren des Entwurfs eine ungewöhnlich lange Zeit in Anspruch nimmt, wende Dich bitte an uns, um das Problem zu melden._
 
 2. Wie weiß ich, wann mein Entwurf fertig ist?
 
-   _Du kannst auf die Seite "Entwurf generieren" gehen, um den Status zu sehen, und wenn es fertig ist, wirst Du eine ähnliche Nachricht wie diese sehen:_
+   _Du kannst Dich dafür entscheiden, jeweils eine E-Mail-Benachrichtigung zu erhalten, sobald das Generieren Deines Entwurfs abgeschlossen ist, sodass Du sofort benachrichtigt wirst. Alternativ kannst Du den Status auf der Seite „Entwurf generieren“ überprüfen. Sobald der Vorgang abgeschlossen ist, wird eine Meldung ähnlich der folgenden angezeigt:_
 
    ![](./267304602.png)
 
 3. Warum hat mein Buch nur Kapitel 1 im Projekt?
-   - _Dem Projekt einen Entwurf hinzuzufügen geschieht Kapitel für Kapitel aus dem Fenster „Autodraft“ unter „Bearbeiten und Überprüfen“. Wenn also nur ein Kapitel hinzugefügt wird, wird es das einzige Kapitel im Projekt sein. Andere Kapitel müssen einzeln hinzugefügt werden._
-   - _Du kannst das ganze Buch hinzufügen, indem Du zu „Entwurf generieren“ gehst und den erstellten Entwurf aufrufst. Klicke auf das 3-Punkt-Menü neben dem Namen des Buches, das Du hinzufügen möchtest, und klicke dann auf „Zum Projekt hinzufügen“. Dadurch wird das ganze Buch zu Deinem Projekt hinzufügen_
+
+   - _Dem Projekt einen Entwurf hinzuzufügen geschieht Kapitel für Kapitel aus dem Fenster „Generierter Entwurf“ auf der Seite Bearbeiten und Überprüfen. Wenn also nur ein Kapitel hinzugefügt wird, wird es das einzige Kapitel im Projekt sein. Andere Kapitel müssen einzeln hinzugefügt werden._
+   - _Du kannst das ganze Buch hinzufügen, indem Du zu „Entwurf generieren“ gehst und den erstellten Entwurf aufrufst. Klicke auf "Zu einem Projekt hinzufügen" und wähle das Projekt aus, dem Du hinzufügen möchtest._
 
 4. Warum steht auf meiner Schaltfläche "Erneut zum Projekt hinzufügen"?
 

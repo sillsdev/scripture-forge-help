@@ -20,7 +20,7 @@ Actualmente, la única forma de obtener opiniones de los revisores de la comunid
 
 ### Crear preguntas individualmente en la Fragua de las Escrituras {#1850d745ac9e8031908ef693ff578eec}
 
-Para añadir preguntas a tu proyecto, haz clic en **Visión general** en la sección **Comprobación de la comunidad** de la barra lateral de navegación. A continuación, haz clic en el botón **Añadir pregunta**. Se abrirá un diálogo que te permitirá crear una pregunta.
+Para añadir preguntas a tu proyecto, haz clic en **Administrar preguntas** en la sección **Comprobación de la comunidad** de la barra lateral de navegación. A continuación, haz clic en el botón **Añadir pregunta**. Se abrirá un diálogo que te permitirá crear una pregunta.
 
 Una pregunta puede aplicarse a un solo versículo o a varios. Escribe una referencia en la casilla de **referencia de la Escritura**, o haz clic en la flecha desplegable para seleccionar un libro, un capítulo y un versículo. Si quieres que la pregunta abarque varios versículos, introduce una referencia final en la segunda casilla. Una vez que hayas introducido una referencia, aparecerá el texto, con los versículos que hayas elegido resaltados.
 
@@ -60,9 +60,9 @@ Si necesitas ayuda para poner tu hoja de cálculo en el formato adecuado para im
 
    :::
 
-2. A continuación, en Scripture Forge, haz clic en **Visión general** en la sección **Comprobación de la comunidad** de la barra lateral de navegación.
+2. A continuación, en Scripture Forge, haz clic en **Administrar preguntas** en la sección **Comprobación de la comunidad** de la barra lateral de navegación.
 
-3. A continuación, haz clic en el botón **Importación masiva**. Se abrirá un diálogo pidiéndote que elijas de dónde quieres importar las preguntas.
+3. A continuación, haz clic en el botón **Importar**. Se abrirá un diálogo pidiéndote que elijas de dónde quieres importar las preguntas.
 
 4. Haz clic en **Importar desde archivo CSV** y selecciona el archivo.
    1. Si tienes algunas filas en tu archivo que no tienen una referencia y una pregunta válidas, se mostrará una advertencia haciéndote saber que esas filas se omitirán.
@@ -104,8 +104,8 @@ Para importar preguntas desde Transcelerator:
 4. Dentro de Transcelerator, abre el menú **Archivo** y haz clic en **Producir archivos Scripture Forge**.
 5. Escribe las traducciones de las preguntas en inglés que quieras utilizar en la columna **Traducción**. Para cada pregunta que esté lista, selecciona la casilla **Confirmada** para las preguntas.
 6. Cierra Transcelerator, y haz un envío y recepción con Paratext.
-7. En Scripture Forge, en la barra lateral de navegación, haz clic en **Sincronizar**. En la página que se abre, haz clic en **Sincronizar** para enviar y recibir las preguntas del Transcelerator desde Paratext.
-8. A continuación, en Scripture Forge, haz clic en **Visión general** en la sección **Comprobación de la comunidad** de la barra lateral de navegación. A continuación, haz clic en el botón **Importación masiva**.
+7. En Scripture Forge, en la barra lateral de navegación, haz clic en **Sincronizar con Paratext**. En la página que se abra, haz clic en **Sincronizar con Paratext** para enviar y recibir las preguntas de Transcelerator desde Paratext.
+8. A continuación, en Scripture Forge, haz clic en **Administrar preguntas** en la sección **Comprobación de la comunidad** de la barra lateral de navegación. A continuación, haz clic en el botón **Importar**.
 9. Se abrirá un diálogo pidiéndote que elijas de dónde quieres importar las preguntas. Haz clic en **Importar desde Transcelerator**.
 10. Selecciona las preguntas que quieres importar. Los pasos para hacerlo son exactamente los mismos que en la sección anterior titulada **Importar preguntas desde una hoja de cálculo**. Consulta esa sección para obtener instrucciones sobre cómo filtrar las preguntas que desees.
 11. Haz clic en **Importar preguntas seleccionadas** y tus preguntas se añadirán al proyecto.

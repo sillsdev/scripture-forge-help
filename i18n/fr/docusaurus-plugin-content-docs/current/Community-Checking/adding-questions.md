@@ -60,7 +60,7 @@ Si vous avez besoin d'aide pour formater votre feuille de calcul correctement af
 
    :::
 
-2. Ensuite, dans Scripture Forge, cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre latérale de navigation.
+2. Ensuite, dans Scripture Forge, cliquez sur **Gérer les questions** dans la section **Vérification par la communauté** de la barre de navigation latérale.
 
 3. Cliquez ensuite sur le bouton **Importation en lots** . Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions.
 
@@ -104,8 +104,8 @@ Pour importer des questions depuis Transcelerator:
 4. Dans Transcelerator, ouvrez le menu **Fichier** et cliquez sur **Produire des fichiers Scripture Forge**.
 5. Saisissez dans la colonne **Traduction** les traductions des questions en anglais que vous voulez utiliser. Pour chaque question qui est prête, cochez la case **Confirmée** pour ces questions.
 6. Fermez Transcelerator et effectuez un envoyer recevoir avec Paratext.
-7. Dans Scripture Forge, dans la barre latérale de navigation, cliquez sur **Synchroniser**. Sur la page qui s'ouvre, cliquez sur **Synchroniser** pour envoyer et recevoir les questions Transcelerator depuis Paratext.
-8. Cliquez sur **Vue d'ensemble** sous la section **Vérification par la communauté** dans la barre de navigation latérale. Cliquez ensuite sur le bouton **Importation en lots** .
+7. Dans Scripture Forge, dans la barre latérale de navigation, cliquez sur **Synchroniser avec Paratext**. Sur la page qui s'ouvre, cliquez sur **Synchroniser avec Paratext** pour envoyer et recevoir les questions de Transcelerator depuis Paratext.
+8. Cliquez sur **Gérer les questions** dans la section **Vérification par la communauté** de la barre de navigation latérale. Cliquez ensuite sur le bouton **Importer**.
 9. Une boîte de dialogue s'ouvrira vous demandant de choisir depuis où vous souhaitez importer les questions. Cliquez sur **Importer depuis Transcelerator**.
 10. Sélectionnez les questions que vous souhaitez importer. Les étapes à suivre pour faire cela sont exactement les mêmes que dans la section ci-dessus intitulée **Importer des questions à partir d'une feuille de calcul**. Reportez-vous à cette section pour savoir comment filtrer les questions que vous souhaitez.
 11. Cliquez sur **Importer les questions sélectionnées** et vos questions seront ajoutées au projet.

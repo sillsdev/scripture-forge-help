@@ -20,7 +20,7 @@ Saat ini satu-satunya cara untuk mendapatkan umpan balik dari para masyarakat pe
 
 ### Membuat pertanyaan secara individu di Scripture Forge {#1850d745ac9e8031908ef693ff578eec}
 
-Untuk menambahkan pertanyaan ke proyek Anda, klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** pada bilah sisi navigasi. Kemudian klik tombol **Tambah Pertanyaan**. Sebuah dialog akan terbuka yang memungkinkan Anda untuk membuat pertanyaan.
+To add questions to your project, click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Kemudian klik tombol **Tambah Pertanyaan**. Sebuah dialog akan terbuka yang memungkinkan Anda untuk membuat pertanyaan.
 
 Sebuah pertanyaan dapat berlaku untuk satu ayat, atau beberapa ayat. Ketik referensi ke dalam kotak **Referensi Alkitab**, atau klik panah tarik-turun untuk memilih kitab, pasal, dan ayat. Jika Anda ingin pertanyaan mencakup beberapa ayat, masukkan referensi akhir di kotak kedua. Once you've input a reference, the text will show up, with the verses you chose highlighted.
 
@@ -60,9 +60,9 @@ Jika Anda membutuhkan bantuan untuk memasukkan spreadsheet Anda ke dalam format 
 
    :::
 
-2. Kemudian di Scripture Forge, klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi.
+2. Then in Scripture Forge, click on **Manage questions** under the **Community Checking** section in the navigation sidebar.
 
-3. Kemudian klik tombol **Impor masal**. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan.
+3. Then click on the **Import** button. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan.
 
 4. Klik **Import dari file CSV** dan pilih file.
    1. If you have some rows in your file that don't have a valid reference and question, a warning will be shown letting you know that these rows will be skipped.
@@ -104,8 +104,8 @@ Untuk mengimpor pertanyaan dari Transcelerator:
 4. Di dalam Transcelerator, buka menu **File** dan klik **Buat File Scripture Forge**.
 5. Ketik terjemahan dari pertanyaan bahasa Inggris yang ingin Anda gunakan di kolom **Terjemahan**. For each question that's ready, select the **Confirmed** check box for the questions.
 6. Tutup Transcelerator, dan lakukan Kirim/Terima Paratext.
-7. Di Scripture Forge, di bilah sisi navigasi, klik **Sinkronisasi**. Pada halaman yang terbuka, klik **Sinkronisasi** untuk mengirim dan menerima pertanyaan Transcelerator dari Paratext.
-8. Klik **Ringkasan** di bawah bagian **Pemeriksaan Masyarakat** di bilah sisi navigasi. Kemudian klik tombol **Impor masal**.
+7. In Scripture Forge, in the navigation sidebar, click **Sync with Paratext**. On the page that opens, click **Sync with Paratext** to send and receive the Transcelerator questions from Paratext.
+8. Click on **Manage questions** under the **Community Checking** section in the navigation sidebar. Then click on the **Import** button.
 9. Sebuah dialog akan terbuka dan meminta Anda untuk memilih dari mana Anda ingin mengimpor pertanyaan. Klik **Import dari Transcelerator**.
 10. Pilih pertanyaan yang ingin Anda impor. Langkah-langkah untuk melakukan hal ini sama persis dengan bagian di atas yang berjudul **Mengimpor pertanyaan dari spreadsheet**. Lihat bagian tersebut untuk petunjuk tentang penyaringan pertanyaan yang Anda inginkan.
 11. Klik **Import Pertanyaan Terpilih** dan pertanyaan Anda akan ditambahkan ke proyek.

@@ -1,6 +1,6 @@
 ---
 title: Preparación para generar un borrador
-sidebar_position: 1
+sidebar_position: 2
 slug: /preparing-for-ai-drafting
 ---
 

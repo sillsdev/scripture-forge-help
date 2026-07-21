@@ -74,7 +74,7 @@ Terlepas dari apakah Anda membuat konsep terjemahan balik atau konsep bahasa dae
 5. Pilih konsep yang ingin Anda terjemahkan, lalu pilih kitab yang ingin Anda gunakan sebagai data pelatihan.
 6. Klik "Buat konsep" untuk memulai proses.
 
-Proses pembuatan konsep dapat memakan waktu mulai dari beberapa jam hingga beberapa hari.
+The draft generation process typically takes roughly an hour and a half, but can sometimes take much longer.
 
 Setelah Anda membuat konsep, Anda dapat melihat pratinjau konsep dan mengimpor setiap pasal ke dalam proyek Anda.
 

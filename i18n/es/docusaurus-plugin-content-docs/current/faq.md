@@ -52,17 +52,18 @@ slug: /faq
 
 1. ¿Cuánto tarda en generarse mi borrador?
 
-   _Actualmente se tarda unas 3 horas en generar un borrador. Sin embargo, como esto depende de la disponibilidad del servidor y de cuántos libros haya solicitado, le recomendamos que no genere más de 3 libros a la vez. Si la generación del borrador tarda más de lo habitual, póngase en contacto con nosotros para comunicarnos el problema._
+   _Actualmente, la generación de los borradores tarda aproximadamente una hora y media, aunque a veces puede llevar mucho más tiempo, dependiendo de la disponibilidad del servidor y del número de libros solicitados. Si la generación del borrador tarda más de lo habitual, póngase en contacto con nosotros para comunicarnos el problema._
 
 2. ¿Cómo sabré cuándo está hecho mi borrador?
 
-   _Puede consultar la página "Generar borrador" para ver el estado, y cuando haya terminado, verá un mensaje similar a este:_
+   _Puedes activar la opción de recibir notificaciones por correo electrónico cuando finalice la generación de tu borrador, para que te avisen de inmediato. También puedes consultar la página «Generar borrador» para ver el estado. Cuando haya terminado, verás un mensaje similar a este:_
 
    ![](./267304602.png)
 
 3. ¿Por qué mi libro sólo tiene el capítulo 1 en el proyecto?
-   - _Añadir un borrador al proyecto se hace capítulo a capítulo desde la ventana "Autoborrador" en "Editar y revisar". Así, si sólo se añade un capítulo, será el único disponible en el proyecto. Otros capítulos tendrán que añadirse individualmente._
-   - _Puede añadir todo el libro navegando a "Generar borrador" y encontrando el borrador que se ha generado. Haga clic en el menú de 3 puntos disponible junto al nombre del libro que desea añadir y, a continuación, haga clic en "Añadir al proyecto". Esto añadirá todo el libro a su proyecto_
+
+   - _Añadir un borrador al proyecto ocurre sobre una base de capítulo por capítulo desde la pestaña "Borrador Generado" en la página Editar y revisar. Así, si sólo se añade un capítulo, será el único disponible en el proyecto. Otros capítulos tendrán que añadirse individualmente._
+   - _Puede añadir el libro completo navegando a "Generar borrador" y encontrando el borrador que se ha generado. Haz clic en "Añadir a un proyecto" y elige el proyecto al que quieres agregarlo._
 
 4. ¿Por qué mi botón dice "volver a añadir al proyecto"?
 

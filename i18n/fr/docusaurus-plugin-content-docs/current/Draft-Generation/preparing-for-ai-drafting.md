@@ -1,6 +1,6 @@
 ---
 title: "Préparation de la génération d'une ébauche "
-sidebar_position: 1
+sidebar_position: 2
 slug: /preparing-for-ai-drafting
 ---
 

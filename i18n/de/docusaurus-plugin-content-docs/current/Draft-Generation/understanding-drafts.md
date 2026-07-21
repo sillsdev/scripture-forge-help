@@ -74,7 +74,7 @@ Unabhängig davon, ob Du Rückübersetzungsentwürfe oder Entwürfe in der Lokal
 5. Wähle die Bücher aus, die Du übersetzen möchtest, und wähle dann die Bücher, die Du als Trainingsdaten verwenden möchtest.
 6. Auf "Entwurf generieren" klicken, um den Vorgang zu starten.
 
-Das Generieren des Entwurfs kann von mehreren Stunden bis zu mehreren Tage dauern.
+Das Generieren des Entwurfs dauert in der Regel etwa eineinhalb Stunden, kann aber manchmal auch deutlich länger dauern.
 
 Sobald Du einen Entwurf generiert hast, kannst Du eine Vorschau des Entwurfs ansehen und einzelne Kapitel in Dein Projekt importieren.
 

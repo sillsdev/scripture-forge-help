@@ -74,7 +74,7 @@ Peu importe si vous générez des ébauches de retraduction ou des ébauches ver
 5. Sélectionnez les livres que vous souhaitez traduire, puis les livres que vous souhaitez utiliser comme données d'entraînement.
 6. Cliquez sur « Générer une ébauche » pour démarrer le processus.
 
-Le processus de génération des ébauches peut prendre de plusieurs heures à plusieurs jours.
+Le processus de génération d'ébauche dure généralement environ une heure et demie, mais peut parfois prendre beaucoup plus de temps.
 
 Une fois que vous avez une ébauche générée, vous pouvez prévisualiser l'ébauche et importer des chapitres individuels dans votre projet.
 
