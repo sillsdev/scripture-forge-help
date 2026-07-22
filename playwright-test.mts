@@ -17,28 +17,60 @@ if (rootPage == null) {
 const browser = await chromium.launch({ headless: false });
 const context = await browser.newContext();
 const page = await context.newPage();
-await page.goto(rootPage);
 
-// Enumerate documents
-// First, expand categories as long as there are any more to expand
-const navigationLocator = page.getByRole("navigation", {
-  name: "Docs sidebar",
-});
-let navigationButtonIndex = 0;
-const navigationButton = navigationLocator.getByRole("button");
-while (await navigationButton.nth(navigationButtonIndex).isVisible()) {
-  await navigationButton.nth(navigationButtonIndex).click();
-  navigationButtonIndex++;
+// Navigate to the given URL, expand every sidebar category, and return the
+// ordered list of sidebar links (title + href).
+async function getSidebarLinks(
+  url: string
+): Promise<{ title: string; url: string }[]> {
+  await page.goto(url);
+  // The docs sidebar's accessible name ("Docs sidebar") is translated per
+  // locale, so select it by its stable Docusaurus class instead of by name.
+  const navigationLocator = page.locator("nav.menu");
+  // Docusaurus mounts a category's child links lazily the first time it is
+  // expanded, and keeps them in the DOM afterwards. Click every collapse
+  // toggle, repeating until no new links appear, so that every category
+  // (including any nested ones) is mounted. Expanding happens in place — it
+  // does not navigate away. We must do this rather than trust the initial
+  // (collapsed) render, otherwise the set of links we see depends on which
+  // categories happen to be expanded.
+  let linkCount = -1;
+  for (let guard = 0; guard < 20; guard++) {
+    for (const toggle of await navigationLocator
+      .getByRole("button")
+      .elementHandles()) {
+      await toggle.click().catch(() => {});
+    }
+    const count = await navigationLocator.locator("a").count();
+    if (count === linkCount) break;
+    linkCount = count;
+  }
+  // Enumerate every sidebar link in DOM order. A CSS selector (rather than
+  // getByRole("link")) also counts links inside a category that happens to be
+  // collapsed, so the result is independent of the final expand/collapse
+  // state; the caret toggles (href="#") are dropped.
+  return await navigationLocator.locator("a").evaluateAll((anchors) =>
+    anchors
+      .map((a) => ({
+        title: (a.textContent || "").trim(),
+        url: a.getAttribute("href") || "",
+      }))
+      .filter((link) => link.url && link.url !== "#")
+  );
 }
-// Now, enumerate all the pages in the sidebar with their urls
-const sidebarLinks = navigationLocator.getByRole("link");
-const sidebarLinksCount = await sidebarLinks.count();
-const documents: { title: string; url: string }[] = [];
-for (let i = 0; i < sidebarLinksCount; i++) {
-  const link = sidebarLinks.nth(i);
-  const url = await link.getAttribute("href");
-  documents.push({ title: await link.textContent(), url });
+
+// Localized sidebar links are prefixed with the locale (e.g. /fr/log-in). Strip
+// that prefix so the link order can be compared against the default locale.
+function stripLocalePrefix(url: string, locale: string): string {
+  const prefix = `/${locale}`;
+  if (url === prefix) return "/";
+  if (url.startsWith(`${prefix}/`)) return url.slice(prefix.length);
+  return url;
 }
+
+// Enumerate documents from the default-locale sidebar
+const documents = await getSidebarLinks(rootPage);
+
 // Log the documents
 console.log(`Found ${documents.length} documents:`);
 for (const doc of documents) {
@@ -86,6 +118,25 @@ for (const locale of locales) {
 
   if (locale !== "en") {
     console.log(`\nChecking locale: ${locale}`);
+
+    // Verify the sidebar link order matches the default locale
+    const localeLinks = await getSidebarLinks(`${rootPage}/${locale}`);
+    const expectedOrder = documents.map((doc) => doc.url);
+    const actualOrder = localeLinks.map((link) =>
+      stripLocalePrefix(link.url, locale)
+    );
+    const sameOrder =
+      expectedOrder.length === actualOrder.length &&
+      expectedOrder.every((url, index) => url === actualOrder[index]);
+    if (sameOrder) {
+      console.log(`Sidebar link order: ${GREEN}✓${RESET}`);
+    } else {
+      failed = true;
+      console.log(`Sidebar link order: ${RED}✗${RESET}`);
+      console.log(`  expected: ${JSON.stringify(expectedOrder)}`);
+      console.log(`  actual:   ${JSON.stringify(actualOrder)}`);
+    }
+
     console.log(
       headings
         .map((heading, index) => heading.padEnd(headingWidths[index]))
