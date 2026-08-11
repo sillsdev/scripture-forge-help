@@ -30,6 +30,8 @@ If you use a separate Paratext project to store AI-generated drafts, double chec
 
 On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time. For long books, consider generating a new draft after completing a significant portion of the book. 
 
+![](./generate_draft_select_books_to_draft.png)
+
 :::note
 
 If you select a book that is at least 12 chapters in length and has some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you can choose some or all of the remaining chapters in the next step for training the model. 
@@ -43,8 +45,6 @@ If you select a book that is at least 12 chapters in length and has some text al
 When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new draft each time 10-12 new chapters are complete. When beginning work on poetic books, we recommend generating a new draft after about 30 chapters of Psalms or 15 chapters of Proverbs. Recommendations are not yet available for all books. 
 
 :::
-
-![](./generate_draft_select_books_to_draft.png)
 
 ### Select the books to train the language model
 
