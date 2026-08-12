@@ -34,7 +34,7 @@ On the second step, select the books you want translated. If the book you want t
 
 :::note
 
-If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the next step. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50
+**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50
 
 [new screenshot needed: selecting which chapters in a book to draft]
 
@@ -42,7 +42,7 @@ If you select a book that is at least 12 chapters in length and contains some te
 
 :::tip
 
-When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new draft each time 8-10 new chapters are complete. When beginning work on poetic books, it may be helpful to generate a new draft after each 30-50 chapters of Psalms or 15 chapters of Proverbs. Recommendations are not yet available for all books. 
+When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new draft each time 8-10 new chapters are complete. See [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). When beginning work on poetic books, it may be helpful to generate a new draft after each 30-50 chapters of Psalms or 15 chapters of Proverbs. Recommendations are not yet available for all books. 
 
 :::
 
