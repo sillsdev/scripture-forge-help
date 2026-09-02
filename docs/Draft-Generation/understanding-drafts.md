@@ -27,6 +27,12 @@ The most important point to remember is that these sentences need to say the sam
 
 Text that is available in both the language you are translating from, and the language you are translating to, is known as “parallel text”. In general, the more parallel text you have, the better the system will learn the language. For most projects, this parallel text will be your reference text, and the translation work you have already completed. At this time, we recommend that you have at least the New Testament translated.
 
+:::tip
+
+Because it works at the sentence level, the translation model limits the length of sentences to be drafted. This length is different for different languages because it depends on how the model breaks apart the words. Standard Bible verses should be safe to use, as well as occasional short verse ranges. However, long ranges in the draft source text combining multiple verses or long passages like a book introduction may be cut short and not translated in full. 
+
+:::
+
 ## Example use cases {#937c1db4b24d4e85bfc2acc489bf456b}
 
 ### A basic example {#9165ff8c10564a7fa67c3375f62de85e}
