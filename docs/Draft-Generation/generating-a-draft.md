@@ -28,15 +28,37 @@ If you use a separate Paratext project to store AI-generated drafts, double chec
 
 ### Select the books to draft
 
-On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time.
+On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time. For long books, consider generating a new draft after completing a significant portion of the book. 
 
 ![](./generate_draft_select_books_to_draft.png)
+
+:::note
+
+**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50.
+
+![](./generate_draft_select_chapters_to_draft.png)
+
+:::
+
+:::tip
+
+When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement. 
+
+:::
 
 ### Select the books to train the language model
 
 On the next step, select the books to use to train the language model, both in your main project, and in the reference projects. **Choose all the books in your project that have been adequately reviewed. While they don't need to be consultant-checked, they should be accurate translations of the source book.**
 
 ![](./generate_draft_select_books_to_train.png)
+
+:::note
+
+If you selected to draft only some chapters of a book in the previous step, you can choose to include all or part of the remaining chapters in training. Any chapters selected to draft will not be available for training. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50.
+
+![](./generate_draft_select_chapters_to_train.png)
+
+:::
 
 ### Confirm your selections
 
