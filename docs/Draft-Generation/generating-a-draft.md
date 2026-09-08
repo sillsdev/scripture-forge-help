@@ -34,7 +34,7 @@ On the second step, select the books you want translated. If the book you want t
 
 :::note
 
-**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50.
+<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_draft.png)
 
@@ -54,7 +54,7 @@ On the next step, select the books to use to train the language model, both in y
 
 :::note
 
-If you selected to draft only some chapters of a book in the previous step, you can choose to include all or part of the remaining chapters in training. Any chapters selected to draft will not be available for training. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50.
+<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">If you selected to draft only some chapters of a book in the previous step, you can choose to include all or part of the remaining chapters in training. Any chapters selected to draft will not be available for training. Separate chapters with commas and use a dash for chapter ranges, as follows: 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_train.png)
 
