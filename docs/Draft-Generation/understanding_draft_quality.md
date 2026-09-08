@@ -4,7 +4,7 @@ sidebar_position: 1
 slug: /understanding-draft-quality
 ---
 
-## Elements of Draft Quality {}
+## Elements of Draft Quality
 
 Only human translators can decide whether a draft serves a team’s needs. However, it is helpful to understand some factors that can influence the quality of a generated draft.
 
@@ -24,7 +24,7 @@ Only human translators can decide whether a draft serves a team’s needs. Howev
   - Agglutinative languages or those without word breaks may experience decreased draft quality.
   - A project that translates at the paragraph level, uses many long verse ranges, or includes significant explication not found in the source text may see decreased draft quality.
 
-## Improving Draft Quality {}
+## Improving Draft Quality {#92f8d5c800084e4eb113511f74e26927}
 
 Here are some ideas to improve draft quality. Not all of these will be possible or relevant for all projects.
 - Use as much translated Scripture text as possible for training the model. 
@@ -35,6 +35,6 @@ Here are some ideas to improve draft quality. Not all of these will be possible 
 - Continue with manual translation and test draft generation again when more translated Scripture is complete.
 - Use [Incremental Draft Generation]() when beginning a new genre, such as with Psalms. 
 
-## Draft Quality Warning {}
+## Draft Quality Warning {#9a12a839f3634e75acd511f4b426eb86}
 
 Scripture Forge uses automated scoring to estimate draft quality, and will present a warning to users if the estimated quality of a generated draft is very low. This may indicate that there is an error in the configuration that resulted in unsuccessful model training. Please see the FAQ for more information. Some drafts may be low quality even if they are not flagged by the warning, so it is important to check the quality of each draft carefully.
