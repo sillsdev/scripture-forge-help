@@ -73,3 +73,6 @@ slug: /faq
 
 	_When you make changes to your draft, Scripture Forge saves a version of those changes that you may access via the history tab. You may revert your project to an older version from here by clicking the "Restore this version" button._
 
+6. Why is my book introduction cut short?
+
+   _Scripture Forge uses the NLLB model to generate drafts. NLLB is a sentence model, and it is most accurate with short segments of text. To maximize accuracy, there is a limit of 200 tokens (word parts) per translated segment, and any text after that point is cut off. Scripture verses are translated one-by-one and very rarely exceed this limit. Paragraph-length book introductions that are longer than the allowed length will be cut off short, and only the first portion will be translated._
