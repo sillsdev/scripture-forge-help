@@ -29,7 +29,7 @@ Text that is available in both the language you are translating from, and the la
 
 :::tip
 
-Because it works at the sentence level, the translation model limits the length of sentences to be drafted. This length is different for different languages because the model handles the words differently. Single Bible verses will not be affected, and most short verse ranges are safe to use. However, long ranges in the source text combining multiple verses may be cut short and not drafted in full. Long passages like book introductions may also be affected.
+The translation model limits the length of sentences to be drafted because it works on individual sentences. The maximum sentence length is different for different languages. Single Bible verses and short ranges, such as 2 verses of average length, are rarely affected. However, long ranges in the source text combining multiple verses may be cut short and not drafted in full. Long passages like book introductions may also be affected.
 
 :::
 
