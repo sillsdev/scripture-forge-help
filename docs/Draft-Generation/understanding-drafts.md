@@ -25,7 +25,13 @@ The system learns by seeing the same sentence written in multiple languages, one
 
 The most important point to remember is that these sentences need to say the same thing in both languages. This is the same principle that allowed scholars to learn hieroglyphics from the Rosetta Stone: the same text was written in three different languages, allowing comparison between a language that was already understood and one that was not.
 
-Text that is available in both the language you are translating from, and the language you are translating to, is known as “parallel text”. In general, the more parallel text you have, the better the system will learn the language. For most projects, this parallel text will be your reference text, and the translation work you have already completed. At this time, we recommend that you have at least the New Testament translated.
+Text that is available in both the language you are translating from, and the language you are translating to, is known as “parallel text”. For most projects, this parallel text will be your reference text, and the translation work you have already completed. In general, the more parallel text you have, the better the system will learn the language. If you plan to use draft generation with fewer than 6000 completed verses, please review the [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). 
+
+:::tip
+
+The translation model limits the length of sentences to be drafted because it works on individual sentences. The maximum sentence length is different for different languages. Single Bible verses and short ranges, such as 2 verses of average length, are rarely affected. However, long ranges in the source text combining multiple verses may be cut short and not drafted in full. Long passages like book introductions may also be affected.
+
+:::
 
 ## Example use cases {#937c1db4b24d4e85bfc2acc489bf456b}
 
