@@ -25,7 +25,13 @@ Das System lernt, indem es denselben Satz in mehreren Sprachen sieht, eine in ei
 
 Der wichtigste Punkt ist, dass diese Sätze in beiden Sprachen das Gleiche aussagen müssen. Dies ist dasselbe Prinzip, das es den Gelehrten ermöglichte, die Hieroglyphen vom Stein von Rosette zu lernen: derselbe Text wurde in drei verschiedenen Sprachen geschrieben, was einen Vergleich zwischen einer bereits verstandenen und einer nicht verstandenen Sprache ermöglichte.
 
-Ein Text, der sowohl in der Sprache, aus der Du übersetzest, als auch in der Sprache, in die Du übersetzt, verfügbar ist, wird als "Paralleltext" bezeichnet. Im Allgemeinen gilt: Je mehr Paralleltexte Du hast, umso besser lernt das System die Sprache. Bei den meisten Projekten wird dieser Paralleltext Dein Referenztext sein und die Übersetzungsarbeit, die Du bereits abgeschlossen hast. Zum jetzigen Zeitpunkt empfehlen wir Dir, zumindest das Neue Testament übersetzt zu haben.
+Ein Text, der sowohl in der Sprache, aus der Du übersetzest, als auch in der Sprache, in die Du übersetzt, verfügbar ist, wird als "Paralleltext" bezeichnet. Bei den meisten Projekten wird dieser Paralleltext Dein Referenztext sein und die Übersetzungsarbeit, die Du bereits abgeschlossen hast. Im Allgemeinen gilt: Je mehr Paralleltexte Du hast, umso besser lernt das System die Sprache. Falls Du das Generieren von Entwürfen mit weniger als 6000 fertiggestellten Versen verwenden möchtest, lies bitte die [Richtlinien für das Generieren von Entwürfen für das Neue Testament](https://help.scriptureforge.org/new-testament-drafting).
+
+:::tip
+
+Das Übersetzungsmodell schränkt die Länge der zu entwerfenden Sätze ein, da es mit einzelnen Sätzen arbeitet. Die maximale Satzlänge unterscheidet sich je nach Sprache. Einzelne Bibelverse und kurze Textabschnitte, wie z.B. eine durchschnittliche Länge von zwei Versen, sind davon selten betroffen. Jedoch können lange Textabschnitte im Ausgangstext, die mehrere Verse enthalten, verkürzt und unvollständig entworfen werden. Längere Textabschnitte wie z.B. Einleitungen zu Büchern können ebenfalls davon betroffen sein.
+
+:::
 
 ## Anwendungsbeispiele {#937c1db4b24d4e85bfc2acc489bf456b}
 

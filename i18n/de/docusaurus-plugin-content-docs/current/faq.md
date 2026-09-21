@@ -73,3 +73,6 @@ slug: /faq
 
    _Falls Du Änderungen an Deinem Entwurf vornimmst, speichert Scripture Forge eine Version dieser Änderungen, auf die Du über die Registerkarte Verlauf zugreifen kannst. Du kannst Dein Projekt von hier auf eine ältere Version zurücksetzen, indem Du auf die Schaltfläche "Diese Version wiederherstellen" klickst._
 
+6. Warum ist meine Einleitung eines Buches verkürzt?
+
+   _Scripture Forge nutzt das NLLB-Modell für das Generieren von Entwürfen. NLLB ist ein Satzmodell, das bei kurzen Textabschnitten die höchste Genauigkeit aufweist. Um die Genauigkeit zu maximieren, gilt eine Obergrenze von 200 Teilen (Wortteilen) pro übersetztem Segment. Text, der darüber hinausgeht, wird abgeschnitten. Bibelverse werden einzeln übersetzt und überschreiten diese Grenze nur sehr selten. Einleitungen zu Büchern, die länger als die zulässige Länge sind, werden gekürzt, und nur der erste Teil wird übersetzt._

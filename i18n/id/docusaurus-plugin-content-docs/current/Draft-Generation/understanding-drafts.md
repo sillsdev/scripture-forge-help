@@ -25,7 +25,13 @@ Sistem belajar dengan melihat kalimat yang sama yang ditulis dalam berbagai baha
 
 Hal yang paling penting untuk diingat adalah bahwa kalimat-kalimat ini harus mengatakan hal yang sama dalam kedua bahasa. Ini adalah prinsip yang sama yang memungkinkan para ahli untuk mempelajari hieroglif dari Batu Rosetta: teks yang sama ditulis dalam tiga bahasa yang berbeda, sehingga memungkinkan perbandingan antara bahasa yang sudah dimengerti dan bahasa yang belum dimengerti.
 
-Teks yang tersedia dalam bahasa yang Anda terjemahkan, dan bahasa yang Anda terjemahkan, dikenal sebagai "teks paralel". Secara umum, semakin banyak teks paralel yang Anda miliki, semakin baik sistem akan mempelajari bahasa tersebut. Untuk sebagian besar proyek, teks paralel ini akan menjadi teks referensi Anda, dan pekerjaan penerjemahan yang telah Anda selesaikan. Pada saat ini, kami menyarankan agar Anda memiliki setidaknya Perjanjian Baru yang telah diterjemahkan.
+Teks yang tersedia dalam bahasa yang Anda terjemahkan, dan bahasa yang Anda terjemahkan, dikenal sebagai "teks paralel". Untuk sebagian besar proyek, teks paralel ini akan menjadi teks referensi Anda, dan pekerjaan penerjemahan yang telah Anda selesaikan. Secara umum, semakin banyak teks paralel yang Anda miliki, semakin baik sistem akan mempelajari bahasa tersebut. If you plan to use draft generation with fewer than 6000 completed verses, please review the [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting).
+
+:::tip
+
+The translation model limits the length of sentences to be drafted because it works on individual sentences. The maximum sentence length is different for different languages. Single Bible verses and short ranges, such as 2 verses of average length, are rarely affected. However, long ranges in the source text combining multiple verses may be cut short and not drafted in full. Long passages like book introductions may also be affected.
+
+:::
 
 ## Contoh kasus penggunaan {#937c1db4b24d4e85bfc2acc489bf456b}
 
