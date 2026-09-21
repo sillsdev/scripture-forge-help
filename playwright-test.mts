@@ -1,6 +1,7 @@
 #!/usr/bin/env -S deno run --allow-sys --allow-net --allow-env --allow-read --allow-write --allow-run
 
 import { chromium } from "npm:playwright";
+import { walk } from "jsr:@std/fs/walk";
 
 const locales = ["en", "id", "fr", "es", "pt-BR", "de"];
 
@@ -12,6 +13,114 @@ if (rootPage == null) {
 } else if (rootPage[rootPage.length - 1] === "/") {
   rootPage = rootPage.slice(0, -1);
 }
+
+// Color constants
+const GREEN = "\x1b[32m";
+const RED = "\x1b[31m";
+const RESET = "\x1b[0m";
+
+let failed = false;
+
+const projectRoot = import.meta.dirname!;
+
+// Docusaurus heading anchors, e.g. `## Heading {#custom-anchor}`. These must
+// be preserved verbatim in translations, since other docs and external links
+// may link directly to them.
+const anchorRegex = /\{#([\w-]+)\}/g;
+// Markdown image references, e.g. `![](./screenshot.png)`. The referenced
+// file should be the same across locales; translators shouldn't rename,
+// reorder, or drop images. Only the path is captured, since alt text is
+// translatable.
+const imageRegex = /!\[[^\]]*\]\((\.\/[^)]+)\)/g;
+
+function extractMatches(content: string, regex: RegExp): string[] {
+  return [...content.matchAll(regex)].map((match) => match[1]);
+}
+
+// Compare the ordered list of anchors/images found in the original doc
+// against the same list in a translation. Docs with none on either side are
+// fine (nothing to preserve); anything else must match exactly, in order.
+function compareSequences(
+  label: string,
+  original: string[],
+  translation: string[],
+  relativePath: string,
+  locale: string
+): boolean {
+  if (original.length === 0 && translation.length === 0) return true;
+
+  let ok = true;
+  if (original.length !== translation.length) {
+    console.log(
+      `${RED}${label} count mismatch in ${relativePath} for locale ${locale}: expected ${original.length}, found ${translation.length}${RESET}`
+    );
+    ok = false;
+  }
+
+  const shared = Math.min(original.length, translation.length);
+  for (let index = 0; index < shared; index++) {
+    if (original[index] !== translation[index]) {
+      console.log(
+        `${RED}${label} mismatch in ${relativePath} for locale ${locale} at position ${
+          index + 1
+        }${RESET}`
+      );
+      console.log(`  expected: ${original[index]}`);
+      console.log(`  actual:   ${translation[index]}`);
+      ok = false;
+    }
+  }
+  return ok;
+}
+
+// Check that anchors and images in the English docs are preserved in every
+// translation.
+async function checkAnchorsAndImages(): Promise<boolean> {
+  console.log("Checking anchors and images across locales");
+  let ok = true;
+  const docsDir = `${projectRoot}/docs`;
+
+  for await (const dirEntry of walk(docsDir)) {
+    if (!dirEntry.isFile || !/\.mdx?$/.test(dirEntry.name)) continue;
+    const relativePath = dirEntry.path.slice(docsDir.length + 1);
+    const original = await Deno.readTextFile(dirEntry.path);
+
+    for (const locale of locales) {
+      if (locale === "en") continue;
+
+      const translationPath = `${projectRoot}/i18n/${locale}/docusaurus-plugin-content-docs/current/${relativePath}`;
+      let translation: string;
+      try {
+        translation = await Deno.readTextFile(translationPath);
+      } catch {
+        // Missing translation files are a separate problem from mismatched
+        // anchors/images within a file that exists on both sides.
+        continue;
+      }
+
+      const anchorsOk = compareSequences(
+        "Anchor",
+        extractMatches(original, anchorRegex),
+        extractMatches(translation, anchorRegex),
+        relativePath,
+        locale
+      );
+      const imagesOk = compareSequences(
+        "Image",
+        extractMatches(original, imageRegex),
+        extractMatches(translation, imageRegex),
+        relativePath,
+        locale
+      );
+      if (!anchorsOk || !imagesOk) ok = false;
+    }
+  }
+
+  console.log(ok ? `${GREEN}All anchors and images match.${RESET}` : "");
+  return ok;
+}
+
+if (!(await checkAnchorsAndImages())) failed = true;
 
 // Setup
 const browser = await chromium.launch({ headless: false });
@@ -95,14 +204,8 @@ function areDifferent(a, b) {
   return Object.keys(diff(a, b)).length > 0;
 }
 
-let failed = false;
 const overallResults = {};
 const enResults = {};
-
-// Color constants
-const GREEN = "\x1b[32m";
-const RED = "\x1b[31m";
-const RESET = "\x1b[0m";
 
 for (const locale of locales) {
   const longestTitleWidth = Math.max(
