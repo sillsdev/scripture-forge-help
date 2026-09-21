@@ -73,3 +73,6 @@ slug: /faq
 
    _Lorsque vous apportez des modifications à votre brouillon, Scripture Forge enregistre une version de ces modifications auxquelles vous pouvez accéder via l'onglet Historique. Vous pouvez revenir à une ancienne version de votre projet ici en cliquant sur le bouton « Restaurer cette version »._
 
+6. Pourquoi l'introduction de mon livre a-t-elle été raccourcie ?
+
+   _Scripture Forge utilise le modèle NLLB pour générer des ébauches. Le NLLB est un modèle de phrase, et il est plus précis avec de courts segments de texte. Pour maximiser la précision, il y a une limite de 200 jetons (parties de mots) par segment traduit, et tout texte après ce point est coupé. Les versets bibliques sont traduits un par un et très rarement au-delà de cette limite. Les introductions de livres, dont la longueur dépasse la limite autorisée, seront tronquées et seule la première partie sera traduite._

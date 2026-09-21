@@ -73,3 +73,6 @@ slug: /faq
 
    _Cuando realizas cambios en tu borrador, Scripture Forge guarda una versión de esos cambios a la que puedes acceder a través de la pestaña de historial. Puedes revertir tu proyecto a una versión anterior desde aquí haciendo clic en el botón "Restaurar esta versión"._
 
+6. ¿Por qué se ha acortado la introducción de mi libro?
+
+   _Scripture Forge utiliza el modelo NLLB para generar borradores. El NLLB es un modelo de frases, y su precisión es mayor con segmentos cortos de texto. Para garantizar la máxima precisión, hay un límite de 200 tokens (partes de palabra) por segmento traducido, y cualquier texto que supere ese límite se omite. Los versículos de las Escrituras se traducen uno por uno y rara vez superan este límite. Las introducciones de los libros que superen la extensión permitida se recortarán y solo se traducirá la primera parte._

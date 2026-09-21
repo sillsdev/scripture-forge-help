@@ -25,7 +25,13 @@ El sistema aprende viendo la misma frase escrita en varias lenguas, una en una l
 
 El punto más importante para recordar es que estas frases tienen que decir lo mismo en ambas lenguas. Es el mismo principio que permitió a los eruditos aprender jeroglíficos a partir de la Piedra de Rosetta: el mismo texto estaba escrito en tres lenguas distintas, lo que permitía comparar una lengua que ya se entendía con otra que no.
 
-Los textos disponibles tanto en la lengua de la que se traduce como en la lengua a la que se traduce se denominan "textos paralelos". En general, cuantos más textos paralelos tenga, mejor aprenderá la lengua el sistema. En la mayoría de los proyectos, este texto paralelo será su texto de referencia y el trabajo de traducción que ya haya realizado. En este momento, le recomendamos que tenga al menos el Nuevo Testamento traducido.
+Los textos disponibles tanto en la lengua de la que se traduce como en la lengua a la que se traduce se denominan "textos paralelos". En la mayoría de los proyectos, este texto paralelo será su texto de referencia y el trabajo de traducción que ya haya realizado. En general, cuantos más textos paralelos tenga, mejor aprenderá la lengua el sistema. Si planeas utilizar la generación de borradores con menos de 6000 versículos completados, consulta las [Pautas para la generación de borradores del Nuevo Testamento](https://help.scriptureforge.org/new-testament-drafting).
+
+:::tip
+
+El modelo de traducción limita la longitud de las frases que se pueden redactar, ya que trabaja con frases individuales. La longitud máxima de una frase varía según el idioma. Los versículos bíblicos individuales y los fragmentos cortos, como dos versículos de longitud promedio, pocas veces se afectan. Sin embargo, es posible que los pasajes largos del texto original que combinan varios versículos se acorten y no se traduzcan en su totalidad. Esto podría afectar a pasajes largos, como las introducciones de los libros.
+
+:::
 
 ## Ejemplos de casos de uso {#937c1db4b24d4e85bfc2acc489bf456b}
 

@@ -25,7 +25,13 @@ Le système apprend en voyant la même phrase écrite en plusieurs langues, une 
 
 Le point le plus important à retenir est que ces phrases doivent dire la même chose dans les deux langues. C'est le même principe qui a permis aux érudits d'apprendre l'hiéroglyphe à partir de la pierre Rosetta : le même texte a été écrit en trois langues différentes, permettant la comparaison entre un langage qui était déjà compris et un langage qui ne l'était pas.
 
-Le texte qui est disponible dans la langue à partir de laquelle vous traduisez et dans laquelle vous traduisez est connu sous le nom de « texte parallèle ». En général, plus vous avez de texte parallèle, plus le système apprendra la langue. Pour la plupart des projets, ce texte parallèle sera votre texte de référence et le travail de traduction que vous avez déjà terminé. Pour l'instant, nous vous recommandons d'avoir au moins le Nouveau Testament traduit.
+Le texte qui est disponible dans la langue à partir de laquelle vous traduisez et dans laquelle vous traduisez est connu sous le nom de « texte parallèle ». Pour la plupart des projets, ce texte parallèle sera votre texte de référence et le travail de traduction que vous avez déjà terminé. En général, plus vous avez de texte parallèle, plus le système apprendra la langue. Si vous prévoyez d'utiliser la génération d'ébauche avec moins de 6000 versets terminés, veuillez consulter les [Lignes directrices pour la génération d'une ébauche de Nouveau Testament](https://help.scriptureforge.org/new-testament-drafting).
+
+:::tip
+
+Le modèle de traduction limite la longueur des phrases à rédiger car il fonctionne sur des phrases individuelles. La longueur maximale de la phrase est différente pour différentes langues. Les versets de la Bible unique et les plages courtes, telles que 2 versets de longueur moyenne, sont rarement affectés. Toutefois, les longs passages du texte source regroupant plusieurs versets peuvent être raccourcis et ne pas être reproduits dans leur intégralité. De longs passages comme les introductions de livres peuvent également être affectés.
+
+:::
 
 ## Exemple de cas d'utilisation {#937c1db4b24d4e85bfc2acc489bf456b}
 
