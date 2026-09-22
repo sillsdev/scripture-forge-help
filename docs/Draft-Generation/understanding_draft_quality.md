@@ -1,10 +1,10 @@
 ---
-title: Understanding Draft Quality
+title: Improving Draft Quality
 sidebar_position: 1
-slug: /understanding-draft-quality
+slug: /improving-draft-quality
 ---
 
-## Elements of Draft Quality
+## Factors that Affect Draft Quality
 
 Only human translators can decide whether a draft serves a team’s needs. However, it is helpful to understand some factors that can influence the quality of a generated draft.
 
@@ -28,7 +28,7 @@ Only human translators can decide whether a draft serves a team’s needs. Howev
 
 Here are some ideas to improve draft quality. Not all of these will be possible or relevant for all projects.
 - Use as much translated Scripture text as possible for training the model. 
-- Consider adding parallel linguistic data in the source and target languages.
+- Consider uploading a file with additional paired sentences in the source and target languages. This can be done from the "Configure sources" page.
 - Test different reference texts, including higher-resource or more closely-related source languages.
 - Include a back translation in the source language as a second reference text.
 - Correct any frequent spelling, keyboarding, or vocabulary inconsistencies in the translation.
