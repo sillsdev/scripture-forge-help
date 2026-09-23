@@ -26,7 +26,7 @@ If you use a separate Paratext project to store AI-generated drafts, double chec
 
 ![](./generate_draft_confirm_sources.png)
 
-### Select the books to draft
+### Select the books to draft {#select-the-books-to-draft}
 
 On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time. For long books, consider generating a new draft after completing a significant portion of the book. 
 
