@@ -16,7 +16,7 @@ Only human translators can decide whether a draft serves a team’s needs. Howev
   - A closer linguistic relationship and typological match often results in better draft quality. 
 #### Relationship between the source text and target texts
   - When the translation closely follows the words of the reference text, this can make model training more successful and improve draft quality. 
-  - Because back translations closely follows the text, including a back translation in the source language as a second reference text may improve quality.
+  - Because a back translation closely follows the text, including a back translation in the source language as a second reference text may improve quality.
   - A project which includes a lot of explication not found in the source text may have decreased quality.
 #### Representation of the source language in the language model
   - Using a high-resource source language (a major modern language with plentiful examples in the underlying language model) can improve draft quality.
