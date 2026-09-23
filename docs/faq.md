@@ -101,9 +101,9 @@ slug: /faq
 
 2. Why do I still see a low draft quality warning after completing all the checks?
 
-   _Remember that the warning is based on an estimate of draft quality and may not reflect human judgment. Please review the draft carefully to determine whether it is useful in your translation work. The help text about [Improving Draft Quality](./Draft-Generation/improving_draft_quality.md) may be helpful._
+   _Remember that the warning is based on an estimate of draft quality and may not reflect human judgment. Please review the draft carefully to determine whether it is useful in your translation work. The help text about [Improving Draft Quality](/improving-draft-quality) may be helpful._
 
-   _If draft quality is still low after completing the recommended checks, you may need to translate more text before generating a draft. Early in a translation project, the choice of which book to draft next is important. For example, a model trained on the book of Luke is better prepared to draft Mark than to draft Romans. If you are working in the New Testament, please review the [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting) to learn about how book sequence can affect draft quality._
+   _If draft quality is still low after completing the recommended checks, you may need to translate more text before generating a draft. Early in a translation project, the choice of which book to draft next is important. For example, a model trained on the book of Luke is better prepared to draft Mark than to draft Romans. If you are working in the New Testament, please review the [Guidelines for New Testament Draft Generation](/new-testament-drafting) to learn about how book sequence can affect draft quality._
 
    _Please reach out to our team at [help@scriptureforge.org](mailto:help@scriptureforge.org) for questions or help with improving draft quality._
 

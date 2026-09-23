@@ -34,7 +34,7 @@ Here are some ideas to improve draft quality. Not all of these will be possible 
 - Include a back translation in the source language as a second reference text.
 - Correct any frequent spelling, keyboarding, or vocabulary inconsistencies in the translation.
 - Continue with manual translation and test draft generation again when more translated Scripture is complete.
-- See the note about [Incremental Draft Generation](https://help.scriptureforge.org/generating-a-draft#select-the-books-to-draft) and consider using this method for long books or when beginning a new genre. 
+- See the note about [Incremental Draft Generation](/generating-a-draft#select-the-books-to-draft) and consider using this method for long books or when beginning a new genre. 
 
 ## Draft Quality Warning {#9a12a839f3634e75acd511f4b426eb86}
 
