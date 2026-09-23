@@ -107,6 +107,6 @@ slug: /faq
 
    _Please reach out to our team at [help@scriptureforge.org](mailto:help@scriptureforge.org) for questions or help with improving draft quality._
 
-4. What should I do if only some of the books I generated have a low draft quality warning?
+3. What should I do if only some of the books I generated have a low draft quality warning?
 
    _A warning on any draft is a good reason to consider the checklist above. However, it may also be the case that your training data was a better fit for drafting some books than others. It is important to review each book draft carefully, especially those with a low quality warning, before deciding whether to use it in your translation process._
