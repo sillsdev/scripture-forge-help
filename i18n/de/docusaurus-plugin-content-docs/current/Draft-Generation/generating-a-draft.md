@@ -28,13 +28,13 @@ Falls Du ein separates Paratext-Projekt benutzt, um KI-generierte Entwürfe abzu
 
 ### Bücher für den Entwurf auswählen {#select-the-books-to-draft}
 
-Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Falls das Buch, für das Du den Entwurf generieren möchtest, nicht in Deinem Paratext-Projekt vorhanden ist, musst Du das Buch vorgängig in Paratext erstellen. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren. For long books, consider generating a new draft after completing a significant portion of the book.
+Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Falls das Buch, für das Du den Entwurf generieren möchtest, nicht in Deinem Paratext-Projekt vorhanden ist, musst Du das Buch vorgängig in Paratext erstellen. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren. Bei langen Büchern solltest Du einen neuen Entwurf generieren, nachdem ein wesentlicher Teil des Buches fertiggestellt wurde.
 
 ![](./generate_draft_select_books_to_draft.png)
 
 :::note
 
-<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, for example: 1-10,25,40-50.</span>
+<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Schrittweise Generieren eines Entwurfs:** Falls Du ein Buch auswählst, das mindestens 12 Kapitel umfasst und bereits Text enthält, wird Dir die Option angezeigt, auszuwählen, für welche Kapitel Du einen Entwurf generieren möchtest. Falls Du Dich dafür entscheidest, nur einige Kapitel als Entwurf zu generieren, kannst Du im nächsten Schritt einige oder alle der verbleibenden Kapitel für die Schulung des Modells auswählen. Unterteile Kapitel durch Kommas und verwende einen Bindestrich für mehrere Kapitel, zum Beispiel: 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_draft.png)
 
@@ -42,7 +42,7 @@ Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Fal
 
 :::tip
 
-When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
+Wenn Du das Generieren von Entwürfen bereits in einer frühen Phase des Projekts einsetzest, empfehlen wir, mit den Evangelien und der Apostelgeschichte zu beginnen und jedes Mal, wenn 8 bis 10 weitere Kapitel fertiggestellt sind, einen neuen, schrittweisen Entwurf zu generieren. Siehe [Leitfaden für das Generieren von Entwürfen das Neuen Testaments](/new-testament-drafting). Spezifische Empfehlungen für das schrittweise Generieren von Entwürfen von Büchern des Alten Testaments sind derzeit nicht verfügbar. Wir empfehlen, nach der Übersetzung jeweils eines Drittels eines langen Buches einen neuen Entwurf zu generieren, um zu prüfen, ob noch Verbesserungen möglich sind.
 
 :::
 
@@ -54,7 +54,7 @@ Im nächsten Schritt wählst Du die Bücher aus, die zur Schulung des Sprachmode
 
 :::note
 
-<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">If you selected to draft only some chapters of a book in the previous step, you can choose to include all or part of the remaining chapters in training. Any chapters selected to draft will not be available for training. Separate chapters with commas and use a dash for chapter ranges, for example: 1-10,25,40-50.</span>
+<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">Falls Du im vorherigen Schritt ausgewählt hast, einen Entwurf von nur enzelner Kapitel eines Buches zu generieren, kannst Du entscheiden, ob Du die verbleibenden Kapitel ganz oder teilweise in die Schulung einbeziehen möchtest. Alle Kapitel, die für den Entwurf ausgewählt wurden, stehen nicht für Schulungszwecke zur Verfügung. Unterteile Kapitel durch Kommas und verwende einen Bindestrich für mehrere Kapitel, zum Beispiel: 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_train.png)
 
