@@ -26,7 +26,7 @@ If you use a separate Paratext project to store AI-generated drafts, double chec
 
 ![](./generate_draft_confirm_sources.png)
 
-### Select the books to draft
+### Select the books to draft {#select-the-books-to-draft}
 
 On the second step, select the books you want translated. If the book you want to draft does not exist in your Paratext project, you will need to create the book in Paratext first. In general we suggest drafting one book at a time, though if you are drafting smaller books, you may want to draft several at a time. For long books, consider generating a new draft after completing a significant portion of the book.
 
@@ -42,7 +42,7 @@ On the second step, select the books you want translated. If the book you want t
 
 :::tip
 
-When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
+When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
 
 :::
 

@@ -26,7 +26,7 @@ Falls Du ein separates Paratext-Projekt benutzt, um KI-generierte Entwürfe abzu
 
 ![](./generate_draft_confirm_sources.png)
 
-### Bücher für den Entwurf auswählen
+### Bücher für den Entwurf auswählen {#select-the-books-to-draft}
 
 Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Falls das Buch, für das Du den Entwurf generieren möchtest, nicht in Deinem Paratext-Projekt vorhanden ist, musst Du das Buch vorgängig in Paratext erstellen. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren. For long books, consider generating a new draft after completing a significant portion of the book.
 
@@ -42,7 +42,7 @@ Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Fal
 
 :::tip
 
-When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
+When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
 
 :::
 
