@@ -123,7 +123,10 @@ async function checkAnchorsAndImages(): Promise<boolean> {
 if (!(await checkAnchorsAndImages())) failed = true;
 
 // Setup
-const browser = await chromium.launch({ headless: false });
+// Show the browser locally, but run headless in CI where there is no display.
+const browser = await chromium.launch({
+  headless: Deno.env.get("CI") === "true",
+});
 const context = await browser.newContext();
 const page = await context.newPage();
 
