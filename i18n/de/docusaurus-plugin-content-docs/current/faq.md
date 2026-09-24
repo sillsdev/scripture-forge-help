@@ -77,19 +77,19 @@ slug: /faq
 
    _Scripture Forge nutzt das NLLB-Modell für das Generieren von Entwürfen. NLLB ist ein Satzmodell, das bei kurzen Textabschnitten die höchste Genauigkeit aufweist. Um die Genauigkeit zu maximieren, gilt eine Obergrenze von 200 Teilen (Wortteilen) pro übersetztem Segment. Text, der darüber hinausgeht, wird abgeschnitten. Bibelverse werden einzeln übersetzt und überschreiten diese Grenze nur sehr selten. Einleitungen zu Büchern, die länger als die zulässige Länge sind, werden gekürzt, und nur der erste Teil wird übersetzt._
 
-## Questions on draft quality warnings {#f47ac10b58cc4372a5670e02b2c3d479}
+## Fragen zu Qualitätswarnungen für Entwürfe {#f47ac10b58cc4372a5670e02b2c3d479}
 
-1. Why do I see a warning that my draft may have lower than normal quality? What should I do if I see this warning?
+1. Warum sehe ich eine Warnung, dass mein Entwurf möglicherweise eine geringere Qualität als üblich aufweist? Was soll ich tun, falls ich diese Warnung sehe?
 
-   _Scripture Forge uses automated metrics to determine whether model training was successful enough to prepare a draft of the requested books. Sometimes these metrics indicate that draft quality may be poor._
+   _Scripture Forge nutzt automatisierte Kriterien, um festzustellen, ob die Schulung des Modells erfolgreich genug war, um einen Entwurf der angeforderten Bücher zu erstellen. Manchmal deuten diese Kriterien darauf hin, dass die Qualität des Entwurfs möglicherweise mangelhaft ist._
 
-   _The most common reason for this warning is that there is not enough example text of the kind needed to train the model. Usually, this situation results from an error in setting up the draft request. Use the following checklist as a guide to check your draft generation configuration._
+   _Der häufigste Grund für diese Warnung ist, dass nicht genügend Beispieltext der für die Schulung des Modells erforderlichen Art vorliegt. In der Regel resultiert diese Situation aus einem Fehler bei der Einrichtung des Auftrags für den Entwurf. Verwende die folgende Checkliste als Leitfaden, um Deine Einstellungen für das Generieren von Entwürfen zu überprüfen._
 
-   - _Project: Are you generating the draft from a project that includes all completed books in the project?_
-     - _It is important not to request drafts from a project used to store AI drafts._
-     - _If some translated books, such as the New Testament, are stored in a separate Paratext project, you may need to create a new project and import all translated books to that project. You can use that project for draft generation._
-   - _Language codes: Does the language code for each reference and source project match the text of that project?_
-     - _You can update language codes in Paratext under “Project properties.”_
+   - _Projekt: Generierst Du den Entwurf aus einem Projekt, das alle abgeschlossenen Bücher im Projekt enthält?_
+     - _Es ist wichtig, keine Entwürfe aus einem Projekt anzufordern, das zur Speicherung von KI-Entwürfen dient._
+     - _Falls einige übersetzte Bücher, wie beispielsweise das Neue Testament, in einem separaten Paratext-Projekt gespeichert sind, musst Du möglicherweise ein neues Projekt erstellen und alle übersetzten Bücher in dieses Projekt importieren. Du kannst dieses Projekt für das Generieren von Entwürfen verwenden._
+   - _Sprachcodes: Stimmt der Sprachcode für jede Referenz- und jedes Ausgangsprojekt mit dem Text des jeweiligen Projekts überein?_
+     - _Du kannst Sprachcodes in Paratext unter „Projekteigenschaften“ aktualisieren._
    - _Draft Books: Are the book or books to draft selected in Step 2, “Select books to draft”?_
    - _Training Books: Are all the completed and checked books in the project selected in Step 3, “Select books to train on”?_
      - _Be sure all the books used for training have been checked by the team. They should be generally consistent in spelling, character use (keyboarding), dialect, and vocabulary._

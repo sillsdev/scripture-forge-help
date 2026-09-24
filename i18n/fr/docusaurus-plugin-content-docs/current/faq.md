@@ -102,9 +102,9 @@ slug: /faq
 
 2. Pourquoi est-ce que je vois toujours un avertissement de faible qualité après avoir terminé tous les contrôles?
 
-   _Rappelez-vous que l'avertissement est basé sur une estimation de la qualité d'ébauches et peut ne pas refléter le jugement humain. Veuillez examiner attentivement l'ébauche pour déterminer si elle est utile dans votre travail de traduction. Le texte d'aide sur [Améliorer la qualité d'une ébauche] (/improving-draft-quality) peut être utile._
+   _Rappelez-vous que l'avertissement est basé sur une estimation de la qualité d'ébauches et peut ne pas refléter le jugement humain. Veuillez examiner attentivement l'ébauche pour déterminer si elle est utile dans votre travail de traduction. Le texte d'aide sur [Améliorer la qualité d'une ébauche](/improving-draft-quality) peut être utile._
 
-   _Si la qualité du brouillon est toujours faible après avoir terminé les vérifications recommandées, vous devrez peut-être traduire plus de texte avant de générer une ébauche. Au début d'un projet de traduction, le choix du livre à ébaucher est important. Par exemple, un modèle entraîné sur l'Évangile selon Luc est mieux à même de rédiger l'Évangile selon Marc que la Lettre aux Romains. Si vous travaillez dans le Nouveau Testament, veuillez consulter les [Lignes directrices pour la génération d'un nouvelle ébauche de Testament] (/new-testament-drafting) pour savoir comment la séquence de livres peut affecter la qualité d'ébauche._
+   _Si la qualité du brouillon est toujours faible après avoir terminé les vérifications recommandées, vous devrez peut-être traduire plus de texte avant de générer une ébauche. Au début d'un projet de traduction, le choix du livre à ébaucher est important. Par exemple, un modèle entraîné sur l'Évangile selon Luc est mieux à même de rédiger l'Évangile selon Marc que la Lettre aux Romains. Si vous travaillez dans le Nouveau Testament, veuillez consulter les [Lignes directrices pour la génération d'un nouvelle ébauche de Testament](/new-testament-drafting) pour savoir comment la séquence de livres peut affecter la qualité d'ébauche._
 
    _Veuillez contacter notre équipe à [help@scriptureforge.org](mailto:help@scriptureforge.org) pour toute question ou aide à améliorer la qualité des ébauches._
 
