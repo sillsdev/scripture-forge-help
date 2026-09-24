@@ -25,7 +25,7 @@ Le système apprend en voyant la même phrase écrite en plusieurs langues, une 
 
 Le point le plus important à retenir est que ces phrases doivent dire la même chose dans les deux langues. C'est le même principe qui a permis aux érudits d'apprendre l'hiéroglyphe à partir de la pierre Rosetta : le même texte a été écrit en trois langues différentes, permettant la comparaison entre un langage qui était déjà compris et un langage qui ne l'était pas.
 
-Le texte qui est disponible dans la langue à partir de laquelle vous traduisez et dans laquelle vous traduisez est connu sous le nom de « texte parallèle ». Pour la plupart des projets, ce texte parallèle sera votre texte de référence et le travail de traduction que vous avez déjà terminé. En général, plus vous avez de texte parallèle, plus le système apprendra la langue. Si vous prévoyez d'utiliser la génération d'ébauche avec moins de 6000 versets terminés, veuillez consulter les [Lignes directrices pour la génération d'une ébauche de Nouveau Testament](https://help.scriptureforge.org/new-testament-drafting).
+Le texte qui est disponible dans la langue à partir de laquelle vous traduisez et dans laquelle vous traduisez est connu sous le nom de « texte parallèle ». Pour la plupart des projets, ce texte parallèle sera votre texte de référence et le travail de traduction que vous avez déjà terminé. En général, plus vous avez de texte parallèle, plus le système apprendra la langue. Si vous prévoyez d'utiliser la génération d'ébauche avec moins de 6000 versets terminés, veuillez consulter les [Recommandations pour la génération d'une ébauche de Nouveau Testament] (https://help.scriptureforge.org/new-testament-drafting).
 
 :::tip
 
@@ -74,7 +74,7 @@ La génération de l'ébauche de retraduction est actuellement ouverte et dispon
 Peu importe si vous générez des ébauches de retraduction ou des ébauches vernaculaires, vous pouvez commencer par connecter votre projet Paratext à Scripture Forge en suivant ces étapes :
 
 1. Connectez-vous à [Scripture Forge](https://scriptureforge.org/), en utilisant vos identifiants Paratext.
-2. Connectez votre projet Paratext en suivant le [Guide du projet Paratext](https://help.scriptureforge.org/connect-paratext-project). Lorsque vous connectez le projet, sélectionnez votre texte de référence comme source. Pour une retraduction, le texte source doit être la langue vernaculaire.
+2. Connectez votre projet Paratext en suivant le [Guide du projet Paratext] (https://help.scriptureforge.org/connect-paratext-project). Lorsque vous connectez le projet, sélectionnez votre texte de référence comme source. Pour une retraduction, le texte source doit être la langue vernaculaire.
 3. Après avoir connecté votre projet, cliquez sur "Générer un e ébauche" dans la barre latérale.
 4. Si vous produisez un projet en langue vernaculaire, vous ne pourrez pas aller plus loin par vous-même et vous devrez remplir le formulaire d'inscription à la rédaction de traduction en cliquant sur "S'inscrire à la rédaction". Si votre projet a déjà été intégré, ou si vous travaillez avec une retraduction, cliquez sur "Générer une ébauche" pour lancer le processus.
 5. Sélectionnez les livres que vous souhaitez traduire, puis les livres que vous souhaitez utiliser comme données d'entraînement.

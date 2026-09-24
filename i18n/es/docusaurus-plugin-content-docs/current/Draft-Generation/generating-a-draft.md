@@ -26,15 +26,15 @@ Si utilizas un proyecto Paratext independiente para almacenar los borradores gen
 
 ![](./generate_draft_confirm_sources.png)
 
-### Seleccione los libros para redactar
+### Seleccione los libros para redactar {#select-the-books-to-draft}
 
-En el segundo paso, seleccione los libros que desea traducir. Si el libro que desea redactar no existe en su proyecto Paratext, tendrá que crear primero el libro en Paratext. En general, le sugerimos que redacte un libro a la vez, aunque si está redactando libros más pequeños, puede que le convenga redactar varios a la vez. For long books, consider generating a new draft after completing a significant portion of the book.
+En el segundo paso, seleccione los libros que desea traducir. Si el libro que desea redactar no existe en su proyecto Paratext, tendrá que crear primero el libro en Paratext. En general, le sugerimos que redacte un libro a la vez, aunque si está redactando libros más pequeños, puede que le convenga redactar varios a la vez. En el caso de los libros largos, considera la posibilidad de crear un nuevo borrador después de haber completado una parte considerable del libro.
 
 ![](./generate_draft_select_books_to_draft.png)
 
 :::note
 
-<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, for example: 1-10,25,40-50.</span>
+<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Generación incremental de borradores:** Si seleccionas un libro que tenga al menos 12 capítulos y ya contenga algo de texto, verás la opción de seleccionar los capítulos de los que quieres crear un borrador. Si eliges utilizar solo algunos capítulos como borrador, podrás seleccionar algunos o todos los capítulos restantes para entrenar el modelo en el siguiente paso. Separa los capítulos con comas y utiliza un guion para indicar rangos de capítulos, por ejemplo: 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_draft.png)
 
@@ -42,7 +42,7 @@ En el segundo paso, seleccione los libros que desea traducir. Si el libro que de
 
 :::tip
 
-When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
+Cuando usas proyectos de generación temprano en la vida de un proyecto, recomendamos comenzar con los Evangelios y Actos, y generando un nuevo borrador incremental cada vez que se completan 8-10 capítulos más. Consulta las [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). Por el momento no se dispone de recomendaciones específicas sobre la redacción gradual de los libros del Antiguo Testamento. Recomendamos generar un nuevo borrador después de traducir cada tercio de un libro extenso para ver si se pueden hacer posibles mejoras.
 
 :::
 
@@ -54,7 +54,7 @@ En el siguiente paso, seleccione los libros a utilizar para formar el modelo de 
 
 :::note
 
-<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">If you selected to draft only some chapters of a book in the previous step, you can choose to include all or part of the remaining chapters in training. Any chapters selected to draft will not be available for training. Separate chapters with commas and use a dash for chapter ranges, for example: 1-10,25,40-50.</span>
+<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">Si en el paso anterior has elegido redactar solo algunos capítulos de un libro, puedes optar por incluir todos los capítulos restantes o solo una parte de ellos en el entrenamiento. Los capítulos seleccionados para la redacción no estarán disponibles para el entrenamiento. Separa los capítulos con comas y utiliza un guion para indicar rangos de capítulos, por ejemplo: 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_train.png)
 

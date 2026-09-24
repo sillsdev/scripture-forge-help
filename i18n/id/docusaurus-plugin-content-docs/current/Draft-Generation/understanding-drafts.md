@@ -25,7 +25,7 @@ Sistem belajar dengan melihat kalimat yang sama yang ditulis dalam berbagai baha
 
 Hal yang paling penting untuk diingat adalah bahwa kalimat-kalimat ini harus mengatakan hal yang sama dalam kedua bahasa. Ini adalah prinsip yang sama yang memungkinkan para ahli untuk mempelajari hieroglif dari Batu Rosetta: teks yang sama ditulis dalam tiga bahasa yang berbeda, sehingga memungkinkan perbandingan antara bahasa yang sudah dimengerti dan bahasa yang belum dimengerti.
 
-Teks yang tersedia dalam bahasa yang Anda terjemahkan, dan bahasa yang Anda terjemahkan, dikenal sebagai "teks paralel". Untuk sebagian besar proyek, teks paralel ini akan menjadi teks referensi Anda, dan pekerjaan penerjemahan yang telah Anda selesaikan. Secara umum, semakin banyak teks paralel yang Anda miliki, semakin baik sistem akan mempelajari bahasa tersebut. If you plan to use draft generation with fewer than 6000 completed verses, please review the [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting).
+Teks yang tersedia dalam bahasa yang Anda terjemahkan, dan bahasa yang Anda terjemahkan, dikenal sebagai "teks paralel". Untuk sebagian besar proyek, teks paralel ini akan menjadi teks referensi Anda, dan pekerjaan penerjemahan yang telah Anda selesaikan. Secara umum, semakin banyak teks paralel yang Anda miliki, semakin baik sistem akan mempelajari bahasa tersebut. If you plan to use draft generation with fewer than 6000 completed verses, please review the [Guidelines for New Testament Draft Generation](/new-testament-drafting).
 
 :::tip
 

@@ -76,3 +76,38 @@ slug: /faq
 6. Pourquoi l'introduction de mon livre a-t-elle été raccourcie ?
 
    _Scripture Forge utilise le modèle NLLB pour générer des ébauches. Le NLLB est un modèle de phrase, et il est plus précis avec de courts segments de texte. Pour maximiser la précision, il y a une limite de 200 jetons (parties de mots) par segment traduit, et tout texte après ce point est coupé. Les versets bibliques sont traduits un par un et très rarement au-delà de cette limite. Les introductions de livres, dont la longueur dépasse la limite autorisée, seront tronquées et seule la première partie sera traduite._
+
+## Questions sur les ébauches d'avertissements de qualité {#f47ac10b58cc4372a5670e02b2c3d479}
+
+1. Pourquoi est-ce que je vois un avertissement indiquant que mon ébauche peut avoir une qualité inférieure à la normale ? Que dois-je faire si je vois cet avertissement ?
+
+   _Scripture Forge utilise des métriques automatisées pour déterminer si la formation du modèle a été suffisamment réussie pour préparer une ébauche des livres demandés. Parfois, ces paramètres indiquent que la qualité d'une ébauche peut être médiocre._
+
+   _La raison la plus commune de cet avertissement est qu'il n'y a pas assez de texte d'exemple du genre nécessaire pour former le modèle. Habituellement, cette situation résulte d'une erreur dans la requête de la configuration d'une ébauche. Utilisez la liste de contrôle suivante comme guide pour vérifier votre configuration de génération d'ébauches._
+
+   - _Projet: Générez-vous l'ébauche à partir d'un projet qui inclut tous les livres terminés dans le projet?_
+     - _Il est important de ne pas demander d'ébauches à partir d'un projet utilisé pour stocker les ébauches d'AI._
+     - _Si certains livres traduits, comme le Nouveau Testament, sont stockés dans un projet Paratext séparé, vous devrez peut-être créer un nouveau projet et importer tous les livres traduits dans ce projet. Vous pouvez utiliser ce projet pour générer des ébauches._
+   - _Codes de langue : le code de langue associé à chaque référence et à chaque projet source correspond-il au texte de ce projet ?_
+     - _Vous pouvez mettre à jour les codes de langue dans Paratext sous « Propriétés du projet »_
+   - _Ébauches de Livres :  Le livre ou les livres à ébaucher sont-ils sélectionnés à l'étape 2, "Sélectionnez les livres à traiter" ?_
+   - _Livres de formation : Tous les livres complétés et vérifiés dans le projet sont-ils sélectionnés à l'étape 3, "Sélectionnez les livres à former"?_
+     - _Assurez-vous que tous les livres utilisés pour la formation ont été vérifiés par l'équipe. Ils devraient être généralement cohérents dans l'orthographe, l'utilisation des caractères (clavier), le dialecte et le vocabulaire._
+     - _Assurez-vous que le texte de référence contient tous les livres utilisés pour la formation et qu'ils sont sélectionnés au bas de l'étape 3._
+   - _Back Translations: Utilisez-vous une retraduction comme projet de référence? Si c'est le cas, vérifiez ces choses:_
+     - _Assurez-vous que le code de langue de la retraduction corresponde bien à la langue de la retraduction et non à celle du projet de traduction principal._
+     - _Si certains livres du projet de retraduction sont dans une langue différente de celle du reste de la retraduction, désélectionnez-les dans la zone de retraduction située au bas de l'étape 3._
+   - _Données supplémentaires : Est-ce que le format est correct ?_
+     - _Si vous avez importé des données supplémentaires pour l'entraînement du modèle sur la page « Configurer les sources », assurez-vous que chaque ligne de ce fichier contient des phrases ayant la même signification, la langue source à gauche et la langue cible à droite._
+
+2. Pourquoi est-ce que je vois toujours un avertissement de faible qualité après avoir terminé tous les contrôles?
+
+   _Rappelez-vous que l'avertissement est basé sur une estimation de la qualité d'ébauches et peut ne pas refléter le jugement humain. Veuillez examiner attentivement l'ébauche pour déterminer si elle est utile dans votre travail de traduction. Le texte d'aide sur [Améliorer la qualité d'une ébauche] (/improving-draft-quality) peut être utile._
+
+   _Si la qualité du brouillon est toujours faible après avoir terminé les vérifications recommandées, vous devrez peut-être traduire plus de texte avant de générer une ébauche. Au début d'un projet de traduction, le choix du livre à ébaucher est important. Par exemple, un modèle entraîné sur l'Évangile selon Luc est mieux à même de rédiger l'Évangile selon Marc que la Lettre aux Romains. Si vous travaillez dans le Nouveau Testament, veuillez consulter les [Lignes directrices pour la génération d'un nouvelle ébauche de Testament] (/new-testament-drafting) pour savoir comment la séquence de livres peut affecter la qualité d'ébauche._
+
+   _Veuillez contacter notre équipe à [help@scriptureforge.org](mailto:help@scriptureforge.org) pour toute question ou aide à améliorer la qualité des ébauches._
+
+3. Que dois-je faire si seulement certains des livres que j'ai générés ont un avertissement de faible qualité d'ébauches ?
+
+   _Un avertissement sur une ébauche est une bonne raison de considérer la liste de contrôle ci-dessus. Cependant, il se peut aussi que vos données de formation soient mieux adaptées à la rédaction de certains livres que d'autres. Il est important de relire attentivement chaque ébauche de livre, en particulier celles accompagnées d'un avertissement indiquant une qualité insuffisante, avant de décider de l'utiliser ou non dans votre processus de traduction._

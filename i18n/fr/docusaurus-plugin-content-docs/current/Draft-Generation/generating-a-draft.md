@@ -26,15 +26,15 @@ Si vous utilisez un projet Paratext séparé pour stocker les ébauches génér�
 
 ![](./generate_draft_confirm_sources.png)
 
-### Sélectionnez les livres à ébaucher
+### Sélectionnez les livres à ébaucher {#select-the-books-to-draft}
 
-Dans la deuxième étape, sélectionnez les livres que vous voulez traduire. Si le livre que vous voulez ébaucher n'existe pas dans votre projet Paratext, vous devrez d'abord créer le livre dans Paratext. En général, nous suggérons de rédiger un livre à la fois, mais si vous rédigez des livres plus petits, vous voudrez peut-être en rédiger plusieurs à la fois. For long books, consider generating a new draft after completing a significant portion of the book.
+Dans la deuxième étape, sélectionnez les livres que vous voulez traduire. Si le livre que vous voulez ébaucher n'existe pas dans votre projet Paratext, vous devrez d'abord créer le livre dans Paratext. En général, nous suggérons de rédiger un livre à la fois, mais si vous rédigez des livres plus petits, vous voudrez peut-être en rédiger plusieurs à la fois. Pour les livres longs, envisagez de produire une nouvelle ébauche après avoir complété une partie importante du livre.
 
 ![](./generate_draft_select_books_to_draft.png)
 
 :::note
 
-<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Incremental Draft Generation:** If you select a book that is at least 12 chapters in length and contains some text already, you will see the option to select which chapters you want to draft. If you select to draft only some chapters, you will be able to choose some or all of the remaining chapters for training the model in the following step. Separate chapters with commas and use a dash for chapter ranges, for example: 1-10,25,40-50.</span>
+<span id="selecting-chapters-to-draft" class="anchorWithStickyNavbar_LWe7">**Génération progressive des ébauches :** si vous sélectionnez un livre comportant au moins 12 chapitres et contenant déjà du texte, vous verrez apparaître une option vous permettant de choisir les chapitres pour lesquels vous souhaitez créer une ébauche. Si vous sélectionnez de ne rédiger que quelques chapitres, vous pourrez choisir une partie ou la totalité des chapitres restants pour former le modèle à l'étape suivante. Séparez les chapitres par des virgules et utilisez un tiret pour les tranches de chapitres, par exemple : 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_draft.png)
 
@@ -42,7 +42,7 @@ Dans la deuxième étape, sélectionnez les livres que vous voulez traduire. Si 
 
 :::tip
 
-When using draft generation early in the life of a project, we recommend starting with the gospels and Acts, and generating a new incremental draft each time 8-10 more chapters are complete. See [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting). Specific recommendations for incremental drafting of Old Testament books are not available at this time. We suggest generating a new draft after translating each 1/3 of a long book to check for possible improvement.
+Si vous utilisez la fonction de génération d'ébauches dès les premières phases d'un projet, nous vous recommandons de commencer par les Évangiles et les Actes, puis de générer une nouvelle ébauche incrémentale chaque fois que 8 à 10 chapitres supplémentaires sont terminés. Voir [les directives pour la rédaction d'ébauches du Nouveau Testament](https://help.scriptureforge.org/new-testament-drafting). Les recommandations spécifiques pour la rédaction incrémentielle des livres de l'Ancien Testament ne sont pas disponibles pour le moment. Nous vous suggérons de générer une nouvelle ébauche après avoir traduit chaque 1/3 d'un long livre pour vérifier les améliorations possibles.
 
 :::
 
@@ -54,7 +54,7 @@ When using draft generation early in the life of a project, we recommend startin
 
 :::note
 
-<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">If you selected to draft only some chapters of a book in the previous step, you can choose to include all or part of the remaining chapters in training. Any chapters selected to draft will not be available for training. Separate chapters with commas and use a dash for chapter ranges, for example: 1-10,25,40-50.</span>
+<span id="selecting-chapters-to-train" class="anchorWithStickyNavbar_LWe7">Si, à l'étape précédente, vous avez choisi de ne rédiger que certains chapitres d'un livre, vous pouvez décider d'inclure tout ou partie des chapitres restants dans l'entraînement. Tous les chapitres sélectionnés pour ébaucher ne seront pas disponibles pour la formation. Séparez les chapitres par des virgules et utilisez un tiret pour indiquer des plages de chapitres, par exemple : 1-10,25,40-50.</span>
 
 ![](./generate_draft_select_chapters_to_train.png)
 

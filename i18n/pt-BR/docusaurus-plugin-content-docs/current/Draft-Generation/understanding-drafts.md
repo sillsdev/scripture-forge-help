@@ -25,7 +25,7 @@ The system learns by seeing the same sentence written in multiple languages, one
 
 The most important point to remember is that these sentences need to say the same thing in both languages. This is the same principle that allowed scholars to learn hieroglyphics from the Rosetta Stone: the same text was written in three different languages, allowing comparison between a language that was already understood and one that was not.
 
-Text that is available in both the language you are translating from, and the language you are translating to, is known as “parallel text”. For most projects, this parallel text will be your reference text, and the translation work you have already completed. In general, the more parallel text you have, the better the system will learn the language. If you plan to use draft generation with fewer than 6000 completed verses, please review the [Guidelines for New Testament Draft Generation](https://help.scriptureforge.org/new-testament-drafting).
+Text that is available in both the language you are translating from, and the language you are translating to, is known as “parallel text”. For most projects, this parallel text will be your reference text, and the translation work you have already completed. In general, the more parallel text you have, the better the system will learn the language. If you plan to use draft generation with fewer than 6000 completed verses, please review the [Guidelines for New Testament Draft Generation](/new-testament-drafting).
 
 :::tip
 
@@ -74,7 +74,7 @@ Generating back translation drafts is currently open and available to all Parate
 Regardless of whether you are generating back translation drafts or vernacular drafts, you can begin by connecting your Paratext project to Scripture Forge by following these steps:
 
 1. Log in to [Scripture Forge](https://scriptureforge.org/), using your Paratext credentials.
-2. Connect your Paratext project by following the [Connect a Paratext Project guide](https://help.scriptureforge.org/connect-paratext-project). When you connect the project, select your reference text as the source. For a back translation, the source text should be the vernacular.
+2. Connect your Paratext project by following the [Connect a Paratext Project guide](/connect-paratext-project). When you connect the project, select your reference text as the source. For a back translation, the source text should be the vernacular.
 3. After connecting your project, click “Generate draft” in the sidebar.
 4. If you are generating a draft into the vernacular, this is as far as you can go on your own, and you will need to fill out the translation drafting registration form by clicking on "Sign up for drafting". If your project has already been onboarded, or you are working with a back translation, click "Generate draft" to start the process.
 5. Select the books you want to translate, and then select the books you want to use as training data.

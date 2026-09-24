@@ -76,3 +76,38 @@ slug: /faq
 6. ¿Por qué se ha acortado la introducción de mi libro?
 
    _Scripture Forge utiliza el modelo NLLB para generar borradores. El NLLB es un modelo de frases, y su precisión es mayor con segmentos cortos de texto. Para garantizar la máxima precisión, hay un límite de 200 tokens (partes de palabra) por segmento traducido, y cualquier texto que supere ese límite se omite. Los versículos de las Escrituras se traducen uno por uno y rara vez superan este límite. Las introducciones de los libros que superen la extensión permitida se recortarán y solo se traducirá la primera parte._
+
+## Preguntas sobre advertencias de calidad de borrador {#f47ac10b58cc4372a5670e02b2c3d479}
+
+1. ¿Por qué veo una advertencia de que mi borrador puede tener una calidad inferior a la normal? ¿Qué debo hacer si veo esta advertencia?
+
+   _Scripture Forge utiliza métricas automatizadas para determinar si el entrenamiento del modelo ha sido lo suficientemente satisfactorio como para elaborar un borrador de los libros solicitados. A veces, estos indicadores sugieren que la calidad del borrador puede ser deficiente._
+
+   _La causa más habitual de esta advertencia es que no hay suficiente texto de ejemplo del tipo necesario para entrenar el modelo. Por lo general, esta situación se debe a un error al configurar la solicitud del borrador. Utiliza la siguiente lista de comprobación como guía para revisar la configuración de la generación de borradores._
+
+   - _Proyecto: ¿Estás generando el borrador a partir de un proyecto que incluye todos los libros finalizados del proyecto?_
+     - _Es importante no solicitar borradores de un proyecto utilizado para almacenar borradores de IA._
+     - _Si algunos libros traducidos, como el Nuevo Testamento, están almacenados en un proyecto independiente de Paratext, es posible que tengas que crear un nuevo proyecto e importar todos los libros traducidos a ese proyecto. Puedes utilizar ese proyecto para generar borradores._
+   - _Código de idioma: ¿El código de idioma para cada proyecto de referencia y proyecto fuente coincide con el texto de ese proyecto?_
+     - _Puedes actualizar los códigos de idioma en Paratext, en la sección «Propiedades del proyecto»._
+   - _Libros para redactar: ¿Son los libros para redactar seleccionados en el paso 2, «Seleccionar libros para redactar»?_
+   - _Libros de entrenamiento: ¿Se han seleccionado todos los libros completados y revisados del proyecto en el paso 3, «Seleccionar libros para el entrenamiento»?_
+     - _Asegúrate de que el equipo haya revisado todos los libros que se utilizan para el entrenamiento. En general, deben mantener una coherencia en la ortografía, el uso de caracteres (al escribir con teclado), el dialecto y el vocabulario._
+     - _Asegúrate de que el texto de referencia incluya todos los libros utilizados para el entrenamiento y de que estén seleccionados en la parte inferior del paso 3._
+   - _Retro traducciones: ¿Estás utilizando una retro traducción como proyecto de referencia? Si es así, comprueba lo siguiente:_
+     - _Asegúrate de que el código de idioma de la retro traducción corresponda al idioma de la retro traducción y no al del proyecto de traducción principal._
+     - _Si alguno de los libros del proyecto de retro traducción está en un idioma distinto al del resto de la retro traducción, desmarca esos libros en el área de retro traducción situada en la parte inferior del paso 3._
+   - _Datos adicionales: ¿Están bien formateados?_
+     - _Si has subido datos adicionales para el entrenamiento del modelo en la página «Configurar fuentes», asegúrate de que cada fila de ese archivo contenga frases con el mismo significado, con el idioma de origen a la izquierda y el idioma de destino a la derecha._
+
+2. ¿Por qué sigo viendo una advertencia de baja calidad del borrador después de haber completado todas las comprobaciones?
+
+   _Recuerda que la advertencia se basa en una estimación de la calidad del borrador y puede que no refleje el criterio humano. Por favor, revisa el borrador con atención para determinar si te resulta útil para tu trabajo de traducción. El texto de ayuda sobre [Cómo mejorar la calidad de los borradores](/improving-draft-quality) puede resultarte útil._
+
+   _Si la calidad del borrador sigue siendo baja tras realizar las comprobaciones recomendadas, es posible que tengas que traducir más texto antes de generar un borrador. En las primeras fases de un proyecto de traducción, es importante decidir qué libro se va a traducir a continuación. Por ejemplo, un modelo entrenado con el Evangelio de Lucas está mejor preparado para redactar el Evangelio de Marcos que para redactar la Carta a los Romanos. Si estás trabajando en el Nuevo Testamento, revisa las [Guidelines for New Testament Draft Generation](/new-testament-drafting) para conocer cómo el orden de los libros puede afectar a la calidad de los borradores._
+
+   _Si tienes alguna duda o necesitas ayuda para mejorar la calidad de tu borrador, ponte en contacto con nuestro equipo en [help@scriptureforge.org](mailto:help@scriptureforge.org)._
+
+3. ¿Qué debo hacer si solo algunos de los libros que he generado muestran una advertencia de baja calidad del borrador?
+
+   _Una advertencia en cualquier borrador es una buena razón para considerar la lista de verificación anterior. Sin embargo, también puede ser que tus datos de entrenamiento se adaptaran mejor a la redacción de algunos libros que a otros. Es importante revisar con detenimiento cada borrador de libro, sobre todo aquellos que incluyan una advertencia de baja calidad, antes de decidir si se va a utilizar en el proceso de traducción._
