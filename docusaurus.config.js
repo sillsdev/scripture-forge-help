@@ -8,7 +8,11 @@ const config = {
   url: "https://help.scriptureforge.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
   i18n: {
     defaultLocale: "en",
     locales: ["en", "id", "fr", "es", "pt-BR", "de"],
