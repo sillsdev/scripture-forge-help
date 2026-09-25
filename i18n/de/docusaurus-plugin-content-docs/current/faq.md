@@ -90,24 +90,24 @@ slug: /faq
      - _Falls einige übersetzte Bücher, wie beispielsweise das Neue Testament, in einem separaten Paratext-Projekt gespeichert sind, musst Du möglicherweise ein neues Projekt erstellen und alle übersetzten Bücher in dieses Projekt importieren. Du kannst dieses Projekt für das Generieren von Entwürfen verwenden._
    - _Sprachcodes: Stimmt der Sprachcode für jede Referenz- und jedes Ausgangsprojekt mit dem Text des jeweiligen Projekts überein?_
      - _Du kannst Sprachcodes in Paratext unter „Projekteigenschaften“ aktualisieren._
-   - _Draft Books: Are the book or books to draft selected in Step 2, “Select books to draft”?_
-   - _Training Books: Are all the completed and checked books in the project selected in Step 3, “Select books to train on”?_
-     - _Be sure all the books used for training have been checked by the team. They should be generally consistent in spelling, character use (keyboarding), dialect, and vocabulary._
-     - _Be sure the reference text contains all the books used for training, and that they are selected at the bottom of Step 3._
-   - _Back Translations: Are you using a back translation as a reference project? If so, check these things:_
-     - _Be sure the back translation language code represents the language of the back translation and not of the main translation project._
-     - _If any books in the back translation project are in a different language than the rest of the back translation, unselect those books from the back translation area at the bottom of Step 3._
-   - _Additional Data: Is it formatted correctly?_
-     - _If you uploaded additional data for model training on the “Configure sources” page, be sure that each row of that file contains sentences with the same meaning, with the source language on the left and the target language on the right._
+   - _Bücher für Entwurf: Sind das Buch oder die Bücher, die in Schritt 2 ausgewählt werden sollen, „Bücher für Entwurf auswählen“?_
+   - _Bücher für Schulung: Sind alle abgeschlossenen und geprüften Bücher des Projekts ausgewählt in Schritt 3, "Bücher für die Schulung auswählen?"_
+     - _Stelle sicher, dass alle Bücher, die für die Schulung verwendet werden, vom Team überprüft wurden. Sie sollten in generell in der Rechtschreibung, der Verwendung von Zeichen (Tastatureingabe), dem Dialekt und dem Vokabular konsistent sein._
+     - _Stelle sicher, dass der Referenztext alle Bücher enthält, die für die Schulung verwendet werden und dass sie am Ende des Schritts 3 ausgewählt werden._
+   - _Rückübersetzungen: Verwendest Du eine Rückübersetzung als Referenzprojekt? Falls ja, überprüfe bitte folgendes:_
+     - _Stelle sicher, dass sich der Sprachcode auf die Sprache der Rückübersetzung bezieht und nicht auf die Sprache des Hauptübersetzungsprojekts._
+     - _Falls irgendwelche Bücher im Rückübersetzungsprojekt in einer anderen Sprache sind als der Rest der Rückübersetzung, entferne diese Bücher aus dem Rückübersetzungsbereich am Ende des Schritts 3._
+   - _Zusätzliche Daten: Ist die Formatierung korrekt?_
+     - _Falls Du auf der Seite „Quellen konfigurieren“ zusätzliche Daten für die Schulung des Modells hochgeladen hast, stelle sicher, dass jede Zeile dieser Datei Sätze mit derselben Bedeutung enthält, wobei die Ausgangssprache links und die Zielsprache rechts steht._
 
-2. Why do I still see a low draft quality warning after completing all the checks?
+2. Warum sehe ich nach Abschluss aller Prüfungen immer noch eine Warnung in Bezug auf mangelhafte Qualität?
 
-   _Remember that the warning is based on an estimate of draft quality and may not reflect human judgment. Please review the draft carefully to determine whether it is useful in your translation work. The help text about [Improving Draft Quality](/improving-draft-quality) may be helpful._
+   _Beachte, dass die Warnung auf einer Einschätzung der Qualität des Entwurfs basiert und möglicherweise nicht der menschlichen Beurteilung entspricht. Bitte sieh Dir den Entwurf sorgfältig an, um zu prüfen, ob er für Deine Übersetzungsarbeit von Nutzen ist. Der Hilfetext zum Thema [Verbesserung der Entwurfsqualität](/improving-draft-quality) könnte hilfreich sein._
 
-   _If draft quality is still low after completing the recommended checks, you may need to translate more text before generating a draft. Early in a translation project, the choice of which book to draft next is important. For example, a model trained on the book of Luke is better prepared to draft Mark than to draft Romans. If you are working in the New Testament, please review the [Guidelines for New Testament Draft Generation](/new-testament-drafting) to learn about how book sequence can affect draft quality._
+   _Falls die Qualität des Entwurfs nach Abschluss der empfohlenen Prüfungen immer noch niedrig ist, musst Du eventuell mehr Text übersetzen, bevor Du einen Entwurf generierst. Früh in einem Übersetzungsprojekt ist die Entscheidung, für welches Buch als Nächstes ein Entwurf generiert wird, wichtig. Ein Modell, das beispielsweise anhand des Lukasevangeliums geschult wurde, ist besser in der Lage, Markus zu entwerfen als den Römerbrief. Falls Du am Neuen Testament arbeitest, lies bitte die [Richtlinien zur Erstellung von Entwürfen für das Neue Testament](/new-testament-drafting), um zu erfahren, wie sich die Reihenfolge der Bücher auf die Qualität der Entwürfe auswirken kann._
 
-   _Please reach out to our team at [help@scriptureforge.org](mailto:help@scriptureforge.org) for questions or help with improving draft quality._
+   _Bitte wende dich an unser Team unter [help@scriptureforge.org](mailto:help@scriptureforge.org) bei Fragen oder für Hilfe bei der Verbesserung der Qualität von Entwürfen._
 
-3. What should I do if only some of the books I generated have a low draft quality warning?
+3. Was soll ich tun, wenn nur bei einigen der von mir generierten Bücher eine Warnung wegen geringer Entwurfsqualität angezeigt wird?
 
-   _A warning on any draft is a good reason to consider the checklist above. However, it may also be the case that your training data was a better fit for drafting some books than others. It is important to review each book draft carefully, especially those with a low quality warning, before deciding whether to use it in your translation process._
+   _Eine Warnung zu irgendeinem Entwurf ist ein guter Grund, die oben genannte Checkliste zu beachten. Es kann aber auch sein, dass Deine Schulungsdaten besser für das Generieren einiger Bücher geeignet waren als für andere. Es ist wichtig, jeden Buchentwurf sorgfältig zu prüfen, insbesondere solche mit einer Warnung in Bezug auf geringe Qualität, bevor Du entscheidest, ob Du ihn in Deinem Übersetzungsprozess verwenden möchtest._
