@@ -48,4 +48,4 @@ Here are some ideas to improve draft quality. Not all of these will be possible 
 
 ## Draft Quality Warning {#9a12a839f3634e75acd511f4b426eb86}
 
-Scripture Forge uses automated scoring to estimate draft quality, and will present a warning to users if the estimated quality of a generated draft is very low. This may indicate that there is an error in the configuration that resulted in unsuccessful model training. Please see the FAQ for more information. Some drafts may be low quality even if they are not flagged by the warning. It is important to check the quality of each draft carefully.
+Scripture Forge uses automated scoring to estimate draft quality, and will present a warning to users if the estimated quality of a generated draft is very low. This may indicate that there is an error in the configuration that resulted in unsuccessful model training. Consulte las Preguntas Frecuentes para más información. Algunos borradores pueden ser de baja calidad aunque no aparezcan señalados por la advertencia. Es importante revisar con atención la calidad de cada borrador.
