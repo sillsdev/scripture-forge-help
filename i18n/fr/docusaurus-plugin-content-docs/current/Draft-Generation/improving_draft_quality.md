@@ -6,7 +6,7 @@ slug: /improving-draft-quality
 
 ## Facteurs qui affectent la qualité d'une ébauche
 
-Seuls les traducteurs humains peuvent décider si une ébauche répond aux besoins d'une équipe. Il est toutefois utile de comprendre certains facteurs susceptibles d'influencer la qualité d'un brouillon généré.
+Seuls les traducteurs humains peuvent décider si une ébauche répond aux besoins d'une équipe. Il est toutefois utile de comprendre certains facteurs susceptibles d'influencer la qualité d'une ébauche générée.
 
 #### Quantité et qualité d'exemples de langue jumelée ("données de formation")
 
@@ -16,11 +16,11 @@ Seuls les traducteurs humains peuvent décider si une ébauche répond aux besoi
 
 #### Relation entre les langues sources et les langues cibles
 
-- Une relation linguistique plus étroite et une correspondance typologique se traduisent souvent par une meilleure qualité des brouillons.
+- Une relation linguistique plus étroite et une correspondance typologique se traduisent souvent par une meilleure qualité des ébauches.
 
 #### Relation entre le texte source et les textes cibles
 
-- Lorsque la traduction suit de près les mots du texte de référence, cela peut rendre la formation du modèle plus réussie et améliorer la qualité d'un ébauche.
+- Lorsque la traduction suit de près les mots du texte de référence, cela peut rendre la formation du modèle plus réussie et améliorer la qualité d'une ébauche.
 - Parce qu'une traduction arrière suit le texte de près, y compris une retraduction dans la langue source comme deuxième texte de référence peut améliorer la qualité.
 - Un projet qui contient beaucoup d'explication non trouvée dans le texte source peut avoir diminué la qualité.
 
@@ -32,9 +32,9 @@ Seuls les traducteurs humains peuvent décider si une ébauche répond aux besoi
 
 - Un script inconnu du modèle de langage sous-jacent peut diminuer la qualité du brouillon.
 - La qualité du texte généré peut être moindre pour les langues fortement agglutinantes et celles qui ne comportent pas de coupures de mots.
-- Un projet qui traduit au niveau du paragraphe ou qui utilise de nombreuses plages de versets longues peut avoir diminué la qualité du brouillon.
+- Un projet qui traduit au niveau du paragraphe ou qui utilise de nombreuses plages de versets longues peut avoir diminué la qualité d'une ébauche.
 
-## Améliorer la qualité des brouillons {#92f8d5c800084e4eb113511f74e26927}
+## Améliorer la qualité des ébauches {#92f8d5c800084e4eb113511f74e26927}
 
 Voici quelques idées pour améliorer la qualité des ébauches. Tous ces éléments ne seront pas possibles ou pertinents pour tous les projets.
 
@@ -43,7 +43,7 @@ Voici quelques idées pour améliorer la qualité des ébauches. Tous ces élém
 - Testez différents textes de référence, y compris ceux rédigés dans des langues sources plus riches en ressources ou plus étroitement liées.
 - Inclure une traduction de retour dans la langue source comme deuxième texte de référence.
 - Corriger toutes les incohérences fréquentes d'orthographe, de claviers ou de vocabulaire dans la traduction.
-- Continuez avec la traduction manuelle et testez à nouveau la génération du brouillon lorsque la Bible plus traduite est terminée.
+- Continuez avec la traduction manuelle et testez à nouveau la génération d'une ébauche lorsque la Bible plus traduite est terminée.
 - Voir la note sur [Génération incrémentielle](/generating-a-draft#select-the-books-to-draft) et envisager d'utiliser cette méthode pour les livres longs ou pour les débuts d'un nouveau genre.
 
 ## Avertissement sur la qualité des ébauches {#9a12a839f3634e75acd511f4b426eb86}

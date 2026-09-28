@@ -1,51 +1,51 @@
 ---
-title: Improving Draft Quality
+title: Mejorar la calidad de los borradores
 sidebar_position: 6
 slug: /improving-draft-quality
 ---
 
-## Factors that Affect Draft Quality
+## Factores que afectuan la calidad de los borradores
 
-Only human translators can decide whether a draft serves a team’s needs. However, it is helpful to understand some factors that can influence the quality of a generated draft.
+Sólo los traductores humanos pueden decidir si un borrador satisface las necesidades de un equipo. Sin embargo, es útil entender algunos factores que pueden influir en la calidad de un borrador generado.
 
-#### Amount and quality of paired language examples ("training data")
+#### Cantidad y calidad de los ejemplos lingüísticos emparejados («datos de entrenamiento»)
 
-- More examples contribute to better draft quality.
-- Examples that are well-checked and consistent improve draft quality.
-- Examples that are relevant to the book or books to be drafted improve draft quality; for example, including examples in the same genre or with similar content is often helpful.
+- Cuantos más ejemplos haya, mejor será la calidad del borrador.
+- Ejemplos que son bien comprobados y consistentes mejoran la calidad de los borradores.
+- Ejemplos que son relevantes para el libro o los libros que se redactarán mejoran la calidad del borrador; por ejemplo, incluir ejemplos en el mismo género o con un contenido similar suele ser útil.
 
-#### Relationship between the source and target languages
+#### Relación entre la lengua de origen y la lengua de destino
 
-- A closer linguistic relationship and typological match often results in better draft quality.
+- Una relación lingüística más estrecha y una concordancia tipológica a menudo dan lugar a una mejor calidad del borrador.
 
-#### Relationship between the source text and target texts
+#### Relación entre el texto de origen y los textos de destino
 
-- When the translation closely follows the words of the reference text, this can make model training more successful and improve draft quality.
-- Because a back translation closely follows the text, including a back translation in the source language as a second reference text may improve quality.
-- A project which includes a lot of explication not found in the source text may have decreased quality.
+- Cuando la traducción sigue fielmente el texto de referencia, esto puede contribuir a que el entrenamiento del modelo sea más satisfactorio y a mejorar la calidad del borrador.
+- Dado que una retrotraducción sigue fielmente el texto, incluirla en la lengua original como segundo texto de referencia puede mejorar la calidad.
+- Un proyecto que incluye muchas explicaciones no encontradas en el texto original puede haber disminuido la calidad.
 
-#### Representation of the source language in the language model
+#### Representación de la lengua de origen en el modelo lingüístico
 
-- Using a high-resource source language (a major modern language with plentiful examples in the underlying language model) can improve draft quality.
+- El uso de una lengua de origen con abundantes recursos (una lengua moderna importante con numerosos ejemplos en el modelo de lenguaje subyacente) puede mejorar la calidad del borrador.
 
-#### Characteristics of the target project
+#### Características del proyecto en cuestión
 
-- A script unknown to the underlying language model may decrease draft quality.
-- Highly agglutinative languages and those without word breaks may experience decreased draft quality.
-- A project that translates at the paragraph level or uses many long verse ranges may have decreased draft quality.
+- Caracteres desconocidos para el modelo de lenguaje subyacente puede reducir la calidad del borrador.
+- Las lenguas altamente aglutinantes y aquellas en las que no se separan las palabras pueden presentar una menor calidad en el borrador.
+- Un proyecto en el que la traducción se realice a nivel de párrafo o que utilice muchos fragmentos largos de verso puede presentar una menor calidad en el borrador.
 
-## Improving Draft Quality {#92f8d5c800084e4eb113511f74e26927}
+## Mejorar la calidad del borrador {#92f8d5c800084e4eb113511f74e26927}
 
-Here are some ideas to improve draft quality. Not all of these will be possible or relevant for all projects.
+Aquí tienes algunas ideas para mejorar la calidad del borrador. No todas estas opciones serán viables o pertinentes para todos los proyectos.
 
-- Use as much translated Scripture text as possible for training the model.
-- Consider uploading a file with additional paired sentences in the source and target languages. This can be done from the **Configure sources** page.
-- Test different reference texts, including higher-resource or more closely-related source languages.
-- Include a back translation in the source language as a second reference text.
-- Correct any frequent spelling, keyboarding, or vocabulary inconsistencies in the translation.
-- Continue with manual translation and test draft generation again when more translated Scripture is complete.
-- See the note about [Incremental Draft Generation](/generating-a-draft#select-the-books-to-draft) and consider using this method for long books or when beginning a new genre.
+- Utiliza la mayor cantidad posible de texto bíblico traducido para entrenar el modelo.
+- Considera la posibilidad de subir un archivo con frases emparejadas adicionales en los idiomas de origen y de destino. Esto se puede hacer desde la página **Configurar las fuentes**.
+- Pruebe los diferentes textos de referencia, incluyendo los idiomas más altos o más estrechamente relacionados con las fuentes.
+- Incluye una retrotraducción al idioma de origen como segundo texto de referencia.
+- Corrige cualquier inconsistencia frecuente en la ortografía, la mecanografía o el vocabulario de la traducción.
+- Continúa con la traducción manual y vuelve a generar un borrador de prueba cuando se haya completado la traducción de más pasajes de las Escrituras.
+- Consulta la nota sobre la [generación incremental de borradores](/generating-a-draft#select-the-books-to-draft) y plantéate utilizar este método para libros largos o al iniciarte en un nuevo género.
 
-## Draft Quality Warning {#9a12a839f3634e75acd511f4b426eb86}
+## Aviso sobre la calidad del borrador {#9a12a839f3634e75acd511f4b426eb86}
 
-Scripture Forge uses automated scoring to estimate draft quality, and will present a warning to users if the estimated quality of a generated draft is very low. This may indicate that there is an error in the configuration that resulted in unsuccessful model training. Please see the FAQ for more information. Some drafts may be low quality even if they are not flagged by the warning. It is important to check the quality of each draft carefully.
+Scripture Forge utiliza un sistema de clasificación automatizado para evaluar la calidad de los borradores y mostrará una advertencia a los usuarios si la calidad estimada de un borrador generado es muy baja. Esto podría indicar que hay un error en la configuración que impidió que el entrenamiento del modelo se realizara correctamente. Consulte las Preguntas Frecuentes para más información. Algunos borradores pueden ser de baja calidad aunque no aparezcan señalados por la advertencia. Es importante revisar con atención la calidad de cada borrador.
