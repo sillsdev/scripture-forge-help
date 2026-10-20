@@ -36,7 +36,7 @@ Créer des questions une par une peut s'avérer fastidieux, c'est pourquoi nous 
 
 Voici un exemple de ce à quoi doivent ressembler les lignes de votre feuille de calcul pour pouvoir l'importer dans Scripture Forge :
 
-| Référence                 | Question                                                                  |
+| Reference                 | Question                                                                  |
 | ------------------------- | ------------------------------------------------------------------------- |
 | HEB 1:1   | À quoi fait référence l'expression "nos pères" ?                          |
 | HEB 1:2   | Qu'est-ce que cela signifie que le Fils est "héritier de toutes choses" ? |

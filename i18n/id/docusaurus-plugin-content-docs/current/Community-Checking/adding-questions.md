@@ -36,7 +36,7 @@ Creating questions one by one can be tedious, so we've also made it possible to 
 
 Here's an example of how the rows in your spreadsheet should look in order to be able to import it to Scripture Forge:
 
-| Referensi                 | Pertanyaan                                              |
+| Reference                 | Question                                                |
 | ------------------------- | ------------------------------------------------------- |
 | HEB 1:1   | What does "our fathers" refer to?                       |
 | HEB 1:2   | What does it mean that the Son is "heir of all things"? |
