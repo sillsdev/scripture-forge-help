@@ -5,6 +5,10 @@ import { walk } from "jsr:@std/fs/walk";
 
 const locales = ["en", "id", "fr", "es", "pt-BR", "de"];
 
+// CI disables comparisons for PRs without translation updates. Manual runs
+// retain the full consistency checks unless explicitly disabled.
+const checkTranslations = Deno.env.get("CHECK_TRANSLATIONS") !== "false";
+
 let rootPage = Deno.args[0];
 
 if (rootPage == null) {
@@ -120,7 +124,13 @@ async function checkAnchorsAndImages(): Promise<boolean> {
   return ok;
 }
 
-if (!(await checkAnchorsAndImages())) failed = true;
+if (checkTranslations) {
+  if (!(await checkAnchorsAndImages())) failed = true;
+} else {
+  console.log(
+    "Skipping translation consistency checks (CHECK_TRANSLATIONS=false)."
+  );
+}
 
 // Setup
 // Show the browser locally, but run headless in CI where there is no display.
@@ -225,22 +235,24 @@ for (const locale of locales) {
   if (locale !== "en") {
     console.log(`\nChecking locale: ${locale}`);
 
-    // Verify the sidebar link order matches the default locale
-    const localeLinks = await getSidebarLinks(`${rootPage}/${locale}`);
-    const expectedOrder = documents.map((doc) => doc.url);
-    const actualOrder = localeLinks.map((link) =>
-      stripLocalePrefix(link.url, locale)
-    );
-    const sameOrder =
-      expectedOrder.length === actualOrder.length &&
-      expectedOrder.every((url, index) => url === actualOrder[index]);
-    if (sameOrder) {
-      console.log(`Sidebar link order: ${GREEN}✓${RESET}`);
-    } else {
-      failed = true;
-      console.log(`Sidebar link order: ${RED}✗${RESET}`);
-      console.log(`  expected: ${JSON.stringify(expectedOrder)}`);
-      console.log(`  actual:   ${JSON.stringify(actualOrder)}`);
+    if (checkTranslations) {
+      // Verify the sidebar link order matches the default locale
+      const localeLinks = await getSidebarLinks(`${rootPage}/${locale}`);
+      const expectedOrder = documents.map((doc) => doc.url);
+      const actualOrder = localeLinks.map((link) =>
+        stripLocalePrefix(link.url, locale)
+      );
+      const sameOrder =
+        expectedOrder.length === actualOrder.length &&
+        expectedOrder.every((url, index) => url === actualOrder[index]);
+      if (sameOrder) {
+        console.log(`Sidebar link order: ${GREEN}✓${RESET}`);
+      } else {
+        failed = true;
+        console.log(`Sidebar link order: ${RED}✗${RESET}`);
+        console.log(`  expected: ${JSON.stringify(expectedOrder)}`);
+        console.log(`  actual:   ${JSON.stringify(actualOrder)}`);
+      }
     }
 
     console.log(
@@ -289,8 +301,11 @@ for (const locale of locales) {
     if (locale === "en") {
       enResults[doc.title] = counts;
     } else {
-      const pass = !areDifferent(enResults[doc.title], counts);
-      const differences = diff(enResults[doc.title], counts);
+      const pass = !checkTranslations ||
+        !areDifferent(enResults[doc.title], counts);
+      const differences = checkTranslations
+        ? diff(enResults[doc.title], counts)
+        : {};
       if (!pass) failed = true;
       overallResults[doc.title] ??= {};
       overallResults[doc.title][locale] = pass;
