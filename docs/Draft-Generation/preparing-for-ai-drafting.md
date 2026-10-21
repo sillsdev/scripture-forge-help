@@ -32,16 +32,20 @@ Every project is different, so follow the instructions you received from the onb
 
 ![](./configure_sources_draft_reference.png)
 
+### Adding training data
+
+Scripture Forge uses your project's completed translation to train the language model. To add more training data, upload a spreadsheet under **Additional training data (optional)**. Put a source-language sentence in the first column and its translation into your project's language in the second column of each row.
+
 ### Choosing the source project
 
-The second step is to select the project you want the draft to be translated from. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source, then go to the next step.
+Under **Source**, select the project you want the draft to be translated from. This can be a Paratext project, or a Digital Bible Library resource. Start typing the name of the project (or the project short name), and the list will filter to show only the projects that match. Click on the project you want to use as a source.
 
 ![](./configure_sources_draft_source.png)
 
 ### Confirming the languages
 
-The final step shows the target language data. This will always include your project itself, which is already selected and cannot be removed. You can add additional training data on this step by uploading a spreadsheet with paired data, with the source language in the first column, and the target language in the second column.
+Check that the language code shown for each project or resource matches the language of its text. You can change a project's language code in Paratext under **Project Settings > Project Properties > Language**.
 
-On the right side, you will see a diagram of how the projects you selected will be used to generate the draft. In the first step, the language model will learn by comparing the reference projects to the translated project. In the second step, it will use that knowledge to translate the source project.
+Once the codes are correct, tick **All the language codes are correct** and click **Save & sync**. When the projects have finished syncing, click **Close** to return to the **Generate draft** page.
 
 ![](./configure_sources_confirm_languages.png)

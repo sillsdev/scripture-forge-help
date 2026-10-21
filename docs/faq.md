@@ -28,7 +28,7 @@ slug: /faq
 
 	_There are 2 primary ways to improve drafts._
 
-	- _The first is to add more data to the translation model. You can do this by choosing more books in Step 2 - "Select books to train on." The more data available for training, the better the results of the drafts will be._
+	- _The first is to add more data to the translation model. You can do this by choosing more books in the "Select books to train on" step. The more data available for training, the better the results of the drafts will be._
 	- _The second way is to improve the quality of the data in the translation model. You can do this by making sure the books you have chosen are well checked for consistency in areas such as spelling, punctuation, and content. The better the quality of the data, the better the system will learn to generate good drafts._
 	- _Many teams also see benefit from using an up-to-date back translation as an additional training source._
 
@@ -38,11 +38,11 @@ slug: /faq
 
 3. How do I change the source or use a different version to train the translation model?
 
-	_You can change the source of your project by navigating to Settings and then selecting the required one as a resource under "Translate."_
+	_To change the source used for drafting or the reference projects used to train the model, go to "Generate draft" and click "Configure sources." See [Preparing to Generate a Draft](/preparing-for-ai-drafting) for details._
 
 4. Why is the book I want not visible in my list of books?
 
-	_The book needs to exist in both the source and target projects in Paratext. Please ensure this and then run a send/receive in Paratext and a synchronize in Scripture Forge so that Scripture Forge has the latest information from Paratext._
+	_If the book you want to draft is missing, check that it has text in your drafting source. For training, check that the book has translated text in your project and matching text in at least one reference project. After adding or updating text in Paratext, run a send/receive and then sync the relevant projects in Scripture Forge._
 
 5. Why is there a red exclamation mark when I select a new primary source translation in the Settings page?
 
@@ -71,7 +71,7 @@ slug: /faq
 
 5. What does the History tab show?
 
-	_When you make changes to your draft, Scripture Forge saves a version of those changes that you may access via the history tab. You may revert your project to an older version from here by clicking the "Restore this version" button._
+	_The History tab shows previous versions of the selected chapter. To restore a chapter, select the version you want and click "Restore this version."_
 
 6. Why is my book introduction cut short?
 
