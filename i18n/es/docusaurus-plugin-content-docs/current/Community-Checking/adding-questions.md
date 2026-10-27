@@ -36,7 +36,7 @@ Crear preguntas una a una puede ser tedioso, así que también hemos hecho posib
 
 Aquí tienes un ejemplo de cómo deben ser las filas de tu hoja de cálculo para poder importarla a Scripture Forge:
 
-| Reference                 | Question                                                  |
+| Referencia                | Pregunta                                                  |
 | ------------------------- | --------------------------------------------------------- |
 | HEB 1:1   | ¿A qué se refiere "nuestros padres"?                      |
 | HEB 1:2   | ¿Qué significa que el Hijo es "heredero de todo"?         |
