@@ -36,7 +36,7 @@ Da es mühsam sein kann, eine Frage nach der anderen zu erstellen, haben wir auc
 
 Hier siehst Du ein Beispiel dafür, wie die Zeilen in Deiner Tabelle aussehen sollten, damit Du sie in Scripture Forge importieren kannst:
 
-| Reference                 | Question                                               |
+| Verweis                   | Frage                                                  |
 | ------------------------- | ------------------------------------------------------ |
 | HEB 1:1   | Worauf bezieht sich "unsere Väter"?                    |
 | HEB 1:2   | Was bedeutet es, dass der Sohn „Erbe aller Dinge“ ist? |
