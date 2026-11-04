@@ -7,7 +7,7 @@ slug: /using-a-draft
 Scripture Forge will show when your draft is ready and list the books that were drafted. Generated drafts are **not** automatically imported to your project. You can preview or import drafts from the **Generate draft** page. 
 
  * To import **individual chapters**, click on a book, then above the chapter that opens, click "Add to project." Individual chapters can only be added to the current project.
- * To import a **full book**, click on "Add to a project". You can choose to import the book into your main project, or to a different project.
+ * To import **one or more books**, click on "Add to a project". You can choose to import the draft into your main project, or to a different project.
 
 ![](./draft_complete.png)
 
@@ -37,7 +37,7 @@ If you want to import an entire book, or multiple books, you can do this from th
 
 ![](./import_book.png)
 
-In the dialog that opens, select the project you want the draft to be imported to. **Important:** Importing the draft will replace any existing content in the project for that book.
+In the dialog that opens, select the project you want the draft to be imported to. **Important:** Importing the draft replaces any existing text in the chapters you drafted.
 
 ![](./import_book_dialog.png)
 
