@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Pendahuluan {#ad165caedac347798432de75e4305252}
 
-Tim Pemrosesan Bahasa Alami SIL International telah mengembangkan sebuah alat yang dapat membantu penerjemahan Alkitab dengan membuat konsep awal kasar untuk disunting dan disempurnakan oleh para penerjemah. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
+SIL International's AI Engineering team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 Semua konsep yang dibuat mengandung kesalahan yang harus dikoreksi oleh tim penerjemah. Untuk beberapa proyek, kualitasnya akan terlalu rendah untuk digunakan/dibaca. Namun, pengujian lapangan yang ekstensif telah menunjukkan bahwa sejumlah besar tim menemukan bahwa konsep tersebut sangat membantu dalam pekerjaan mereka, dan memiliki kualitas yang memadai untuk digunakan sebagai titik awal bagi tim untuk menyunting.
 

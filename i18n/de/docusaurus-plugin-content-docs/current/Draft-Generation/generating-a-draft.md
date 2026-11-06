@@ -28,7 +28,7 @@ Falls Du ein separates Paratext-Projekt benutzt, um KI-generierte Entwürfe abzu
 
 ### Bücher für den Entwurf auswählen {#select-the-books-to-draft}
 
-Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. Falls das Buch, für das Du den Entwurf generieren möchtest, nicht in Deinem Paratext-Projekt vorhanden ist, musst Du das Buch vorgängig in Paratext erstellen. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren. Bei langen Büchern solltest Du einen neuen Entwurf generieren, nachdem ein wesentlicher Teil des Buches fertiggestellt wurde.
+Im zweiten Schritt wählst Du die Bücher aus, die Du übersetzen möchtest. If the book you want to draft is missing, check that it has text in your drafting source. Im Allgemeinen schlagen wir vor, den Entwurf für jeweils ein Buch zu generieren. Falls Du jedoch Entwürfe für kleinere Bücher generieren möchtest, kannst Du auch Entwürfe für mehrere Bücher auf einmal generieren. Bei langen Büchern solltest Du einen neuen Entwurf generieren, nachdem ein wesentlicher Teil des Buches fertiggestellt wurde.
 
 ![](./generate_draft_select_books_to_draft.png)
 

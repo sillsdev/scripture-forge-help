@@ -28,7 +28,7 @@ slug: /faq
 
    _Hay dos formas principales de mejorar los borradores._
 
-   - _El primero es añadir más datos al modelo de traducción. Puede hacerlo eligiendo más libros en el Paso 2 - "Seleccionar libros para entrenar". Cuantos más datos estén disponibles para la formación, mejores serán los resultados de los borradores._
+   - _El primero es añadir más datos al modelo de traducción. You can do this by choosing more books in the "Select books to train on" step. Cuantos más datos estén disponibles para la formación, mejores serán los resultados de los borradores._
    - _La segunda forma es mejorar la calidad de los datos en el Modelo de traducción. Puede hacerlo asegurándose de que los libros que ha elegido estén bien comprobados por la consistencia en áreas como la ortografía, la puntuación y el contenido. Cuanto mejor sea la calidad de los datos, mejor aprenderá el sistema a generar buenos borradores._
    - _Muchos equipos también se benefician del uso de una retrotraducción actualizada como fuente de formación adicional._
 
@@ -38,11 +38,11 @@ slug: /faq
 
 3. ¿Cómo cambio la fuente o utilizo una versión diferente para entrenar el modelo de traducción?
 
-   _Puede cambiar la fuente de su proyecto accediendo a Configuración y seleccionando la que desee como recurso en "Traducir"._
+   _To change the source used for drafting or the reference projects used to train the model, go to "Generate draft" and click "Configure sources." See [Preparing to Generate a Draft](/preparing-for-ai-drafting) for details._
 
 4. ¿Por qué el libro que quiero no aparece en mi lista de libros?
 
-   _El libro debe existir tanto en el proyecto de origen como en el de destino en Paratext. Por favor, asegúrese de esto y luego ejecute un envío/recepción en Paratext y una sincronización en Scripture Forge para que Scripture Forge tenga la información más reciente de Paratext_
+   _If the book you want to draft is missing, check that it has text in your drafting source. For training, check that the book has translated text in your project and matching text in at least one reference project. After adding or updating text in Paratext, run a send/receive and then sync the relevant projects in Scripture Forge._
 
 5. ¿Por qué aparece un signo de exclamación rojo cuando selecciono una nueva traducción de origen primario en la página de Configuración?
 
@@ -71,7 +71,7 @@ slug: /faq
 
 5. ¿Qué muestra la pestaña Historial?
 
-   _Cuando realizas cambios en tu borrador, Scripture Forge guarda una versión de esos cambios a la que puedes acceder a través de la pestaña de historial. Puedes revertir tu proyecto a una versión anterior desde aquí haciendo clic en el botón "Restaurar esta versión"._
+   _The History tab shows previous versions of the selected chapter. To restore a chapter, select the version you want and click "Restore this version."_
 
 6. ¿Por qué se ha acortado la introducción de mi libro?
 

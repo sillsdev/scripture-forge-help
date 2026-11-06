@@ -22,7 +22,7 @@ Le premier paramètre à considérer est **Permettre aux vérificateurs de voir 
 
 ### Paramètres de partage {#1850d745ac9e8097ad4efcb063fc2603}
 
-Si vous souhaitez que les vérificateurs de la communauté puissent inviter des amis à participer au projet, assurez-vous que l'option **Permettre aux utilisateurs d'inviter d'autres personnes dans le projet** est activée. Si ce paramètre est désactivé, seuls les administrateurs du projet pourront ajouter des vérificateurs de la communauté au projet.
+Si vous souhaitez que les vérificateurs de la communauté puissent inviter des amis à participer au projet, assurez-vous que l'option **Permettre aux utilisateurs d'inviter d'autres personnes dans le projet** est activée. To let translators send invitations, enable **Allow translators to invite any guest role**. Project admins can always invite community checkers.
 
 ![](./settings_sharing.png)
 
@@ -32,7 +32,7 @@ Dans la barre latérale, cliquez sur **Utilisateurs**, et vous verrez apparaîtr
 
 ![](./invite_users.png)
 
-Pour inviter quelqu'un en envoyant un lien, cliquez sur **Share**, sélectionnez la langue que vous voulez que Scripture Forge montre au destinataire, et copiez le lien. Vous pouvez ensuite envoyer ce lien à toute personne que vous souhaitez inviter au projet. En cliquant sur le lien, ils pourront rejoindre le projet en tant que vérificateur de la communauté.
+To invite someone by sending a link, click **Share**, select the **Community Checker** role and the language you want Scripture Forge to show the recipient, then click **Copy link**. Send the link to the person you want to invite so they can join the project as a community checker.
 
 Si vous souhaitez envoyer des invitations par e-mail aux utilisateurs, tapez l'e-mail de l'utilisateur que vous souhaitez inviter, sélectionnez le rôle de **vérificateur de la communauté** et choisissez une langue d'invitation. Puis cliquez sur **Envoyer**. Un e-mail contenant un lien sera envoyé à la personne, qui devra cliquer sur le lien et s'inscrire pour participer au projet.
 

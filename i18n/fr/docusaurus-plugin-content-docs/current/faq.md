@@ -28,7 +28,7 @@ slug: /faq
 
    _Il y a 2 façons principales d'améliorer les brouillons._
 
-   - _Le premier est d'ajouter plus de données au modèle de traduction. Vous pouvez le faire en choisissant plus de livres à l'étape 2 - "Sélectionnez les livres à former". Plus il y aura de données disponibles pour la formation, mieux ce seront les résultats des ébauches._
+   - _Le premier est d'ajouter plus de données au modèle de traduction. You can do this by choosing more books in the "Select books to train on" step. Plus il y aura de données disponibles pour la formation, mieux ce seront les résultats des ébauches._
    - _La seconde façon est d'améliorer la qualité des données dans le Modèle de traduction. Vous pouvez le faire en vous assurant que les livres que vous avez choisis sont bien vérifiés pour la cohérence dans des domaines tels que l'orthographe, la ponctuation et le contenu. Plus la qualité des données est élevée, plus le système apprendra à générer de bonnes ébauches._
    - _De nombreuses équipes voient également les avantages d'utiliser une traduction à jour comme source de formation supplémentaire_
 
@@ -38,11 +38,11 @@ slug: /faq
 
 3. Comment puis-je changer la source ou utiliser une version différente pour former le modèle de traduction?
 
-   _Vous pouvez changer la source de votre projet en naviguant dans Paramètres puis en sélectionnant celui requis en tant que ressource sous « Traduire »._
+   _To change the source used for drafting or the reference projects used to train the model, go to "Generate draft" and click "Configure sources." See [Preparing to Generate a Draft](/preparing-for-ai-drafting) for details._
 
 4. Pourquoi le livre que je veux n'est-il pas visible dans ma liste de livres?
 
-   _Le livre doit exister à la fois dans les projets source et cible dans Paratext. Veuillez vous assurer que ceci et ensuite exécuter un Envoyer/Recevoir dans Paratext et une synchronisation dans Scripture Forge afin que Scripture Forge ait les dernières informations de Paratext_
+   _If the book you want to draft is missing, check that it has text in your drafting source. For training, check that the book has translated text in your project and matching text in at least one reference project. After adding or updating text in Paratext, run a send/receive and then sync the relevant projects in Scripture Forge._
 
 5. Pourquoi y a-t-il un point d'exclamation rouge lorsque je sélectionne une nouvelle traduction de source principale dans la page Paramètres?
 
@@ -71,7 +71,7 @@ slug: /faq
 
 5. Que montre l'onglet Historique ?
 
-   _Lorsque vous apportez des modifications à votre brouillon, Scripture Forge enregistre une version de ces modifications auxquelles vous pouvez accéder via l'onglet Historique. Vous pouvez revenir à une ancienne version de votre projet ici en cliquant sur le bouton « Restaurer cette version »._
+   _The History tab shows previous versions of the selected chapter. To restore a chapter, select the version you want and click "Restore this version."_
 
 6. Pourquoi l'introduction de mon livre a-t-elle été raccourcie ?
 

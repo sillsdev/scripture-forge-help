@@ -28,7 +28,7 @@ Si vous utilisez un projet Paratext séparé pour stocker les ébauches génér�
 
 ### Sélectionnez les livres à ébaucher {#select-the-books-to-draft}
 
-Dans la deuxième étape, sélectionnez les livres que vous voulez traduire. Si le livre que vous voulez ébaucher n'existe pas dans votre projet Paratext, vous devrez d'abord créer le livre dans Paratext. En général, nous suggérons de rédiger un livre à la fois, mais si vous rédigez des livres plus petits, vous voudrez peut-être en rédiger plusieurs à la fois. Pour les livres longs, envisagez de produire une nouvelle ébauche après avoir complété une partie importante du livre.
+Dans la deuxième étape, sélectionnez les livres que vous voulez traduire. If the book you want to draft is missing, check that it has text in your drafting source. En général, nous suggérons de rédiger un livre à la fois, mais si vous rédigez des livres plus petits, vous voudrez peut-être en rédiger plusieurs à la fois. Pour les livres longs, envisagez de produire une nouvelle ébauche après avoir complété une partie importante du livre.
 
 ![](./generate_draft_select_books_to_draft.png)
 

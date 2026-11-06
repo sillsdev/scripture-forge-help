@@ -32,16 +32,20 @@ Chaque projet est différent, donc suivez les instructions que vous avez reçues
 
 ![](./configure_sources_draft_reference.png)
 
+### Adding training data
+
+Scripture Forge uses your project's completed translation to train the language model. To add more training data, upload a spreadsheet under **Additional training data (optional)**. Put a source-language sentence in the first column and its translation into your project's language in the second column of each row.
+
 ### Choix du projet source
 
-La deuxième étape est de sélectionner le projet dont vous voulez que le brouillon soit traduit. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Cliquez sur le projet que vous voulez utiliser comme source, puis passez à l'étape suivante.
+Under **Source**, select the project you want the draft to be translated from. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Click on the project you want to use as a source.
 
 ![](./configure_sources_draft_source.png)
 
 ### Confirmation des langues
 
-La dernière étape montre les données de la langue cible. Cela inclura toujours votre projet lui-même, qui est déjà sélectionné et ne peut pas être supprimé. Vous pouvez ajouter des données de formation supplémentaires à cette étape en téléchargeant une feuille de calcul avec des données appariées, avec la langue source dans la première colonne, et la langue cible dans la seconde colonne.
+Check that the language code shown for each project or resource matches the language of its text. You can change a project's language code in Paratext under **Project Settings > Project Properties > Language**.
 
-Sur le côté droit, vous verrez un diagramme de la façon dont les projets que vous avez sélectionnés seront utilisés pour générer l'ébauche . Dans un premier temps, le modèle linguistique apprend en comparant les projets de référence au projet traduit. Dans un deuxième temps, il utilisera ces connaissances pour traduire le projet source.
+Once the codes are correct, tick **All the language codes are correct** and click **Save & sync**. When the projects have finished syncing, click **Close** to return to the **Generate draft** page.
 
 ![](./configure_sources_confirm_languages.png)
