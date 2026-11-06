@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Introducción {#ad165caedac347798432de75e4305252}
 
-El equipo de Procesamiento del Lenguaje Natural de SIL Global ha desarrollado una herramienta que puede ayudar en la traducción de la Biblia creando un primer borrador que los traductores pueden editar y perfeccionar. Esta herramienta está disponible para su uso dentro de [Scripture Forge](https://scriptureforge.org/), una plataforma de edición de escrituras que está estrechamente integrada con [Paratext](https://paratext.org/).
+SIL International's AI Engineering team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. Esta herramienta está disponible para su uso dentro de [Scripture Forge](https://scriptureforge.org/), una plataforma de edición de escrituras que está estrechamente integrada con [Paratext](https://paratext.org/).
 
 Todos los borradores que se crean contienen errores que el equipo de traducción debe corregir. Para algunos proyectos, la calidad será demasiado baja para ser útil. Sin embargo, las numerosas pruebas realizadas sobre el terreno han demostrado que un número significativo de equipos consideran que los borradores son muy útiles para su trabajo y de calidad suficiente para utilizarlos como punto de partida para que el equipo los edite.
 

@@ -28,7 +28,7 @@ slug: /faq
 
    _Ada 2 cara utama untuk memperbaiki konsep._
 
-   - _Yang pertama adalah menambahkan lebih banyak data ke model Terjemahan. You can do this by choosing more books in Step 2 - "Select books to train on." Semakin banyak data yang tersedia untuk pelatihan, semakin baik pula hasil konsepnya._
+   - _Yang pertama adalah menambahkan lebih banyak data ke model Terjemahan. You can do this by choosing more books in the "Select books to train on" step. Semakin banyak data yang tersedia untuk pelatihan, semakin baik pula hasil konsepnya._
    - _Cara kedua adalah dengan meningkatkan kualitas data dalam Model Penerjemahan. Anda dapat melakukan ini dengan memastikan kitab yang Anda pilih telah diperiksa dengan baik dalam konsistensi di berbagai bidang seperti ejaan, tanda baca, dan maknanya. Semakin baik kualitas data, semakin baik pula sistem akan belajar untuk menghasilkan konsep yang baik._
    - _Banyak tim juga merasakan manfaat dari penggunaan terjemahan terbaru sebagai sumber pelatihan tambahan_
 
@@ -38,11 +38,11 @@ slug: /faq
 
 3. Bagaimana cara mengubah sumber atau menggunakan versi yang berbeda untuk melatih model penerjemahan?
 
-   _Anda dapat mengubah sumber proyek Anda dengan menavigasi ke Pengaturan dan kemudian memilih sumber yang diperlukan sebagai sumber di bawah "Terjemahkan."_
+   _To change the source used for drafting or the reference projects used to train the model, go to "Generate draft" and click "Configure sources." See [Preparing to Generate a Draft](/preparing-for-ai-drafting) for details._
 
 4. Mengapa kitab yang saya inginkan tidak terlihat dalam daftar kitab saya?
 
-   _Kitab ini harus ada di proyek sumber dan target di Paratext. Pastikan hal ini dan kemudian jalankan kirim/terima di Paratext dan sinkronisasi di Scripture Forge sehingga Scripture Forge memiliki informasi terbaru dari Paratext_
+   _If the book you want to draft is missing, check that it has text in your drafting source. For training, check that the book has translated text in your project and matching text in at least one reference project. After adding or updating text in Paratext, run a send/receive and then sync the relevant projects in Scripture Forge._
 
 5. Mengapa ada tanda seru berwarna merah saat saya memilih terjemahan sumber utama baru di halaman Pengaturan?
 
@@ -71,7 +71,7 @@ slug: /faq
 
 5. Apa yang ditampilkan tab Riwayat?
 
-   _Ketika Anda membuat perubahan pada konsep Anda, Scripture Forge menyimpan versi perubahan tersebut yang dapat Anda akses melalui tab riwayat. Anda dapat mengembalikan proyek Anda ke versi yang lebih lama dari sini dengan mengklik tombol "Kembalikan versi ini"._
+   _The History tab shows previous versions of the selected chapter. To restore a chapter, select the version you want and click "Restore this version."_
 
 6. Why is my book introduction cut short?
 

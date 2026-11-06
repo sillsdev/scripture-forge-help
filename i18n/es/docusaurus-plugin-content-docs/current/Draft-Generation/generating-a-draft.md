@@ -28,7 +28,7 @@ Si utilizas un proyecto Paratext independiente para almacenar los borradores gen
 
 ### Seleccione los libros para redactar {#select-the-books-to-draft}
 
-En el segundo paso, seleccione los libros que desea traducir. Si el libro que desea redactar no existe en su proyecto Paratext, tendrá que crear primero el libro en Paratext. En general, le sugerimos que redacte un libro a la vez, aunque si está redactando libros más pequeños, puede que le convenga redactar varios a la vez. En el caso de los libros largos, considera la posibilidad de crear un nuevo borrador después de haber completado una parte considerable del libro.
+En el segundo paso, seleccione los libros que desea traducir. If the book you want to draft is missing, check that it has text in your drafting source. En general, le sugerimos que redacte un libro a la vez, aunque si está redactando libros más pequeños, puede que le convenga redactar varios a la vez. En el caso de los libros largos, considera la posibilidad de crear un nuevo borrador después de haber completado una parte considerable del libro.
 
 ![](./generate_draft_select_books_to_draft.png)
 
