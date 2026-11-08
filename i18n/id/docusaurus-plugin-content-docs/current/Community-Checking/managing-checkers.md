@@ -22,7 +22,7 @@ The first setting to consider is **Allow checkers to see each other's answers an
 
 ### Pengaturan berbagi {#1850d745ac9e8097ad4efcb063fc2603}
 
-If you want community checkers to be able to invite friends to the project, make sure **Allow community checkers to invite community checkers** is enabled. Jika pengaturan ini tidak aktif, hanya admin proyek yang dapat menambahkan masyarakat pemeriksa ke dalam proyek.
+To let community checkers invite friends to the project, enable **Allow community checkers to invite community checkers**. To let translators send invitations, enable **Allow translators to invite any guest role**. Project admins can always invite community checkers.
 
 ![](./settings_sharing.png)
 
@@ -32,7 +32,7 @@ Pada bilah samping, klik **Pengguna**, dan Anda akan disajikan opsi berbagi.
 
 ![](./invite_users.png)
 
-To invite someone by sending a link, click **Share**, select the language you want Scripture Forge to show the recipient, and copy the link. You can then send this link to anyone you want to invite to the project. When they click the link, they will be able to join the project as a community checker.
+To invite someone by sending a link, click **Share**, select the **Community Checker** role and the language you want Scripture Forge to show the recipient, then click **Copy link**. Send the link to the person you want to invite so they can join the project as a community checker.
 
 If you want to send email invitations to users, type the email of the user you want to invite, select the **Community Checker** role, and choose an invitation language. Kemudian klik **Kirim**. Sebuah email berisi tautan akan dikirimkan kepada orang tersebut, yang harus mengklik tautan tersebut dan mendaftar untuk bergabung dengan proyek ini.
 

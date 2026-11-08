@@ -7,7 +7,7 @@ slug: /using-a-draft
 Scripture Forge montrera quand votre ébauche sera prêt et listera les livres qui ont été rédigés. Les ébauches générées ne sont **pas** automatiquement importés dans votre projet. Vous pouvez prévisualiser ou importer des ébauches depuis la page **Générer ébauche**.
 
 - Pour importer des **chapitres individuels**, cliquez sur un livre, puis au-dessus du chapitre qui s'ouvre, cliquez sur "Ajouter au projet". Les chapitres individuels ne peuvent être ajoutés qu'au projet en cours.
-- Pour importer un **livre complet**, cliquez sur "Ajouter à un projet". Vous pouvez choisir d'importer le livre dans votre projet principal ou dans un autre projet.
+- Pour importer **un ou plusieurs livres**, cliquez sur « Ajouter à un projet ». Vous pouvez choisir d'importer l'ébauche dans votre projet principal, ou dans un projet différent.
 
 ![](./draft_complete.png)
 
@@ -37,7 +37,7 @@ Si vous voulez importer un livre entier ou plusieurs livres, vous pouvez le fair
 
 ![](./import_book.png)
 
-Dans la boîte de dialogue qui s'ouvre, sélectionnez le projet dans lequel vous voulez importer l'ébauche. **Important:** Importer l'ébauche remplacera tout contenu existant dans le projet pour ce livre.
+Dans la boîte de dialogue qui s'ouvre, sélectionnez le projet dans lequel vous voulez importer l'ébauche. **Important :** L'importation d'ébauche remplace tout texte existant dans les chapitres que vous avez rédigés.
 
 ![](./import_book_dialog.png)
 

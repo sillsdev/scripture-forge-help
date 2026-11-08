@@ -22,7 +22,7 @@ El primer ajuste a tener en cuenta es **Permitir que los correctores vean las re
 
 ### Ajustes compartidos {#1850d745ac9e8097ad4efcb063fc2603}
 
-Si quieres que los revisores de la comunidad puedan invitar a amigos al proyecto, asegúrate de que la opción **Permitir que los revisores de la comunidad inviten a revisores de la comunidad** al proyecto está activada. Si esta opción está desactivada, sólo los administradores del proyecto podrán añadir revisores de la comunidad al proyecto.
+Si quieres que los revisores de la comunidad puedan invitar a amigos al proyecto, asegúrate de que la opción **Permitir que los revisores de la comunidad inviten a revisores de la comunidad** al proyecto está activada. To let translators send invitations, enable **Allow translators to invite any guest role**. Project admins can always invite community checkers.
 
 ![](./settings_sharing.png)
 
@@ -32,7 +32,7 @@ En la barra lateral, haz clic en **Usuarios**, y se te presentarán las opciones
 
 ![](./invite_users.png)
 
-Para invitar a alguien enviándole un enlace, haga clic en **Compartir**, seleccione el idioma en el que desea que Scripture Forge se muestre al destinatario y copie el enlace. A continuación, puede enviar este enlace a cualquier persona que desee invitar al proyecto. Cuando hagan clic en el enlace, podrán unirse al proyecto como revisor de la comunidad.
+To invite someone by sending a link, click **Share**, select the **Community Checker** role and the language you want Scripture Forge to show the recipient, then click **Copy link**. Send the link to the person you want to invite so they can join the project as a community checker.
 
 Si desea enviar invitaciones por correo electrónico a los usuarios, escriba el correo electrónico del usuario al que desea invitar, seleccione el rol **Revisor de la comunidad** y elija un idioma de invitación. Luego haz clic en **Enviar**. Se enviará un correo electrónico con un enlace a la persona, que tendrá que hacer clic en el enlace e inscribirse para unirse al proyecto.
 

@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Introduction {#ad165caedac347798432de75e4305252}
 
-L'équipe de SIL International spécialisée dans le traitement du langage naturel a mis au point un outil qui peut aider à la traduction de la Bible en créant une première ébauche que les traducteurs peuvent éditer et affiner. Cet outil est maintenant disponible dans [Forge des Écritures](https://scriptureforge.org/), une plate-forme d'édition Scripture Forge qui est étroitement intégrée à [Paratext](https://paratext.org/).
+L'équipe d'ingénierie d'IA de SIL International a développé un outil qui peut aider à la traduction biblique en créant une première ébauche approximative pour les traducteurs à éditer et à perfectionner. Cet outil est maintenant disponible dans [Forge des Écritures](https://scriptureforge.org/), une plate-forme d'édition Scripture Forge qui est étroitement intégrée à [Paratext](https://paratext.org/).
 
 Toutes les ébauches qui ont été créés contiennent des erreurs qui doivent être corrigées par l'équipe de traduction. Pour certains projets, la qualité sera trop faible pour être utile. Cependant, des tests de terrain approfondis ont montré qu'un nombre significatif d'équipes trouvent que les ébauches sont très utiles dans leur travail, et de qualité suffisante pour servir de point de départ pour que l'équipe puisse le modifier.
 
