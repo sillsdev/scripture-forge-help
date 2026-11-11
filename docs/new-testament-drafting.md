@@ -95,7 +95,7 @@ Incremental Draft Generation is an optional method for translating the Gospels a
 
 #### ***Scripture Forge Solutions Engineering***
 
-The *Scripture Forge* Solutions Engineering team supports Old Testament translation projects as they begin using draft generation, offering advice and options for configuring *Scripture Forge* to get the best results.  With the introduction of New Testament draft generation, the *Scripture Forge* Solutions Engineering team is now able to provide the same support for New Testament projects, as well as offering draft quality estimation and incremental draft generation.
+The *Scripture Forge* Solutions Engineering team supports translation projects as they begin using draft generation, offering advice and options for configuring *Scripture Forge* to get the best results. The team also continues to support translation teams in their use of *Scripture Forge* draft generation through the life of a project.
 
 ## How to Use this Document
 
@@ -298,7 +298,7 @@ If your language uses a non-Latin script, be sure to mention this to the Solutio
 **A:** If you’re translating Mark or John, we recommend generating an incremental draft once after you’ve translated 8-10 chapters. If you’re translating Matthew, Luke, or Acts, we recommend generating an incremental draft after you’ve translated 8-10 chapters, and then again after you’ve translated another 8-10 chapters.
 
 **Q: I’m ready for an incremental draft for the book I’m translating. Can I use *Scripture Forge* self-service draft generation to do that?**  
-**A:** Yes, you can. In Step 2, “Select the books to draft,” select the book for which you want to generate an incremental draft. When you select a book that has 12 or more chapters and contains some translated text, you will see a chapter selector appear. Use this selector to choose the chapters from that book that you want to draft. You will then be able to include some or all of the remaining chapters as training material in Step 3, “Choose the books to train on.”
+**A:** Yes, you can. In Step 2, “Select books to draft,” select the book for which you want to generate an incremental draft. When you select a book that has 12 or more chapters and contains some translated text, you will see a chapter selector appear. Use this selector to choose the chapters from that book that you want to draft. You will then be able to include some or all of the remaining chapters as training material in Step 3, “Select books to train on.”
 
 **Q: I’m going to use Incremental Draft Generation for the book I’m translating. Should I add the entire initial draft in my project?**  
 **A:** Adding the entire initial draft to your project will give you the most flexibility to decide which chapters you work on. You may need to adjust your plan as you work, so it is helpful to have all chapter drafts available in Paratext.
@@ -306,26 +306,21 @@ If your language uses a non-Latin script, be sure to mention this to the Solutio
 **Q: How do I add an incremental draft to my Paratext project?**  
 **A:** The draft you generate in Scripture Forge will contain only the requested chapters. As long as you did not generate chapters that you have already translated by hand, incremental drafts can be safely imported to your Paratext project using “Add to project.” 
 
-Incremental drafts will begin with a book ID line, and will have **no content** between the book ID and the line marking the first new chapter. For example, here is a sample opening for a draft of Matthew 11-28.  
+You may also choose to download the draft and visually inspect it in a text editor before adding it to a project. Incremental drafts will begin with a book ID line, and will have **no content** between the book ID and the line marking the first new chapter. For example, here is a sample opening for a draft of Matthew 11-28.  
 
 Line 1: \\id MAT  
 Line 2: \\c 11  
 Line 3: \[Continue with chapter content, such as section or verse marker \+ text\]
 
-It is a good idea to visually inspect the draft before importing it. Should any content be accidentally overwritten, use the history feature in Paratext to undo the most recent import, and then adjust the draft before importing it again.
+Should any content be accidentally overwritten, use the history feature in Paratext to undo the most recent import, and then adjust the draft before importing it again.
 
 ### ***Scripture Forge Solutions Engineering Team***
 
-**Q: How do I contact the Scripture Forge Solutions Engineering Team?**
-**A:** The team can be reached via email. 
-*Michael Martin ([michael_martin@sil.org](mailto:michael_martin@sil.org))
-*Bethany Moore ([bethany_moore@sil.org](mailto:bethany_moore@sil.org))
-*David Baines ([david_baines@sil.org](mailto:david_baines@sil.org)) 
-You can also get in touch with the team using the Scripture Forge support email (help@scriptureforge.org).
+**Q: How do I contact the Scripture Forge Solutions Engineering Team?**  
+**A:** The team can be reached via the support email on the [Scripture Forge Help Page](https://help.scriptureforge.org). 
 
 **Q: How do I get my New Testament project set up to use *Scripture Forge* New Testament draft generation?**  
-**A:** 
-
+**A:**
 * Log in to *Scripture Forge* ([www.scriptureforge.org](http://www.scriptureforge.org)) using your Paratext credentials.  
 * You’ll be shown a list of your Paratext projects. Find the project and click **Connect**. *Scripture Forge* will retrieve a copy of the project from the Paratext servers and open it.  
 * Go to the **Generate draft** page and click on **Sign up for drafting**. This will open a sign up form in a new tab.  
@@ -351,11 +346,11 @@ Drafts from Scripture Forge or from the Solutions Engineering team can be import
 | :---- | :---- |
 | Draft Quality | A quality estimate for generated drafts: **Green**: likely to be useful **Yellow**: probably useful **Red**: may not be useful Draft quality estimates can be for an entire book draft or for each chapter draft. A draft is considered useful if a translator would choose to edit and improve the draft, rather than creating their own translation. |
 | Draft Source | The Paratext project or resource used as a source for generating drafts. The text in this project / resource is translated into your project’s language to generate the draft. The Draft Source must be in the same language as the Reference Project. |
-| Solutions Engineering | *Scripture Forge’s* Solutions Engineering team provides guidance to translation projects as they get started with draft generation, and can also provide incremental drafts for teams using Incremental Draft Generation. |
 | Incremental Draft Generation | A method for translating a book incrementally. An initial draft of the entire book is generated, and then the translation team reviews and improves 8-10 chapters. An incremental draft of the rest of the chapters is generated, using the completed chapters (and any other completed books) to improve the incremental draft. This method is an option when translating the Gospels and Acts. |
 | Initial Book Draft | When Incremental Draft Generation is being used to translate a book, the initial book draft contains drafts for all the chapters in the book. |
 | Incremental Book Draft | When Incremental Draft Generation is being used to translate a book, an incremental book draft contains drafts only for the chapters that have not yet been translated. The incremental book draft contains only the USFM markers for the book identifier and for the completed chapters and verses. It does not contain the already completed chapters and verses. |
 | Reference Project | The Paratext project or resource that *Scripture Forge* learns to translate into your project’s language. Usually, this is the translation that you refer to most often as you are translating. |
+| Solutions Engineering | *Scripture Forge’s* Solutions Engineering team provides guidance to translation projects as they get started with draft generation, and assistance as needed through the life of a project. |
 | 5 T’s | 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus |
 
 ## Paratext New Testament Book Abbreviations
