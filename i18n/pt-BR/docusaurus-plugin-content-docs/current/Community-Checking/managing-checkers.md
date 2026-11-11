@@ -22,7 +22,7 @@ The first setting to consider is **Allow checkers to see each other's answers an
 
 ### Sharing settings {#1850d745ac9e8097ad4efcb063fc2603}
 
-If you want community checkers to be able to invite friends to the project, make sure **Allow community checkers to invite community checkers** is enabled. If this setting is off, only project admins will be able to add community checkers to the project.
+To let community checkers invite friends to the project, enable **Allow community checkers to invite community checkers**. To let translators send invitations, enable **Allow translators to invite any guest role**. Project admins can always invite community checkers.
 
 ![](./settings_sharing.png)
 
@@ -32,7 +32,7 @@ In the side bar, click **Users**, and you will be presented with sharing options
 
 ![](./invite_users.png)
 
-To invite someone by sending a link, click **Share**, select the language you want Scripture Forge to show the recipient, and copy the link. You can then send this link to anyone you want to invite to the project. When they click the link, they will be able to join the project as a community checker.
+To invite someone by sending a link, click **Share**, select the **Community Checker** role and the language you want Scripture Forge to show the recipient, then click **Copy link**. Send the link to the person you want to invite so they can join the project as a community checker.
 
 If you want to send email invitations to users, type the email of the user you want to invite, select the **Community Checker** role, and choose an invitation language. Then click **Send**. An email with a link will be sent to the person, who will need to click the link and sign up to join the project.
 

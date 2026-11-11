@@ -22,7 +22,7 @@ Die erste Einstellung, die es zu beachten gilt, ist die Einstellung **Prüfern e
 
 ### Freigabeeinstellungen {#1850d745ac9e8097ad4efcb063fc2603}
 
-Wenn Du möchtest, dass Überprüfer der Zielgruppe Freunde zum Projekt einladen können, achte darauf, dass **Überprüfer der Zielgruppe erlauben, weitere Überprüfer der Zielgruppe einzuladen** aktiviert ist. Wenn diese Einstellung deaktiviert ist, können nur Projektadministratoren Überprüfer der Zielgruppe zum Projekt hinzufügen.
+Wenn Du möchtest, dass Überprüfer der Zielgruppe Freunde zum Projekt einladen können, achte darauf, dass **Überprüfer der Zielgruppe erlauben, weitere Überprüfer der Zielgruppe einzuladen** aktiviert ist. To let translators send invitations, enable **Allow translators to invite any guest role**. Project admins can always invite community checkers.
 
 ![](./settings_sharing.png)
 
@@ -32,7 +32,7 @@ Klicke in der Seitenleiste auf **Benutzer** und es werden Dir Freigabeoptionen a
 
 ![](./invite_users.png)
 
-Um jemanden einzuladen, indem Du einen Link sendest, klicke auf **Teilen**, wähle die Sprache aus, die Scripture Forge dem Empfänger zeigen soll, und kopiere den Link. Du kannst diesen Link dann an alle Personen senden, die Du zu dem Projekt einladen möchtest. Wenn sie auf den Link klicken, können sie dem Projekt als Überprüfer der Zielgruppe beitreten.
+To invite someone by sending a link, click **Share**, select the **Community Checker** role and the language you want Scripture Forge to show the recipient, then click **Copy link**. Send the link to the person you want to invite so they can join the project as a community checker.
 
 Wenn Du Einladungen per E-Mail an Benutzer senden möchtest, gib die E-Mail-Adresse des Benutzers ein, den Du einladen möchtest, wähle die Rolle **Überprüfer der Zeilgruppe** und die Sprache der Einladung. Klicke dann auf **Senden**. Eine E-Mail mit einem Link wird an die Person gesendet, die dann den Link anklicken und sich anmelden muss, um dem Projekt beizutreten.
 

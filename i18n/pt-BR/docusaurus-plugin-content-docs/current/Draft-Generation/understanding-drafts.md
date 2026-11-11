@@ -6,7 +6,7 @@ slug: /understanding-drafts
 
 ## Introduction {#ad165caedac347798432de75e4305252}
 
-SIL International's Natural Language Processing team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
+SIL International's AI Engineering team has developed a tool that can assist in Bible translation by creating a rough first draft for translators to edit and refine. This tool is now available for use within [Scripture Forge](https://scriptureforge.org/), a scripture editing platform that is closely integrated with [Paratext](https://paratext.org/).
 
 All of the drafts that are created contain errors that need to be corrected by the translation team. For some projects, the quality will be too low to be useful. However, extensive field testing has shown that a significant number of teams find the drafts to be very helpful in their work, and of sufficient quality to use as a starting point for the team to edit.
 

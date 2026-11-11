@@ -32,16 +32,20 @@ Chaque projet est différent, donc suivez les instructions que vous avez reçues
 
 ![](./configure_sources_draft_reference.png)
 
+### Ajout des données de formation
+
+Scripture Forge utilise la traduction finalisée de votre projet pour entraîner le modèle linguistique. Pour ajouter plus de données d'entraînement, téléchargez une feuille de calcul sous **Données d'entraînement supplémentaires (facultatives)**. Mettez une phrase de langue source dans la première colonne et sa traduction dans la langue de votre projet dans la deuxième colonne de chaque ligne.
+
 ### Choix du projet source
 
-La deuxième étape est de sélectionner le projet dont vous voulez que le brouillon soit traduit. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Cliquez sur le projet que vous voulez utiliser comme source, puis passez à l'étape suivante.
+Dans la rubrique **Source**, sélectionnez le projet à partir duquel vous souhaitez que l'ébauche soit traduit. Ceci peut être un projet Paratext ou une ressource de bibliothèque biblique numérique. Commencez à taper le nom du projet (ou du nom abrégé du projet), et la liste filtrera pour ne montrer que les projets qui correspondent. Cliquez sur le projet que vous souhaitez utiliser comme source.
 
 ![](./configure_sources_draft_source.png)
 
 ### Confirmation des langues
 
-La dernière étape montre les données de la langue cible. Cela inclura toujours votre projet lui-même, qui est déjà sélectionné et ne peut pas être supprimé. Vous pouvez ajouter des données de formation supplémentaires à cette étape en téléchargeant une feuille de calcul avec des données appariées, avec la langue source dans la première colonne, et la langue cible dans la seconde colonne.
+Vérifiez que le code de langue affiché pour chaque projet ou ressource correspond à la langue de son texte. Vous pouvez modifier le code de langue d'un projet dans Paratext sous **Paramètres du projet > Propriétés du projet > Langue**.
 
-Sur le côté droit, vous verrez un diagramme de la façon dont les projets que vous avez sélectionnés seront utilisés pour générer l'ébauche . Dans un premier temps, le modèle linguistique apprend en comparant les projets de référence au projet traduit. Dans un deuxième temps, il utilisera ces connaissances pour traduire le projet source.
+Une fois que les codes sont corrects, cochez **Tous les codes de langue sont corrects** et cliquez sur **Enregistrer et synchroniser**. Lorsque la synchronisation des projets est terminée, cliquez sur **Fermer** pour retourner à la page **Générer une ébauche**.
 
 ![](./configure_sources_confirm_languages.png)

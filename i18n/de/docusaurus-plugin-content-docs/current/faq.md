@@ -28,7 +28,7 @@ slug: /faq
 
    _Es gibt 2 hauptsächliche Methoden, um Entwürfe zu verbessern._
 
-   - _Die erste ist es, mehr Daten zum Übersetzungsmodell hinzuzufügen. Du kannst dies tun, indem du in Schritt 2 weitere Bücher wählst - "Wähle für die Schulung Bücher aus." Je mehr Daten für die Schulung zur Verfügung stehen, desto besser werden die Ergebnisse der Entwürfe sein._
+   - _Die erste ist es, mehr Daten zum Übersetzungsmodell hinzuzufügen. You can do this by choosing more books in the "Select books to train on" step. Je mehr Daten für die Schulung zur Verfügung stehen, desto besser werden die Ergebnisse der Entwürfe sein._
    - _Die zweite Methode ist es, die Qualität der Daten im Übersetzungsmodell zu verbessern. Du kannst dies tun, indem Du sicherstellst, dass die von Dir ausgewählten Bücher auf Konsistenz in Bereichen wie Schreiben, Satzzeichen und Inhalt überprüft werden. Je besser die Qualität der Daten ist, desto besser wird das System lernen, gute Entwürfe zu erstellen._
    - _Viele Teams sehen auch den Nutzen einer aktuellen Rückübersetzung als zusätzliche Quelle für die Schulung_
 
@@ -38,11 +38,11 @@ slug: /faq
 
 3. Wie ändere ich die Quelle oder verwende eine andere Version, um das Übersetzungsmodell zu schulen?
 
-   _Du kannst die Quelle Deines Projekts ändern, indem Du zu Einstellungen gehst und dann die benötigte Quelle als Ressource unter „Übersetzen“ auswählst._
+   _To change the source used for drafting or the reference projects used to train the model, go to "Generate draft" and click "Configure sources." See [Preparing to Generate a Draft](/preparing-for-ai-drafting) for details._
 
 4. Warum ist das Buch, das ich möchte, in meiner Buchliste nicht sichtbar?
 
-   _Das Buch muss sowohl in den Quell- als auch in den Zielprojekten in Paratext existieren. Bitte stelle dies sicher und führe dann Senden/Empfangen in Paratext und Synchronisieren in Scripture Froge aus, sodass Scripture Forge über die neuesten Informationen von Paratext verfügt_
+   _If the book you want to draft is missing, check that it has text in your drafting source. For training, check that the book has translated text in your project and matching text in at least one reference project. After adding or updating text in Paratext, run a send/receive and then sync the relevant projects in Scripture Forge._
 
 5. Warum gibt es ein rotes Ausrufezeichen, wenn ich eine neue primäre Ausgangsübersetzung in den Einstellungen auswähle?
 
@@ -71,7 +71,7 @@ slug: /faq
 
 5. Was zeigt die Registerkarte Verlauf?
 
-   _Falls Du Änderungen an Deinem Entwurf vornimmst, speichert Scripture Forge eine Version dieser Änderungen, auf die Du über die Registerkarte Verlauf zugreifen kannst. Du kannst Dein Projekt von hier auf eine ältere Version zurücksetzen, indem Du auf die Schaltfläche "Diese Version wiederherstellen" klickst._
+   _The History tab shows previous versions of the selected chapter. To restore a chapter, select the version you want and click "Restore this version."_
 
 6. Warum ist meine Einleitung eines Buches verkürzt?
 
