@@ -136,11 +136,12 @@ Through experimentation, we’ve established both general guidance and book-sequ
     * If drafts of a specific Epistle are initially not high enough quality, it can be saved for later and attempted again after more books have been completed.  
 * For projects that are using a **non-Latin script**, there may be more of a need to stick closer to the outlined guidance to maximize draft quality.
 
-### ***Sequence-Specific Guidance***
+#### ***Sequence-Specific Guidance***
 
 In addition to our general guidance, we’ve outlined **sequence-specific guidance** below tailored to different book sequences. Two specific book sequences are covered, *Canonical* and *Luke/Acts/5 T’s*, which reflect likely paths a translation team may take through the New Testament. There is also a third *Draft-Optimized* section for projects without a predetermined book sequence, which contains guidance to optimize draft quality for each stage of New Testament drafting.
 
-#### ***Canonical Book Sequence***
+
+### ***Canonical Book Sequence***
 
 **Definition:** MAT, MRK, LUK, JHN, ACT, ROM, 1CO, 2CO, GAL, EPH, PHP, COL, 1TH, 2TH, 1TI, 2TI, TIT, PHM, HEB, JAS, 1PE, 2PE, 1JN, 2JN, 3JN, JUD, REV
 
@@ -165,7 +166,8 @@ In addition to our general guidance, we’ve outlined **sequence-specific guidan
 
 **Figure 1\. Draft Quality by Book (Canonical Book Sequence)**
 
-#### ***Luke / Acts / 5 T’s Book Sequence***
+
+### ***Luke / Acts / 5 T’s Book Sequence***
 
 **Definition:** LUK; ACT; 1TH, 2TH, 1TI, 2TI, TIT; any other book
 
@@ -196,7 +198,8 @@ In addition to our general guidance, we’ve outlined **sequence-specific guidan
 
 **Figure 3\.  Draft Quality by Book (Luke / Acts / 5 T’s \-\> Other Books)**
 
-#### ***Draft-Optimized Book Sequence*** {#draft-optimized-book-sequence}
+
+### ***Draft-Optimized Book Sequence*** {#draft-optimized-book-sequence}
 
 **Overview:** The *Draft-Optimized* book sequence provides guidance for those whose project plans have a degree of flexibility in their book sequence. It is designed to minimize fluctuations in draft quality throughout the New Testament. The book sequence begins with Matthew, then progresses through Mark, Luke, John, and Acts (in canonical order). After Acts, the optimal book sequence can vary from project to project, though common patterns exist that inform our recommendations.
 
