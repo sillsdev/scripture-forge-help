@@ -32,20 +32,20 @@ Cada proyecto es diferente, así que siga las instrucciones que haya recibido de
 
 ![](./configure_sources_draft_reference.png)
 
-### Adding training data
+### Añadir datos de entrenamiento
 
-Scripture Forge uses your project's completed translation to train the language model. To add more training data, upload a spreadsheet under **Additional training data (optional)**. Put a source-language sentence in the first column and its translation into your project's language in the second column of each row.
+Scripture Forge utiliza la traducción completa de tu proyecto para entrenar el modelo de lenguaje. Para añadir más datos de entrenamiento, sube una hoja de cálculo en la sección **Datos de entrenamiento adicionales (opcional)**. Put a source-language sentence in the first column and its translation into your project's language in the second column of each row.
 
 ### Eligiendo el proyecto fuente
 
-Under **Source**, select the project you want the draft to be translated from. Esto puede ser un proyecto de Paratext o un recurso de Biblioteca Bíblica Digital. Comience a escribir el nombre del proyecto (o el nombre abreviado del proyecto), y la lista se filtrará para mostrar sólo los proyectos que coincidan. Click on the project you want to use as a source.
+Under **Source**, select the project you want the draft to be translated from. Esto puede ser un proyecto de Paratext o un recurso de Biblioteca Bíblica Digital. Comience a escribir el nombre del proyecto (o el nombre abreviado del proyecto), y la lista se filtrará para mostrar sólo los proyectos que coincidan. Haz clic en el proyecto que quieras utilizar como fuente.
 
 ![](./configure_sources_draft_source.png)
 
 ### Confirmando los idiomas
 
-Check that the language code shown for each project or resource matches the language of its text. You can change a project's language code in Paratext under **Project Settings > Project Properties > Language**.
+Comprueba que el código de idioma que aparece para cada proyecto o recurso coincida con el idioma de su texto. Puedes cambiar el código de idioma de un proyecto en Paratext en **Configuración del proyecto > Propiedades del proyecto > Idioma**.
 
-Once the codes are correct, tick **All the language codes are correct** and click **Save & sync**. When the projects have finished syncing, click **Close** to return to the **Generate draft** page.
+Una vez que los códigos sean correctos, marca la casilla **Todos los códigos de idioma son correctos** y haz clic en **Guardar y sincronizar**. Cuando los proyectos hayan terminado de sincronizarse, haz clic en **Cerrar** para volver a la página **Generar borrador**.
 
 ![](./configure_sources_confirm_languages.png)

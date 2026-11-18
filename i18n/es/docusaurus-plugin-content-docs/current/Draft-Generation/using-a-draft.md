@@ -37,7 +37,7 @@ Si desea importar un libro completo, o varios libros, puede hacerlo desde la pá
 
 ![](./import_book.png)
 
-En el cuadro de diálogo que se abre, seleccione el proyecto al que desea importar el borrador. **Important:** Importing the draft replaces any existing text in the chapters you drafted.
+En el cuadro de diálogo que se abre, seleccione el proyecto al que desea importar el borrador. **Importante:** Al importar el borrador, se sustituye cualquier texto existente en los capítulos que hayas redactado.
 
 ![](./import_book_dialog.png)
 

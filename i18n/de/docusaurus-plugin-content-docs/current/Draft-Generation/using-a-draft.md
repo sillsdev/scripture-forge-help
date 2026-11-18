@@ -7,7 +7,7 @@ slug: /using-a-draft
 Scripture Forge zeigt an, wenn Dein Entwurf fertig ist und listet die Bücher auf, die erstellt wurden. Generierte Entwürfe werden **nicht** automatisch in Dein Projekt importiert. Aus **Entwürfe Generieren** kannst Du eine Voransicht öffnen oder Entwürfe importieren.
 
 - Um **einzelne Kapitel** zu importieren, klicke auf ein Buch und dann oberhalb des Kapitels, das sich öffnet, auf "Zum Projekt hinzufügen". Einzelne Kapitel können nur zum aktuellen Projekt hinzugefügt werden.
-- To import **one or more books**, click on "Add to a project". You can choose to import the draft into your main project, or to a different project.
+- Um **ein oder mehrere Bücher** zu importieren, klicke auf "Zu einem Projekt hinzufügen". Du kannst wählen, ob Du den Entwurf in Dein Hauptprojekt oder in ein anderes Projekt importieren möchtest.
 
 ![](./draft_complete.png)
 
@@ -37,7 +37,7 @@ Falls Du ein ganzes Buch oder mehrere Bücher importieren möchtest, kannst Du d
 
 ![](./import_book.png)
 
-Wähle im sich öffnenden Dialogfeld das Projekt aus, in das der Entwurf importiert werden soll. **Important:** Importing the draft replaces any existing text in the chapters you drafted.
+Wähle im sich öffnenden Dialogfeld das Projekt aus, in das der Entwurf importiert werden soll. **Wichtig:** Das Importieren des Entwurfs ersetzt allen vorhandenen Text in den Kapiteln für die Du einen Entwurf generierst.
 
 ![](./import_book_dialog.png)
 
