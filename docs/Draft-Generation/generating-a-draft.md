@@ -64,4 +64,8 @@ On the next step, select the books to use to train the language model, both in y
 
 On the final step, review the books you selected to train the model, and the books you selected to draft. If you need to make any changes, you can go to the previous steps. Once you are happy with your selections, click the "Generate draft" button to start the process.
 
+### Wait to receive your draft
+
+After clicking "Generate draft," you will see a notification that your draft is queued, followed by a progress indicator when model training begins. The draft generation process runs remotely. After clicking "Generate draft," it is ok to navigate away from the page or close your computer. If you selected email notification, you will receive an email when the draft is ready. Once the draft is ready, you can return to the project "Generate draft" page in Scripture Forge to review, download, or import it. 
+
 ![](./generate_draft_summary.png)
